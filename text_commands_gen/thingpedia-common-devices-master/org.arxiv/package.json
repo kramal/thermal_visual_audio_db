@@ -1,0 +1,9 @@
+{
+  "name": "org.arxiv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "device.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "silei@cs.stanford.edu"
+}

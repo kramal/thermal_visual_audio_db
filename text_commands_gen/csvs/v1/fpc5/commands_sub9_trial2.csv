@@ -1,0 +1,57 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+940,latest news on engadget,918,1,1.0,121.0
+941,turn on my switch for me,269,1,122.0,247.0
+942,make a new facebook post,240,1,248.0,373.0
+943,the blog right_turn of the washington post,878,1,374.0,589.0
+944,a random gif from giphy,561,1,590.0,710.0
+945,lower the shades,49,1,711.0,796.0
+946,stories on macrumors,571,1,797.0,902.0
+947,latest fortune news,855,2,1.0,102.0
+948,off the switch,200,2,103.0,179.0
+949,my onedrive files,1026,2,180.0,271.0
+950,a fake name,592,2,272.0,333.0
+951,create a playlist,96,2,334.0,425.0
+952,turn the switch on,159,2,426.0,522.0
+953,songs in my playlist,1042,2,523.0,629.0
+954,youtube channels with category film_and_entertainment,998,2,630.0,901.0
+955,turn my fan,21,3,1.0,77.0
+956,restore the volume on my lg tv,245,3,78.0,249.0
+957,a random fox,890,3,250.0,331.0
+958,open the damper,58,3,332.0,428.0
+959,request an uber ,264,3,429.0,530.0
+960,if the sound sensor is detecting any sound,880,3,531.0,762.0
+961,wsj world_news articles,629,3,763.0,899.0
+962,make my security camera stop recording,71,4,1.0,195.0
+963,a gif,576,4,196.0,225.0
+964,youtube 's news_and_politics channels,527,4,226.0,415.0
+965,create a new playlist,166,4,416.0,525.0
+966,send an email to somebody,152,4,526.0,655.0
+967,the weather outside,664,4,656.0,755.0
+968,create a file in google drive,135,4,756.0,905.0
+969,news from american broadcasting company,595,5,1.0,209.0
+970,tweet a picture,186,5,210.0,298.0
+971,channels in category automotive on youtube,435,5,299.0,522.0
+972,news on business insider,994,5,523.0,656.0
+973,post a message on slack,189,5,657.0,785.0
+974,a random animated gif,928,5,786.0,904.0
+975,raise volume on my bluetooth speaker,242,6,1.0,189.0
+976,the instrumentalness of this song,392,6,190.0,363.0
+977,the danceability of the current track,634,6,364.0,557.0
+978,latest star wars news,655,6,558.0,671.0
+979,upload a picture to Imgur and mark it mature,246,6,672.0,900.0
+980,posts in the washington post post_partisan blog,1046,7,1.0,266.0
+981,top stories on cnn news,622,7,267.0,412.0
+982,whether my fan is oscillating or not,971,7,413.0,623.0
+983,order me a iced cappuccino,52,7,624.0,784.0
+984,make the fan turn,151,7,785.0,900.0
+985,tell the vacuum to return to base,259,8,1.0,220.0
+986,youtube channels with category cooking,778,8,221.0,465.0
+987,if anything was detected by my sound sensor,805,8,466.0,735.0
+988,new howtogeek articles,398,8,736.0,900.0
+989,the blog post_partisan of the washington post,381,9,1.0,235.0
+990,the health section of the new york times,958,9,236.0,445.0
+991,whether the lights are on or off,477,9,446.0,615.0
+992,animal fun facts,542,9,616.0,705.0
+993,a plot,541,9,706.0,745.0
+994,turn off my lg tv,90,9,746.0,840.0
+995,my playlist,984,9,841.0,905.0

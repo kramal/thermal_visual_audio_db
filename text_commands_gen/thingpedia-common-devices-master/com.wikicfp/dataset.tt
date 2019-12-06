@@ -1,0 +1,16 @@
+dataset @com.wikicfp language "en" {
+    query (x :String)  := @com.wikicfp.search(query=x)
+    #_[utterances=["deadline of $x",
+                   ", when is $x due",
+                   "information of $x"]]
+    #[id=53480898]
+    #[name="GetEventsFromWikicfpWithQuery"];
+
+    query  := @com.wikicfp.search(query=$?)
+    #_[utterances=["information on wikicfp",
+                   "wiki call for paper",
+                   "wikicfp"]]
+    #[id=53480901]
+    #[name="GetEventsFromWikicfp"];
+
+}

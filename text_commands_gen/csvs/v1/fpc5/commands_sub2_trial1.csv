@@ -1,0 +1,56 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+113,washington post business,486,1,1.0,128.0
+114,washington post 's right_turn blog,397,1,129.0,306.0
+115,some random trivia,496,1,307.0,404.0
+116,news_and_politics youtube channels,889,1,405.0,582.0
+117,use spotify to play some music,169,1,583.0,740.0
+118,latest articles by ars technica,949,1,741.0,903.0
+119,the acousticness of the current track,484,2,1.0,195.0
+120,my oldest onedrive files,1014,2,196.0,325.0
+121,imgur usersub rising,929,2,326.0,435.0
+122,close the window,119,2,436.0,525.0
+123,articles in the washington post in section world,776,2,526.0,775.0
+124,honk the horn on my car,260,2,776.0,900.0
+125,articles on nature issue,1003,3,1.0,132.0
+126,the state of the router,439,3,133.0,259.0
+127,my tasks on Wunderlist,861,3,260.0,381.0
+128,wsj opinions articles,852,3,382.0,498.0
+129,post something on my linkedin,330,3,499.0,655.0
+130,my gmail inbox,680,3,656.0,737.0
+131,nasa 's apod,871,3,738.0,809.0
+132,flash the lights,324,3,810.0,901.0
+133,share a picture on Imgur,249,4,1.0,121.0
+134,whether my vacuum is switched on or switched off,493,4,122.0,362.0
+135,power off the fan,185,4,363.0,448.0
+136,turn off my fan,316,4,449.0,524.0
+137,whether my vacuum is docked,499,4,525.0,660.0
+138,wall street journal us_business,788,4,661.0,816.0
+139,movie information,811,4,817.0,902.0
+140,turn off my lg webos tv,184,5,1.0,129.0
+141,turn on my security camera,128,5,130.0,273.0
+142,the sentiment of a sentence,978,5,274.0,422.0
+143,articles in the washington post in section lifestyle,744,5,423.0,696.0
+144,mashable news,849,5,697.0,775.0
+145,information on wikicfp,800,5,776.0,899.0
+146,comedy channels in youtube,599,6,1.0,153.0
+147,my google drive files modified today,882,6,154.0,356.0
+148,turn off the lights,176,6,357.0,474.0
+149,whether my shades are open or closed,1043,6,475.0,677.0
+150,lower the volume of my bluetooth speaker,286,6,678.0,900.0
+151,paid channels in youtube,615,7,1.0,126.0
+152,my dropbox files in alphabetical order,884,7,127.0,322.0
+153,disable my security camera,85,7,323.0,458.0
+154,washington post 's powerpost blog,551,7,459.0,629.0
+155,dog fun facts,674,7,630.0,700.0
+156,washington post 's post_everything blog,338,7,701.0,901.0
+157,a random factoid,339,8,1.0,111.0
+158,my google drive files that were created most recently,735,8,112.0,407.0
+159,order me a iced drip_coffee,312,8,408.0,573.0
+160,help me open the shutters,301,8,574.0,729.0
+161,channels I follow on youtube,507,8,730.0,900.0
+162,channels I am subscribed to on youtube,714,9,1.0,201.0
+163,youtube channels with category news_and_politics,446,9,202.0,452.0
+164,the valence of this song,848,9,453.0,583.0
+165,Wunderlist lists ,781,9,584.0,679.0
+166,random trump quote,877,9,680.0,780.0
+167,pull the curtains open,113,9,781.0,901.0

@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2006,the positivity of this song,850,1,1.0,154.0
+2007,please turn on the fan,82,1,155.0,283.0
+2008,make my lg tv quieter,194,1,284.0,407.0
+2009,tell my vacuum to start cleaning the house,42,1,408.0,636.0
+2010,make note of my weight on fitbit,262,1,637.0,815.0
+2011,dock my vacuum,156,1,816.0,904.0
+2012,set me as not away on slack,305,2,1.0,160.0
+2013,write to a new onedrive file,329,2,161.0,325.0
+2014,wall street journal lifestyle,410,2,326.0,495.0
+2015,articles in the new york times world section,756,2,496.0,740.0
+2016,help me switch on my vacuum,187,2,741.0,900.0
+2017,images from Imgur that are safe to a general audience,653,3,1.0,279.0
+2018,off the fan,109,3,280.0,348.0
+2019,washington post 's fact_checker blog,793,3,349.0,542.0
+2020,articles in the new york times us section,874,3,543.0,761.0
+2021,youtube channels i follow,402,3,762.0,900.0
+2022,images from Imgur User Submitted,460,4,1.0,169.0
+2023,close my blinds,205,4,170.0,253.0
+2024,an interesting factoid about dog,520,4,254.0,422.0
+2025,the space I have on dropbox,894,4,423.0,566.0
+2026,the number of steps from fitbit,647,4,567.0,730.0
+2027,loop the color of the light bulb,12,4,731.0,899.0
+2028,horse fun facts,369,5,1.0,85.0
+2029,enable my security camera,153,5,86.0,220.0
+2030,help me open the shutters,301,5,221.0,355.0
+2031,latest techcrunch news,656,5,356.0,475.0
+2032,order me a black caramel_mocha,118,5,476.0,635.0
+2033,my weight from fitbit,964,5,636.0,750.0
+2034,web search,704,5,751.0,810.0
+2035,turn off shuffle,285,5,811.0,900.0
+2036,lower the volume of my bluetooth speaker,286,6,1.0,240.0
+2037,washington post local,836,6,241.0,385.0
+2038,youtube channels with category animation,648,6,386.0,625.0
+2039,order me a black mocha,66,6,626.0,775.0
+2040,some useless fact,813,6,776.0,900.0
+2041,channels in category recommended on youtube,521,7,1.0,234.0
+2042,latest news by ars technica,919,7,235.0,388.0
+2043,science youtube channels,697,7,389.0,527.0
+2044,if the smoke detector is catching any smoke,438,7,528.0,761.0
+2045,the valence of this song,848,7,762.0,900.0
+2046,articles on life hacker,847,8,1.0,122.0
+2047,a picture from giphy,875,8,123.0,229.0
+2048,youtube channels with category science,681,8,230.0,426.0
+2049,post on twitter,44,8,427.0,508.0
+2050,new newest onedrive files,864,8,509.0,640.0
+2051,front page of huffington post,720,8,641.0,792.0
+2052,set my speaker softer,160,8,793.0,904.0
+2053,my tweets,815,9,1.0,69.0
+2054,whether my plug is plugged in,732,9,70.0,238.0
+2055,on the fan,222,9,239.0,312.0
+2056,youtube 's automotive channels,601,9,313.0,486.0
+2057,the energy of the current song,442,9,487.0,660.0
+2058,articles in the new york times arts section,721,9,661.0,899.0

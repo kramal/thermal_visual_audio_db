@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1220,order me a americano,5,1,1.0,102.0
+1221,put the damper up,193,1,103.0,189.0
+1222,my calendar events,423,1,190.0,281.0
+1223,my starred google drive files,962,1,282.0,428.0
+1224,whether my vacuum is docked,499,1,429.0,565.0
+1225,my onedrive files that changed most recently,921,1,566.0,787.0
+1226,honk the horn on my car,260,1,788.0,904.0
+1227,a picture from nasa curiosity,633,2,1.0,160.0
+1228,the energy of level the current track,802,2,161.0,360.0
+1229,posts in the washington post world_views blog,999,2,361.0,600.0
+1230,whether my shutters are open or closed,990,2,601.0,805.0
+1231,latest TED talks,774,2,806.0,900.0
+1232,a snapshot of my security camera,341,3,1.0,178.0
+1233,channels in category automotive on youtube,435,3,179.0,406.0
+1234,the speechiness of the current track,967,3,407.0,604.0
+1235,mute my lg tv,190,3,605.0,687.0
+1236,my schedule,485,3,688.0,760.0
+1237,front page of hacker news,513,3,761.0,903.0
+1238,create a new text file in onedrive,133,4,1.0,178.0
+1239,change the temperature on my thermostat,95,4,179.0,381.0
+1240,my dropbox files that changed most recently,549,4,382.0,604.0
+1241,youtube 's beauty_and_fashion channels,957,4,605.0,802.0
+1242,the time signature,936,4,803.0,900.0
+1243,open my shades for me,208,5,1.0,139.0
+1244,my google contacts,348,5,140.0,263.0
+1245,a cat picture,926,5,264.0,362.0
+1246,order me a iced macchiato,84,5,363.0,521.0
+1247,add whatever's playing to my playlist,325,5,522.0,740.0
+1248,put a picture on facebook,235,5,741.0,899.0
+1249,increase the volume on my bluetooth speaker,97,6,1.0,220.0
+1250,a random dog fact,421,6,221.0,310.0
+1251,bing image search,1004,6,311.0,400.0
+1252,set the power on my security camera to off,284,6,401.0,615.0
+1253,a random giphy,391,6,616.0,690.0
+1254,play some music on spotify,321,6,691.0,825.0
+1255,new york times,469,6,826.0,900.0
+1256,the new york times front page,635,7,1.0,169.0
+1257,a picture from curiosity,646,7,170.0,313.0
+1258,the bpm of the current song,831,7,314.0,472.0
+1259,washington post business,486,7,473.0,616.0
+1260,wall street journal articles in the opinions section,760,7,617.0,900.0
+1261,go back to the last song,163,8,1.0,121.0
+1262,make the fan swing,103,8,122.0,212.0
+1263,channels in category from_tv on youtube,927,8,213.0,408.0
+1264,my dropbox quota,833,8,409.0,489.0
+1265,lower the shades,49,8,490.0,570.0
+1266,loop the color in my light bulb,124,8,571.0,726.0
+1267,whether anyone switched off my plug,690,8,727.0,902.0
+1268,beauty_and_fashion channels in youtube,946,9,1.0,217.0
+1269,power off the fan,185,9,218.0,329.0
+1270,news on mashable,823,9,330.0,436.0
+1271,what is the weather tomorrow,662,9,437.0,603.0
+1272,make a new post on facebook,281,9,604.0,765.0
+1273,where is my Tesla car?,458,9,766.0,902.0

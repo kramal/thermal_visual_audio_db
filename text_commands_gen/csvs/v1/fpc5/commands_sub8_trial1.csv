@@ -1,0 +1,57 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+772,if the heat sensor is hot or cold,1032,1,1.0,184.0
+773,order me a black espresso,107,1,185.0,328.0
+774,if I raised the shades,996,1,329.0,457.0
+775,movie details,506,1,458.0,541.0
+776,my posts on twitter,930,1,542.0,655.0
+777,my fitbit step count,819,1,656.0,774.0
+778,if I raised the blinds,915,1,775.0,903.0
+779,the loudness of the current track,1013,2,1.0,167.0
+780,channels in category causes on youtube,1034,2,168.0,359.0
+781,mute my lg webos tv,157,2,360.0,456.0
+782,weather tomorrow,604,2,457.0,538.0
+783,some gif from giphy,525,2,539.0,635.0
+784,Is my tesla car plugged in? ,379,2,636.0,777.0
+785,a picture of a random dog,621,2,778.0,904.0
+786,the tempo of the current song,715,3,1.0,175.0
+787,washington post 's capital_weather_gang blog,468,3,176.0,425.0
+788,my contact's info,585,3,426.0,540.0
+789,channels in category from_tv on youtube,927,3,541.0,765.0
+790,my weight from fitbit,964,3,766.0,900.0
+791,articles in the washington post in section local,979,4,1.0,254.0
+792,decrease volume on my speaker,25,4,255.0,413.0
+793,the time signature of the current track,1007,4,414.0,622.0
+794,update my linkedin,327,4,623.0,726.0
+795,close my awning,202,4,727.0,815.0
+796,fortnite stats ,586,4,816.0,904.0
+797,set on the lights,18,5,1.0,96.0
+798,share a picture to the public Imgur gallery,35,5,97.0,322.0
+799,order me a iced caramel_mocha,172,5,323.0,478.0
+800,articles in the new york times sports section,650,5,479.0,714.0
+801,image search,838,5,715.0,785.0
+802,my google drive files,533,5,786.0,901.0
+803,local washington post 's articles,643,6,1.0,178.0
+804,the weather,565,6,179.0,246.0
+805,get info on people I know,544,6,247.0,384.0
+806,make a new post on facebook,281,6,385.0,532.0
+807,youtube channels with category sports,639,6,533.0,730.0
+808,posts on matrix sixty seven blog,905,6,731.0,903.0
+809,make a new tumblr picture post,282,7,1.0,169.0
+810,top stories on time magazine,378,7,170.0,328.0
+811,search images on bing,1047,7,329.0,452.0
+812,if the vacuum is turned on or off,986,7,453.0,636.0
+813,what's on right now,853,7,637.0,750.0
+814,from_tv channels in youtube,483,7,751.0,904.0
+815,the free space i have on dropbox,407,8,1.0,172.0
+816,the fitbit step counter,395,8,173.0,299.0
+817,huffington posts,605,8,300.0,391.0
+818,a random quote,908,8,392.0,473.0
+819,order me a drip_coffee,181,8,474.0,595.0
+820,the new york times technology section,355,8,596.0,792.0
+821,a random trump quote,462,8,793.0,904.0
+822,automotive youtube channels,1038,9,1.0,146.0
+823,the key of this song,336,9,147.0,257.0
+824,the latest posts in the reddit front page,858,9,258.0,473.0
+825,bing image search,1004,9,474.0,569.0
+826,close the shutters,318,9,570.0,670.0
+827,articles in the new york times world section,756,9,671.0,901.0

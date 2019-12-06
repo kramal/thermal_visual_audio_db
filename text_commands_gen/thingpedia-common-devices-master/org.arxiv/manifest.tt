@@ -1,0 +1,23 @@
+class @org.arxiv
+#_[thingpedia_name="ArXiv"]
+#_[thingpedia_description="ArXiv interface for Almond virtual assistant"]
+#[license="BSD-3-Clause"]
+#[license_gplcompatible=true]
+#[subcategory="service"]
+{
+  import loader from @org.thingpedia.v2();
+  import config from @org.thingpedia.config.none();
+
+  monitorable list query query(in opt query: String #_[prompt="what do you want to search?"],
+                               in opt category: Entity(org.arxiv:category) #_[prompt="what field do you want to search?"],
+                               out title: String,
+                               in opt author: String,
+                               out pubDate: Date,
+                               out link: Entity(tt:url),
+                               out summary: String)
+  #_[canonical="Search papers on ArXiv"]
+  #_[confirmation="papers on ArXiv"]
+  #_[formatted=[{type="rdl",webCallback="$link",displayTitle="$title by $author ($pubDate)",displayText="$summary"}]]
+  #[poll_interval=3600000ms]
+  #[doc="Search papers on ArXiv"];
+}

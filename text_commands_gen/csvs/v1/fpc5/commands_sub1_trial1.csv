@@ -1,0 +1,60 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+0,science youtube channels,697,1,1.0,133.0
+1,breaking news on fortune,734,1,134.0,266.0
+2,upload a picture to facebook,298,1,267.0,419.0
+3,turn off the vacuum cleaner,121,1,420.0,567.0
+4,whether anyone closed the window,977,1,568.0,740.0
+5,ask my vacuum cleaner to pause,326,1,741.0,903.0
+6,whether my shutters are open or closed,990,2,1.0,207.0
+7,mozilla blogs,869,2,208.0,289.0
+8,new newest onedrive files,864,2,290.0,431.0
+9,add whatever's playing to my playlist,325,2,432.0,633.0
+10,reddit front page posts published in the last hour,428,2,634.0,900.0
+11,washington post 's world_views blog,899,3,1.0,181.0
+12,cnn news top stories,365,3,182.0,287.0
+13,youtube channels i follow,402,3,288.0,418.0
+14,channels in category sports on youtube,578,3,419.0,614.0
+15,the upbeatness of this track,432,3,615.0,760.0
+16,youtube 's from_tv channels,359,3,761.0,901.0
+17,Stanford news,425,4,1.0,70.0
+18,is this song dancey,405,4,71.0,170.0
+19,whether the router is connected or not,916,4,171.0,365.0
+20,order me a black latte,219,4,366.0,480.0
+21,my icalendar events,687,4,481.0,580.0
+22,play a song,278,4,581.0,640.0
+23,the humidity reported by thermostat,786,4,641.0,820.0
+24,lower the damper,67,4,821.0,905.0
+25,washington post 's the_plum_line blog,487,5,1.0,190.0
+26,today's asteroid info,1006,5,191.0,300.0
+27,order me a black drip_coffee,161,5,301.0,445.0
+28,pause my vacuum,309,5,446.0,525.0
+29,post something on tumblr,255,5,526.0,650.0
+30,a fact about horse,652,5,651.0,745.0
+31,youtube 's recommended channels,644,5,746.0,905.0
+32,Steam ID,1027,6,1.0,51.0
+33,order me a black white_mocha,110,6,52.0,202.0
+34,the blog fact_checker of the washington post,1020,6,203.0,433.0
+35,keep my curtains,274,6,434.0,524.0
+36,the best images from the Internet,891,6,525.0,700.0
+37,youtube channels with category science,681,6,701.0,901.0
+38,wired top stories,467,7,1.0,90.0
+39,write to a new onedrive file,329,7,91.0,235.0
+40,switch off the switch,254,7,236.0,345.0
+41,Are my Tesla's doors locked? ,677,7,346.0,495.0
+42,tweets i made,416,7,496.0,565.0
+43,a random name,881,7,566.0,635.0
+44,the temperature on my thermostat,860,7,636.0,800.0
+45,abc news top stories,807,7,801.0,905.0
+46,make the fan oscillate,61,8,1.0,112.0
+47,my meeting schedule,906,8,113.0,209.0
+48,raise the volume of my lg tv,310,8,210.0,351.0
+49,lower the volume of my lg tv,215,8,352.0,493.0
+50,tell my vacuum to start cleaning the house,42,8,494.0,705.0
+51,today 's articles in the new york times,343,8,706.0,902.0
+52,the speechiness of the current track,967,9,1.0,192.0
+53,the front page of reddit,654,9,193.0,324.0
+54,my security camera,524,9,325.0,426.0
+55,put the shades down,204,9,427.0,533.0
+56,return my vacuum to base,164,9,534.0,665.0
+57,articles on nature,939,9,666.0,767.0
+58,order me a iced americano,203,9,768.0,904.0
