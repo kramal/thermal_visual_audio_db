@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2340,upload a private picture to Imgur,285,1,1.0,174.0
+2341,latest fortune news,524,1,175.0,278.0
+2342,off the vacuum,265,1,279.0,357.0
+2343,on my vacuum,330,1,358.0,426.0
+2344,when popular science updates,1099,1,427.0,575.0
+2345,play a song,172,1,576.0,639.0
+2346,when business insider updates,1434,1,640.0,793.0
+2347,wsj markets articles,494,1,794.0,902.0
+2348,wall street journal articles in the lifestyle section,1007,2,1.0,305.0
+2349,when somebody sends a message to slack,1217,2,306.0,535.0
+2350,when the awning becomes closed,1281,2,536.0,725.0
+2351,when my fitbit steps update,1251,2,726.0,900.0
+2352,once the motion sensor does not detect any movement,1428,3,1.0,278.0
+2353,latest articles by ars technica,656,3,279.0,456.0
+2354,when a file changes in my google drive,1455,3,457.0,669.0
+2355,channels in category automotive on youtube,592,3,670.0,902.0
+2356,when the fan switches on or off,1239,4,1.0,196.0
+2357,latest nba news,551,4,197.0,312.0
+2358,if my heat sensor is hot,463,4,313.0,473.0
+2359,when fortune publishes a news,1373,4,474.0,659.0
+2360,the travel section of the new york times,936,4,660.0,900.0
+2361,youtube 's film_and_entertainment channels,972,5,1.0,225.0
+2362,the sentiment of a sentence,601,5,226.0,375.0
+2363,my contact's info,805,5,376.0,475.0
+2364,whether the blinds are raised or lowered,369,5,476.0,690.0
+2365,write to a new onedrive file,251,5,691.0,845.0
+2366,Steam ID,576,5,846.0,900.0
+2367,when anyone shuts the window,1385,6,1.0,174.0
+2368,when sun goes down,1418,6,175.0,298.0
+2369,when there is a new post in the xkcd what-if blog,1159,6,299.0,577.0
+2370,my schedule on icalendar,473,6,578.0,731.0
+2371,youtube 's from_tv channels,745,6,732.0,900.0
+2372,channels in category paid on youtube,861,7,1.0,207.0
+2373,whether anyone switched off my plug,1052,7,208.0,409.0
+2374,when i record a new weight on fitbit,1126,7,410.0,616.0
+2375,on the fan,109,7,617.0,693.0
+2376,xkcd,571,7,694.0,740.0
+2377,a random picture from giphy,651,7,741.0,902.0
+2378,the instrumentalness of the current track,701,8,1.0,228.0
+2379,wall street journal articles in the lifestyle section published in the last hour,657,8,229.0,651.0
+2380,articles in the new york times sports section,1002,8,652.0,899.0
+2381,latest posts in all my rss feeds,808,9,1.0,165.0
+2382,omlet messages,640,9,166.0,240.0
+2383,automotive youtube channels,884,9,241.0,380.0
+2384,if my fan is on or turned off,604,9,381.0,530.0
+2385,some animated gif,636,9,531.0,620.0
+2386,when the smoke detector starts or stops detecting smoke,1300,9,621.0,900.0

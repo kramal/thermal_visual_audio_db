@@ -1,0 +1,58 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+735,order me a black mocha,40,1,1.0,113.0
+736,my onedrive files that changed most recently,883,1,114.0,336.0
+737,help me switch on my vacuum,80,1,337.0,474.0
+738,Stanford news,796,1,475.0,542.0
+739,when sunrise,1121,1,543.0,605.0
+740,turn off my lg tv,95,1,606.0,693.0
+741,post a picture on twitter,304,1,694.0,821.0
+742,flash the lights,76,1,822.0,904.0
+743,when techcrunch news updates,1089,2,1.0,144.0
+744,tech channels in youtube,1028,2,145.0,268.0
+745,once somebody opens the window,1214,2,269.0,422.0
+746,reddit front page posts published in the last hour,939,2,423.0,676.0
+747,fortnite stats ,931,2,677.0,755.0
+748,once the vacuum switches off,1224,2,756.0,899.0
+749,posts on facebook,970,3,1.0,119.0
+750,make the fan swing,108,3,120.0,243.0
+751,the science section of the new york times,885,3,244.0,482.0
+752,make a new facebook post,182,3,483.0,636.0
+753,when lifehacker updates,1107,3,637.0,785.0
+754,oscillate my fan,193,3,786.0,899.0
+755,articles in the washington post in section world,516,4,1.0,252.0
+756,news on star wars,331,4,253.0,349.0
+757,off the fan,328,4,350.0,416.0
+758,the key of this song,722,4,417.0,528.0
+759,youtube 's causes channels,747,4,529.0,670.0
+760,pause my vacuum,94,4,671.0,757.0
+761,once my vacuum switches on,1184,4,758.0,899.0
+762,a snapshot of my security camera,400,5,1.0,181.0
+763,gaming youtube channels,900,5,182.0,317.0
+764,when a gas leak is detected,1320,5,318.0,473.0
+765,youtube channels with category from_tv,851,5,474.0,684.0
+766,turn on my switch,53,5,685.0,790.0
+767,posts on phdcomics,534,5,791.0,901.0
+768,play something on my speaker,158,6,1.0,158.0
+769,trump quote,371,6,159.0,231.0
+770,if my fan is switched on or switched off,690,6,232.0,449.0
+771,an xkcd comic at random,569,6,450.0,582.0
+772,when ars technica publishes a new article,1437,6,583.0,805.0
+773,turn off shuffle,231,6,806.0,903.0
+774,when my fan gets turned on,1256,7,1.0,170.0
+775,create a new empty folder in dropbox,83,7,171.0,390.0
+776,set my bluetooth speaker as default,201,7,391.0,605.0
+777,articles in the washington post in section national,741,7,606.0,900.0
+778,whether the sensor is detecting smoke,537,8,1.0,189.0
+779,my security camera,375,8,190.0,283.0
+780,instagrams,742,8,284.0,337.0
+781,youtube 's paid channels,903,8,338.0,461.0
+782,when there is a new post on matrix67 blog,1086,8,462.0,670.0
+783,once the vacuum gets docked,1422,8,671.0,809.0
+784,all meme templates,554,8,810.0,903.0
+785,channels in category gaming on youtube,983,9,1.0,201.0
+786,put the blinds down,144,9,202.0,307.0
+787,price of game on Steam,822,9,308.0,428.0
+788,my gmail inbox,639,9,429.0,509.0
+789,youtube 's animation channels,511,9,510.0,665.0
+790,new howtogeek articles,455,9,666.0,786.0
+791,put the curtains down,14,9,787.0,902.0

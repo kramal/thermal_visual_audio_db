@@ -1,0 +1,2943 @@
+,command_name,command_id,set_id,pos_id,expr_id,subject_id,trial_id,start_fr_id,end_fr_id
+0,the new york times travel section,766,1,1,1,1,1,1.0,183.0
+1,once there is a connection,1199,1,1,1,1,1,184.0,331.0
+2,the positivity of this song,950,1,1,1,1,1,332.0,484.0
+3,if the battery is topped up,1213,1,1,1,1,1,485.0,637.0
+4,news on gamespot,460,1,1,1,1,1,638.0,735.0
+5,phdcomics posts,346,1,1,1,1,1,736.0,828.0
+6,when sunset,1379,1,1,1,1,1,829.0,901.0
+7,channels in category cooking on youtube,597,2,2,1,1,1,1.0,211.0
+8,when any of my rss feeds update,1404,2,2,1,1,1,212.0,382.0
+9,my emails,800,2,2,1,1,1,383.0,443.0
+10,help me turn off my fan,200,2,2,1,1,1,444.0,574.0
+11,copy a picture to my onedrive,46,2,2,1,1,1,575.0,735.0
+12,when my vacuum starts charging,1380,2,2,1,1,1,736.0,901.0
+13,the power state of the light bulb,647,3,3,1,1,1,1.0,186.0
+14,latest fortune news,524,3,3,1,1,1,187.0,302.0
+15,raise the blinds,282,3,3,1,1,1,303.0,403.0
+16,when the vacuum turns off,1165,3,3,1,1,1,404.0,549.0
+17,random trump quote,595,3,3,1,1,1,550.0,660.0
+18,dog fun facts,364,3,3,1,1,1,661.0,746.0
+19,order me a iced white_mocha,133,3,3,1,1,1,747.0,902.0
+20,when there is no one in the corridor,1416,4,4,1,1,1,1.0,199.0
+21,the latest tweets,988,4,4,1,1,1,200.0,303.0
+22,resume my spotify,21,4,4,1,1,1,304.0,407.0
+23,images from Imgur User Submitted,1027,4,4,1,1,1,408.0,586.0
+24,make a new linkedin post,298,4,4,1,1,1,587.0,725.0
+25,alert me by flashing the lights,110,4,4,1,1,1,726.0,899.0
+26,write to a new onedrive file,251,5,5,1,1,1,1.0,143.0
+27,youtube 's best_of_youtube channels,793,5,5,1,1,1,144.0,321.0
+28,a random factoid,464,5,5,1,1,1,322.0,404.0
+29,the currently playing song,605,5,5,1,1,1,405.0,537.0
+30,turn off the vacuum cleaner,252,5,5,1,1,1,538.0,675.0
+31,open my shades for me,169,5,5,1,1,1,676.0,783.0
+32,articles on how to geek,415,5,5,1,1,1,784.0,901.0
+33,the bpm of the current song,841,6,6,1,1,1,1.0,144.0
+34,order me a black latte,85,6,6,1,1,1,145.0,263.0
+35,when the awnings are open,1172,6,6,1,1,1,264.0,397.0
+36,write to a new file in onedrive,256,6,6,1,1,1,398.0,561.0
+37,when the space is vacated,1118,6,6,1,1,1,562.0,695.0
+38,when the sound sensor detects any sound,1352,6,6,1,1,1,696.0,899.0
+39,when the vacuum is on,1090,7,7,1,1,1,1.0,117.0
+40,upload a picture to tumblr,300,7,7,1,1,1,118.0,259.0
+41,when a person is detected by my security camera,1219,7,7,1,1,1,260.0,506.0
+42,animal trivia,955,7,7,1,1,1,507.0,583.0
+43,turn on my vacuum,78,7,7,1,1,1,584.0,680.0
+44,slack messages i received in the last hour,438,7,7,1,1,1,681.0,902.0
+45,when there is an asteroid nearby,1314,8,8,1,1,1,1.0,164.0
+46,when the shades get lowered,1335,8,8,1,1,1,165.0,303.0
+47,lower the volume of my bluetooth speaker,203,8,8,1,1,1,304.0,507.0
+48,turn off my switch,54,8,8,1,1,1,508.0,601.0
+49,create google drive file,0,8,8,1,1,1,602.0,725.0
+50,best_of_youtube channels in youtube,357,8,8,1,1,1,726.0,904.0
+51,top stories on time magazine,787,9,9,1,1,1,1.0,157.0
+52,create a folder in dropbox,290,9,9,1,1,1,158.0,304.0
+53,when somebody unplugs my plug,1282,9,9,1,1,1,305.0,466.0
+54,when the toilet gets occupied or becomes empty,1233,9,9,1,1,1,467.0,713.0
+55,when something changes on onedrive,1271,9,9,1,1,1,714.0,900.0
+56,if I raised the shades,361,10,1,2,1,2,1.0,111.0
+57,when there is no more carbon monoxide,1249,10,1,2,1,2,112.0,297.0
+58,when somebody plugs in my plug,1069,10,1,2,1,2,298.0,448.0
+59,science channels in youtube,704,10,1,2,1,2,449.0,584.0
+60,the speechiness of the current track,746,10,1,2,1,2,585.0,765.0
+61,youtube 's from_tv channels,745,10,1,2,1,2,766.0,901.0
+62,when there is a gas leak,1309,11,2,2,1,2,1.0,128.0
+63,take a note,2,11,2,2,1,2,129.0,191.0
+64,set my speaker as sink,190,11,2,2,1,2,192.0,309.0
+65,turn off my vacuum cleaner,89,11,2,2,1,2,310.0,447.0
+66,when it 's a holiday,1342,11,2,2,1,2,448.0,555.0
+67,order me a latte,209,11,2,2,1,2,556.0,643.0
+68,set my speaker as default,1,11,2,2,1,2,644.0,776.0
+69,if my battery has power,958,11,2,2,1,2,777.0,899.0
+70,open my blinds,114,12,3,2,1,2,1.0,83.0
+71,whether the curtains is raised or lowered,617,12,3,2,1,2,84.0,301.0
+72,once I leave the door closed,1205,12,3,2,1,2,302.0,454.0
+73,when my smart plug gets plugged or unplugged,1344,12,3,2,1,2,455.0,687.0
+74,shut up my lg tv,166,12,3,2,1,2,688.0,780.0
+75,cs294s class materials,358,12,3,2,1,2,781.0,903.0
+76,posts in the washington post powerpost blog,681,13,4,2,1,2,1.0,232.0
+77,what does trump think,875,13,4,2,1,2,233.0,354.0
+78,search images on bing,612,13,4,2,1,2,355.0,476.0
+79,posts in the washington post fact_checker blog,940,13,4,2,1,2,477.0,723.0
+80,turn on my vacuum cleaner for me,125,13,4,2,1,2,724.0,900.0
+81,order me a black caramel_mocha,294,14,5,2,1,2,1.0,188.0
+82,articles in the new york times sports section,1002,14,5,2,1,2,189.0,451.0
+83,business news on fortune,641,14,5,2,1,2,452.0,609.0
+84,turn on shuffle,79,14,5,2,1,2,610.0,722.0
+85,when anyone shuts the window,1385,14,5,2,1,2,723.0,900.0
+86,if the heat sensor is getting heated up,1356,15,6,2,1,2,1.0,198.0
+87,washington post 's powerpost blog,957,15,6,2,1,2,199.0,366.0
+88,washington post 's morning_mix blog,791,15,6,2,1,2,367.0,544.0
+89,when the shutters are opened or closed,1229,15,6,2,1,2,545.0,737.0
+90,top stories on bbc news,797,15,6,2,1,2,738.0,855.0
+91,my tweets,756,15,6,2,1,2,856.0,903.0
+92,if I raised the blinds,850,16,7,2,1,2,1.0,111.0
+93,the free space i have on dropbox,459,16,7,2,1,2,112.0,272.0
+94,all my rss feeds,372,16,7,2,1,2,273.0,353.0
+95,once anyone closes the door,1082,16,7,2,1,2,354.0,489.0
+96,play a playlist,240,16,7,2,1,2,490.0,565.0
+97,my google drive files in alphabetical order,527,16,7,2,1,2,566.0,781.0
+98,when I turn on my vacuum,1424,16,7,2,1,2,782.0,902.0
+99,a random trump quote,720,17,8,2,1,2,1.0,105.0
+100,how speechlike is the current song,469,17,8,2,1,2,106.0,280.0
+101,when sun rises,1164,17,8,2,1,2,281.0,355.0
+102,wall street journal articles in the opinions section,491,17,8,2,1,2,356.0,620.0
+103,a picture from curiosity,452,17,8,2,1,2,621.0,745.0
+104,youtube 's automotive channels,549,17,8,2,1,2,746.0,900.0
+105,when my fitbit steps update,1251,18,9,2,1,2,1.0,142.0
+106,make a twitter post,237,18,9,2,1,2,143.0,244.0
+107,halt my oscillating fan,59,18,9,2,1,2,245.0,366.0
+108,my latest email,882,18,9,2,1,2,367.0,448.0
+109,flash the lights as alerts,259,18,9,2,1,2,449.0,585.0
+110,once my vacuum is switched on,1398,18,9,2,1,2,586.0,737.0
+111,an interesting factoid about dog,535,18,9,2,1,2,738.0,904.0
+112,when top stories on cnn news update,1299,19,1,3,2,1,1.0,187.0
+113,a gif,923,19,1,3,2,1,188.0,224.0
+114,whether the gas sensor is detecting any gas,332,19,1,3,2,1,225.0,451.0
+115,articles in the new york times,502,19,1,3,2,1,452.0,613.0
+116,wall street journal articles in the us_business section,1010,19,1,3,2,1,614.0,900.0
+117,a random quote,684,20,2,3,2,1,1.0,74.0
+118,order me a iced mocha,292,20,2,3,2,1,75.0,183.0
+119,when people leave the room,1106,20,2,3,2,1,184.0,317.0
+120,my instagram pictures,686,20,2,3,2,1,318.0,426.0
+121,a random animal fact,374,20,2,3,2,1,427.0,530.0
+122,the danceability of the current song,1033,20,2,3,2,1,531.0,714.0
+123,comedy youtube channels,520,20,2,3,2,1,715.0,833.0
+124,a random name,529,20,2,3,2,1,834.0,902.0
+125,my google drive files,663,21,3,3,2,1,1.0,138.0
+126,the temperature in the room,915,21,3,3,2,1,139.0,306.0
+127,order me a iced caramel_macchiato,130,21,3,3,2,1,307.0,504.0
+128,when the connection is down,1298,21,3,3,2,1,505.0,672.0
+129,film_and_entertainment youtube channels,616,21,3,3,2,1,673.0,900.0
+130,whether my vacuum is switched on or switched off,521,22,4,3,2,1,1.0,257.0
+131,abc news,907,22,4,3,2,1,258.0,314.0
+132,when there is a new post on my twitter timeline,1111,22,4,3,2,1,315.0,566.0
+133,wall street journal articles,812,22,4,3,2,1,567.0,723.0
+134,if the fan is oscillating or not,1020,22,4,3,2,1,724.0,900.0
+135,posts in the washington post the_fix blog,896,23,5,3,2,1,1.0,210.0
+136,when my awnings close,1287,23,5,3,2,1,211.0,320.0
+137,when my fan stops oscillating,1372,23,5,3,2,1,321.0,470.0
+138,posts on matrix67 blog,666,23,5,3,2,1,471.0,585.0
+139,power off the fan,245,23,5,3,2,1,586.0,675.0
+140,honk my car horn,34,23,5,3,2,1,676.0,760.0
+141,make my vacuum stop cleaning,223,23,5,3,2,1,761.0,905.0
+142,articles in the new york times world section,563,24,6,3,2,1,1.0,231.0
+143,the list of all memes,575,24,6,3,2,1,232.0,347.0
+144,turn on the light,99,24,6,3,2,1,348.0,443.0
+145,open my blinds for me,210,24,6,3,2,1,444.0,559.0
+146,if my switch is on or off,584,24,6,3,2,1,560.0,695.0
+147,the time signature of the current track,624,24,6,3,2,1,696.0,901.0
+148,images from Imgur that are safe to a general audience,450,25,7,3,2,1,1.0,277.0
+149,when somebody sends me an email on gmail,1124,25,7,3,2,1,278.0,489.0
+150,set off the lights,58,25,7,3,2,1,490.0,591.0
+151,news on business insider,838,25,7,3,2,1,592.0,723.0
+152,the new york times health section,1008,25,7,3,2,1,724.0,900.0
+153,if I switch off my fan,1112,26,8,3,2,1,1.0,124.0
+154,an rss feed,522,26,8,3,2,1,125.0,193.0
+155,when a new phd comics is posted,1449,26,8,3,2,1,194.0,362.0
+156,animal fun facts,528,26,8,3,2,1,363.0,456.0
+157,the holidays,420,26,8,3,2,1,457.0,530.0
+158,on my vacuum,330,26,8,3,2,1,531.0,604.0
+159,a random xkcd comic,504,26,8,3,2,1,605.0,713.0
+160,when i change some file in onedrive,1458,26,8,3,2,1,714.0,902.0
+161,lifestyle channels in youtube,384,27,9,3,2,1,1.0,168.0
+162,front page of hacker news,423,27,9,3,2,1,169.0,316.0
+163,whether my shutters are open or closed,393,27,9,3,2,1,317.0,529.0
+164,the moment the awnings get extended,1080,27,9,3,2,1,530.0,727.0
+165,when my fan starts oscillating,1289,27,9,3,2,1,728.0,900.0
+166,when the plug gets unplugged,1170,28,1,4,2,2,1.0,145.0
+167,close my window,191,28,1,4,2,2,146.0,225.0
+168,when the fan stops swinging,1301,28,1,4,2,2,226.0,365.0
+169,a random cat fact,997,28,1,4,2,2,366.0,455.0
+170,when the gas is gone,1157,28,1,4,2,2,456.0,560.0
+171,upload a NSFW picture to Imgur,102,28,1,4,2,2,561.0,715.0
+172,when something changes on my calendar,1441,28,1,4,2,2,716.0,905.0
+173,a plot from wolframalpha,1012,29,2,4,2,2,1.0,142.0
+174,whether anybody is detected by the sound sensor,517,29,2,4,2,2,143.0,399.0
+175,recent tweets,980,29,2,4,2,2,400.0,486.0
+176,loop the color of the light bulb,82,29,2,4,2,2,487.0,668.0
+177,the business section of the new york times,557,29,2,4,2,2,669.0,900.0
+178,youtube 's news_and_politics channels,577,30,3,4,2,2,1.0,197.0
+179,how loud is this song,714,30,3,4,2,2,198.0,314.0
+180,turn off my light bulb,91,30,3,4,2,2,315.0,436.0
+181,my onedrive files in alphabetical order,908,30,3,4,2,2,437.0,643.0
+182,articles in the washington post in section sports,594,30,3,4,2,2,644.0,900.0
+183,my recent tweets,499,31,4,4,2,2,1.0,116.0
+184,whether my damper is open or closed,976,31,4,4,2,2,117.0,327.0
+185,set the power on my security camera to off,301,31,4,4,2,2,328.0,573.0
+186,disable my security camera,52,31,4,4,2,2,574.0,739.0
+187,when a new xkcd is posted,1464,31,4,4,2,2,740.0,900.0
+188,whether the battery is too low or normal,968,32,5,4,2,2,1.0,203.0
+189,phd comics,864,32,5,4,2,2,204.0,256.0
+190,pictures of cats,362,32,5,4,2,2,257.0,339.0
+191,the blog capital_weather_gang of the washington post,960,32,5,4,2,2,340.0,602.0
+192,on the switch,305,32,5,4,2,2,603.0,670.0
+193,lower the curtains,48,32,5,4,2,2,671.0,763.0
+194,if the toilet is being used,498,32,5,4,2,2,764.0,901.0
+195,images from Imgur,831,33,6,4,2,2,1.0,88.0
+196,my body measurements from fitbit,688,33,6,4,2,2,89.0,251.0
+197,move the fan,124,33,6,4,2,2,252.0,314.0
+198,new books published by stanford press,934,33,6,4,2,2,315.0,502.0
+199,latest posts on an atom feed,467,33,6,4,2,2,503.0,645.0
+200,the liveness of the current track,695,33,6,4,2,2,646.0,813.0
+201,p_query_location},556,33,6,4,2,2,814.0,901.0
+202,latest techcrunch news,564,34,7,4,2,2,1.0,151.0
+203,a random picture of a dog,802,34,7,4,2,2,152.0,317.0
+204,put the shades up,20,34,7,4,2,2,318.0,443.0
+205,help me open the shutters,268,34,7,4,2,2,444.0,609.0
+206,order me a black flat_white,277,34,7,4,2,2,610.0,785.0
+207,generate a meme,625,34,7,4,2,2,786.0,901.0
+208,youtube channels with category beauty_and_fashion,496,35,8,4,2,2,1.0,247.0
+209,when they publish something on the rss feed,1114,35,8,4,2,2,248.0,464.0
+210,set my speaker louder,132,35,8,4,2,2,465.0,571.0
+211,piled higher and deeper comics,626,35,8,4,2,2,572.0,723.0
+212,create a new empty file in onedrive,206,35,8,4,2,2,724.0,900.0
+213,switch off the fan,275,36,9,4,2,2,1.0,125.0
+214,articles in the washington post in section business,825,36,9,4,2,2,126.0,415.0
+215,when nba news updates,1315,36,9,4,2,2,416.0,555.0
+216,once the motion sensor detects movement,1094,36,9,4,2,2,556.0,785.0
+217,raise the damper,141,36,9,4,2,2,786.0,900.0
+218,when an event in my schedule is about to start,1433,37,1,5,3,1,1.0,248.0
+219,articles on popular science,391,37,1,5,3,1,249.0,401.0
+220,recommended youtube channels,1019,37,1,5,3,1,402.0,559.0
+221,youtube channels with category tech,696,37,1,5,3,1,560.0,752.0
+222,post a picture on facebook,234,37,1,5,3,1,753.0,900.0
+223,channels in category recommended on youtube,893,38,2,5,3,1,1.0,232.0
+224,how danceable is this song,574,38,2,5,3,1,233.0,379.0
+225,youtube 's tech channels,629,38,2,5,3,1,380.0,516.0
+226,my security camera live feed,895,38,2,5,3,1,517.0,673.0
+227,tell my vacuum to start cleaning the house,28,38,2,5,3,1,674.0,900.0
+228,posts on matrix67,607,39,3,5,3,1,1.0,95.0
+229,put a picture on facebook,118,39,3,5,3,1,96.0,230.0
+230,how energetic is the current song,1034,39,3,5,3,1,231.0,405.0
+231,TED videos,926,39,3,5,3,1,406.0,465.0
+232,NSFW images from Imgur,480,39,3,5,3,1,466.0,585.0
+233,my twitter messages,782,39,3,5,3,1,586.0,690.0
+234,when there is a new file in google drive,1321,39,3,5,3,1,691.0,900.0
+235,when nobody is in the living room,1384,40,4,5,3,1,1.0,176.0
+236,my contact's info,805,40,4,5,3,1,177.0,272.0
+237,channels in category best_of_youtube on youtube,628,40,4,5,3,1,273.0,518.0
+238,when my fan turns off,1401,40,4,5,3,1,519.0,634.0
+239,last slack messages,881,40,4,5,3,1,635.0,740.0
+240,if my switch gets switched off,1450,40,4,5,3,1,741.0,901.0
+241,lifestyle washington post 's articles,1021,41,5,5,3,1,1.0,196.0
+242,the latest posts in the reddit front page,763,41,5,5,3,1,197.0,412.0
+243,start my vacuum,246,41,5,5,3,1,413.0,498.0
+244,turn off my security camera,38,41,5,5,3,1,499.0,644.0
+245,new nature articles,613,41,5,5,3,1,645.0,750.0
+246,when my switch changes state,1403,41,5,5,3,1,751.0,901.0
+247,if the door is open or closed,874,42,6,5,3,1,1.0,147.0
+248,wall street journal,493,42,6,5,3,1,148.0,244.0
+249,when an event is about to start on my calendar,1096,42,6,5,3,1,245.0,476.0
+250,articles on medium,606,42,6,5,3,1,477.0,568.0
+251,if my battery is finishing,1273,42,6,5,3,1,569.0,700.0
+252,images from Imgur that are safe-for-work,360,42,6,5,3,1,701.0,902.0
+253,stop the fan from swinging,140,43,7,5,3,1,1.0,188.0
+254,the blog post_partisan of the washington post,609,43,7,5,3,1,189.0,471.0
+255,whether the shades are raised or lowered,404,43,7,5,3,1,472.0,729.0
+256,if the fan switches off,1192,43,7,5,3,1,730.0,902.0
+257,youtube channels with category film_and_entertainment,962,44,8,5,3,1,1.0,275.0
+258,when I dock the vacuum,1443,44,8,5,3,1,276.0,395.0
+259,the energy of level the current track,818,44,8,5,3,1,396.0,590.0
+260,decrease volume on my speaker,13,44,8,5,3,1,591.0,745.0
+261,if my smart plug is connected,495,44,8,5,3,1,746.0,900.0
+262,whether my plug is plugged in,1030,45,9,5,3,1,1.0,156.0
+263,generate a caption for a picture,501,45,9,5,3,1,157.0,327.0
+264,the valence of this song,842,45,9,5,3,1,328.0,458.0
+265,switch off my switch,257,45,9,5,3,1,459.0,569.0
+266,when top stories on wired update,1140,45,9,5,3,1,570.0,740.0
+267,when the awning becomes closed,1281,45,9,5,3,1,741.0,901.0
+268,post something on tumblr,219,46,1,6,3,2,1.0,128.0
+269,if I opened the shutters,992,46,1,6,3,2,129.0,256.0
+270,order me a black macchiato,163,46,1,6,3,2,257.0,394.0
+271,news on nba basketball,396,46,1,6,3,2,395.0,512.0
+272,the blog wonkblog of the washington post,436,46,1,6,3,2,513.0,720.0
+273,when top stories on bbc news update,1136,46,1,6,3,2,721.0,903.0
+274,my schedule,964,47,2,6,3,2,1.0,74.0
+275,the moment the sound sensor hears anything,1438,47,2,6,3,2,75.0,303.0
+276,raise the shades,121,47,2,6,3,2,304.0,402.0
+277,when an event on my calendar begins,1060,47,2,6,3,2,403.0,596.0
+278,turn off my lg webos tv,224,47,2,6,3,2,597.0,730.0
+279,when the shades finish lowering,1161,47,2,6,3,2,731.0,904.0
+280,once my plug is switched on,1349,48,3,6,3,2,1.0,141.0
+281,the time signature of the current song,416,48,3,6,3,2,142.0,337.0
+282,Wunderlist lists ,373,48,3,6,3,2,338.0,428.0
+283,once the state of the heat sensor changes,1406,48,3,6,3,2,429.0,639.0
+284,movie information,945,48,3,6,3,2,640.0,730.0
+285,make the fan turn,97,48,3,6,3,2,731.0,821.0
+286,open the awning,63,48,3,6,3,2,822.0,902.0
+287,the direct messages i received on twitter,725,49,4,6,3,2,1.0,216.0
+288,when i make a new tweet,1116,49,4,6,3,2,217.0,342.0
+289,save whatever's playing to my library,142,49,4,6,3,2,343.0,538.0
+290,my fitbit step count,417,49,4,6,3,2,539.0,649.0
+291,when i receive a message on omlet,1072,49,4,6,3,2,650.0,825.0
+292,on the vacuum,92,49,4,6,3,2,826.0,901.0
+293,when gas is not detected anymore,1259,50,5,6,3,2,1.0,168.0
+294,channels I follow on youtube,631,50,5,6,3,2,169.0,316.0
+295,the weather,783,50,5,6,3,2,317.0,379.0
+296,a picture from mars,1054,50,5,6,3,2,380.0,482.0
+297,if something happens on my security camera,1351,50,5,6,3,2,483.0,700.0
+298,news on mashable,873,50,5,6,3,2,701.0,788.0
+299,close the awning,115,50,5,6,3,2,789.0,876.0
+300,wsj,743,50,5,6,3,2,877.0,899.0
+301,wall street journal articles in the markets section,982,51,6,6,3,2,1.0,270.0
+302,youtube channels with category science,891,51,6,6,3,2,271.0,475.0
+303,when a file is modified on onedrive,1079,51,6,6,3,2,476.0,665.0
+304,save the current track,10,51,6,6,3,2,666.0,790.0
+305,set my hvac to heat,295,51,6,6,3,2,791.0,900.0
+306,the new york times arts section,843,52,7,6,3,2,1.0,164.0
+307,when my curtains are raised,1250,52,7,6,3,2,165.0,308.0
+308,a random animated gif,987,52,7,6,3,2,309.0,422.0
+309,when engadget news updates,1362,52,7,6,3,2,423.0,561.0
+310,opinions washington post 's articles,868,52,7,6,3,2,562.0,750.0
+311,change the volume of my lg tv,311,52,7,6,3,2,751.0,904.0
+312,my files in google drive,829,53,8,6,3,2,1.0,123.0
+313,unmute my lg tv,66,53,8,6,3,2,124.0,201.0
+314,whether my fan is oscillating or not,790,53,8,6,3,2,202.0,384.0
+315,mozilla blogs,344,53,8,6,3,2,385.0,452.0
+316,the moment I open the door,1212,53,8,6,3,2,453.0,585.0
+317,tweet a picture,148,53,8,6,3,2,586.0,663.0
+318,when mashable updates,1083,53,8,6,3,2,664.0,771.0
+319,post something on facebook,204,53,8,6,3,2,772.0,904.0
+320,posts in the washington post post_partisan blog,749,54,9,6,3,2,1.0,249.0
+321,the speechiness of the current song,453,54,9,6,3,2,250.0,438.0
+322,when there is no one left in the living room,1207,54,9,6,3,2,439.0,672.0
+323,whenever the state of my lights has changed,1439,54,9,6,3,2,673.0,901.0
+324,when I upload a photo to my timeline on facebook,1238,55,1,7,4,1,1.0,250.0
+325,order me a iced drip_coffee,296,55,1,7,4,1,251.0,395.0
+326,mac rumors,794,55,1,7,4,1,396.0,455.0
+327,turn on my lg tv,123,55,1,7,4,1,456.0,545.0
+328,my google drive files modified this week,1014,55,1,7,4,1,546.0,755.0
+329,new books by stanford press,509,55,1,7,4,1,756.0,900.0
+330,new newest onedrive files,545,56,2,7,4,1,1.0,131.0
+331,help me open the window,6,56,2,7,4,1,132.0,252.0
+332,add a picture to facebook,175,56,2,7,4,1,253.0,383.0
+333,sports youtube channels,707,56,2,7,4,1,384.0,504.0
+334,the speechiness of this song,991,56,2,7,4,1,505.0,650.0
+335,ny times,673,56,2,7,4,1,651.0,696.0
+336,extend the awnings,274,56,2,7,4,1,697.0,792.0
+337,business insider news,930,56,2,7,4,1,793.0,903.0
+338,turn the heating on,249,57,3,7,4,1,1.0,104.0
+339,order uber,196,57,3,7,4,1,105.0,163.0
+340,wall street journal articles in the technology section,772,57,3,7,4,1,164.0,442.0
+341,articles in the washington post in section lifestyle,550,57,3,7,4,1,443.0,711.0
+342,a quote,865,57,3,7,4,1,712.0,755.0
+343,whether my vacuum is docked,553,57,3,7,4,1,756.0,899.0
+344,make note of my weight on fitbit,288,58,4,7,4,1,1.0,161.0
+345,wsj technology articles,846,58,4,7,4,1,162.0,277.0
+346,when I have connectivity,1304,58,4,7,4,1,278.0,398.0
+347,if the switch switches on,1436,58,4,7,4,1,399.0,524.0
+348,news on huffpost,806,58,4,7,4,1,525.0,605.0
+349,images from Imgur marked mature,1015,58,4,7,4,1,606.0,761.0
+350,wall street journal opinions,847,58,4,7,4,1,762.0,902.0
+351,a random poem,735,59,5,7,4,1,1.0,82.0
+352,the google drive files i starred,823,59,5,7,4,1,83.0,259.0
+353,make the vacuum pause cleaning,154,59,5,7,4,1,260.0,426.0
+354,cs294s class slides,1006,59,5,7,4,1,427.0,538.0
+355,when the awnings finish retracting,1232,59,5,7,4,1,539.0,725.0
+356,when i post something to twitter,1417,59,5,7,4,1,726.0,902.0
+357,when someone opens the door,1317,60,6,7,4,1,1.0,148.0
+358,go back,127,60,6,7,4,1,149.0,196.0
+359,when my sound sensor hears a noise,1457,60,6,7,4,1,197.0,379.0
+360,washington post 's post_everything blog,426,60,6,7,4,1,380.0,587.0
+361,when the smart plug is turned on or off,1150,60,6,7,4,1,588.0,795.0
+362,imgur usersub viral,1037,60,6,7,4,1,796.0,903.0
+363,if the fan is on or off,925,61,7,7,4,1,1.0,129.0
+364,posts in the washington post capital_weather_gang blog,712,61,7,7,4,1,130.0,413.0
+365,my onedrive files modified this week,352,61,7,7,4,1,414.0,607.0
+366,the time signature,635,61,7,7,4,1,608.0,711.0
+367,channels in category diy on youtube,817,61,7,7,4,1,712.0,900.0
+368,the moment my shades are raised,1119,62,8,7,4,1,1.0,198.0
+369,whether my plug is turned on,425,62,8,7,4,1,199.0,381.0
+370,youtube channels with category news_and_politics,922,62,8,7,4,1,382.0,664.0
+371,today 's articles in the new york times,454,62,8,7,4,1,665.0,902.0
+372,wall street journal articles in the opinions section published in the last hour,767,63,9,7,4,1,1.0,419.0
+373,youtube channels with category cooking,349,63,9,7,4,1,420.0,633.0
+374,a random gif,918,63,9,7,4,1,634.0,717.0
+375,upload a public picture to Imgur,293,63,9,7,4,1,718.0,901.0
+376,when the location of some event changes on my icalendar,1065,64,1,8,4,2,1.0,281.0
+377,share a picture to the public Imgur gallery,286,64,1,8,4,2,282.0,502.0
+378,channels in category from_tv on youtube,1035,64,1,8,4,2,503.0,703.0
+379,beauty_and_fashion channels in youtube,627,64,1,8,4,2,704.0,899.0
+380,when somebody sends me an email,1260,65,2,8,4,2,1.0,157.0
+381,when the smoke sensor starts or stops detecting smoke,1388,65,2,8,4,2,158.0,424.0
+382,once I leave the door open,1187,65,2,8,4,2,425.0,556.0
+383,when i get a message on twitter,1143,65,2,8,4,2,557.0,713.0
+384,tweets from anyone i follow,432,65,2,8,4,2,714.0,850.0
+385,on the fan,109,65,2,8,4,2,851.0,902.0
+386,diy channels in youtube,562,66,3,8,4,2,1.0,118.0
+387,create a new playlist,77,66,3,8,4,2,119.0,226.0
+388,a random giphy,390,66,3,8,4,2,227.0,299.0
+389,my favorite songs,821,66,3,8,4,2,300.0,387.0
+390,when my damper raises,1177,66,3,8,4,2,388.0,495.0
+391,channels in category causes on youtube,1057,66,3,8,4,2,496.0,688.0
+392,news from the best university in the world,661,66,3,8,4,2,689.0,901.0
+393,imgur usersub rising,399,67,4,8,4,2,1.0,148.0
+394,off the vacuum,265,67,4,8,4,2,149.0,266.0
+395,if the room is occupied,954,67,4,8,4,2,267.0,429.0
+396,popular science articles,1025,67,4,8,4,2,430.0,597.0
+397,when the gas detector starts or stops detecting gas,1179,67,4,8,4,2,598.0,900.0
+398,when the time of some event changes on my icalendar,1414,68,5,8,4,2,1.0,275.0
+399,when somebody sends me a direct message,1419,68,5,8,4,2,276.0,490.0
+400,new york times articles published this week,899,68,5,8,4,2,491.0,725.0
+401,the moment the window gets shut,1329,68,5,8,4,2,726.0,900.0
+402,put the damper up,321,69,6,8,4,2,1.0,92.0
+403,record my weight on fitbit,162,69,6,8,4,2,93.0,229.0
+404,my lists from Wunderlist ,731,69,6,8,4,2,230.0,361.0
+405,when how-to geek updates,1361,69,6,8,4,2,362.0,488.0
+406,the latest xkcd what if,713,69,6,8,4,2,489.0,610.0
+407,is this song live,484,69,6,8,4,2,611.0,702.0
+408,dog pictures,674,69,6,8,4,2,703.0,769.0
+409,when I bring up my blinds,1405,69,6,8,4,2,770.0,901.0
+410,order me a americano,178,70,7,8,4,2,1.0,105.0
+411,when a meeting starts,1175,70,7,8,4,2,106.0,215.0
+412,a math plot,994,70,7,8,4,2,216.0,275.0
+413,when somebody sends a message to slack,1217,70,7,8,4,2,276.0,470.0
+414,when the state of my lights changes,1204,70,7,8,4,2,471.0,650.0
+415,youtube 's lifestyle channels,379,70,7,8,4,2,651.0,800.0
+416,when fortune updates,1396,70,7,8,4,2,801.0,905.0
+417,when my door opens,1426,71,8,8,4,2,1.0,107.0
+418,some random trivia,353,71,8,8,4,2,108.0,214.0
+419,wall street journal articles in the lifestyle section,1007,71,8,8,4,2,215.0,496.0
+420,my dropbox files that changed most recently,995,71,8,8,4,2,497.0,728.0
+421,set the power on my lg tv to on,220,71,8,8,4,2,729.0,900.0
+422,posts in the washington post morning_mix blog,910,72,9,8,4,2,1.0,237.0
+423,when the fan is off,1360,72,9,8,4,2,238.0,344.0
+424,the state of my tesla car ,546,72,9,8,4,2,345.0,486.0
+425,stories on macrumors,487,72,9,8,4,2,487.0,598.0
+426,channels in category tech on youtube,952,72,9,8,4,2,599.0,790.0
+427,when gas is detected,1316,72,9,8,4,2,791.0,902.0
+428,turn shuffle off,297,73,1,9,5,1,1.0,97.0
+429,a random cat picture,757,73,1,9,5,1,98.0,214.0
+430,bbc news top stories,863,73,1,9,5,1,215.0,331.0
+431,honk the Tesla car,317,73,1,9,5,1,332.0,438.0
+432,when I don't have connection,1227,73,1,9,5,1,439.0,595.0
+433,on the fan for me,308,73,1,9,5,1,596.0,697.0
+434,when the blinds are raised or lowered,1331,73,1,9,5,1,698.0,899.0
+435,whether the lights are on or off,811,74,2,9,5,1,1.0,173.0
+436,when a file is modified on google drive,1166,74,2,9,5,1,174.0,381.0
+437,add a new playlist,319,74,2,9,5,1,382.0,484.0
+438,wall street journal articles in the world_news section published in the last hour,728,74,2,9,5,1,485.0,902.0
+439,new playlist,152,75,3,9,5,1,1.0,64.0
+440,order me a black drip_coffee,73,75,3,9,5,1,65.0,208.0
+441,when the heat sensor is freezing,1253,75,3,9,5,1,209.0,372.0
+442,film_and_entertainment channels in youtube,942,75,3,9,5,1,373.0,586.0
+443,when the heat sensor is not hot,1312,75,3,9,5,1,587.0,745.0
+444,whether my vacuum is on or off,411,75,3,9,5,1,746.0,899.0
+445,when the switch becomes on,1407,76,4,9,5,1,1.0,133.0
+446,my posts on twitter,984,76,4,9,5,1,134.0,231.0
+447,my contacts,670,76,4,9,5,1,232.0,289.0
+448,a picture from curiosity rover,540,76,4,9,5,1,290.0,442.0
+449,when the state of the heat sensor changes,1382,76,4,9,5,1,443.0,650.0
+450,wsj lifestyle articles,898,76,4,9,5,1,651.0,763.0
+451,cooking channels in youtube,774,76,4,9,5,1,764.0,901.0
+452,once I lose connectivity,1201,77,5,9,5,1,1.0,124.0
+453,shut down my security camera,5,77,5,9,5,1,125.0,268.0
+454,update my facebook status,90,77,5,9,5,1,269.0,397.0
+455,when an appointment on my calendar begins,1465,77,5,9,5,1,398.0,606.0
+456,order me a iced latte,199,77,5,9,5,1,607.0,715.0
+457,the moment the curtains get put down,1451,77,5,9,5,1,716.0,899.0
+458,the linguistic analysis of a sentence,430,78,6,9,5,1,1.0,219.0
+459,when something is detected by my motion sensor,1377,78,6,9,5,1,220.0,483.0
+460,once everyone leaves the room,1353,78,6,9,5,1,484.0,662.0
+461,posts in the washington post compost blog,973,78,6,9,5,1,663.0,901.0
+462,my onedrive files created this week,927,79,7,9,5,1,1.0,194.0
+463,when a new file is created on onedrive,1097,79,7,9,5,1,195.0,403.0
+464,the key of the current track,1045,79,7,9,5,1,404.0,562.0
+465,when my damper lowers,1288,79,7,9,5,1,563.0,686.0
+466,open my window,55,79,7,9,5,1,687.0,775.0
+467,if I opened the window,335,79,7,9,5,1,776.0,904.0
+468,whether my window is open or closed,1001,80,8,9,5,1,1.0,184.0
+469,horse fun facts,486,80,8,9,5,1,185.0,268.0
+470,wall street journal articles in the lifestyle section published in the last hour,657,80,8,9,5,1,269.0,677.0
+471,a picture of a fox,738,80,8,9,5,1,678.0,776.0
+472,how upbeat is this song,611,80,8,9,5,1,777.0,900.0
+473,when I turn off my switch,1075,81,9,9,5,1,1.0,130.0
+474,switch on the vacuum cleaner,320,81,9,9,5,1,131.0,275.0
+475,turn the ac on,254,81,9,9,5,1,276.0,350.0
+476,youtube 's science channels,723,81,9,9,5,1,351.0,490.0
+477,the state of my heater,334,81,9,9,5,1,491.0,605.0
+478,set my hvac to cool,43,81,9,9,5,1,606.0,705.0
+479,when something changes on my icalendar,1245,81,9,9,5,1,706.0,900.0
+480,when somebody dms me,1208,82,1,10,5,2,1.0,102.0
+481,open the damper,247,82,1,10,5,2,103.0,179.0
+482,my google contacts,395,82,1,10,5,2,180.0,271.0
+483,when there is a new top stories on bbc news,1270,82,1,10,5,2,272.0,488.0
+484,a picture from nasa curiosity,730,82,1,10,5,2,489.0,635.0
+485,when the heat sensor is chilly,1135,82,1,10,5,2,636.0,787.0
+486,when a new xkcd is out,1347,82,1,10,5,2,788.0,899.0
+487,open my shades,299,83,2,10,5,2,1.0,118.0
+488,my starred google drive files,483,83,2,10,5,2,119.0,311.0
+489,when it gets smokey,1237,83,2,10,5,2,312.0,454.0
+490,when the curtains get lowered,1091,83,2,10,5,2,455.0,647.0
+491,youtube channels with category automotive,784,83,2,10,5,2,648.0,900.0
+492,wall street journal articles in the world_news section,665,84,3,10,5,2,1.0,276.0
+493,once somebody closes the window,1286,84,3,10,5,2,277.0,437.0
+494,turn the switch on,226,84,3,10,5,2,438.0,533.0
+495,business washington post 's articles,600,84,3,10,5,2,534.0,719.0
+496,my onedrive files,413,84,3,10,5,2,720.0,810.0
+497,switch on the fan,101,84,3,10,5,2,811.0,901.0
+498,pause my spotify,120,85,4,10,5,2,1.0,86.0
+499,latest business insider news,961,85,4,10,5,2,87.0,232.0
+500,the steps i have taken,777,85,4,10,5,2,233.0,348.0
+501,when the sound sensor hears something or stops hearing anything,1149,85,4,10,5,2,349.0,669.0
+502,articles in the new york times travel section,862,85,4,10,5,2,670.0,900.0
+503,switch on the vacuum,8,86,5,10,5,2,1.0,129.0
+504,when there is a new slack message,1400,86,5,10,5,2,130.0,323.0
+505,wall street journal lifestyle,530,86,5,10,5,2,324.0,497.0
+506,the messages i got on twitter,1024,86,5,10,5,2,498.0,671.0
+507,when i create a new file on google drive,1252,86,5,10,5,2,672.0,900.0
+508,youtube channels with category music,849,87,6,10,5,2,1.0,192.0
+509,youtube channels with category diy,664,87,6,10,5,2,193.0,374.0
+510,make a meme,472,87,6,10,5,2,375.0,441.0
+511,increase the volume on my bluetooth speaker,24,87,6,10,5,2,442.0,668.0
+512,when the plug gets connected or disconnected,1147,87,6,10,5,2,669.0,900.0
+513,techcrunch news,397,88,7,10,5,2,1.0,91.0
+514,order me a iced cappuccino,177,88,7,10,5,2,92.0,237.0
+515,make the fan oscillate,279,88,7,10,5,2,238.0,363.0
+516,when my damper is lowered,1235,88,7,10,5,2,364.0,504.0
+517,when the heat sensor is not cold,1357,88,7,10,5,2,505.0,680.0
+518,articles in the new york times us section,675,88,7,10,5,2,681.0,901.0
+519,latest news by ars technica,708,89,8,10,5,2,1.0,162.0
+520,random number facts,643,89,8,10,5,2,163.0,284.0
+521,latest posts in all my rss subscriptions,965,89,8,10,5,2,285.0,511.0
+522,whether the awning is extended or retracted,989,89,8,10,5,2,512.0,753.0
+523,when my appointment ends,1389,89,8,10,5,2,754.0,900.0
+524,my onedrive files that were created most recently,512,90,9,10,5,2,1.0,289.0
+525,when my battery has no juice,1394,90,9,10,5,2,290.0,473.0
+526,make my lg tv quieter,309,90,9,10,5,2,474.0,622.0
+527,when the bedroom gets occupied or becomes empty,1222,90,9,10,5,2,623.0,901.0
+528,when my awnings are extended or retracted,1127,91,1,11,6,1,1.0,217.0
+529,add this song to my playlist,25,91,1,11,6,1,218.0,369.0
+530,when my vacuum turns on or off,1386,91,1,11,6,1,370.0,531.0
+531,washington post business,716,91,1,11,6,1,532.0,663.0
+532,whenever the state of the heat sensor changes,1264,91,1,11,6,1,664.0,900.0
+533,cs294w class slides,698,92,2,11,6,1,1.0,100.0
+534,when there is a new event detected on my security camera,1278,92,2,11,6,1,101.0,385.0
+535,add this to my playlist,17,92,2,11,6,1,386.0,505.0
+536,wall street journal articles in the markets section published in the last hour,653,92,2,11,6,1,506.0,900.0
+537,the blog the_plum_line of the washington post,538,93,3,11,6,1,1.0,241.0
+538,my icalendar events,809,93,3,11,6,1,242.0,352.0
+539,when my security camera detects a person,1066,93,3,11,6,1,353.0,568.0
+540,washington post 's wonkblog blog,435,93,3,11,6,1,569.0,744.0
+541,if there is gas leaking,440,93,3,11,6,1,745.0,875.0
+542,be,1031,93,3,11,6,1,876.0,901.0
+543,order me a white_mocha,322,94,4,11,6,1,1.0,111.0
+544,when no smoke is detected,1290,94,4,11,6,1,112.0,237.0
+545,turn off my vacuum,161,94,4,11,6,1,238.0,328.0
+546,when my damper is raised,1133,94,4,11,6,1,329.0,449.0
+547,cnn news top stories,941,94,4,11,6,1,450.0,550.0
+548,my onedrive files in reverse alphabetical order,457,94,4,11,6,1,551.0,786.0
+549,post a message on slack,22,94,4,11,6,1,787.0,902.0
+550,when the connection is up,1234,95,5,11,6,1,1.0,129.0
+551,if my blinds are open or closed,832,95,5,11,6,1,130.0,288.0
+552,wsj world_news articles,773,95,5,11,6,1,289.0,407.0
+553,images from Imgur User Submitted viral,1022,95,5,11,6,1,408.0,601.0
+554,when top stories on time magazine update,1139,95,5,11,6,1,602.0,805.0
+555,order me a espresso,229,95,5,11,6,1,806.0,904.0
+556,curiosity rover,836,96,6,11,6,1,1.0,95.0
+557,my unimportant emails,1023,96,6,11,6,1,96.0,220.0
+558,when engadget publishes a new article,1202,96,6,11,6,1,221.0,425.0
+559,order me a caramel_macchiato,119,96,6,11,6,1,426.0,585.0
+560,when my awning is open,1442,96,6,11,6,1,586.0,715.0
+561,the instrumentalness of this song,590,96,6,11,6,1,716.0,900.0
+562,whether there is carbon monoxide,552,97,7,11,6,1,1.0,183.0
+563,front page of huffington post,878,97,7,11,6,1,184.0,351.0
+564,my contacts on google,807,97,7,11,6,1,352.0,479.0
+565,local washington post 's articles,705,97,7,11,6,1,480.0,667.0
+566,when the state of the connectivity changes,1220,97,7,11,6,1,668.0,900.0
+567,articles in the washington post in section politics,644,98,8,11,6,1,1.0,257.0
+568,blow the horn in my car,253,98,8,11,6,1,258.0,374.0
+569,use spotify to play some music,33,98,8,11,6,1,375.0,526.0
+570,when how to geek updates,1210,98,8,11,6,1,527.0,648.0
+571,wired top stories,985,98,8,11,6,1,649.0,735.0
+572,a picture of a random dog,456,98,8,11,6,1,736.0,862.0
+573,Steam ID,576,98,8,11,6,1,863.0,904.0
+574,if my fan is on or turned off,604,99,9,11,6,1,1.0,150.0
+575,when no gas is detected,1196,99,9,11,6,1,151.0,270.0
+576,upload a mature picture to Imgure,272,99,9,11,6,1,271.0,440.0
+577,is this song acoustic,503,99,9,11,6,1,441.0,550.0
+578,decrease the volume of my lg tv,88,99,9,11,6,1,551.0,710.0
+579,the new york times technology section,544,99,9,11,6,1,711.0,900.0
+580,when anyone opens the window,1470,100,1,12,6,2,1.0,143.0
+581,when I turn on the plug,1186,100,1,12,6,2,144.0,261.0
+582,order me a caramel_mocha,35,100,1,12,6,2,262.0,384.0
+583,the number of steps i took,368,100,1,12,6,2,385.0,517.0
+584,posts in the washington post right_turn blog,442,100,1,12,6,2,518.0,740.0
+585,bing search,433,100,1,12,6,2,741.0,798.0
+586,my calendar schedule,659,100,1,12,6,2,799.0,901.0
+587,the new york times business section,655,101,2,12,6,2,1.0,177.0
+588,whether my vacuum is cleaning,377,101,2,12,6,2,178.0,324.0
+589,when the vacuum is docking,1387,101,2,12,6,2,325.0,456.0
+590,once my smart plug is disconnected,1423,101,2,12,6,2,457.0,628.0
+591,the power state of my lights,380,101,2,12,6,2,629.0,770.0
+592,youtube 's gaming channels,938,101,2,12,6,2,771.0,902.0
+593,youtube channels with category best_of_youtube,978,102,3,12,6,2,1.0,261.0
+594,a random snail fact,680,102,3,12,6,2,262.0,387.0
+595,turn shuffle on,122,102,3,12,6,2,388.0,493.0
+596,when there is a new article on the mozilla blog,1063,102,3,12,6,2,494.0,759.0
+597,my tasks on Wunderlist,956,102,3,12,6,2,760.0,900.0
+598,if my battery starts running out,1280,103,4,12,6,2,1.0,175.0
+599,when my vacuum is off,1339,103,4,12,6,2,176.0,295.0
+600,when there is gas,1225,103,4,12,6,2,296.0,395.0
+601,mute my lg webos tv,165,103,4,12,6,2,396.0,505.0
+602,turn on the lights,205,103,4,12,6,2,506.0,610.0
+603,the count of steps from fitbit,429,103,4,12,6,2,611.0,775.0
+604,when my curtains lower,1469,103,4,12,6,2,776.0,900.0
+605,play music on my speaker,57,104,5,12,6,2,1.0,132.0
+606,make a tweet,75,104,5,12,6,2,133.0,204.0
+607,channels in category sports on youtube,431,104,5,12,6,2,205.0,406.0
+608,order me a black white_mocha,131,104,5,12,6,2,407.0,558.0
+609,some animated gif,636,104,5,12,6,2,559.0,655.0
+610,the new york times front page,859,104,5,12,6,2,656.0,812.0
+611,a gif from giphy,858,104,5,12,6,2,813.0,904.0
+612,sports channels in youtube,412,105,6,12,6,2,1.0,140.0
+613,when my shades lower,1355,105,6,12,6,2,141.0,250.0
+614,close my shades,280,105,6,12,6,2,251.0,335.0
+615,when i record a new weight on fitbit,1126,105,6,12,6,2,336.0,525.0
+616,have my security camera start recording,96,105,6,12,6,2,526.0,730.0
+617,play the next song,11,105,6,12,6,2,731.0,830.0
+618,mashable news,488,105,6,12,6,2,831.0,905.0
+619,turn the cooling system on,50,106,7,12,6,2,1.0,141.0
+620,my google drive files in reverse alphabetical order,359,106,7,12,6,2,142.0,407.0
+621,when there is no more gas,1392,106,7,12,6,2,408.0,543.0
+622,when there is a new asteroid passing by,1383,106,7,12,6,2,544.0,749.0
+623,I want to switch off the fan,232,106,7,12,6,2,750.0,900.0
+624,when a meeting ends,1295,107,8,12,6,2,1.0,98.0
+625,my dropbox quota,531,107,8,12,6,2,99.0,181.0
+626,lower the blinds,287,107,8,12,6,2,182.0,264.0
+627,order me a flat_white,326,107,8,12,6,2,265.0,372.0
+628,my calendar events,1051,107,8,12,6,2,373.0,465.0
+629,the BPM of the current track,813,107,8,12,6,2,466.0,608.0
+630,when the toilet is being used,1247,107,8,12,6,2,609.0,756.0
+631,instagram pictures i uploaded,699,107,8,12,6,2,757.0,904.0
+632,if my shutters are open or closed,449,108,9,12,6,2,1.0,167.0
+633,my twitter direct messages,580,108,9,12,6,2,168.0,299.0
+634,the lexical analysis of a sentence,1055,108,9,12,6,2,300.0,471.0
+635,change my slack presence,186,108,9,12,6,2,472.0,593.0
+636,new york times,470,108,9,12,6,2,594.0,665.0
+637,when the new york times publishes a new article,1303,108,9,12,6,2,666.0,902.0
+638,when my shutters are open,1370,109,1,13,7,1,1.0,150.0
+639,order me a black americano,117,109,1,13,7,1,151.0,305.0
+640,when the living room becomes occupied or empty,1462,109,1,13,7,1,306.0,560.0
+641,the moment the blinds get put down,1077,109,1,13,7,1,561.0,755.0
+642,washington post national,1036,109,1,13,7,1,756.0,900.0
+643,when nothing moves in front of my motion sensor,1131,110,2,13,7,1,1.0,237.0
+644,play the last song on spotify,18,110,2,13,7,1,238.0,384.0
+645,reduce the volume of my lg tv,198,110,2,13,7,1,385.0,531.0
+646,the new york times world section,814,110,2,13,7,1,532.0,693.0
+647,open my curtains for me,236,110,2,13,7,1,694.0,810.0
+648,when you smell gas,1305,110,2,13,7,1,811.0,902.0
+649,tell the vacuum to pause cleaning,4,111,3,13,7,1,1.0,203.0
+650,when new slides are added to cs294s website,1371,111,3,13,7,1,204.0,456.0
+651,set the power on my lg tv to off,159,111,3,13,7,1,457.0,654.0
+652,youtube channels with category recommended,623,111,3,13,7,1,655.0,902.0
+653,the last event detected by my security camera,857,112,4,13,7,1,1.0,258.0
+654,my google drive files modified today,1050,112,4,13,7,1,259.0,471.0
+655,animation channels in youtube,854,112,4,13,7,1,472.0,649.0
+656,when I bring up my shades,1409,112,4,13,7,1,650.0,807.0
+657,a random fox,591,112,4,13,7,1,808.0,900.0
+658,channels in category comedy on youtube,536,113,5,13,7,1,1.0,205.0
+659,upload a picture to Imgur,30,113,5,13,7,1,206.0,345.0
+660,wsj opinions articles,902,113,5,13,7,1,346.0,465.0
+661,when the motion sensor stops detecting movement,1293,113,5,13,7,1,466.0,715.0
+662,how danceable is the current track,578,113,5,13,7,1,716.0,900.0
+663,when i send a message on omlet,1258,114,6,13,7,1,1.0,156.0
+664,when the internet goes down,1297,114,6,13,7,1,157.0,297.0
+665,post on slack,62,114,6,13,7,1,298.0,368.0
+666,pull the curtains close,222,114,6,13,7,1,369.0,489.0
+667,when the switch is turned off,1163,114,6,13,7,1,490.0,640.0
+668,xkcd,571,114,6,13,7,1,641.0,666.0
+669,when my blinds are raised,1074,114,6,13,7,1,667.0,797.0
+670,shut down the lights,87,114,6,13,7,1,798.0,903.0
+671,set me as away on slack,37,115,7,13,7,1,1.0,138.0
+672,sticky notes,466,115,7,13,7,1,139.0,221.0
+673,get the temperature of my Tesla car,559,115,7,13,7,1,222.0,419.0
+674,turn on my fan,136,115,7,13,7,1,420.0,512.0
+675,when my fan starts or stops oscillating,1158,115,7,13,7,1,513.0,730.0
+676,when the heat sensor is normal,1101,115,7,13,7,1,731.0,903.0
+677,when something moves in front of my security camera,1246,116,8,13,7,1,1.0,279.0
+678,when there is a new article on life hacker,1332,116,8,13,7,1,280.0,513.0
+679,play something on my bluetooth speaker,129,116,8,13,7,1,514.0,727.0
+680,trump quotes,1026,116,8,13,7,1,728.0,811.0
+681,movie details,824,116,8,13,7,1,812.0,900.0
+682,when huffpost front page updates,1376,117,9,13,7,1,1.0,175.0
+683,when the smoke detector starts or stops detecting smoke,1300,117,9,13,7,1,176.0,465.0
+684,when a new xkcd is out in the what-if section,1328,117,9,13,7,1,466.0,705.0
+685,when my sound sensor detects someone,1296,117,9,13,7,1,706.0,900.0
+686,when I extend my awnings,1088,118,1,14,7,2,1.0,134.0
+687,when an asteroid passes close to earth,1113,118,1,14,7,2,135.0,338.0
+688,snail fun facts,634,118,1,14,7,2,339.0,427.0
+689,if i update my instagram,1073,118,1,14,7,2,428.0,561.0
+690,once people enter the room,1268,118,1,14,7,2,562.0,705.0
+691,the acousticness of the current track,700,118,1,14,7,2,706.0,904.0
+692,please turn on the fan,318,119,2,14,7,2,1.0,147.0
+693,mature images from Imgur,820,119,2,14,7,2,148.0,304.0
+694,time estimate for uber,630,119,2,14,7,2,305.0,451.0
+695,channels in category science on youtube,929,119,2,14,7,2,452.0,683.0
+696,the acousticness of the current song,579,119,2,14,7,2,684.0,900.0
+697,whether the sound sensor is detecting sound or not,547,120,3,14,7,2,1.0,255.0
+698,the blog compost of the washington post,827,120,3,14,7,2,256.0,455.0
+699,youtube 's cooking channels,658,120,3,14,7,2,456.0,595.0
+700,turn off the light,3,120,3,14,7,2,596.0,690.0
+701,if the battery is low or normal,474,120,3,14,7,2,691.0,850.0
+702,call uber,260,120,3,14,7,2,851.0,900.0
+703,after sunset,1160,121,4,14,7,2,1.0,79.0
+704,latest TED talks,645,121,4,14,7,2,80.0,178.0
+705,when the front page of huffington post updates,1228,121,4,14,7,2,179.0,427.0
+706,if the heat sensor is hot or cold,856,121,4,14,7,2,428.0,611.0
+707,an interesting factoid about snail,505,121,4,14,7,2,612.0,800.0
+708,a fact about dog,662,121,4,14,7,2,801.0,899.0
+709,when matrix67 publishes something new,1350,122,5,14,7,2,1.0,186.0
+710,get the climate state of my Tesla car,1047,122,5,14,7,2,187.0,372.0
+711,whether anyone opened the door,610,122,5,14,7,2,373.0,523.0
+712,mute my lg tv,324,122,5,14,7,2,524.0,589.0
+713,after sunrise,1364,122,5,14,7,2,590.0,655.0
+714,open the window,168,122,5,14,7,2,656.0,731.0
+715,if the gas sensor is detecting gas,761,122,5,14,7,2,732.0,902.0
+716,sports washington post 's articles,419,123,6,14,7,2,1.0,179.0
+717,tweets in my timeline,724,123,6,14,7,2,180.0,293.0
+718,when someone comments on a github issue,1162,123,6,14,7,2,294.0,497.0
+719,articles on nature,697,123,6,14,7,2,498.0,596.0
+720,when somebody posts a message to slack,1391,123,6,14,7,2,597.0,795.0
+721,put the damper down,47,123,6,14,7,2,796.0,899.0
+722,whether the sound sensor hears anything,682,124,7,14,7,2,1.0,246.0
+723,shut the window,267,124,7,14,7,2,247.0,372.0
+724,news from abc,948,124,7,14,7,2,373.0,488.0
+725,when the battery is running low,1444,124,7,14,7,2,489.0,694.0
+726,when the curtains open or close,1153,124,7,14,7,2,695.0,900.0
+727,when there is a new video from youtube channels I follow,1378,125,8,14,7,2,1.0,308.0
+728,when I turn off the vacuum,1446,125,8,14,7,2,309.0,466.0
+729,when i receive an email marked as important,1117,125,8,14,7,2,467.0,709.0
+730,when the door is opened or closed,1452,125,8,14,7,2,710.0,902.0
+731,my google drive files that were created most recently,736,126,9,14,7,2,1.0,276.0
+732,when my weight changes on fitbit,1337,126,9,14,7,2,277.0,447.0
+733,when there is a new post in the xkcd what-if blog,1159,126,9,14,7,2,448.0,703.0
+734,get the battery level of my Tesla car,1049,126,9,14,7,2,704.0,899.0
+735,order me a black mocha,40,127,1,15,8,1,1.0,113.0
+736,my onedrive files that changed most recently,883,127,1,15,8,1,114.0,336.0
+737,help me switch on my vacuum,80,127,1,15,8,1,337.0,474.0
+738,Stanford news,796,127,1,15,8,1,475.0,542.0
+739,when sunrise,1121,127,1,15,8,1,543.0,605.0
+740,turn off my lg tv,95,127,1,15,8,1,606.0,693.0
+741,post a picture on twitter,304,127,1,15,8,1,694.0,821.0
+742,flash the lights,76,127,1,15,8,1,822.0,904.0
+743,when techcrunch news updates,1089,128,2,15,8,1,1.0,144.0
+744,tech channels in youtube,1028,128,2,15,8,1,145.0,268.0
+745,once somebody opens the window,1214,128,2,15,8,1,269.0,422.0
+746,reddit front page posts published in the last hour,939,128,2,15,8,1,423.0,676.0
+747,fortnite stats ,931,128,2,15,8,1,677.0,755.0
+748,once the vacuum switches off,1224,128,2,15,8,1,756.0,899.0
+749,posts on facebook,970,129,3,15,8,1,1.0,119.0
+750,make the fan swing,108,129,3,15,8,1,120.0,243.0
+751,the science section of the new york times,885,129,3,15,8,1,244.0,482.0
+752,make a new facebook post,182,129,3,15,8,1,483.0,636.0
+753,when lifehacker updates,1107,129,3,15,8,1,637.0,785.0
+754,oscillate my fan,193,129,3,15,8,1,786.0,899.0
+755,articles in the washington post in section world,516,130,4,15,8,1,1.0,252.0
+756,news on star wars,331,130,4,15,8,1,253.0,349.0
+757,off the fan,328,130,4,15,8,1,350.0,416.0
+758,the key of this song,722,130,4,15,8,1,417.0,528.0
+759,youtube 's causes channels,747,130,4,15,8,1,529.0,670.0
+760,pause my vacuum,94,130,4,15,8,1,671.0,757.0
+761,once my vacuum switches on,1184,130,4,15,8,1,758.0,899.0
+762,a snapshot of my security camera,400,131,5,15,8,1,1.0,181.0
+763,gaming youtube channels,900,131,5,15,8,1,182.0,317.0
+764,when a gas leak is detected,1320,131,5,15,8,1,318.0,473.0
+765,youtube channels with category from_tv,851,131,5,15,8,1,474.0,684.0
+766,turn on my switch,53,131,5,15,8,1,685.0,790.0
+767,posts on phdcomics,534,131,5,15,8,1,791.0,901.0
+768,play something on my speaker,158,132,6,15,8,1,1.0,158.0
+769,trump quote,371,132,6,15,8,1,159.0,231.0
+770,if my fan is switched on or switched off,690,132,6,15,8,1,232.0,449.0
+771,an xkcd comic at random,569,132,6,15,8,1,450.0,582.0
+772,when ars technica publishes a new article,1437,132,6,15,8,1,583.0,805.0
+773,turn off shuffle,231,132,6,15,8,1,806.0,903.0
+774,when my fan gets turned on,1256,133,7,15,8,1,1.0,170.0
+775,create a new empty folder in dropbox,83,133,7,15,8,1,171.0,390.0
+776,set my bluetooth speaker as default,201,133,7,15,8,1,391.0,605.0
+777,articles in the washington post in section national,741,133,7,15,8,1,606.0,900.0
+778,whether the sensor is detecting smoke,537,134,8,15,8,1,1.0,189.0
+779,my security camera,375,134,8,15,8,1,190.0,283.0
+780,instagrams,742,134,8,15,8,1,284.0,337.0
+781,youtube 's paid channels,903,134,8,15,8,1,338.0,461.0
+782,when there is a new post on matrix67 blog,1086,134,8,15,8,1,462.0,670.0
+783,once the vacuum gets docked,1422,134,8,15,8,1,671.0,809.0
+784,all meme templates,554,134,8,15,8,1,810.0,903.0
+785,channels in category gaming on youtube,983,135,9,15,8,1,1.0,201.0
+786,put the blinds down,144,135,9,15,8,1,202.0,307.0
+787,price of game on Steam,822,135,9,15,8,1,308.0,428.0
+788,my gmail inbox,639,135,9,15,8,1,429.0,509.0
+789,youtube 's animation channels,511,135,9,15,8,1,510.0,665.0
+790,new howtogeek articles,455,135,9,15,8,1,666.0,786.0
+791,put the curtains down,14,135,9,15,8,1,787.0,902.0
+792,add an album to my playlist,262,136,1,16,8,2,1.0,137.0
+793,news on fortune,1005,136,1,16,8,2,138.0,214.0
+794,imgur usersub,1040,136,1,16,8,2,215.0,281.0
+795,when the nyt publishes a new article,1132,136,1,16,8,2,282.0,463.0
+796,when the heat sensor is heating up,1454,136,1,16,8,2,464.0,635.0
+797,new lifehacker articles,669,136,1,16,8,2,636.0,752.0
+798,wall street journal technology,933,136,1,16,8,2,753.0,904.0
+799,when a new message is posted on slack,1359,137,2,16,8,2,1.0,194.0
+800,when slashdot news updates,1341,137,2,16,8,2,195.0,333.0
+801,wake up the Tesla car,194,137,2,16,8,2,334.0,447.0
+802,when i make a new twitter post,1255,137,2,16,8,2,448.0,606.0
+803,when I close the door,1358,137,2,16,8,2,607.0,720.0
+804,when it is time for my appointment,1152,137,2,16,8,2,721.0,899.0
+805,post something on my tumblr blog,179,138,3,16,8,2,1.0,164.0
+806,when my switch is on,1374,138,3,16,8,2,165.0,268.0
+807,wiki call for paper,993,138,3,16,8,2,269.0,367.0
+808,stop the vacuum,44,138,3,16,8,2,368.0,446.0
+809,cs294w slides,996,138,3,16,8,2,447.0,515.0
+810,a giphy picture,798,138,3,16,8,2,516.0,594.0
+811,make a playlist,51,138,3,16,8,2,595.0,673.0
+812,latest posts on an rss feed,718,138,3,16,8,2,674.0,812.0
+813,a fact about horse,355,138,3,16,8,2,813.0,906.0
+814,when the time of my meetings changes,1369,139,4,16,8,2,1.0,182.0
+815,slack channel history,998,139,4,16,8,2,183.0,289.0
+816,the moment the awnings get retracted,1412,139,4,16,8,2,290.0,471.0
+817,when my plug is switched on or off,1336,139,4,16,8,2,472.0,643.0
+818,flash the Tesla car,137,139,4,16,8,2,644.0,740.0
+819,keep my curtains,7,139,4,16,8,2,741.0,822.0
+820,turn off repeat,181,139,4,16,8,2,823.0,899.0
+821,today's asteroid,739,140,5,16,8,2,1.0,97.0
+822,channels in category film_and_entertainment on youtube,894,140,5,16,8,2,98.0,384.0
+823,when someone commits to github,1302,140,5,16,8,2,385.0,551.0
+824,unmute my lg webos tv,230,140,5,16,8,2,552.0,673.0
+825,channels in category automotive on youtube,592,140,5,16,8,2,674.0,900.0
+826,when a file is created in google drive,1093,141,6,16,8,2,1.0,195.0
+827,when the time of some event changes on my calendar,1261,141,6,16,8,2,196.0,450.0
+828,when the mozilla blog updates,1211,141,6,16,8,2,451.0,600.0
+829,make my lg tv louder,149,141,6,16,8,2,601.0,705.0
+830,when a file changes in my google drive,1455,141,6,16,8,2,706.0,900.0
+831,posts in the washington post post_everything blog,672,142,7,16,8,2,1.0,247.0
+832,my oldest google drive files,909,142,7,16,8,2,248.0,389.0
+833,articles in the new york times business section,572,142,7,16,8,2,390.0,626.0
+834,when my vacuum gets switched off,1272,142,7,16,8,2,627.0,788.0
+835,help me on my fan,243,142,7,16,8,2,789.0,875.0
+836,imgur,717,142,7,16,8,2,876.0,902.0
+837,the best images from the Internet,677,143,8,16,8,2,1.0,223.0
+838,if my window is open or closed,1018,143,8,16,8,2,224.0,431.0
+839,wall street journal articles in the us_business section published in the last hour,514,143,8,16,8,2,432.0,899.0
+840,washington post 's post_partisan blog,959,144,9,16,8,2,1.0,199.0
+841,close my curtains,104,144,9,16,8,2,200.0,298.0
+842,when new blog posted on techcrunch,1226,144,9,16,8,2,299.0,482.0
+843,a fact about cat,439,144,9,16,8,2,483.0,576.0
+844,mark me as away on slack,289,144,9,16,8,2,577.0,710.0
+845,when my security camera hears sound,1318,144,9,16,8,2,711.0,899.0
+846,when stanford press publishes a new book,1367,145,1,17,9,1,1.0,224.0
+847,my top tracks,702,145,1,17,9,1,225.0,313.0
+848,when the smoke clears,1311,145,1,17,9,1,314.0,442.0
+849,when the state of my battery changes,1411,145,1,17,9,1,443.0,646.0
+850,post a picture on tumblr,111,145,1,17,9,1,647.0,790.0
+851,when sun goes down,1418,145,1,17,9,1,791.0,904.0
+852,once my fan starts or stops oscillating,1413,146,2,17,9,1,1.0,203.0
+853,a picture from giphy,398,146,2,17,9,1,204.0,311.0
+854,the Imgur front page,427,146,2,17,9,1,312.0,419.0
+855,go back to the last song,157,146,2,17,9,1,420.0,547.0
+856,when the motion sensor sees something move,1070,146,2,17,9,1,548.0,765.0
+857,make a blog post on tumblr,197,146,2,17,9,1,766.0,903.0
+858,the blog politics of the washington post,852,147,3,17,9,1,1.0,207.0
+859,get status of my current ride,447,147,3,17,9,1,208.0,359.0
+860,when everyone leaves the room,1195,147,3,17,9,1,360.0,511.0
+861,increase volume on my speaker,15,147,3,17,9,1,512.0,663.0
+862,when nobody is using the toilet,1100,147,3,17,9,1,664.0,825.0
+863,skip this song,184,147,3,17,9,1,826.0,902.0
+864,a piece of animal trivia,401,148,4,17,9,1,1.0,126.0
+865,create a file in google drive,128,148,4,17,9,1,127.0,277.0
+866,when someone is in the living room,1182,148,4,17,9,1,278.0,453.0
+867,switch off the vacuum,126,148,4,17,9,1,454.0,564.0
+868,create a new text file in onedrive,42,148,4,17,9,1,565.0,740.0
+869,upload a picture to my facebook,67,148,4,17,9,1,741.0,901.0
+870,recommended channels in youtube,951,149,5,17,9,1,1.0,168.0
+871,a random xkcd,789,149,5,17,9,1,169.0,246.0
+872,ask the vacuum to start cleaning,221,149,5,17,9,1,247.0,419.0
+873,when the sound sensor stops hearing anything,1334,149,5,17,9,1,420.0,652.0
+874,when there is a new post on any of my rss feeds,1109,149,5,17,9,1,653.0,900.0
+875,tell my vacuum cleaner to stop,72,150,6,17,9,1,1.0,154.0
+876,is the current song an instrumental,779,150,6,17,9,1,155.0,333.0
+877,put the curtains up,183,150,6,17,9,1,334.0,432.0
+878,latest mashable news,386,150,6,17,9,1,433.0,536.0
+879,when my security camera detects motion,1323,150,6,17,9,1,537.0,730.0
+880,upload a private picture to Imgur,285,150,6,17,9,1,731.0,899.0
+881,order me a iced macchiato,314,151,7,17,9,1,1.0,126.0
+882,my linkedin profile,490,151,7,17,9,1,127.0,222.0
+883,raise volume on my bluetooth speaker,27,151,7,17,9,1,223.0,403.0
+884,the health section of the new york times,758,151,7,17,9,1,404.0,604.0
+885,skip this song on spotify,276,151,7,17,9,1,605.0,730.0
+886,whether the door is open or closed,497,151,7,17,9,1,731.0,901.0
+887,when fortune publishes a news,1373,152,8,17,9,1,1.0,161.0
+888,my oldest onedrive files,1003,152,8,17,9,1,162.0,297.0
+889,the moment the blinds are put up,1429,152,8,17,9,1,298.0,473.0
+890,turn on my security camera,316,152,8,17,9,1,474.0,619.0
+891,when there is a person in front of my security camera,1221,152,8,17,9,1,620.0,900.0
+892,tell the vacuum to return to base,84,153,9,17,9,1,1.0,172.0
+893,when the heat sensor is cooling down,1279,153,9,17,9,1,173.0,359.0
+894,whether my vacuum getting charged,650,153,9,17,9,1,360.0,531.0
+895,world washington post 's articles,776,153,9,17,9,1,532.0,703.0
+896,if my fan is oscillating or stationary,394,153,9,17,9,1,704.0,900.0
+897,the blog powerpost of the washington post,924,154,1,18,9,2,1.0,208.0
+898,if I extended the awning,815,154,1,18,9,2,209.0,331.0
+899,nasa 's apod,778,154,1,18,9,2,332.0,394.0
+900,lower the damper,31,154,1,18,9,2,395.0,477.0
+901,when there are people in the corridor,1266,154,1,18,9,2,478.0,665.0
+902,the blog post_everything of the washington post,888,154,1,18,9,2,666.0,903.0
+903,articles on howtogeek,608,155,2,18,9,2,1.0,107.0
+904,the blog fact_checker of the washington post,363,155,2,18,9,2,108.0,329.0
+905,paid youtube channels,1013,155,2,18,9,2,330.0,436.0
+906,whoever opens the door,1310,155,2,18,9,2,437.0,548.0
+907,when the blinds get lowered,1128,155,2,18,9,2,549.0,685.0
+908,when a dangerous asteroid is close to earth,1191,155,2,18,9,2,686.0,902.0
+909,washington post 's world_views blog,365,156,3,18,9,2,1.0,184.0
+910,automotive channels in youtube,780,156,3,18,9,2,185.0,343.0
+911,when i send or receive an omlet message,1445,156,3,18,9,2,344.0,547.0
+912,close my blinds,60,156,3,18,9,2,548.0,631.0
+913,automatically retweet anyone i follow,1262,156,3,18,9,2,632.0,825.0
+914,turn on repeat,167,156,3,18,9,2,826.0,904.0
+915,the valence of this track,560,157,4,18,9,2,1.0,133.0
+916,the step count from fitbit,406,157,4,18,9,2,134.0,271.0
+917,latest articles by ars technica,656,157,4,18,9,2,272.0,434.0
+918,if the router is connected or disconnected,804,157,4,18,9,2,435.0,652.0
+919,when there is a new top stories on time magazine,1173,157,4,18,9,2,653.0,900.0
+920,whoever closes the door,1456,158,5,18,9,2,1.0,142.0
+921,stop the vacuum cleaner,155,158,5,18,9,2,143.0,284.0
+922,whether the blinds are raised or lowered,369,158,5,18,9,2,285.0,511.0
+923,when the curtains are put up,1327,158,5,18,9,2,512.0,678.0
+924,news from american broadcasting company,513,158,5,18,9,2,679.0,900.0
+925,youtube channels with category comedy,582,159,6,18,9,2,1.0,209.0
+926,news on nature,1059,159,6,18,9,2,210.0,303.0
+927,the state of the router,1039,159,6,18,9,2,304.0,442.0
+928,when i receive a message on slack,1313,159,6,18,9,2,443.0,631.0
+929,a random fox picture,974,159,6,18,9,2,632.0,755.0
+930,a random piece of wisdom,840,159,6,18,9,2,756.0,899.0
+931,an interesting factoid about horse,508,160,7,18,9,2,1.0,183.0
+932,science youtube channels,897,160,7,18,9,2,184.0,316.0
+933,once my switch is off,1176,160,7,18,9,2,317.0,434.0
+934,a cat picture,729,160,7,18,9,2,435.0,512.0
+935,information on wikicfp,1032,160,7,18,9,2,513.0,635.0
+936,pull the curtains open,263,160,7,18,9,2,636.0,758.0
+937,when the air smells smokey,1440,160,7,18,9,2,759.0,901.0
+938,interesting facts about numbers,855,161,8,18,9,2,1.0,169.0
+939,raise the curtains,266,161,8,18,9,2,170.0,273.0
+940,the front page of reddit,750,161,8,18,9,2,274.0,407.0
+941,my google drive files that changed most recently,458,161,8,18,9,2,408.0,661.0
+942,shuffle my spotify,93,161,8,18,9,2,662.0,765.0
+943,add a song to my playlist,138,161,8,18,9,2,766.0,904.0
+944,national washington post 's articles,388,162,9,18,9,2,1.0,183.0
+945,when the heat sensor is cold,1062,162,9,18,9,2,184.0,326.0
+946,emails arrived today,637,162,9,18,9,2,327.0,429.0
+947,send an email to somebody,258,162,9,18,9,2,430.0,557.0
+948,upload a picture to Imgur and mark it mature,103,162,9,18,9,2,558.0,780.0
+949,washington post opinions,906,162,9,18,9,2,781.0,903.0
+950,play an artist,208,163,1,19,10,1,1.0,89.0
+951,causes channels in youtube,689,163,1,19,10,1,90.0,238.0
+952,news_and_politics channels in youtube,963,163,1,19,10,1,239.0,442.0
+953,open my shutters for me,112,163,1,19,10,1,443.0,576.0
+954,comedy channels in youtube,947,163,1,19,10,1,577.0,725.0
+955,instagram pictures on my account,892,163,1,19,10,1,726.0,904.0
+956,the temperature on my thermostat,333,164,2,19,10,1,1.0,185.0
+957,when the corridor becomes occupied or empty,1218,164,2,19,10,1,186.0,425.0
+958,the sports section of the new york times,770,164,2,19,10,1,426.0,650.0
+959,when the washington post publishes an article,1103,164,2,19,10,1,651.0,900.0
+960,youtube 's diy channels,917,165,3,19,10,1,1.0,131.0
+961,if I raised the curtains,337,165,3,19,10,1,132.0,267.0
+962,latest posts in all my rss feeds,808,165,3,19,10,1,268.0,443.0
+963,an aphorism,949,165,3,19,10,1,444.0,514.0
+964,when the smoke goes away,1254,165,3,19,10,1,515.0,650.0
+965,retract the awnings,146,165,3,19,10,1,651.0,761.0
+966,},753,165,3,19,10,1,762.0,782.0
+967,color loop the lights,242,165,3,19,10,1,783.0,903.0
+968,when I upload a picture on instagram,1102,166,4,19,10,1,1.0,191.0
+969,when my window closes,1333,166,4,19,10,1,192.0,307.0
+970,cats,1058,166,4,19,10,1,308.0,338.0
+971,the weather outside,389,166,4,19,10,1,339.0,444.0
+972,when the room gets occupied or becomes empty,1365,166,4,19,10,1,445.0,675.0
+973,close the damper,202,166,4,19,10,1,676.0,766.0
+974,enable my security camera,68,166,4,19,10,1,767.0,902.0
+975,where is my Tesla car?,354,167,5,19,10,1,1.0,117.0
+976,a random dog fact,733,167,5,19,10,1,118.0,209.0
+977,my emails on gmail,428,167,5,19,10,1,210.0,306.0
+978,when the plug gets plugged,1324,167,5,19,10,1,307.0,443.0
+979,whether my awnings are open or closed,385,167,5,19,10,1,444.0,635.0
+980,omlet messages i received,475,167,5,19,10,1,636.0,767.0
+981,top stories on wired news,468,167,5,19,10,1,768.0,899.0
+982,the energy of this song,515,168,6,19,10,1,1.0,138.0
+983,turn my fan,207,168,6,19,10,1,139.0,216.0
+984,channels in category beauty_and_fashion on youtube,683,168,6,19,10,1,217.0,489.0
+985,my newest google drive files,589,168,6,19,10,1,490.0,652.0
+986,posts in the washington post world_views blog,990,168,6,19,10,1,653.0,900.0
+987,when something is detected by my security camera,1277,169,7,19,10,1,1.0,249.0
+988,raise the volume of my lg tv,312,169,7,19,10,1,250.0,398.0
+989,ask my vacuum to wait,74,169,7,19,10,1,399.0,512.0
+990,when the router gets disconnected,1200,169,7,19,10,1,513.0,686.0
+991,news on techcrunch,481,169,7,19,10,1,687.0,785.0
+992,latest star wars news,678,169,7,19,10,1,786.0,899.0
+993,if there is a new picture on my instagram,1104,170,8,19,10,1,1.0,235.0
+994,make my security camera stop recording,273,170,8,19,10,1,236.0,455.0
+995,wsj markets articles,494,170,8,19,10,1,456.0,585.0
+996,tech youtube channels,834,170,8,19,10,1,586.0,720.0
+997,when I have new favorite songs,1203,170,8,19,10,1,721.0,900.0
+998,when an event on my icalendar ends,1189,171,9,19,10,1,1.0,180.0
+999,when someone i follow tweets,1242,171,9,19,10,1,181.0,330.0
+1000,when the curtains finish lowering,1198,171,9,19,10,1,331.0,505.0
+1001,politics washington post 's articles,671,171,9,19,10,1,506.0,695.0
+1002,whether the heat sensor is warm or cold,434,171,9,19,10,1,696.0,900.0
+1003,how positive is this song,445,172,1,20,10,2,1.0,141.0
+1004,save this song,327,172,1,20,10,2,142.0,227.0
+1005,once my vacuum returns to base,1340,172,1,20,10,2,228.0,393.0
+1006,when you smell smoke,1098,172,1,20,10,2,394.0,509.0
+1007,open my damper for me,41,172,1,20,10,2,510.0,630.0
+1008,get info on people I know,558,172,1,20,10,2,631.0,771.0
+1009,the fitbit step counter,706,172,1,20,10,2,772.0,902.0
+1010,washington post 's fact_checker blog,981,173,2,20,10,2,1.0,184.0
+1011,when nature issue updates,1141,173,2,20,10,2,185.0,313.0
+1012,put the shades down,215,173,2,20,10,2,314.0,412.0
+1013,youtube channels i follow,568,173,2,20,10,2,413.0,541.0
+1014,wikicfp,721,173,2,20,10,2,542.0,580.0
+1015,when there is a new article on nature,1155,173,2,20,10,2,581.0,769.0
+1016,when my top tracks changes,1190,173,2,20,10,2,770.0,903.0
+1017,the energy of the current song,969,174,3,20,10,2,1.0,164.0
+1018,bring in the shutters,291,174,3,20,10,2,165.0,283.0
+1019,news on huffington post,871,174,3,20,10,2,284.0,412.0
+1020,when I am low on battery,1435,174,3,20,10,2,413.0,546.0
+1021,channels in category paid on youtube,861,174,3,20,10,2,547.0,740.0
+1022,make the vacuum start cleaning,150,174,3,20,10,2,741.0,904.0
+1023,if my heat sensor is hot,463,175,4,20,10,2,1.0,121.0
+1024,Steam price,1009,175,4,20,10,2,122.0,177.0
+1025,the liveness of this song,844,175,4,20,10,2,178.0,303.0
+1026,my steps from fitbit,835,175,4,20,10,2,304.0,404.0
+1027,repeat this song,233,175,4,20,10,2,405.0,485.0
+1028,when the blinds finish lowering,1209,175,4,20,10,2,486.0,641.0
+1029,open the shutters,187,175,4,20,10,2,642.0,727.0
+1030,name a baby,693,175,4,20,10,2,728.0,783.0
+1031,latest news on engadget,1038,175,4,20,10,2,784.0,899.0
+1032,when the damper is opened or closed,1197,176,5,20,10,2,1.0,182.0
+1033,my twitter dms,866,176,5,20,10,2,183.0,259.0
+1034,turn on my lg webos tv,32,176,5,20,10,2,260.0,376.0
+1035,washington post 's right_turn blog,350,176,5,20,10,2,377.0,553.0
+1036,when I have enough battery,1363,176,5,20,10,2,554.0,690.0
+1037,a random gif from giphy,710,176,5,20,10,2,691.0,812.0
+1038,close the window,261,176,5,20,10,2,813.0,899.0
+1039,whether the bedroom is occupied or empty,709,177,6,20,10,2,1.0,204.0
+1040,whether the router is connected or not,518,177,6,20,10,2,205.0,398.0
+1041,wall street journal us_business,348,177,6,20,10,2,399.0,557.0
+1042,when the window is opened or closed,1274,177,6,20,10,2,558.0,736.0
+1043,bing image search,506,177,6,20,10,2,737.0,825.0
+1044,the upbeatness,913,177,6,20,10,2,826.0,899.0
+1045,when reddit front page updates,1194,178,7,20,10,2,1.0,161.0
+1046,if my damper is open or closed,810,178,7,20,10,2,162.0,322.0
+1047,when a new message is sent on slack,1241,178,7,20,10,2,323.0,508.0
+1048,washington post politics,890,178,7,20,10,2,509.0,639.0
+1049,sfw images from Imgur,737,178,7,20,10,2,640.0,755.0
+1050,automotive youtube channels,884,178,7,20,10,2,756.0,901.0
+1051,play my playlist,185,179,8,20,10,2,1.0,85.0
+1052,when new class notes are added to cs294s class wesbite,1144,179,8,20,10,2,86.0,360.0
+1053,breaking news on fortune,519,179,8,20,10,2,361.0,485.0
+1054,blog on medium,632,179,8,20,10,2,486.0,560.0
+1055,create a playlist,160,179,8,20,10,2,561.0,650.0
+1056,if my curtains are open or closed,762,179,8,20,10,2,651.0,820.0
+1057,close my awning,170,179,8,20,10,2,821.0,900.0
+1058,causes youtube channels,586,180,9,20,10,2,1.0,125.0
+1059,the number of steps from fitbit,581,180,9,20,10,2,126.0,290.0
+1060,the fitbit pedometer,523,180,9,20,10,2,291.0,400.0
+1061,articles on nature issue,734,180,9,20,10,2,401.0,530.0
+1062,articles on life hacker,441,180,9,20,10,2,531.0,655.0
+1063,when the connection drops,1168,180,9,20,10,2,656.0,790.0
+1064,a random useless fact,555,180,9,20,10,2,791.0,905.0
+1065,when nothing is detected by the sound sensor,1061,181,1,21,11,1,1.0,238.0
+1066,turn on my switch for me,310,181,1,21,11,1,239.0,376.0
+1067,diy youtube channels,932,181,1,21,11,1,377.0,494.0
+1068,news on slashdot,585,181,1,21,11,1,495.0,592.0
+1069,popular science news,765,181,1,21,11,1,593.0,710.0
+1070,is this song dancey,1046,181,1,21,11,1,711.0,823.0
+1071,talks on TED,539,181,1,21,11,1,824.0,901.0
+1072,washington post lifestyle,543,182,2,21,11,1,1.0,132.0
+1073,what is the weather tomorrow,548,182,2,21,11,1,133.0,279.0
+1074,articles in the washington post in section local,646,182,2,21,11,1,280.0,526.0
+1075,washington post 's capital_weather_gang blog,533,182,2,21,11,1,527.0,753.0
+1076,when popular science updates,1099,182,2,21,11,1,754.0,900.0
+1077,new tips on lifehacker,642,183,3,21,11,1,1.0,114.0
+1078,once my vacuum turns off,1078,183,3,21,11,1,115.0,238.0
+1079,ask my vacuum cleaner to pause,56,183,3,21,11,1,239.0,392.0
+1080,when the fan switches on or off,1239,183,3,21,11,1,393.0,551.0
+1081,from_tv channels in youtube,654,183,3,21,11,1,552.0,690.0
+1082,posts in the washington post wonkblog blog,405,183,3,21,11,1,691.0,904.0
+1083,when i make a new file in google drive,1145,184,4,21,11,1,1.0,216.0
+1084,a fake name,542,184,4,21,11,1,217.0,297.0
+1085,turn off the fan,98,184,4,21,11,1,298.0,403.0
+1086,when I bring up my curtains,1447,184,4,21,11,1,404.0,564.0
+1087,when there is a new post on phd comics,1368,184,4,21,11,1,565.0,780.0
+1088,Is my car at home? ,638,184,4,21,11,1,781.0,901.0
+1089,when the heat sensor grows warm,1395,185,5,21,11,1,1.0,171.0
+1090,when sun sets,1421,185,5,21,11,1,172.0,252.0
+1091,when there is a new post on rss feed,1322,185,5,21,11,1,253.0,448.0
+1092,is my Tesla remotely accessible? ,414,185,5,21,11,1,449.0,629.0
+1093,the bpm of the current track,446,185,5,21,11,1,630.0,785.0
+1094,stop turning the fan,239,185,5,21,11,1,786.0,901.0
+1095,order me a iced americano,173,186,6,21,11,1,1.0,130.0
+1096,the world section of the new york times,999,186,6,21,11,1,131.0,330.0
+1097,when there is somebody in the room,1461,186,6,21,11,1,331.0,505.0
+1098,a plot,407,186,6,21,11,1,506.0,540.0
+1099,emails arrived in the last hour,764,186,6,21,11,1,541.0,700.0
+1100,my google drive files created this week,860,186,6,21,11,1,701.0,900.0
+1101,today's asteroid info,409,187,7,21,11,1,1.0,106.0
+1102,when somebody messages slack,1123,187,7,21,11,1,107.0,247.0
+1103,the travel section of the new york times,936,187,7,21,11,1,248.0,448.0
+1104,washington post 's the_plum_line blog,492,187,7,21,11,1,449.0,634.0
+1105,omlet messages,640,187,7,21,11,1,635.0,705.0
+1106,play my spotify,23,187,7,21,11,1,706.0,781.0
+1107,when I oscillate the fan,1248,187,7,21,11,1,782.0,902.0
+1108,latest gamespot news,561,188,8,21,11,1,1.0,105.0
+1109,the description of a picture,1056,188,8,21,11,1,106.0,250.0
+1110,nba news,781,188,8,21,11,1,251.0,295.0
+1111,articles in the new york times health section,826,188,8,21,11,1,296.0,525.0
+1112,gamespot news,1044,188,8,21,11,1,526.0,595.0
+1113,a joke,596,188,8,21,11,1,596.0,630.0
+1114,when my vacuum turns on,1460,188,8,21,11,1,631.0,750.0
+1115,when news on mashable updates,1257,188,8,21,11,1,751.0,900.0
+1116,stop the fan from turning,225,189,9,21,11,1,1.0,129.0
+1117,my playlist,786,189,9,21,11,1,130.0,188.0
+1118,gaming channels in youtube,905,189,9,21,11,1,189.0,322.0
+1119,set the power on my security camera to on,250,189,9,21,11,1,323.0,531.0
+1120,if the sound sensor is detecting any sound,648,189,9,21,11,1,532.0,745.0
+1121,if my shades are open or closed,816,189,9,21,11,1,746.0,904.0
+1122,make a new post on facebook,180,190,1,22,11,2,1.0,145.0
+1123,whether anyone closed the window,828,190,1,22,11,2,146.0,315.0
+1124,open my curtains,45,190,1,22,11,2,316.0,405.0
+1125,the state of my hvac,541,190,1,22,11,2,406.0,515.0
+1126,log my weight on fitbit,61,190,1,22,11,2,516.0,640.0
+1127,the humidity reported by thermostat,785,190,1,22,11,2,641.0,825.0
+1128,off the switch,216,190,1,22,11,2,826.0,905.0
+1129,once my motion sensor senses something,1427,191,2,22,11,2,1.0,192.0
+1130,what's on right now,620,191,2,22,11,2,193.0,289.0
+1131,my recent instagram pictures,451,191,2,22,11,2,290.0,431.0
+1132,when sun comes up,1348,191,2,22,11,2,432.0,518.0
+1133,when my sound sensor detects nothing,1448,191,2,22,11,2,519.0,700.0
+1134,when macrumors updates,1183,191,2,22,11,2,701.0,812.0
+1135,analyze a sentence,889,191,2,22,11,2,813.0,904.0
+1136,cooking youtube channels,471,192,3,22,11,2,1.0,156.0
+1137,the loudness of the current song,621,192,3,22,11,2,157.0,352.0
+1138,turn on my Tesla car air-conditioner,269,192,3,22,11,2,353.0,568.0
+1139,search on bing,886,192,3,22,11,2,569.0,674.0
+1140,my dropbox files in alphabetical order,1029,192,3,22,11,2,675.0,900.0
+1141,when the motion sensor detects or stops detecting movement,1393,193,4,22,11,2,1.0,293.0
+1142,set my speaker softer,69,193,4,22,11,2,294.0,401.0
+1143,engadget news,848,193,4,22,11,2,402.0,469.0
+1144,order me a black cappuccino,105,193,4,22,11,2,470.0,607.0
+1145,my gmail,603,193,4,22,11,2,608.0,650.0
+1146,TED talks,752,193,4,22,11,2,651.0,698.0
+1147,when I upload a new picture on instagram,1291,193,4,22,11,2,699.0,901.0
+1148,the front page of the new york times,1011,194,5,22,11,2,1.0,201.0
+1149,the moment the shades get put down,1269,194,5,22,11,2,202.0,392.0
+1150,switch off my vacuum for me,174,194,5,22,11,2,393.0,548.0
+1151,when there is no gas,1071,194,5,22,11,2,549.0,669.0
+1152,whether the fan is turned on or turned off,935,194,5,22,11,2,670.0,900.0
+1153,when gamespot updates,1188,195,6,22,11,2,1.0,111.0
+1154,the loudness of the current track,986,195,6,22,11,2,112.0,282.0
+1155,ask my vacuum to stop cleaning,139,195,6,22,11,2,283.0,438.0
+1156,when news on gamespot updates,1354,195,6,22,11,2,439.0,589.0
+1157,once the connection is running smoothly,1276,195,6,22,11,2,590.0,790.0
+1158,my weight from fitbit,336,195,6,22,11,2,791.0,901.0
+1159,charge the vacuum,248,196,7,22,11,2,1.0,89.0
+1160,whether the motion sensor is detecting any movement,383,196,7,22,11,2,90.0,348.0
+1161,youtube channels with category causes,877,196,7,22,11,2,349.0,537.0
+1162,washington post sports,599,196,7,22,11,2,538.0,651.0
+1163,wall street journal markets,759,196,7,22,11,2,652.0,790.0
+1164,order me a cappuccino,12,196,7,22,11,2,791.0,899.0
+1165,when a meeting on my calendar begins,1346,197,8,22,11,2,1.0,182.0
+1166,send a picture via email,281,197,8,22,11,2,183.0,304.0
+1167,channels in category animation on youtube,1016,197,8,22,11,2,305.0,511.0
+1168,order me a iced caramel_mocha,153,197,8,22,11,2,512.0,658.0
+1169,loop the color in my light bulb,235,197,8,22,11,2,659.0,815.0
+1170,shut off my lg tv,156,197,8,22,11,2,816.0,902.0
+1171,an interesting factoid about cat,526,198,9,22,11,2,1.0,170.0
+1172,switch on the switch,171,198,9,22,11,2,171.0,280.0
+1173,when my security camera does not detect motion,1105,198,9,22,11,2,281.0,520.0
+1174,beauty_and_fashion youtube channels,979,198,9,22,11,2,521.0,705.0
+1175,channels in category music on youtube,477,198,9,22,11,2,706.0,900.0
+1176,when a new phd comic is published,1244,199,1,23,12,1,1.0,166.0
+1177,articles in the new york times technology section,462,199,1,23,12,1,167.0,412.0
+1178,weather tomorrow,421,199,1,23,12,1,413.0,493.0
+1179,when I turn on my fan,1283,199,1,23,12,1,494.0,599.0
+1180,huffington posts,977,199,1,23,12,1,600.0,680.0
+1181,the technology section of the new york times,928,199,1,23,12,1,681.0,901.0
+1182,channels in category news_and_politics on youtube,679,200,2,23,12,1,1.0,280.0
+1183,help me turn off the switch,9,200,2,23,12,1,281.0,450.0
+1184,make a new tumblr picture post,264,200,2,23,12,1,451.0,635.0
+1185,my dropbox files in reverse alphabetical order,593,200,2,23,12,1,636.0,900.0
+1186,if the sensor is detecting any smoke,525,201,3,23,12,1,1.0,194.0
+1187,the blog the_fix of the washington post,795,201,3,23,12,1,195.0,403.0
+1188,youtube channels with category sports,937,201,3,23,12,1,404.0,602.0
+1189,latest posts on matrix67,356,201,3,23,12,1,603.0,736.0
+1190,restore the volume on my lg tv,284,201,3,23,12,1,737.0,900.0
+1191,my bmi from fitbit,345,202,4,23,12,1,1.0,97.0
+1192,top stories on abc news,880,202,4,23,12,1,98.0,219.0
+1193,when i receive an important email,1180,202,4,23,12,1,220.0,391.0
+1194,news_and_politics youtube channels,687,202,4,23,12,1,392.0,568.0
+1195,turn the heating off,211,202,4,23,12,1,569.0,675.0
+1196,dictionary definitions,343,202,4,23,12,1,676.0,792.0
+1197,washington post world,408,202,4,23,12,1,793.0,904.0
+1198,can you switch on my fan,145,203,5,23,12,1,1.0,135.0
+1199,my onedrive files modified today,833,203,5,23,12,1,136.0,310.0
+1200,once the connection is up,1085,203,5,23,12,1,311.0,450.0
+1201,my appointments,587,203,5,23,12,1,451.0,540.0
+1202,all my rss feed,482,203,5,23,12,1,541.0,630.0
+1203,latest slashdot news,618,203,5,23,12,1,631.0,745.0
+1204,upload a picture to facebook,64,203,5,23,12,1,746.0,900.0
+1205,the moment I close the door,1151,204,6,23,12,1,1.0,152.0
+1206,Are my Tesla's doors locked? ,872,204,6,23,12,1,153.0,314.0
+1207,when howtogeek updates,1067,204,6,23,12,1,315.0,441.0
+1208,when my fan turns on or off,1267,204,6,23,12,1,442.0,593.0
+1209,youtube 's comedy channels,920,204,6,23,12,1,594.0,740.0
+1210,when business insider updates,1434,204,6,23,12,1,741.0,902.0
+1211,when a song is playing,1410,205,7,23,12,1,1.0,128.0
+1212,when my shades are opened or closed,1432,205,7,23,12,1,129.0,321.0
+1213,from_tv youtube channels,668,205,7,23,12,1,322.0,459.0
+1214,once the toilet is not being used,1326,205,7,23,12,1,460.0,642.0
+1215,whether my switch is switched on or switched off,792,205,7,23,12,1,643.0,900.0
+1216,when there is a new top stories on cnn news,1169,206,8,23,12,1,1.0,245.0
+1217,the sentiment of a sentence,601,206,8,23,12,1,246.0,410.0
+1218,my dropbox files,347,206,8,23,12,1,411.0,520.0
+1219,if the vacuum is turned on or off,726,206,8,23,12,1,521.0,715.0
+1220,ask my vacuum to return to base,106,206,8,23,12,1,716.0,900.0
+1221,if the motion sensor is detecting movement or not,615,207,9,23,12,1,1.0,249.0
+1222,close my shutters,270,207,9,23,12,1,250.0,338.0
+1223,turn off my fan,217,207,9,23,12,1,339.0,417.0
+1224,washington post 's compost blog,338,207,9,23,12,1,418.0,576.0
+1225,once somebody is using the toilet,1137,207,9,23,12,1,577.0,745.0
+1226,once my smart plug is connected,1243,207,9,23,12,1,746.0,904.0
+1227,set my hvac to off,188,208,1,24,12,2,1.0,110.0
+1228,when my vacuum starts or stops cleaning,1466,208,1,24,12,2,111.0,325.0
+1229,change the minimum and maximum temperatures on my thermostat,134,208,1,24,12,2,326.0,645.0
+1230,top stories on cnn news,1053,208,1,24,12,2,646.0,780.0
+1231,when my blinds lower,1325,208,1,24,12,2,781.0,900.0
+1232,when hacker news front page updates,1319,209,2,24,12,2,1.0,195.0
+1233,latest nba news,551,209,2,24,12,2,196.0,290.0
+1234,a random picture from giphy,651,209,2,24,12,2,291.0,445.0
+1235,when there is no internet,1468,209,2,24,12,2,446.0,590.0
+1236,whether my shades are open or closed,755,209,2,24,12,2,591.0,790.0
+1237,describe a picture,342,209,2,24,12,2,791.0,900.0
+1238,when somebody sends me a message on twitter,1408,210,3,24,12,2,1.0,224.0
+1239,youtube channels with category gaming,944,210,3,24,12,2,225.0,418.0
+1240,the state of my battery,392,210,3,24,12,2,419.0,542.0
+1241,order me a black caramel_macchiato,329,210,3,24,12,2,543.0,721.0
+1242,when my sound sensor hears silence,1178,210,3,24,12,2,722.0,900.0
+1243,plot a math function,444,211,4,24,12,2,1.0,115.0
+1244,when there is nobody in the room,1076,211,4,24,12,2,116.0,290.0
+1245,when the motion sensor detects a person,1402,211,4,24,12,2,291.0,500.0
+1246,when my motion sensor detects someone,1275,211,4,24,12,2,501.0,700.0
+1247,turn off my Tesla car air-conditioner,278,211,4,24,12,2,701.0,900.0
+1248,lower the volume of my lg tv,303,212,5,24,12,2,1.0,166.0
+1249,when an event on my calendar ends,1397,212,5,24,12,2,167.0,357.0
+1250,switch off the switch,135,212,5,24,12,2,358.0,488.0
+1251,a word from the dictionary,619,212,5,24,12,2,489.0,644.0
+1252,articles in the new york times science section,403,212,5,24,12,2,645.0,900.0
+1253,animation youtube channels,760,213,6,24,12,2,1.0,135.0
+1254,ars's latest news,602,213,6,24,12,2,136.0,225.0
+1255,post something on my linkedin,315,213,6,24,12,2,226.0,375.0
+1256,stop my fan from oscillating,228,213,6,24,12,2,376.0,520.0
+1257,if the switch is turned on or turned off,919,213,6,24,12,2,521.0,725.0
+1258,the tempo,422,213,6,24,12,2,726.0,775.0
+1259,set my hvac to heat_cool,29,213,6,24,12,2,776.0,900.0
+1260,important emails,943,214,7,24,12,2,1.0,99.0
+1261,my files in dropbox,771,214,7,24,12,2,100.0,213.0
+1262,when smoke is not detected anymore,1467,214,7,24,12,2,214.0,402.0
+1263,when I post on facebook,1307,214,7,24,12,2,403.0,536.0
+1264,the key of the current song,967,214,7,24,12,2,537.0,690.0
+1265,put the blinds up,71,214,7,24,12,2,691.0,794.0
+1266,a fact about snail,692,214,7,24,12,2,795.0,903.0
+1267,when anyone takes out my plug,1425,215,8,24,12,2,1.0,165.0
+1268,photos on facebook,418,215,8,24,12,2,166.0,275.0
+1269,increase the volume of my lg tv,306,215,8,24,12,2,276.0,450.0
+1270,change the temperature on my thermostat,192,215,8,24,12,2,451.0,665.0
+1271,my profile on linkedin,461,215,8,24,12,2,666.0,795.0
+1272,some useless fact,876,215,8,24,12,2,796.0,900.0
+1273,when there is a new top stories on abc news,1108,216,9,24,12,2,1.0,232.0
+1274,when the meeting is over,1463,216,9,24,12,2,233.0,369.0
+1275,upload a picture to onedrive,313,216,9,24,12,2,370.0,526.0
+1276,close my damper,244,216,9,24,12,2,527.0,618.0
+1277,articles on how-to geek,769,216,9,24,12,2,619.0,750.0
+1278,whether my fan is on or off,382,216,9,24,12,2,751.0,902.0
+1279,when I open the door,1130,217,1,25,13,1,1.0,121.0
+1280,stop moving the fan,49,217,1,25,13,1,122.0,237.0
+1281,when there are new mac rumors,1231,217,1,25,13,1,238.0,403.0
+1282,cs294s slides,819,217,1,25,13,1,404.0,489.0
+1283,cat fun facts,921,217,1,25,13,1,490.0,575.0
+1284,whether I have enough battery,366,217,1,25,13,1,576.0,741.0
+1285,Is my tesla car plugged in? ,711,217,1,25,13,1,742.0,902.0
+1286,completed tasks from Wunderlist,567,218,2,25,13,1,1.0,166.0
+1287,when the fan becomes switched on,1459,218,2,25,13,1,167.0,337.0
+1288,how dancey is this song,489,218,2,25,13,1,338.0,463.0
+1289,the state of the motion sensor,376,218,2,25,13,1,464.0,624.0
+1290,when my battery is charged,1122,218,2,25,13,1,625.0,765.0
+1291,time magazine top stories,751,218,2,25,13,1,766.0,901.0
+1292,whether the living room is occupied or empty,570,219,3,25,13,1,1.0,239.0
+1293,if the smoke detector is catching any smoke,953,219,3,25,13,1,240.0,473.0
+1294,a random fact,830,219,3,25,13,1,474.0,557.0
+1295,lifestyle youtube channels,801,219,3,25,13,1,558.0,706.0
+1296,when top stories on abc news update,1120,219,3,25,13,1,707.0,900.0
+1297,images from Imgur User Submitted rising,694,220,4,25,13,1,1.0,197.0
+1298,once the room has been cleared,1375,220,4,25,13,1,198.0,349.0
+1299,the blog world_views of the washington post,340,220,4,25,13,1,350.0,566.0
+1300,paid channels in youtube,853,220,4,25,13,1,567.0,688.0
+1301,when someone closes the door,1265,220,4,25,13,1,689.0,830.0
+1302,dock my vacuum,189,220,4,25,13,1,831.0,902.0
+1303,channels in category lifestyle on youtube,691,221,5,25,13,1,1.0,209.0
+1304,wall street journal articles in the technology section published in the last hour,1004,221,5,25,13,1,210.0,618.0
+1305,puppy pictures,911,221,5,25,13,1,619.0,692.0
+1306,the instrumentalness of the current track,701,221,5,25,13,1,693.0,901.0
+1307,the new york times science section,351,222,6,25,13,1,1.0,179.0
+1308,fox pictures,381,222,6,25,13,1,180.0,248.0
+1309,share a picture on Imgur,86,222,6,25,13,1,249.0,377.0
+1310,the liveness of the current song,788,222,6,25,13,1,378.0,546.0
+1311,when there is smoke,1415,222,6,25,13,1,547.0,650.0
+1312,when something moves in front of my motion sensor,1206,222,6,25,13,1,651.0,904.0
+1313,play the previous song,39,223,7,25,13,1,1.0,122.0
+1314,what song is currently playing,1042,223,7,25,13,1,123.0,284.0
+1315,when the router gets connected,1193,223,7,25,13,1,285.0,446.0
+1316,a dad joke,748,223,7,25,13,1,447.0,508.0
+1317,return my vacuum to base,325,223,7,25,13,1,509.0,640.0
+1318,wsj us_business articles,837,223,7,25,13,1,641.0,772.0
+1319,when my fan is swinging,1171,223,7,25,13,1,773.0,899.0
+1320,if i upload a picture on instagram,1148,224,8,25,13,1,1.0,186.0
+1321,posts in the washington post politics blog,1000,224,8,25,13,1,187.0,412.0
+1322,make a new playlist,218,224,8,25,13,1,413.0,523.0
+1323,the new york times sports section,719,224,8,25,13,1,524.0,704.0
+1324,when i create a new file on onedrive,1142,224,8,25,13,1,705.0,900.0
+1325,when my plug is unplugged,1084,225,9,25,13,1,1.0,135.0
+1326,play a song,172,225,9,25,13,1,136.0,200.0
+1327,order me a black espresso,214,225,9,25,13,1,201.0,335.0
+1328,a nasa picture,744,225,9,25,13,1,336.0,415.0
+1329,the instrumentalness of the current song,485,225,9,25,13,1,416.0,625.0
+1330,music channels in youtube,500,225,9,25,13,1,626.0,760.0
+1331,play some music on spotify,107,225,9,25,13,1,761.0,900.0
+1332,emails arrived yesterday,598,226,1,26,13,2,1.0,134.0
+1333,front page of huffpost,660,226,1,26,13,2,135.0,258.0
+1334,when i make a new file in onedrive,1345,226,1,26,13,2,259.0,442.0
+1335,abc news top stories,479,226,1,26,13,2,443.0,556.0
+1336,when somebody emails me,1431,226,1,26,13,2,557.0,685.0
+1337,lower the shades,283,226,1,26,13,2,686.0,779.0
+1338,articles on lifehacker,443,226,1,26,13,2,780.0,903.0
+1339,youtube channels with category animation,904,227,2,26,13,2,1.0,210.0
+1340,whether my blinds are open or closed,867,227,2,26,13,2,211.0,400.0
+1341,play an album,307,227,2,26,13,2,401.0,475.0
+1342,the upbeatness of this track,887,227,2,26,13,2,476.0,625.0
+1343,nyt,775,227,2,26,13,2,626.0,650.0
+1344,hacker news front page,649,227,2,26,13,2,651.0,770.0
+1345,youtube 's music channels,966,227,2,26,13,2,771.0,905.0
+1346,when star wars news updates,1216,228,3,26,13,2,1.0,137.0
+1347,web search,676,228,3,26,13,2,138.0,189.0
+1348,when smoke is detected,1338,228,3,26,13,2,190.0,301.0
+1349,donald trump's quote,476,228,3,26,13,2,302.0,403.0
+1350,when the state of the lights changes,1381,228,3,26,13,2,404.0,585.0
+1351,whether there is any smoke,740,228,3,26,13,2,586.0,717.0
+1352,star wars news,378,228,3,26,13,2,718.0,789.0
+1353,when i receive a tweet,1366,228,3,26,13,2,790.0,901.0
+1354,once something is detected by the sound sensor,1092,229,4,26,13,2,1.0,241.0
+1355,a plot from wolfram alpha,633,229,4,26,13,2,242.0,377.0
+1356,the tempo of the current song,754,229,4,26,13,2,378.0,533.0
+1357,youtube 's sports channels,339,229,4,26,13,2,534.0,674.0
+1358,articles in the new york times arts section,732,229,4,26,13,2,675.0,900.0
+1359,youtube 's beauty_and_fashion channels,424,230,5,26,13,2,1.0,193.0
+1360,whether the window is shut,914,230,5,26,13,2,194.0,326.0
+1361,order me a drip_coffee,16,230,5,26,13,2,327.0,439.0
+1362,when i put up a new picture on instagram,1110,230,5,26,13,2,440.0,642.0
+1363,make the awnings extend,19,230,5,26,13,2,643.0,760.0
+1364,the space left on my dropbox,448,230,5,26,13,2,761.0,903.0
+1365,when i log a new weight value on fitbit,1174,231,6,26,13,2,1.0,211.0
+1366,a random horse fact,573,231,6,26,13,2,212.0,322.0
+1367,when my shutters close,1138,231,6,26,13,2,323.0,448.0
+1368,washington post local,622,231,6,26,13,2,449.0,569.0
+1369,when there is a new top stories on wired news,1399,231,6,26,13,2,570.0,810.0
+1370,medium articles,869,231,6,26,13,2,811.0,901.0
+1371,open my window for me,255,232,7,26,13,2,1.0,109.0
+1372,when any of my rss subscriptions update,1129,232,7,26,13,2,110.0,308.0
+1373,my dropbox files in some folder,402,232,7,26,13,2,309.0,467.0
+1374,the blog right_turn of the washington post,879,232,7,26,13,2,468.0,681.0
+1375,tell me a joke,387,232,7,26,13,2,682.0,755.0
+1376,articles on the mozilla blog,507,232,7,26,13,2,756.0,899.0
+1377,whether the switch is on or off,768,233,8,26,13,2,1.0,183.0
+1378,a trump quote,341,233,8,26,13,2,184.0,276.0
+1379,update my linkedin,81,233,8,26,13,2,277.0,394.0
+1380,order me a macchiato,323,233,8,26,13,2,395.0,522.0
+1381,when my fan gets switched off,1115,233,8,26,13,2,523.0,695.0
+1382,nasa 's astronomy picture of the day,583,233,8,26,13,2,696.0,903.0
+1383,when there is a new tweet in my timeline,1236,234,9,26,13,2,1.0,201.0
+1384,user-submitted images in Imgur,803,234,9,26,13,2,202.0,352.0
+1385,make the vacuum stop,151,234,9,26,13,2,353.0,453.0
+1386,youtube channels with category lifestyle,588,234,9,26,13,2,454.0,654.0
+1387,when my switch turns on,1240,234,9,26,13,2,655.0,770.0
+1388,once anyone opens the door,1223,234,9,26,13,2,771.0,901.0
+1389,latest popular science news,971,235,1,27,14,1,1.0,139.0
+1390,channels I am subscribed to on youtube,465,235,1,27,14,1,140.0,333.0
+1391,the danceability of the current track,510,235,1,27,14,1,334.0,522.0
+1392,order me a iced flat_white,164,235,1,27,14,1,523.0,656.0
+1393,if the vacuum is on or off,839,235,1,27,14,1,657.0,790.0
+1394,turn on my light bulb,116,235,1,27,14,1,791.0,899.0
+1395,start disco lights,195,236,2,27,14,1,1.0,99.0
+1396,when i update my instagram,1087,236,2,27,14,1,100.0,238.0
+1397,tweet something,227,236,2,27,14,1,239.0,322.0
+1398,when my motion sensor is not detecting anything,1430,236,2,27,14,1,323.0,566.0
+1399,if anything was detected by my sound sensor,685,236,2,27,14,1,567.0,790.0
+1400,open my awning for me,241,236,2,27,14,1,791.0,904.0
+1401,youtube 's recommended channels,566,237,3,27,14,1,1.0,159.0
+1402,best_of_youtube youtube channels,870,237,3,27,14,1,160.0,323.0
+1403,trump's quote,799,237,3,27,14,1,324.0,392.0
+1404,when TED publishes a new talk,1292,237,3,27,14,1,393.0,541.0
+1405,my primary category emails,532,237,3,27,14,1,542.0,675.0
+1406,when there is new article on popular science,1156,237,3,27,14,1,676.0,899.0
+1407,image search,614,238,4,27,14,1,1.0,81.0
+1408,when there is no smoke,1064,238,4,27,14,1,82.0,212.0
+1409,when Stanford news updates,1284,238,4,27,14,1,213.0,363.0
+1410,when the fan oscillation stops,1230,238,4,27,14,1,364.0,534.0
+1411,when there is a new article in washington post,1343,238,4,27,14,1,535.0,785.0
+1412,some gif from giphy,652,238,4,27,14,1,786.0,901.0
+1413,when somebody i follow on twitter posts,1306,239,5,27,14,1,1.0,203.0
+1414,post on twitter,238,239,5,27,14,1,204.0,286.0
+1415,order me a iced espresso,65,239,5,27,14,1,287.0,414.0
+1416,whether anyone switched off my plug,1052,239,5,27,14,1,415.0,597.0
+1417,when my vacuum goes back to base,1185,239,5,27,14,1,598.0,765.0
+1418,when the shades are put up,1263,239,5,27,14,1,766.0,903.0
+1419,when my security camera detects no person,1125,240,6,27,14,1,1.0,222.0
+1420,tweets i made,1017,240,6,27,14,1,223.0,304.0
+1421,set on the lights,113,240,6,27,14,1,305.0,406.0
+1422,order me a mocha,143,240,6,27,14,1,407.0,503.0
+1423,when i instagram a picture,1420,240,6,27,14,1,504.0,650.0
+1424,the latest xkcd,703,240,6,27,14,1,651.0,742.0
+1425,the new york times us section,727,240,6,27,14,1,743.0,904.0
+1426,when i receive an email on Gmail,1215,241,7,27,14,1,1.0,174.0
+1427,once my plug is switched off,1390,241,7,27,14,1,175.0,328.0
+1428,the us section of the new york times,912,241,7,27,14,1,329.0,522.0
+1429,when my window is open,1294,241,7,27,14,1,523.0,646.0
+1430,honk the horn on my car,26,241,7,27,14,1,647.0,775.0
+1431,when my plug is plugged,1285,241,7,27,14,1,776.0,904.0
+1432,omlet messages from me,901,242,8,27,14,1,1.0,144.0
+1433,set me as not away on slack,213,242,8,27,14,1,145.0,313.0
+1434,when there is a new TED talk,1134,242,8,27,14,1,314.0,487.0
+1435,turn off the lights,271,242,8,27,14,1,488.0,616.0
+1436,open spotify and play some music,147,242,8,27,14,1,617.0,810.0
+1437,when i tweet,1167,242,8,27,14,1,811.0,904.0
+1438,posts in the washington post the_plum_line blog,667,243,9,27,14,1,1.0,276.0
+1439,wall street journal world_news,367,243,9,27,14,1,277.0,467.0
+1440,once the motion sensor does not detect any movement,1428,243,9,27,14,1,468.0,763.0
+1441,my meeting schedule,370,243,9,27,14,1,764.0,899.0
+1442,when an event is about to start on my icalendar,1095,244,1,28,14,2,1.0,247.0
+1443,when an event is about to start,1154,244,1,28,14,2,248.0,414.0
+1444,when i receive a direct message on twitter,1081,244,1,28,14,2,415.0,636.0
+1445,all imgflip meme templates,565,244,1,28,14,2,637.0,778.0
+1446,music youtube channels,1043,244,1,28,14,2,779.0,900.0
+1447,play the next song on spotify,70,245,2,28,14,2,1.0,180.0
+1448,the space I have on dropbox,1041,245,2,28,14,2,181.0,350.0
+1449,articles in the washington post in section opinions,1048,245,2,28,14,2,351.0,640.0
+1450,file on github,410,245,2,28,14,2,641.0,745.0
+1451,when I turn off the plug,1453,245,2,28,14,2,746.0,900.0
+1452,add whatever's playing to my playlist,302,246,3,28,14,2,1.0,208.0
+1453,when somebody messages me on twitter,1330,246,3,28,14,2,209.0,411.0
+1454,posts on phd comics,845,246,3,28,14,2,412.0,529.0
+1455,youtube 's film_and_entertainment channels,972,246,3,28,14,2,530.0,762.0
+1456,send a message on slack,36,246,3,28,14,2,763.0,900.0
+1457,my schedule on icalendar,473,247,4,28,14,2,1.0,133.0
+1458,flip my switch off,176,247,4,28,14,2,134.0,236.0
+1459,when the battery has finished charging,1308,247,4,28,14,2,237.0,439.0
+1460,when my door closes,1181,247,4,28,14,2,440.0,547.0
+1461,washington post 's politics blog,478,247,4,28,14,2,548.0,720.0
+1462,the moment my switch changes to on,1068,247,4,28,14,2,721.0,903.0
+1463,request an uber ,212,248,5,28,14,2,1.0,94.0
+1464,the blog morning_mix of the washington post,437,248,5,28,14,2,95.0,323.0
+1465,youtube channels with category paid,975,248,5,28,14,2,324.0,512.0
+1466,close the shutters,100,248,5,28,14,2,513.0,616.0
+1467,washington post 's the_fix blog,946,248,5,28,14,2,617.0,785.0
+1468,songs in my playlist,916,248,5,28,14,2,786.0,899.0
+1469,the arts section of the new york times,715,249,6,28,14,2,1.0,218.0
+1470,when nothing is detected by my motion sensor,1146,249,6,28,14,2,219.0,466.0
+1471,a random horse fact,573,249,6,28,14,2,467.0,589.0
+1472,when the shades are put up,1263,249,6,28,14,2,590.0,747.0
+1473,when nature issue updates,1141,249,6,28,14,2,748.0,900.0
+1474,the blog politics of the washington post,852,250,7,28,14,2,1.0,205.0
+1475,posts in the washington post world_views blog,990,250,7,28,14,2,206.0,435.0
+1476,tweet something,227,250,7,28,14,2,436.0,515.0
+1477,news on star wars,331,250,7,28,14,2,516.0,605.0
+1478,tech youtube channels,834,250,7,28,14,2,606.0,715.0
+1479,my favorite songs,821,250,7,28,14,2,716.0,805.0
+1480,my calendar events,1051,250,7,28,14,2,806.0,900.0
+1481,the science section of the new york times,885,251,8,28,14,2,1.0,218.0
+1482,when no gas is detected,1196,251,8,28,14,2,219.0,346.0
+1483,paid channels in youtube,853,251,8,28,14,2,347.0,479.0
+1484,Wunderlist lists ,373,251,8,28,14,2,480.0,577.0
+1485,once the state of the heat sensor changes,1406,251,8,28,14,2,578.0,795.0
+1486,wall street journal,493,251,8,28,14,2,796.0,903.0
+1487,the linguistic analysis of a sentence,430,252,9,28,14,2,1.0,197.0
+1488,wall street journal articles in the world_news section,665,252,9,28,14,2,198.0,479.0
+1489,order me a black caramel_macchiato,329,252,9,28,14,2,480.0,661.0
+1490,when a meeting starts,1175,252,9,28,14,2,662.0,778.0
+1491,new tips on lifehacker,642,252,9,28,14,2,779.0,900.0
+1492,my dropbox files in alphabetical order,1029,253,1,29,15,1,1.0,200.0
+1493,switch on the vacuum,8,253,1,29,15,1,201.0,310.0
+1494,articles in the washington post in section local,646,253,1,29,15,1,311.0,560.0
+1495,once everyone leaves the room,1353,253,1,29,15,1,561.0,715.0
+1496,when the state of my lights changes,1204,253,1,29,15,1,716.0,900.0
+1497,youtube channels with category beauty_and_fashion,496,254,2,29,15,1,1.0,253.0
+1498,order me a flat_white,326,254,2,29,15,1,254.0,366.0
+1499,when my vacuum turns on,1460,254,2,29,15,1,367.0,489.0
+1500,play the next song,11,254,2,29,15,1,490.0,587.0
+1501,animation channels in youtube,854,254,2,29,15,1,588.0,740.0
+1502,emails arrived in the last hour,764,254,2,29,15,1,741.0,903.0
+1503,my oldest onedrive files,1003,255,3,29,15,1,1.0,125.0
+1504,the holidays,420,255,3,29,15,1,126.0,190.0
+1505,when my awning is open,1442,255,3,29,15,1,191.0,305.0
+1506,get status of my current ride,447,255,3,29,15,1,306.0,455.0
+1507,when techcrunch news updates,1089,255,3,29,15,1,456.0,600.0
+1508,a random cat picture,757,255,3,29,15,1,601.0,705.0
+1509,whether the heat sensor is warm or cold,434,255,3,29,15,1,706.0,905.0
+1510,the list of all memes,575,256,4,29,15,1,1.0,108.0
+1511,when the sound sensor stops hearing anything,1334,256,4,29,15,1,109.0,331.0
+1512,tweet a picture,148,256,4,29,15,1,332.0,409.0
+1513,pictures of cats,362,256,4,29,15,1,410.0,492.0
+1514,articles in the washington post in section politics,644,256,4,29,15,1,493.0,750.0
+1515,make the vacuum start cleaning,150,256,4,29,15,1,751.0,903.0
+1516,the lexical analysis of a sentence,1055,257,5,29,15,1,1.0,175.0
+1517,on the vacuum,92,257,5,29,15,1,176.0,245.0
+1518,post a picture on twitter,304,257,5,29,15,1,246.0,375.0
+1519,when i receive a message on slack,1313,257,5,29,15,1,376.0,545.0
+1520,post a message on slack,22,257,5,29,15,1,546.0,665.0
+1521,order me a black flat_white,277,257,5,29,15,1,666.0,805.0
+1522,some gif from giphy,652,257,5,29,15,1,806.0,905.0
+1523,when top stories on bbc news update,1136,258,6,29,15,1,1.0,233.0
+1524,when the battery has finished charging,1308,258,6,29,15,1,234.0,481.0
+1525,whether the living room is occupied or empty,570,258,6,29,15,1,482.0,759.0
+1526,turn on my vacuum,78,258,6,29,15,1,760.0,902.0
+1527,articles in the washington post in section opinions,1048,259,7,29,15,1,1.0,266.0
+1528,when the connection is down,1298,259,7,29,15,1,267.0,412.0
+1529,what's on right now,620,259,7,29,15,1,413.0,518.0
+1530,turn on my light bulb,116,259,7,29,15,1,519.0,634.0
+1531,make a new playlist,218,259,7,29,15,1,635.0,740.0
+1532,when the router gets connected,1193,259,7,29,15,1,741.0,901.0
+1533,ask my vacuum to wait,74,260,8,29,15,1,1.0,176.0
+1534,articles on medium,606,260,8,29,15,1,177.0,337.0
+1535,when the washington post publishes an article,1103,260,8,29,15,1,338.0,633.0
+1536,channels in category cooking on youtube,597,260,8,29,15,1,634.0,899.0
+1537,wall street journal articles in the opinions section published in the last hour,767,261,9,29,15,1,1.0,410.0
+1538,washington post 's powerpost blog,957,261,9,29,15,1,411.0,590.0
+1539,when the meeting is over,1463,261,9,29,15,1,591.0,725.0
+1540,my body measurements from fitbit,688,261,9,29,15,1,726.0,900.0
+1541,make the awnings extend,19,262,1,30,15,2,1.0,119.0
+1542,make a new post on facebook,180,262,1,30,15,2,120.0,258.0
+1543,when my vacuum is off,1339,262,1,30,15,2,259.0,367.0
+1544,the moment the blinds get put down,1077,262,1,30,15,2,368.0,541.0
+1545,once my plug is switched off,1390,262,1,30,15,2,542.0,685.0
+1546,random number facts,643,262,1,30,15,2,686.0,784.0
+1547,log my weight on fitbit,61,262,1,30,15,2,785.0,903.0
+1548,an aphorism,949,263,2,30,15,2,1.0,79.0
+1549,when I have connectivity,1304,263,2,30,15,2,80.0,223.0
+1550,bing search,433,263,2,30,15,2,224.0,302.0
+1551,when there is no smoke,1064,263,2,30,15,2,303.0,436.0
+1552,when someone commits to github,1302,263,2,30,15,2,437.0,610.0
+1553,switch off my switch,257,263,2,30,15,2,611.0,734.0
+1554,the new york times us section,727,263,2,30,15,2,735.0,903.0
+1555,articles in the new york times us section,675,264,3,30,15,2,1.0,221.0
+1556,once my vacuum is switched on,1398,264,3,30,15,2,222.0,382.0
+1557,tweets from anyone i follow,432,264,3,30,15,2,383.0,533.0
+1558,when Stanford news updates,1284,264,3,30,15,2,534.0,679.0
+1559,whether the curtains is raised or lowered,617,264,3,30,15,2,680.0,900.0
+1560,my instagram pictures,686,265,4,30,15,2,1.0,110.0
+1561,post something on my tumblr blog,179,265,4,30,15,2,111.0,275.0
+1562,when the heat sensor is not cold,1357,265,4,30,15,2,276.0,440.0
+1563,mute my lg webos tv,165,265,4,30,15,2,441.0,540.0
+1564,Steam price,1009,265,4,30,15,2,541.0,600.0
+1565,order uber,196,265,4,30,15,2,601.0,655.0
+1566,when my vacuum gets switched off,1272,265,4,30,15,2,656.0,820.0
+1567,a gif from giphy,858,265,4,30,15,2,821.0,905.0
+1568,channels in category best_of_youtube on youtube,628,266,5,30,15,2,1.0,240.0
+1569,the power state of the light bulb,647,266,5,30,15,2,241.0,410.0
+1570,a random useless fact,555,266,5,30,15,2,411.0,520.0
+1571,articles in the new york times health section,826,266,5,30,15,2,521.0,750.0
+1572,when the curtains get lowered,1091,266,5,30,15,2,751.0,900.0
+1573,whether the sound sensor hears anything,682,267,6,30,15,2,1.0,225.0
+1574,open the awning,63,267,6,30,15,2,226.0,330.0
+1575,turn shuffle on,122,267,6,30,15,2,331.0,435.0
+1576,when something changes on onedrive,1271,267,6,30,15,2,436.0,635.0
+1577,when the motion sensor stops detecting movement,1293,267,6,30,15,2,636.0,900.0
+1578,the google drive files i starred,823,268,7,30,15,2,1.0,165.0
+1579,lower the volume of my bluetooth speaker,203,268,7,30,15,2,166.0,370.0
+1580,plot a math function,444,268,7,30,15,2,371.0,475.0
+1581,imgur,717,268,7,30,15,2,476.0,505.0
+1582,turn on my vacuum cleaner for me,125,268,7,30,15,2,506.0,670.0
+1583,play an album,307,268,7,30,15,2,671.0,740.0
+1584,the moment the blinds are put up,1429,268,7,30,15,2,741.0,905.0
+1585,the key of the current track,1045,269,8,30,15,2,1.0,143.0
+1586,the new york times science section,351,269,8,30,15,2,144.0,316.0
+1587,record my weight on fitbit,162,269,8,30,15,2,317.0,449.0
+1588,imgur usersub,1040,269,8,30,15,2,450.0,517.0
+1589,the space left on my dropbox,448,269,8,30,15,2,518.0,660.0
+1590,post a picture on facebook,234,269,8,30,15,2,661.0,793.0
+1591,when the smoke clears,1311,269,8,30,15,2,794.0,901.0
+1592,when there is new article on popular science,1156,270,9,30,15,2,1.0,263.0
+1593,when howtogeek updates,1067,270,9,30,15,2,264.0,416.0
+1594,if the smoke detector is catching any smoke,953,270,9,30,15,2,417.0,674.0
+1595,when something changes on my calendar,1441,270,9,30,15,2,675.0,902.0
+1596,youtube channels with category diy,664,271,1,31,16,1,1.0,180.0
+1597,the power state of my lights,380,271,1,31,16,1,181.0,330.0
+1598,washington post sports,599,271,1,31,16,1,331.0,450.0
+1599,when I don't have connection,1227,271,1,31,16,1,451.0,600.0
+1600,the blog compost of the washington post,827,271,1,31,16,1,601.0,805.0
+1601,some useless fact,876,271,1,31,16,1,806.0,900.0
+1602,when there is no one left in the living room,1207,272,2,31,16,1,1.0,238.0
+1603,a random gif,918,272,2,31,16,1,239.0,316.0
+1604,reddit front page posts published in the last hour,939,272,2,31,16,1,317.0,584.0
+1605,articles in the new york times arts section,732,272,2,31,16,1,585.0,817.0
+1606,a cat picture,729,272,2,31,16,1,818.0,900.0
+1607,when they publish something on the rss feed,1114,273,3,31,16,1,1.0,228.0
+1608,youtube 's automotive channels,549,273,3,31,16,1,229.0,391.0
+1609,business insider news,930,273,3,31,16,1,392.0,509.0
+1610,cnn news top stories,941,273,3,31,16,1,510.0,622.0
+1611,a piece of animal trivia,401,273,3,31,16,1,623.0,755.0
+1612,from_tv channels in youtube,654,273,3,31,16,1,756.0,903.0
+1613,change the volume of my lg tv,311,274,4,31,16,1,1.0,147.0
+1614,whether anybody is detected by the sound sensor,517,274,4,31,16,1,148.0,384.0
+1615,a random xkcd,789,274,4,31,16,1,385.0,451.0
+1616,what song is currently playing,1042,274,4,31,16,1,452.0,603.0
+1617,omlet messages i received,475,274,4,31,16,1,604.0,730.0
+1618,the moment the shades get put down,1269,274,4,31,16,1,731.0,902.0
+1619,the key of the current song,967,275,5,31,16,1,1.0,142.0
+1620,order me a drip_coffee,16,275,5,31,16,1,143.0,259.0
+1621,on the fan for me,308,275,5,31,16,1,260.0,351.0
+1622,my dropbox files in reverse alphabetical order,593,275,5,31,16,1,352.0,588.0
+1623,trump quote,371,275,5,31,16,1,589.0,650.0
+1624,washington post 's right_turn blog,350,275,5,31,16,1,651.0,827.0
+1625,recent tweets,980,275,5,31,16,1,828.0,899.0
+1626,if I raised the shades,361,276,6,31,16,1,1.0,150.0
+1627,youtube 's lifestyle channels,379,276,6,31,16,1,151.0,335.0
+1628,set the power on my lg tv to off,159,276,6,31,16,1,336.0,535.0
+1629,set my hvac to cool,43,276,6,31,16,1,536.0,670.0
+1630,movie details,824,276,6,31,16,1,671.0,775.0
+1631,create a playlist,160,276,6,31,16,1,776.0,900.0
+1632,channels in category film_and_entertainment on youtube,894,277,7,31,16,1,1.0,276.0
+1633,when my plug is switched on or off,1336,277,7,31,16,1,277.0,452.0
+1634,breaking news on fortune,519,277,7,31,16,1,453.0,578.0
+1635,a gif,923,277,7,31,16,1,579.0,609.0
+1636,cs294s slides,819,277,7,31,16,1,610.0,680.0
+1637,when there is a new top stories on bbc news,1270,277,7,31,16,1,681.0,901.0
+1638,when I close the door,1358,278,8,31,16,1,1.0,139.0
+1639,turn the cooling system on,50,278,8,31,16,1,140.0,303.0
+1640,animation youtube channels,760,278,8,31,16,1,304.0,467.0
+1641,when something moves in front of my motion sensor,1206,278,8,31,16,1,468.0,746.0
+1642,when I am low on battery,1435,278,8,31,16,1,747.0,900.0
+1643,when something moves in front of my security camera,1246,279,9,31,16,1,1.0,257.0
+1644,nasa 's apod,778,279,9,31,16,1,258.0,319.0
+1645,order me a black latte,85,279,9,31,16,1,320.0,431.0
+1646,all imgflip meme templates,565,279,9,31,16,1,432.0,563.0
+1647,when the sound sensor detects any sound,1352,279,9,31,16,1,564.0,760.0
+1648,when there is a new TED talk,1134,279,9,31,16,1,761.0,902.0
+1649,my newest google drive files,589,280,1,32,16,2,1.0,161.0
+1650,decrease the volume of my lg tv,88,280,1,32,16,2,162.0,337.0
+1651,the moment the awnings get retracted,1412,280,1,32,16,2,338.0,538.0
+1652,upload a picture to tumblr,300,280,1,32,16,2,539.0,689.0
+1653,images from Imgur User Submitted viral,1022,280,1,32,16,2,690.0,900.0
+1654,when my motion sensor detects someone,1275,281,2,32,16,2,1.0,188.0
+1655,animal fun facts,528,281,2,32,16,2,189.0,271.0
+1656,turn off my fan,217,281,2,32,16,2,272.0,349.0
+1657,talks on TED,539,281,2,32,16,2,350.0,412.0
+1658,my oldest google drive files,909,281,2,32,16,2,413.0,555.0
+1659,once something is detected by the sound sensor,1092,281,2,32,16,2,556.0,788.0
+1660,order me a black mocha,40,281,2,32,16,2,789.0,901.0
+1661,when my sound sensor detects someone,1296,282,3,32,16,2,1.0,188.0
+1662,science youtube channels,897,282,3,32,16,2,189.0,316.0
+1663,news on mashable,873,282,3,32,16,2,317.0,404.0
+1664,my google drive files that were created most recently,736,282,3,32,16,2,405.0,677.0
+1665,the blog world_views of the washington post,340,282,3,32,16,2,678.0,900.0
+1666,loop the color of the light bulb,82,283,4,32,16,2,1.0,172.0
+1667,when mashable updates,1083,283,4,32,16,2,173.0,289.0
+1668,cats,1058,283,4,32,16,2,290.0,321.0
+1669,once people enter the room,1268,283,4,32,16,2,322.0,463.0
+1670,when i receive an email marked as important,1117,283,4,32,16,2,464.0,690.0
+1671,when I upload a new picture on instagram,1291,283,4,32,16,2,691.0,902.0
+1672,when my smart plug gets plugged or unplugged,1344,284,5,32,16,2,1.0,231.0
+1673,analyze a sentence,889,284,5,32,16,2,232.0,332.0
+1674,articles in the new york times science section,403,284,5,32,16,2,333.0,573.0
+1675,share a picture on Imgur,86,284,5,32,16,2,574.0,704.0
+1676,start disco lights,195,284,5,32,16,2,705.0,805.0
+1677,help me on my fan,243,284,5,32,16,2,806.0,901.0
+1678,channels in category lifestyle on youtube,691,285,6,32,16,2,1.0,215.0
+1679,when the plug gets unplugged,1170,285,6,32,16,2,216.0,365.0
+1680,power off the fan,245,285,6,32,16,2,366.0,460.0
+1681,world washington post 's articles,776,285,6,32,16,2,461.0,635.0
+1682,what is the weather tomorrow,548,285,6,32,16,2,636.0,785.0
+1683,tweets in my timeline,724,285,6,32,16,2,786.0,900.0
+1684,help me switch on my vacuum,80,286,7,32,16,2,1.0,167.0
+1685,whoever closes the door,1456,286,7,32,16,2,168.0,314.0
+1686,youtube channels with category music,849,286,7,32,16,2,315.0,526.0
+1687,whether my shades are open or closed,755,286,7,32,16,2,527.0,738.0
+1688,post something on facebook,204,286,7,32,16,2,739.0,900.0
+1689,when an event in my schedule is about to start,1433,287,8,32,16,2,1.0,241.0
+1690,turn off my switch,54,287,8,32,16,2,242.0,342.0
+1691,when my vacuum goes back to base,1185,287,8,32,16,2,343.0,513.0
+1692,sfw images from Imgur,737,287,8,32,16,2,514.0,629.0
+1693,create a new empty file in onedrive,206,287,8,32,16,2,630.0,815.0
+1694,turn on shuffle,79,287,8,32,16,2,816.0,901.0
+1695,wall street journal articles in the markets section published in the last hour,653,288,9,32,16,2,1.0,426.0
+1696,when there is gas,1225,288,9,32,16,2,427.0,547.0
+1697,diy youtube channels,932,288,9,32,16,2,548.0,683.0
+1698,business washington post 's articles,600,288,9,32,16,2,684.0,899.0
+1699,when i create a new file on google drive,1252,289,1,33,17,1,1.0,216.0
+1700,the blog right_turn of the washington post,879,289,1,33,17,1,217.0,442.0
+1701,turn off my vacuum cleaner,89,289,1,33,17,1,443.0,588.0
+1702,once my smart plug is connected,1243,289,1,33,17,1,589.0,759.0
+1703,when no smoke is detected,1290,289,1,33,17,1,760.0,900.0
+1704,when my security camera detects no person,1125,290,2,33,17,1,1.0,206.0
+1705,the new york times health section,1008,290,2,33,17,1,207.0,372.0
+1706,when the room gets occupied or becomes empty,1365,290,2,33,17,1,373.0,593.0
+1707,a random xkcd comic,504,290,2,33,17,1,594.0,689.0
+1708,news on techcrunch,481,290,2,33,17,1,690.0,780.0
+1709,the front page of reddit,750,290,2,33,17,1,781.0,901.0
+1710,wsj opinions articles,902,291,3,33,17,1,1.0,109.0
+1711,turn the heating off,211,291,3,33,17,1,110.0,213.0
+1712,the steps i have taken,777,291,3,33,17,1,214.0,327.0
+1713,tell the vacuum to pause cleaning,4,291,3,33,17,1,328.0,496.0
+1714,the description of a picture,1056,291,3,33,17,1,497.0,640.0
+1715,the state of my tesla car ,546,291,3,33,17,1,641.0,774.0
+1716,help me open the shutters,268,291,3,33,17,1,775.0,903.0
+1717,latest slashdot news,618,292,4,33,17,1,1.0,103.0
+1718,washington post lifestyle,543,292,4,33,17,1,104.0,231.0
+1719,comedy youtube channels,520,292,4,33,17,1,232.0,349.0
+1720,a fact about snail,692,292,4,33,17,1,350.0,442.0
+1721,once I leave the door closed,1205,292,4,33,17,1,443.0,585.0
+1722,is my Tesla remotely accessible? ,414,292,4,33,17,1,586.0,753.0
+1723,my google contacts,395,292,4,33,17,1,754.0,846.0
+1724,make a meme,472,292,4,33,17,1,847.0,904.0
+1725,news on nba basketball,396,293,5,33,17,1,1.0,123.0
+1726,the BPM of the current track,813,293,5,33,17,1,124.0,276.0
+1727,trump quotes,1026,293,5,33,17,1,277.0,349.0
+1728,when new slides are added to cs294s website,1371,293,5,33,17,1,350.0,577.0
+1729,music youtube channels,1043,293,5,33,17,1,578.0,700.0
+1730,when somebody posts a message to slack,1391,293,5,33,17,1,701.0,903.0
+1731,youtube channels with category causes,877,294,6,33,17,1,1.0,202.0
+1732,switch off the fan,275,294,6,33,17,1,203.0,309.0
+1733,when an event is about to start,1154,294,6,33,17,1,310.0,481.0
+1734,add this to my playlist,17,294,6,33,17,1,482.0,613.0
+1735,when new class notes are added to cs294s class wesbite,1144,294,6,33,17,1,614.0,900.0
+1736,when i create a new file on onedrive,1142,295,7,33,17,1,1.0,205.0
+1737,when the heat sensor is normal,1101,295,7,33,17,1,206.0,380.0
+1738,dog fun facts,364,295,7,33,17,1,381.0,470.0
+1739,once the vacuum gets docked,1422,295,7,33,17,1,471.0,630.0
+1740,articles in the washington post in section sports,594,295,7,33,17,1,631.0,900.0
+1741,youtube 's science channels,723,296,8,33,17,1,1.0,147.0
+1742,make a blog post on tumblr,197,296,8,33,17,1,148.0,289.0
+1743,when a dangerous asteroid is close to earth,1191,296,8,33,17,1,290.0,516.0
+1744,open my shades for me,169,296,8,33,17,1,517.0,633.0
+1745,add a picture to facebook,175,296,8,33,17,1,634.0,770.0
+1746,when I turn off the plug,1453,296,8,33,17,1,771.0,902.0
+1747,wall street journal markets,759,297,9,33,17,1,1.0,149.0
+1748,a fact about dog,662,297,9,33,17,1,150.0,243.0
+1749,wsj us_business articles,837,297,9,33,17,1,244.0,377.0
+1750,a random fact,830,297,9,33,17,1,378.0,456.0
+1751,whether my vacuum is on or off,411,297,9,33,17,1,457.0,620.0
+1752,turn on the light,99,297,9,33,17,1,621.0,719.0
+1753,if i upload a picture on instagram,1148,297,9,33,17,1,720.0,903.0
+1754,add this song to my playlist,25,298,1,34,17,2,1.0,158.0
+1755,order me a iced latte,199,298,1,34,17,2,159.0,281.0
+1756,images from Imgur that are safe-for-work,360,298,1,34,17,2,282.0,499.0
+1757,order me a cappuccino,12,298,1,34,17,2,500.0,622.0
+1758,keep my curtains,7,298,1,34,17,2,623.0,720.0
+1759,tell the vacuum to return to base,84,298,1,34,17,2,721.0,903.0
+1760,my tasks on Wunderlist,956,299,2,34,17,2,1.0,113.0
+1761,articles in the washington post in section world,516,299,2,34,17,2,114.0,356.0
+1762,enable my security camera,68,299,2,34,17,2,357.0,484.0
+1763,automotive channels in youtube,780,299,2,34,17,2,485.0,637.0
+1764,the time signature of the current track,624,299,2,34,17,2,638.0,835.0
+1765,animal trivia,955,299,2,34,17,2,836.0,903.0
+1766,honk my car horn,34,300,3,34,17,2,1.0,107.0
+1767,my linkedin profile,490,300,3,34,17,2,108.0,229.0
+1768,whether the awning is extended or retracted,989,300,3,34,17,2,230.0,471.0
+1769,when the plug gets connected or disconnected,1147,300,3,34,17,2,472.0,718.0
+1770,when the heat sensor is not hot,1312,300,3,34,17,2,719.0,900.0
+1771,order me a black cappuccino,105,301,4,34,17,2,1.0,137.0
+1772,save whatever's playing to my library,142,301,4,34,17,2,138.0,324.0
+1773,when news on gamespot updates,1354,301,4,34,17,2,325.0,471.0
+1774,washington post business,716,301,4,34,17,2,472.0,593.0
+1775,put the curtains up,183,301,4,34,17,2,594.0,690.0
+1776,the business section of the new york times,557,301,4,34,17,2,691.0,902.0
+1777,the acousticness of the current song,579,302,5,34,17,2,1.0,191.0
+1778,if my battery is finishing,1273,302,5,34,17,2,192.0,332.0
+1779,when someone closes the door,1265,302,5,34,17,2,333.0,483.0
+1780,new newest onedrive files,545,302,5,34,17,2,484.0,619.0
+1781,when a gas leak is detected,1320,302,5,34,17,2,620.0,765.0
+1782,skip this song on spotify,276,302,5,34,17,2,766.0,901.0
+1783,youtube channels with category best_of_youtube,978,303,6,34,17,2,1.0,231.0
+1784,my onedrive files in alphabetical order,908,303,6,34,17,2,232.0,427.0
+1785,time estimate for uber,630,303,6,34,17,2,428.0,538.0
+1786,popular science articles,1025,303,6,34,17,2,539.0,659.0
+1787,order me a iced macchiato,314,303,6,34,17,2,660.0,785.0
+1788,the energy of this song,515,303,6,34,17,2,786.0,901.0
+1789,today's asteroid info,409,304,7,34,17,2,1.0,116.0
+1790,when nobody is in the living room,1384,304,7,34,17,2,117.0,292.0
+1791,wall street journal articles in the markets section,982,304,7,34,17,2,293.0,558.0
+1792,the new york times world section,814,304,7,34,17,2,559.0,729.0
+1793,the loudness of the current song,621,304,7,34,17,2,730.0,900.0
+1794,wsj technology articles,846,305,8,34,17,2,1.0,120.0
+1795,turn the ac on,254,305,8,34,17,2,121.0,195.0
+1796,lifestyle channels in youtube,384,305,8,34,17,2,196.0,345.0
+1797,turn off the lights,271,305,8,34,17,2,346.0,445.0
+1798,cs294s class materials,358,305,8,34,17,2,446.0,560.0
+1799,flash the lights as alerts,259,305,8,34,17,2,561.0,695.0
+1800,if the switch is turned on or turned off,919,305,8,34,17,2,696.0,900.0
+1801,when the fan is off,1360,306,9,34,17,2,1.0,112.0
+1802,when there is a new post on rss feed,1322,306,9,34,17,2,113.0,309.0
+1803,when somebody dms me,1208,306,9,34,17,2,310.0,426.0
+1804,whenever the state of my lights has changed,1439,306,9,34,17,2,427.0,658.0
+1805,whenever the state of the heat sensor changes,1264,306,9,34,17,2,659.0,900.0
+1806,pull the curtains close,222,307,1,35,18,1,1.0,124.0
+1807,when smoke is detected,1338,307,1,35,18,1,125.0,243.0
+1808,nasa 's astronomy picture of the day,583,307,1,35,18,1,244.0,432.0
+1809,switch off the vacuum,126,307,1,35,18,1,433.0,546.0
+1810,when the mozilla blog updates,1211,307,1,35,18,1,547.0,700.0
+1811,open my shades,299,307,1,35,18,1,701.0,779.0
+1812,latest news on engadget,1038,307,1,35,18,1,780.0,903.0
+1813,youtube 's causes channels,747,308,2,35,18,1,1.0,141.0
+1814,if I opened the shutters,992,308,2,35,18,1,142.0,272.0
+1815,set my hvac to heat_cool,29,308,2,35,18,1,273.0,403.0
+1816,upload a mature picture to Imgure,272,308,2,35,18,1,404.0,579.0
+1817,whether the gas sensor is detecting any gas,332,308,2,35,18,1,580.0,805.0
+1818,movie information,945,308,2,35,18,1,806.0,901.0
+1819,set my speaker softer,69,309,3,35,18,1,1.0,112.0
+1820,when my shades lower,1355,309,3,35,18,1,113.0,219.0
+1821,resume my spotify,21,309,3,35,18,1,220.0,311.0
+1822,how loud is this song,714,309,3,35,18,1,312.0,423.0
+1823,cooking channels in youtube,774,309,3,35,18,1,424.0,565.0
+1824,my onedrive files modified today,833,309,3,35,18,1,566.0,732.0
+1825,order me a iced caramel_macchiato,130,309,3,35,18,1,733.0,904.0
+1826,popular science news,765,310,4,35,18,1,1.0,121.0
+1827,whether the door is open or closed,497,310,4,35,18,1,122.0,312.0
+1828,an interesting factoid about snail,505,310,4,35,18,1,313.0,503.0
+1829,science channels in youtube,704,310,4,35,18,1,504.0,659.0
+1830,upload a picture to Imgur and mark it mature,103,310,4,35,18,1,660.0,900.0
+1831,add an album to my playlist,262,311,5,35,18,1,1.0,154.0
+1832,make my vacuum stop cleaning,223,311,5,35,18,1,155.0,313.0
+1833,where is my Tesla car?,354,311,5,35,18,1,314.0,442.0
+1834,get info on people I know,558,311,5,35,18,1,443.0,586.0
+1835,use spotify to play some music,33,311,5,35,18,1,587.0,755.0
+1836,when a new xkcd is posted,1464,311,5,35,18,1,756.0,899.0
+1837,when the switch becomes on,1407,312,6,35,18,1,1.0,178.0
+1838,make note of my weight on fitbit,288,312,6,35,18,1,179.0,386.0
+1839,when I bring up my shades,1409,312,6,35,18,1,387.0,559.0
+1840,once my plug is switched on,1349,312,6,35,18,1,560.0,742.0
+1841,when I dock the vacuum,1443,312,6,35,18,1,743.0,900.0
+1842,when something is detected by my security camera,1277,313,7,35,18,1,1.0,249.0
+1843,play something on my speaker,158,313,7,35,18,1,250.0,398.0
+1844,my emails,800,313,7,35,18,1,399.0,452.0
+1845,the instrumentalness of the current song,485,313,7,35,18,1,453.0,661.0
+1846,help me turn off my fan,200,313,7,35,18,1,662.0,785.0
+1847,wsj lifestyle articles,898,313,7,35,18,1,786.0,904.0
+1848,curiosity rover,836,314,8,35,18,1,1.0,77.0
+1849,a picture from giphy,398,314,8,35,18,1,78.0,179.0
+1850,the moment I close the door,1151,314,8,35,18,1,180.0,316.0
+1851,play music on my speaker,57,314,8,35,18,1,317.0,438.0
+1852,how upbeat is this song,611,314,8,35,18,1,439.0,555.0
+1853,mac rumors,794,314,8,35,18,1,556.0,607.0
+1854,once the connection is running smoothly,1276,314,8,35,18,1,608.0,804.0
+1855,the fitbit pedometer,523,314,8,35,18,1,805.0,906.0
+1856,my gmail inbox,639,315,9,35,18,1,1.0,78.0
+1857,when the toilet is being used,1247,315,9,35,18,1,79.0,231.0
+1858,when my curtains lower,1469,315,9,35,18,1,232.0,349.0
+1859,when anyone takes out my plug,1425,315,9,35,18,1,350.0,502.0
+1860,can you switch on my fan,145,315,9,35,18,1,503.0,630.0
+1861,close my window,191,315,9,35,18,1,631.0,713.0
+1862,dictionary definitions,343,315,9,35,18,1,714.0,831.0
+1863,new playlist,152,315,9,35,18,1,832.0,899.0
+1864,when engadget news updates,1362,316,1,36,18,2,1.0,138.0
+1865,whether the window is shut,914,316,1,36,18,2,139.0,276.0
+1866,when my shades are opened or closed,1432,316,1,36,18,2,277.0,459.0
+1867,youtube 's cooking channels,658,316,1,36,18,2,460.0,602.0
+1868,phdcomics posts,346,316,1,36,18,2,603.0,685.0
+1869,if something happens on my security camera,1351,316,1,36,18,2,686.0,903.0
+1870,play the previous song,39,317,2,36,18,2,1.0,120.0
+1871,youtube channels i follow,568,317,2,36,18,2,121.0,255.0
+1872,close the damper,202,317,2,36,18,2,256.0,345.0
+1873,post on twitter,238,317,2,36,18,2,346.0,430.0
+1874,if my switch is on or off,584,317,2,36,18,2,431.0,565.0
+1875,slack messages i received in the last hour,438,317,2,36,18,2,566.0,785.0
+1876,washington post world,408,317,2,36,18,2,786.0,900.0
+1877,put the damper up,321,318,3,36,18,2,1.0,94.0
+1878,a plot from wolframalpha,1012,318,3,36,18,2,95.0,223.0
+1879,put the shades up,20,318,3,36,18,2,224.0,317.0
+1880,when i get a message on twitter,1143,318,3,36,18,2,318.0,481.0
+1881,lower the blinds,287,318,3,36,18,2,482.0,570.0
+1882,order me a black drip_coffee,73,318,3,36,18,2,571.0,719.0
+1883,when the damper is opened or closed,1197,318,3,36,18,2,720.0,903.0
+1884,a picture from mars,1054,319,4,36,18,2,1.0,118.0
+1885,channels in category beauty_and_fashion on youtube,683,319,4,36,18,2,119.0,391.0
+1886,techcrunch news,397,319,4,36,18,2,392.0,489.0
+1887,youtube 's diy channels,917,319,4,36,18,2,490.0,627.0
+1888,a random cat fact,997,319,4,36,18,2,628.0,735.0
+1889,whether my vacuum is cleaning,377,319,4,36,18,2,736.0,903.0
+1890,the blog capital_weather_gang of the washington post,960,320,5,36,18,2,1.0,268.0
+1891,},753,320,5,36,18,2,269.0,281.0
+1892,send a message on slack,36,320,5,36,18,2,282.0,404.0
+1893,when the sound sensor hears something or stops hearing anything,1149,320,5,36,18,2,405.0,727.0
+1894,switch on the switch,171,320,5,36,18,2,728.0,835.0
+1895,after sunset,1160,320,5,36,18,2,836.0,903.0
+1896,wall street journal technology,933,321,6,36,18,2,1.0,170.0
+1897,my meeting schedule,370,321,6,36,18,2,171.0,285.0
+1898,when somebody sends me an email,1260,321,6,36,18,2,286.0,460.0
+1899,raise the blinds,282,321,6,36,18,2,461.0,560.0
+1900,if the fan switches off,1192,321,6,36,18,2,561.0,695.0
+1901,when the blinds are raised or lowered,1331,321,6,36,18,2,696.0,900.0
+1902,film_and_entertainment youtube channels,616,322,7,36,18,2,1.0,220.0
+1903,turn the heating on,249,322,7,36,18,2,221.0,340.0
+1904,washington post local,622,322,7,36,18,2,341.0,470.0
+1905,whether there is any smoke,740,322,7,36,18,2,471.0,625.0
+1906,tech channels in youtube,1028,322,7,36,18,2,626.0,770.0
+1907,my contacts on google,807,322,7,36,18,2,771.0,900.0
+1908,news_and_politics youtube channels,687,323,8,36,18,2,1.0,172.0
+1909,my onedrive files that changed most recently,883,323,8,36,18,2,173.0,394.0
+1910,dog pictures,674,323,8,36,18,2,395.0,456.0
+1911,when the space is vacated,1118,323,8,36,18,2,457.0,583.0
+1912,when my plug is plugged,1285,323,8,36,18,2,584.0,700.0
+1913,my profile on linkedin,461,323,8,36,18,2,701.0,812.0
+1914,the time signature,635,323,8,36,18,2,813.0,904.0
+1915,pause my vacuum,94,324,9,36,18,2,1.0,98.0
+1916,time magazine top stories,751,324,9,36,18,2,99.0,246.0
+1917,once somebody is using the toilet,1137,324,9,36,18,2,247.0,434.0
+1918,when it gets smokey,1237,324,9,36,18,2,435.0,552.0
+1919,a random gif from giphy,710,324,9,36,18,2,553.0,690.0
+1920,when a file is created in google drive,1093,324,9,36,18,2,691.0,903.0
+1921,get the temperature of my Tesla car,559,325,1,37,19,1,1.0,187.0
+1922,the messages i got on twitter,1024,325,1,37,19,1,188.0,344.0
+1923,hacker news front page,649,325,1,37,19,1,345.0,466.0
+1924,play my playlist,185,325,1,37,19,1,467.0,558.0
+1925,play an artist,208,325,1,37,19,1,559.0,640.0
+1926,youtube 's sports channels,339,325,1,37,19,1,641.0,782.0
+1927,paid youtube channels,1013,325,1,37,19,1,783.0,899.0
+1928,the weather outside,389,326,2,37,19,1,1.0,106.0
+1929,articles on nature,697,326,2,37,19,1,107.0,207.0
+1930,news on huffington post,871,326,2,37,19,1,208.0,333.0
+1931,washington post 's the_fix blog,946,326,2,37,19,1,334.0,499.0
+1932,NSFW images from Imgur,480,326,2,37,19,1,500.0,620.0
+1933,when I upload a picture on instagram,1102,326,2,37,19,1,621.0,811.0
+1934,open my curtains,45,326,2,37,19,1,812.0,902.0
+1935,when my fan gets switched off,1115,327,3,37,19,1,1.0,147.0
+1936,put the blinds down,144,327,3,37,19,1,148.0,244.0
+1937,ars's latest news,602,327,3,37,19,1,245.0,331.0
+1938,turn off my light bulb,91,327,3,37,19,1,332.0,443.0
+1939,if my fan is oscillating or stationary,394,327,3,37,19,1,444.0,635.0
+1940,the blog powerpost of the washington post,924,327,3,37,19,1,636.0,842.0
+1941,my schedule,964,327,3,37,19,1,843.0,899.0
+1942,set my bluetooth speaker as default,201,328,4,37,19,1,1.0,207.0
+1943,call uber,260,328,4,37,19,1,208.0,284.0
+1944,when the vacuum is on,1090,328,4,37,19,1,285.0,421.0
+1945,when my fan gets turned on,1256,328,4,37,19,1,422.0,583.0
+1946,the valence of this track,560,328,4,37,19,1,584.0,740.0
+1947,once my vacuum switches on,1184,328,4,37,19,1,741.0,902.0
+1948,whether the sound sensor is detecting sound or not,547,329,5,37,19,1,1.0,253.0
+1949,ny times,673,329,5,37,19,1,254.0,296.0
+1950,if I switch off my fan,1112,329,5,37,19,1,297.0,409.0
+1951,when there is a new top stories on time magazine,1173,329,5,37,19,1,410.0,652.0
+1952,when there is no more gas,1392,329,5,37,19,1,653.0,780.0
+1953,send a picture via email,281,329,5,37,19,1,781.0,903.0
+1954,when there is a new asteroid passing by,1383,330,6,37,19,1,1.0,222.0
+1955,an interesting factoid about dog,535,330,6,37,19,1,223.0,409.0
+1956,if the battery is low or normal,474,330,6,37,19,1,410.0,591.0
+1957,when an event on my calendar ends,1397,330,6,37,19,1,592.0,783.0
+1958,wsj,743,330,6,37,19,1,784.0,825.0
+1959,instagrams,742,330,6,37,19,1,826.0,902.0
+1960,once my motion sensor senses something,1427,331,7,37,19,1,1.0,204.0
+1961,posts in the washington post fact_checker blog,940,331,7,37,19,1,205.0,448.0
+1962,an rss feed,522,331,7,37,19,1,449.0,517.0
+1963,a picture of a random dog,456,331,7,37,19,1,518.0,656.0
+1964,when my battery has no juice,1394,331,7,37,19,1,657.0,810.0
+1965,open the window,168,331,7,37,19,1,811.0,899.0
+1966,when my vacuum starts or stops cleaning,1466,332,8,37,19,1,1.0,198.0
+1967,what does trump think,875,332,8,37,19,1,199.0,306.0
+1968,songs in my playlist,916,332,8,37,19,1,307.0,409.0
+1969,when i update my instagram,1087,332,8,37,19,1,410.0,542.0
+1970,information on wikicfp,1032,332,8,37,19,1,543.0,655.0
+1971,make the vacuum pause cleaning,154,332,8,37,19,1,656.0,808.0
+1972,all meme templates,554,332,8,37,19,1,809.0,901.0
+1973,increase volume on my speaker,15,333,9,37,19,1,1.0,149.0
+1974,the moment the window gets shut,1329,333,9,37,19,1,150.0,308.0
+1975,when a new phd comics is posted,1449,333,9,37,19,1,309.0,467.0
+1976,news on gamespot,460,333,9,37,19,1,468.0,551.0
+1977,a snapshot of my security camera,400,333,9,37,19,1,552.0,715.0
+1978,the moment the curtains get put down,1451,333,9,37,19,1,716.0,899.0
+1979,the energy of level the current track,818,334,1,38,19,2,1.0,214.0
+1980,when there is a gas leak,1309,334,1,38,19,2,215.0,363.0
+1981,new york times articles published this week,899,334,1,38,19,2,364.0,607.0
+1982,when my sound sensor detects nothing,1448,334,1,38,19,2,608.0,816.0
+1983,name a baby,693,334,1,38,19,2,817.0,900.0
+1984,lifestyle washington post 's articles,1021,335,2,38,19,2,1.0,196.0
+1985,if the router is connected or disconnected,804,335,2,38,19,2,197.0,417.0
+1986,when somebody emails me,1431,335,2,38,19,2,418.0,543.0
+1987,if my battery has power,958,335,2,38,19,2,544.0,669.0
+1988,posts in the washington post right_turn blog,442,335,2,38,19,2,670.0,900.0
+1989,honk the Tesla car,317,336,3,38,19,2,1.0,116.0
+1990,file on github,410,336,3,38,19,2,117.0,212.0
+1991,articles on the mozilla blog,507,336,3,38,19,2,213.0,378.0
+1992,wall street journal world_news,367,336,3,38,19,2,379.0,554.0
+1993,post on slack,62,336,3,38,19,2,555.0,645.0
+1994,news on nature,1059,336,3,38,19,2,646.0,741.0
+1995,if the battery is topped up,1213,336,3,38,19,2,742.0,902.0
+1996,when the state of my battery changes,1411,337,4,38,19,2,1.0,183.0
+1997,my google drive files in reverse alphabetical order,359,337,4,38,19,2,184.0,441.0
+1998,I want to switch off the fan,232,337,4,38,19,2,442.0,584.0
+1999,oscillate my fan,193,337,4,38,19,2,585.0,667.0
+2000,Is my car at home? ,638,337,4,38,19,2,668.0,765.0
+2001,turn off the vacuum cleaner,252,337,4,38,19,2,766.0,903.0
+2002,articles on popular science,391,338,5,38,19,2,1.0,153.0
+2003,when there are new mac rumors,1231,338,5,38,19,2,154.0,316.0
+2004,my security camera live feed,895,338,5,38,19,2,317.0,474.0
+2005,go back to the last song,157,338,5,38,19,2,475.0,612.0
+2006,once somebody closes the window,1286,338,5,38,19,2,613.0,785.0
+2007,the state of my hvac,541,338,5,38,19,2,786.0,903.0
+2008,new books published by stanford press,934,339,6,38,19,2,1.0,219.0
+2009,the moment the awnings get extended,1080,339,6,38,19,2,220.0,428.0
+2010,latest gamespot news,561,339,6,38,19,2,429.0,562.0
+2011,when stanford press publishes a new book,1367,339,6,38,19,2,563.0,796.0
+2012,my twitter dms,866,339,6,38,19,2,797.0,900.0
+2013,when an event is about to start on my calendar,1096,340,7,38,19,2,1.0,237.0
+2014,if the gas sensor is detecting gas,761,340,7,38,19,2,238.0,414.0
+2015,when I oscillate the fan,1248,340,7,38,19,2,415.0,541.0
+2016,when the connection drops,1168,340,7,38,19,2,542.0,673.0
+2017,washington post national,1036,340,7,38,19,2,674.0,800.0
+2018,flash the Tesla car,137,340,7,38,19,2,801.0,902.0
+2019,set my speaker as default,1,341,8,38,19,2,1.0,137.0
+2020,the key of this song,722,341,8,38,19,2,138.0,249.0
+2021,when nobody is using the toilet,1100,341,8,38,19,2,250.0,416.0
+2022,if i update my instagram,1073,341,8,38,19,2,417.0,548.0
+2023,post something on tumblr,219,341,8,38,19,2,549.0,680.0
+2024,a fact about cat,439,341,8,38,19,2,681.0,772.0
+2025,my files in google drive,829,341,8,38,19,2,773.0,904.0
+2026,a random snail fact,680,342,9,38,19,2,1.0,115.0
+2027,set the power on my security camera to off,301,342,9,38,19,2,116.0,345.0
+2028,wall street journal us_business,348,342,9,38,19,2,346.0,520.0
+2029,a picture from nasa curiosity,730,342,9,38,19,2,521.0,685.0
+2030,when somebody sends me a direct message,1419,342,9,38,19,2,686.0,900.0
+2031,play the last song on spotify,18,343,1,39,20,1,1.0,151.0
+2032,when top stories on cnn news update,1299,343,1,39,20,1,152.0,332.0
+2033,the last event detected by my security camera,857,343,1,39,20,1,333.0,563.0
+2034,the danceability of the current track,510,343,1,39,20,1,564.0,754.0
+2035,shut down my security camera,5,343,1,39,20,1,755.0,900.0
+2036,articles on how to geek,415,344,2,39,20,1,1.0,116.0
+2037,search images on bing,612,344,2,39,20,1,117.0,222.0
+2038,when the corridor becomes occupied or empty,1218,344,2,39,20,1,223.0,438.0
+2039,when everyone leaves the room,1195,344,2,39,20,1,439.0,584.0
+2040,wired top stories,985,344,2,39,20,1,585.0,670.0
+2041,latest posts on an atom feed,467,344,2,39,20,1,671.0,811.0
+2042,posts on phdcomics,534,344,2,39,20,1,812.0,902.0
+2043,the us section of the new york times,912,345,3,39,20,1,1.0,198.0
+2044,lifestyle youtube channels,801,345,3,39,20,1,199.0,346.0
+2045,the number of steps i took,368,345,3,39,20,1,347.0,494.0
+2046,latest news by ars technica,708,345,3,39,20,1,495.0,647.0
+2047,recommended channels in youtube,951,345,3,39,20,1,648.0,820.0
+2048,mashable news,488,345,3,39,20,1,821.0,903.0
+2049,order me a iced cappuccino,177,346,4,39,20,1,1.0,144.0
+2050,when there is a new top stories on cnn news,1169,346,4,39,20,1,145.0,373.0
+2051,when sun rises,1164,346,4,39,20,1,374.0,457.0
+2052,when I turn off my switch,1075,346,4,39,20,1,458.0,596.0
+2053,when sun comes up,1348,346,4,39,20,1,597.0,695.0
+2054,when an asteroid passes close to earth,1113,346,4,39,20,1,696.0,899.0
+2055,whether my switch is switched on or switched off,792,347,5,39,20,1,1.0,270.0
+2056,when the shutters are opened or closed,1229,347,5,39,20,1,271.0,490.0
+2057,news from the best university in the world,661,347,5,39,20,1,491.0,730.0
+2058,latest business insider news,961,347,5,39,20,1,731.0,900.0
+2059,youtube channels with category sports,937,348,6,39,20,1,1.0,206.0
+2060,whether the lights are on or off,811,348,6,39,20,1,207.0,387.0
+2061,change the minimum and maximum temperatures on my thermostat,134,348,6,39,20,1,388.0,708.0
+2062,when smoke is not detected anymore,1467,348,6,39,20,1,709.0,899.0
+2063,when how to geek updates,1210,349,7,39,20,1,1.0,135.0
+2064,instagram pictures i uploaded,699,349,7,39,20,1,136.0,295.0
+2065,the tempo,422,349,7,39,20,1,296.0,355.0
+2066,piled higher and deeper comics,626,349,7,39,20,1,356.0,520.0
+2067,bing image search,506,349,7,39,20,1,521.0,620.0
+2068,when there is smoke,1415,349,7,39,20,1,621.0,730.0
+2069,the weather,783,349,7,39,20,1,731.0,800.0
+2070,flip my switch off,176,349,7,39,20,1,801.0,905.0
+2071,business news on fortune,641,350,8,39,20,1,1.0,128.0
+2072,wake up the Tesla car,194,350,8,39,20,1,129.0,241.0
+2073,turn off my vacuum,161,350,8,39,20,1,242.0,339.0
+2074,order me a iced white_mocha,133,350,8,39,20,1,340.0,482.0
+2075,new howtogeek articles,455,350,8,39,20,1,483.0,600.0
+2076,washington post 's world_views blog,365,350,8,39,20,1,601.0,783.0
+2077,articles on lifehacker,443,350,8,39,20,1,784.0,901.0
+2078,make a new linkedin post,298,351,9,39,20,1,1.0,137.0
+2079,order me a black white_mocha,131,351,9,39,20,1,138.0,294.0
+2080,a joke,596,351,9,39,20,1,295.0,341.0
+2081,open my blinds for me,210,351,9,39,20,1,342.0,463.0
+2082,youtube channels with category cooking,349,351,9,39,20,1,464.0,670.0
+2083,my primary category emails,532,351,9,39,20,1,671.0,817.0
+2084,open my window,55,351,9,39,20,1,818.0,904.0
+2085,when there is a new file in google drive,1321,352,1,40,20,2,1.0,223.0
+2086,turn on my lg webos tv,32,352,1,40,20,2,224.0,356.0
+2087,when my security camera detects motion,1323,352,1,40,20,2,357.0,569.0
+2088,the bpm of the current track,446,352,1,40,20,2,570.0,732.0
+2089,the new york times front page,859,352,1,40,20,2,733.0,900.0
+2090,if the sensor is detecting any smoke,525,353,2,40,20,2,1.0,191.0
+2091,posts in the washington post the_plum_line blog,667,353,2,40,20,2,192.0,437.0
+2092,when nothing is detected by my motion sensor,1146,353,2,40,20,2,438.0,668.0
+2093,when my shutters are open,1370,353,2,40,20,2,669.0,804.0
+2094,switch on the fan,101,353,2,40,20,2,805.0,900.0
+2095,the temperature on my thermostat,333,354,3,40,20,2,1.0,190.0
+2096,set off the lights,58,354,3,40,20,2,191.0,310.0
+2097,once the room has been cleared,1375,354,3,40,20,2,311.0,490.0
+2098,if the heat sensor is getting heated up,1356,354,3,40,20,2,491.0,715.0
+2099,images from Imgur marked mature,1015,354,3,40,20,2,716.0,900.0
+2100,raise volume on my bluetooth speaker,27,355,4,40,20,2,1.0,198.0
+2101,wall street journal articles in the world_news section published in the last hour,728,355,4,40,20,2,199.0,621.0
+2102,news on huffpost,806,355,4,40,20,2,622.0,719.0
+2103,whether my vacuum getting charged,650,355,4,40,20,2,720.0,902.0
+2104,when my door closes,1181,356,5,40,20,2,1.0,99.0
+2105,when someone is in the living room,1182,356,5,40,20,2,100.0,273.0
+2106,when i put up a new picture on instagram,1110,356,5,40,20,2,274.0,477.0
+2107,when my blinds are raised,1074,356,5,40,20,2,478.0,606.0
+2108,youtube 's recommended channels,566,356,5,40,20,2,607.0,765.0
+2109,order me a iced flat_white,164,356,5,40,20,2,766.0,899.0
+2110,when somebody plugs in my plug,1069,357,6,40,20,2,1.0,172.0
+2111,ask my vacuum to return to base,106,357,6,40,20,2,173.0,349.0
+2112,when it 's a holiday,1342,357,6,40,20,2,350.0,471.0
+2113,comedy channels in youtube,947,357,6,40,20,2,472.0,623.0
+2114,the humidity reported by thermostat,785,357,6,40,20,2,624.0,820.0
+2115,move the fan,124,357,6,40,20,2,821.0,902.0
+2116,once the vacuum switches off,1224,358,7,40,20,2,1.0,168.0
+2117,latest posts on matrix67,356,358,7,40,20,2,169.0,316.0
+2118,news on fortune,1005,358,7,40,20,2,317.0,419.0
+2119,photos on facebook,418,358,7,40,20,2,420.0,537.0
+2120,shut off my lg tv,156,358,7,40,20,2,538.0,650.0
+2121,turn off shuffle,231,358,7,40,20,2,651.0,758.0
+2122,new lifehacker articles,669,358,7,40,20,2,759.0,901.0
+2123,when my fan starts or stops oscillating,1158,359,8,40,20,2,1.0,202.0
+2124,when i send a message on omlet,1258,359,8,40,20,2,203.0,359.0
+2125,off the fan,328,359,8,40,20,2,360.0,421.0
+2126,when something is detected by my motion sensor,1377,359,8,40,20,2,422.0,658.0
+2127,articles in the new york times business section,572,359,8,40,20,2,659.0,900.0
+2128,an interesting factoid about cat,526,360,9,40,20,2,1.0,166.0
+2129,latest mashable news,386,360,9,40,20,2,167.0,272.0
+2130,best_of_youtube channels in youtube,357,360,9,40,20,2,273.0,453.0
+2131,create a new text file in onedrive,42,360,9,40,20,2,454.0,629.0
+2132,when a song is playing,1410,360,9,40,20,2,630.0,745.0
+2133,articles in the new york times,502,360,9,40,20,2,746.0,901.0
+2134,emails arrived today,637,361,1,41,21,1,1.0,118.0
+2135,Are my Tesla's doors locked? ,872,361,1,41,21,1,119.0,281.0
+2136,a random fox,591,361,1,41,21,1,282.0,359.0
+2137,order me a iced espresso,65,361,1,41,21,1,360.0,497.0
+2138,when something changes on my icalendar,1245,361,1,41,21,1,498.0,705.0
+2139,create a new empty folder in dropbox,83,361,1,41,21,1,706.0,903.0
+2140,if the toilet is being used,498,362,2,41,21,1,1.0,149.0
+2141,when an event on my calendar begins,1060,362,2,41,21,1,150.0,338.0
+2142,bring in the shutters,291,362,2,41,21,1,339.0,457.0
+2143,once there is a connection,1199,362,2,41,21,1,458.0,601.0
+2144,when I turn on the plug,1186,362,2,41,21,1,602.0,730.0
+2145,the number of steps from fitbit,581,362,2,41,21,1,731.0,899.0
+2146,share a picture to the public Imgur gallery,286,363,3,41,21,1,1.0,216.0
+2147,snail fun facts,634,363,3,41,21,1,217.0,292.0
+2148,is this song dancey,1046,363,3,41,21,1,293.0,388.0
+2149,front page of huffington post,878,363,3,41,21,1,389.0,534.0
+2150,when the heat sensor is freezing,1253,363,3,41,21,1,535.0,695.0
+2151,channels in category animation on youtube,1016,363,3,41,21,1,696.0,901.0
+2152,open my curtains for me,236,364,4,41,21,1,1.0,132.0
+2153,posts on matrix67,607,364,4,41,21,1,133.0,234.0
+2154,upload a NSFW picture to Imgur,102,364,4,41,21,1,235.0,401.0
+2155,whether the switch is on or off,768,364,4,41,21,1,402.0,573.0
+2156,off the switch,216,364,4,41,21,1,574.0,660.0
+2157,latest techcrunch news,564,364,4,41,21,1,661.0,787.0
+2158,when gas is detected,1316,364,4,41,21,1,788.0,904.0
+2159,when the heat sensor grows warm,1395,365,5,41,21,1,1.0,163.0
+2160,whether my plug is plugged in,1030,365,5,41,21,1,164.0,316.0
+2161,latest posts on an rss feed,718,365,5,41,21,1,317.0,459.0
+2162,close my awning,170,365,5,41,21,1,460.0,542.0
+2163,imgur usersub rising,399,365,5,41,21,1,543.0,650.0
+2164,when my fan turns on or off,1267,365,5,41,21,1,651.0,793.0
+2165,nyt,775,365,5,41,21,1,794.0,816.0
+2166,news on slashdot,585,365,5,41,21,1,817.0,904.0
+2167,whether my shutters are open or closed,393,366,6,41,21,1,1.0,235.0
+2168,when a new file is created on onedrive,1097,366,6,41,21,1,236.0,470.0
+2169,the blog post_partisan of the washington post,609,366,6,41,21,1,471.0,740.0
+2170,when I post on facebook,1307,366,6,41,21,1,741.0,900.0
+2171,when top stories on time magazine update,1139,367,7,41,21,1,1.0,238.0
+2172,when i change some file in onedrive,1458,367,7,41,21,1,239.0,451.0
+2173,once anyone opens the door,1223,367,7,41,21,1,452.0,619.0
+2174,trump's quote,799,367,7,41,21,1,620.0,722.0
+2175,when anyone opens the window,1470,367,7,41,21,1,723.0,900.0
+2176,when there is a new post on my twitter timeline,1111,368,8,41,21,1,1.0,275.0
+2177,when my sound sensor hears a noise,1457,368,8,41,21,1,276.0,485.0
+2178,when my door opens,1426,368,8,41,21,1,486.0,615.0
+2179,when my damper raises,1177,368,8,41,21,1,616.0,760.0
+2180,when my switch is on,1374,368,8,41,21,1,761.0,900.0
+2181,if the sound sensor is detecting any sound,648,369,9,41,21,1,1.0,215.0
+2182,my onedrive files that were created most recently,512,369,9,41,21,1,216.0,465.0
+2183,when the vacuum is docking,1387,369,9,41,21,1,466.0,600.0
+2184,create a folder in dropbox,290,369,9,41,21,1,601.0,735.0
+2185,when huffpost front page updates,1376,369,9,41,21,1,736.0,900.0
+2186,images from Imgur User Submitted,1027,370,1,42,21,2,1.0,171.0
+2187,upload a picture to onedrive,313,370,1,42,21,2,172.0,322.0
+2188,the state of the router,1039,370,1,42,21,2,323.0,448.0
+2189,user-submitted images in Imgur,803,370,1,42,21,2,449.0,609.0
+2190,price of game on Steam,822,370,1,42,21,2,610.0,730.0
+2191,washington post 's wonkblog blog,435,370,1,42,21,2,731.0,901.0
+2192,turn off my lg tv,95,371,2,42,21,2,1.0,87.0
+2193,TED videos,926,371,2,42,21,2,88.0,139.0
+2194,play something on my bluetooth speaker,129,371,2,42,21,2,140.0,331.0
+2195,my unimportant emails,1023,371,2,42,21,2,332.0,438.0
+2196,channels in category causes on youtube,1057,371,2,42,21,2,439.0,630.0
+2197,when my switch changes state,1403,371,2,42,21,2,631.0,772.0
+2198,my gmail,603,371,2,42,21,2,773.0,814.0
+2199,close my curtains,104,371,2,42,21,2,815.0,901.0
+2200,ask the vacuum to start cleaning,221,372,3,42,21,2,1.0,179.0
+2201,whether my fan is on or off,382,372,3,42,21,2,180.0,333.0
+2202,slack channel history,998,372,3,42,21,2,334.0,457.0
+2203,my google drive files in alphabetical order,527,372,3,42,21,2,458.0,691.0
+2204,open my shutters for me,112,372,3,42,21,2,692.0,825.0
+2205,image search,614,372,3,42,21,2,826.0,904.0
+2206,when the heat sensor is chilly,1135,373,4,42,21,2,1.0,161.0
+2207,if the vacuum is on or off,839,373,4,42,21,2,162.0,302.0
+2208,if my fan is switched on or switched off,690,373,4,42,21,2,303.0,513.0
+2209,whether my vacuum is switched on or switched off,521,373,4,42,21,2,514.0,764.0
+2210,top stories on wired news,468,373,4,42,21,2,765.0,900.0
+2211,mute my lg tv,324,374,5,42,21,2,1.0,86.0
+2212,have my security camera start recording,96,374,5,42,21,2,87.0,302.0
+2213,create a new playlist,77,374,5,42,21,2,303.0,428.0
+2214,my onedrive files created this week,927,374,5,42,21,2,429.0,624.0
+2215,wsj world_news articles,773,374,5,42,21,2,625.0,760.0
+2216,create google drive file,0,374,5,42,21,2,761.0,901.0
+2217,a word from the dictionary,619,375,6,42,21,2,1.0,165.0
+2218,my google drive files modified this week,1014,375,6,42,21,2,166.0,400.0
+2219,beauty_and_fashion youtube channels,979,375,6,42,21,2,401.0,610.0
+2220,put the shades down,215,375,6,42,21,2,611.0,740.0
+2221,when I bring up my blinds,1405,375,6,42,21,2,741.0,900.0
+2222,articles in the washington post in section lifestyle,550,376,7,42,21,2,1.0,290.0
+2223,when somebody sends me a message on twitter,1408,376,7,42,21,2,291.0,535.0
+2224,make a tweet,75,376,7,42,21,2,536.0,625.0
+2225,if the motion sensor is detecting movement or not,615,376,7,42,21,2,626.0,900.0
+2226,the best images from the Internet,677,377,8,42,21,2,1.0,180.0
+2227,when a file is modified on google drive,1166,377,8,42,21,2,181.0,390.0
+2228,turn off my security camera,38,377,8,42,21,2,391.0,540.0
+2229,when fortune updates,1396,377,8,42,21,2,541.0,655.0
+2230,when my switch turns on,1240,377,8,42,21,2,656.0,785.0
+2231,abc news top stories,479,377,8,42,21,2,786.0,900.0
+2232,when the bedroom gets occupied or becomes empty,1222,378,9,42,21,2,1.0,244.0
+2233,youtube 's comedy channels,920,378,9,42,21,2,245.0,383.0
+2234,once the motion sensor detects movement,1094,378,9,42,21,2,384.0,587.0
+2235,cs294w class slides,698,378,9,42,21,2,588.0,691.0
+2236,youtube channels with category lifestyle,588,378,9,42,21,2,692.0,900.0
+2237,when sunrise,1121,379,1,43,22,1,1.0,69.0
+2238,once I leave the door open,1187,379,1,43,22,1,70.0,208.0
+2239,close the window,261,379,1,43,22,1,209.0,297.0
+2240,when the toilet gets occupied or becomes empty,1233,379,1,43,22,1,298.0,536.0
+2241,the speechiness of the current song,453,379,1,43,22,1,537.0,720.0
+2242,whether my damper is open or closed,976,379,1,43,22,1,721.0,904.0
+2243,the liveness of the current track,695,380,2,43,22,1,1.0,185.0
+2244,front page of huffpost,660,380,2,43,22,1,186.0,315.0
+2245,from_tv youtube channels,668,380,2,43,22,1,316.0,455.0
+2246,cat fun facts,921,380,2,43,22,1,456.0,540.0
+2247,when the plug gets plugged,1324,380,2,43,22,1,541.0,690.0
+2248,my icalendar events,809,380,2,43,22,1,691.0,805.0
+2249,generate a meme,625,380,2,43,22,1,806.0,900.0
+2250,play the next song on spotify,70,381,3,43,22,1,1.0,169.0
+2251,add a song to my playlist,138,381,3,43,22,1,170.0,318.0
+2252,post a picture on tumblr,111,381,3,43,22,1,319.0,462.0
+2253,medium articles,869,381,3,43,22,1,463.0,561.0
+2254,the liveness of this song,844,381,3,43,22,1,562.0,710.0
+2255,when the heat sensor is heating up,1454,381,3,43,22,1,711.0,904.0
+2256,when there is a new top stories on wired news,1399,382,4,43,22,1,1.0,230.0
+2257,youtube channels with category comedy,582,382,4,43,22,1,231.0,420.0
+2258,horse fun facts,486,382,4,43,22,1,421.0,500.0
+2259,order me a white_mocha,322,382,4,43,22,1,501.0,615.0
+2260,a nasa picture,744,382,4,43,22,1,616.0,690.0
+2261,my dropbox quota,531,382,4,43,22,1,691.0,775.0
+2262,change my slack presence,186,382,4,43,22,1,776.0,900.0
+2263,when the location of some event changes on my icalendar,1065,383,5,43,22,1,1.0,283.0
+2264,when i receive a direct message on twitter,1081,383,5,43,22,1,284.0,501.0
+2265,when i receive an email on Gmail,1215,383,5,43,22,1,502.0,669.0
+2266,news from abc,948,383,5,43,22,1,670.0,742.0
+2267,the count of steps from fitbit,429,383,5,43,22,1,743.0,900.0
+2268,cs294s class slides,1006,384,6,43,22,1,1.0,125.0
+2269,when there is a new article in washington post,1343,384,6,43,22,1,126.0,385.0
+2270,my top tracks,702,384,6,43,22,1,386.0,480.0
+2271,posts in the washington post the_fix blog,896,384,6,43,22,1,481.0,715.0
+2272,completed tasks from Wunderlist,567,384,6,43,22,1,716.0,900.0
+2273,when there is a new article on the mozilla blog,1063,385,7,43,22,1,1.0,295.0
+2274,when there is a new event detected on my security camera,1278,385,7,43,22,1,296.0,635.0
+2275,youtube channels with category automotive,784,385,7,43,22,1,636.0,900.0
+2276,when there is a new post on any of my rss feeds,1109,386,8,43,22,1,1.0,274.0
+2277,youtube 's best_of_youtube channels,793,386,8,43,22,1,275.0,488.0
+2278,puppy pictures,911,386,8,43,22,1,489.0,597.0
+2279,when nba news updates,1315,386,8,43,22,1,598.0,741.0
+2280,washington post opinions,906,386,8,43,22,1,742.0,900.0
+2281,when the smart plug is turned on or off,1150,387,9,43,22,1,1.0,201.0
+2282,cooking youtube channels,471,387,9,43,22,1,202.0,327.0
+2283,whether my fan is oscillating or not,790,387,9,43,22,1,328.0,513.0
+2284,the instrumentalness of this song,590,387,9,43,22,1,514.0,684.0
+2285,tell my vacuum to start cleaning the house,28,387,9,43,22,1,685.0,900.0
+2286,when the nyt publishes a new article,1132,388,1,44,22,2,1.0,184.0
+2287,local washington post 's articles,705,388,1,44,22,2,185.0,353.0
+2288,my files in dropbox,771,388,1,44,22,2,354.0,452.0
+2289,the danceability of the current song,1033,388,1,44,22,2,453.0,636.0
+2290,diy channels in youtube,562,388,1,44,22,2,637.0,755.0
+2291,my recent instagram pictures,451,388,1,44,22,2,756.0,899.0
+2292,alert me by flashing the lights,110,389,2,44,22,2,1.0,179.0
+2293,wall street journal opinions,847,389,2,44,22,2,180.0,343.0
+2294,star wars news,378,389,2,44,22,2,344.0,437.0
+2295,a random quote,684,389,2,44,22,2,438.0,531.0
+2296,when new blog posted on techcrunch,1226,389,2,44,22,2,532.0,725.0
+2297,upload a picture to my facebook,67,389,2,44,22,2,726.0,904.0
+2298,when the switch is turned off,1163,390,3,44,22,2,1.0,159.0
+2299,all my rss feed,482,390,3,44,22,2,160.0,248.0
+2300,if my shades are open or closed,816,390,3,44,22,2,249.0,417.0
+2301,the moment I open the door,1212,390,3,44,22,2,418.0,561.0
+2302,if my curtains are open or closed,762,390,3,44,22,2,562.0,740.0
+2303,when somebody unplugs my plug,1282,390,3,44,22,2,741.0,899.0
+2304,omlet messages from me,901,391,4,44,22,2,1.0,127.0
+2305,news on business insider,838,391,4,44,22,2,128.0,264.0
+2306,on the switch,305,391,4,44,22,2,265.0,346.0
+2307,an interesting factoid about horse,508,391,4,44,22,2,347.0,533.0
+2308,turn on my switch for me,310,391,4,44,22,2,534.0,670.0
+2309,pause my spotify,120,391,4,44,22,2,671.0,767.0
+2310,an xkcd comic at random,569,391,4,44,22,2,768.0,899.0
+2311,is the current song an instrumental,779,392,5,44,22,2,1.0,178.0
+2312,when slashdot news updates,1341,392,5,44,22,2,179.0,311.0
+2313,when a meeting ends,1295,392,5,44,22,2,312.0,409.0
+2314,whether my window is open or closed,1001,392,5,44,22,2,410.0,587.0
+2315,when the fan becomes switched on,1459,392,5,44,22,2,588.0,750.0
+2316,if my window is open or closed,1018,392,5,44,22,2,751.0,903.0
+2317,automatically retweet anyone i follow,1262,393,6,44,22,2,1.0,192.0
+2318,a random giphy,390,393,6,44,22,2,193.0,269.0
+2319,when the gas detector starts or stops detecting gas,1179,393,6,44,22,2,270.0,531.0
+2320,how speechlike is the current song,469,393,6,44,22,2,532.0,708.0
+2321,when there is a new article on nature,1155,393,6,44,22,2,709.0,900.0
+2322,if I opened the window,335,394,7,44,22,2,1.0,126.0
+2323,the new york times technology section,544,394,7,44,22,2,127.0,327.0
+2324,a random picture of a dog,802,394,7,44,22,2,328.0,468.0
+2325,when my blinds lower,1325,394,7,44,22,2,469.0,584.0
+2326,set my speaker louder,132,394,7,44,22,2,585.0,705.0
+2327,turn on my Tesla car air-conditioner,269,394,7,44,22,2,706.0,901.0
+2328,when my shutters close,1138,395,8,44,22,2,1.0,115.0
+2329,when the state of the connectivity changes,1220,395,8,44,22,2,116.0,330.0
+2330,when the heat sensor is cooling down,1279,395,8,44,22,2,331.0,515.0
+2331,lower the shades,283,395,8,44,22,2,516.0,600.0
+2332,youtube 's gaming channels,938,395,8,44,22,2,601.0,735.0
+2333,upload a public picture to Imgur,293,395,8,44,22,2,736.0,900.0
+2334,when TED publishes a new talk,1292,396,9,44,22,2,1.0,158.0
+2335,when there is a new tweet in my timeline,1236,396,9,44,22,2,159.0,371.0
+2336,a random fox picture,974,396,9,44,22,2,372.0,484.0
+2337,open my blinds,114,396,9,44,22,2,485.0,567.0
+2338,the free space i have on dropbox,459,396,9,44,22,2,568.0,740.0
+2339,when i make a new twitter post,1255,396,9,44,22,2,741.0,903.0
+2340,upload a private picture to Imgur,285,397,1,45,23,1,1.0,174.0
+2341,latest fortune news,524,397,1,45,23,1,175.0,278.0
+2342,off the vacuum,265,397,1,45,23,1,279.0,357.0
+2343,on my vacuum,330,397,1,45,23,1,358.0,426.0
+2344,when popular science updates,1099,397,1,45,23,1,427.0,575.0
+2345,play a song,172,397,1,45,23,1,576.0,639.0
+2346,when business insider updates,1434,397,1,45,23,1,640.0,793.0
+2347,wsj markets articles,494,397,1,45,23,1,794.0,902.0
+2348,wall street journal articles in the lifestyle section,1007,398,2,45,23,1,1.0,305.0
+2349,when somebody sends a message to slack,1217,398,2,45,23,1,306.0,535.0
+2350,when the awning becomes closed,1281,398,2,45,23,1,536.0,725.0
+2351,when my fitbit steps update,1251,398,2,45,23,1,726.0,900.0
+2352,once the motion sensor does not detect any movement,1428,399,3,45,23,1,1.0,278.0
+2353,latest articles by ars technica,656,399,3,45,23,1,279.0,456.0
+2354,when a file changes in my google drive,1455,399,3,45,23,1,457.0,669.0
+2355,channels in category automotive on youtube,592,399,3,45,23,1,670.0,902.0
+2356,when the fan switches on or off,1239,400,4,45,23,1,1.0,196.0
+2357,latest nba news,551,400,4,45,23,1,197.0,312.0
+2358,if my heat sensor is hot,463,400,4,45,23,1,313.0,473.0
+2359,when fortune publishes a news,1373,400,4,45,23,1,474.0,659.0
+2360,the travel section of the new york times,936,400,4,45,23,1,660.0,900.0
+2361,youtube 's film_and_entertainment channels,972,401,5,45,23,1,1.0,225.0
+2362,the sentiment of a sentence,601,401,5,45,23,1,226.0,375.0
+2363,my contact's info,805,401,5,45,23,1,376.0,475.0
+2364,whether the blinds are raised or lowered,369,401,5,45,23,1,476.0,690.0
+2365,write to a new onedrive file,251,401,5,45,23,1,691.0,845.0
+2366,Steam ID,576,401,5,45,23,1,846.0,900.0
+2367,when anyone shuts the window,1385,402,6,45,23,1,1.0,174.0
+2368,when sun goes down,1418,402,6,45,23,1,175.0,298.0
+2369,when there is a new post in the xkcd what-if blog,1159,402,6,45,23,1,299.0,577.0
+2370,my schedule on icalendar,473,402,6,45,23,1,578.0,731.0
+2371,youtube 's from_tv channels,745,402,6,45,23,1,732.0,900.0
+2372,channels in category paid on youtube,861,403,7,45,23,1,1.0,207.0
+2373,whether anyone switched off my plug,1052,403,7,45,23,1,208.0,409.0
+2374,when i record a new weight on fitbit,1126,403,7,45,23,1,410.0,616.0
+2375,on the fan,109,403,7,45,23,1,617.0,693.0
+2376,xkcd,571,403,7,45,23,1,694.0,740.0
+2377,a random picture from giphy,651,403,7,45,23,1,741.0,902.0
+2378,the instrumentalness of the current track,701,404,8,45,23,1,1.0,228.0
+2379,wall street journal articles in the lifestyle section published in the last hour,657,404,8,45,23,1,229.0,651.0
+2380,articles in the new york times sports section,1002,404,8,45,23,1,652.0,899.0
+2381,latest posts in all my rss feeds,808,405,9,45,23,1,1.0,165.0
+2382,omlet messages,640,405,9,45,23,1,166.0,240.0
+2383,automotive youtube channels,884,405,9,45,23,1,241.0,380.0
+2384,if my fan is on or turned off,604,405,9,45,23,1,381.0,530.0
+2385,some animated gif,636,405,9,45,23,1,531.0,620.0
+2386,when the smoke detector starts or stops detecting smoke,1300,405,9,45,23,1,621.0,900.0
+2387,turn off my Tesla car air-conditioner,278,406,1,46,23,2,1.0,186.0
+2388,p_query_location},556,406,1,46,23,2,187.0,272.0
+2389,my google drive files,663,406,1,46,23,2,273.0,378.0
+2390,turn on my fan,136,406,1,46,23,2,379.0,449.0
+2391,my contacts,670,406,1,46,23,2,450.0,505.0
+2392,when matrix67 publishes something new,1350,406,1,46,23,2,506.0,691.0
+2393,youtube channels with category recommended,623,406,1,46,23,2,692.0,902.0
+2394,copy a picture to my onedrive,46,407,2,46,23,2,1.0,149.0
+2395,articles on how-to geek,769,407,2,46,23,2,150.0,268.0
+2396,channels in category recommended on youtube,893,407,2,46,23,2,269.0,487.0
+2397,whether the bedroom is occupied or empty,709,407,2,46,23,2,488.0,691.0
+2398,close the shutters,100,407,2,46,23,2,692.0,785.0
+2399,pull the curtains open,263,407,2,46,23,2,786.0,899.0
+2400,sports channels in youtube,412,408,3,46,23,2,1.0,146.0
+2401,when i log a new weight value on fitbit,1174,408,3,46,23,2,147.0,357.0
+2402,posts in the washington post capital_weather_gang blog,712,408,3,46,23,2,358.0,643.0
+2403,search on bing,886,408,3,46,23,2,644.0,729.0
+2404,when the shades finish lowering,1161,408,3,46,23,2,730.0,900.0
+2405,youtube channels with category tech,696,409,4,46,23,2,1.0,193.0
+2406,raise the shades,121,409,4,46,23,2,194.0,291.0
+2407,the moment my shades are raised,1119,409,4,46,23,2,292.0,464.0
+2408,decrease volume on my speaker,13,409,4,46,23,2,465.0,627.0
+2409,turn on my security camera,316,409,4,46,23,2,628.0,775.0
+2410,whoever opens the door,1310,409,4,46,23,2,776.0,903.0
+2411,articles on nature issue,734,410,5,46,23,2,1.0,126.0
+2412,fox pictures,381,410,5,46,23,2,127.0,192.0
+2413,youtube 's tech channels,629,410,5,46,23,2,193.0,318.0
+2414,my onedrive files in reverse alphabetical order,457,410,5,46,23,2,319.0,559.0
+2415,stop the fan from turning,225,410,5,46,23,2,560.0,690.0
+2416,when I extend my awnings,1088,410,5,46,23,2,691.0,816.0
+2417,huffington posts,977,410,5,46,23,2,817.0,902.0
+2418,mark me as away on slack,289,411,6,46,23,2,1.0,133.0
+2419,when I have enough battery,1363,411,6,46,23,2,134.0,276.0
+2420,put the blinds up,71,411,6,46,23,2,277.0,374.0
+2421,make a new tumblr picture post,264,411,6,46,23,2,375.0,537.0
+2422,open the damper,247,411,6,46,23,2,538.0,625.0
+2423,when there is a person in front of my security camera,1221,411,6,46,23,2,626.0,903.0
+2424,today 's articles in the new york times,454,412,7,46,23,2,1.0,208.0
+2425,when gamespot updates,1188,412,7,46,23,2,209.0,326.0
+2426,when there is a new video from youtube channels I follow,1378,412,7,46,23,2,327.0,619.0
+2427,when the air smells smokey,1440,412,7,46,23,2,620.0,762.0
+2428,when there is no internet,1468,412,7,46,23,2,763.0,900.0
+2429,make my lg tv louder,149,413,8,46,23,2,1.0,107.0
+2430,set my speaker as sink,190,413,8,46,23,2,108.0,224.0
+2431,the health section of the new york times,758,413,8,46,23,2,225.0,431.0
+2432,the sports section of the new york times,770,413,8,46,23,2,432.0,638.0
+2433,when my window closes,1333,413,8,46,23,2,639.0,750.0
+2434,if the door is open or closed,874,413,8,46,23,2,751.0,902.0
+2435,the space I have on dropbox,1041,414,9,46,23,2,1.0,150.0
+2436,if I extended the awning,815,414,9,46,23,2,151.0,285.0
+2437,raise the damper,141,414,9,46,23,2,286.0,380.0
+2438,top stories on time magazine,787,414,9,46,23,2,381.0,535.0
+2439,when the curtains are put up,1327,414,9,46,23,2,536.0,690.0
+2440,when any of my rss subscriptions update,1129,414,9,46,23,2,691.0,900.0
+2441,when someone opens the door,1317,415,1,47,24,1,1.0,150.0
+2442,washington post 's post_everything blog,426,415,1,47,24,1,151.0,360.0
+2443,youtube 's beauty_and_fashion channels,424,415,1,47,24,1,361.0,565.0
+2444,youtube 's news_and_politics channels,577,415,1,47,24,1,566.0,765.0
+2445,return my vacuum to base,325,415,1,47,24,1,766.0,900.0
+2446,shut the window,267,416,2,47,24,1,1.0,108.0
+2447,the loudness of the current track,986,416,2,47,24,1,109.0,306.0
+2448,a dad joke,748,416,2,47,24,1,307.0,389.0
+2449,channels I am subscribed to on youtube,465,416,2,47,24,1,390.0,612.0
+2450,send an email to somebody,258,416,2,47,24,1,613.0,770.0
+2451,stories on macrumors,487,416,2,47,24,1,771.0,903.0
+2452,increase the volume on my bluetooth speaker,24,417,3,47,24,1,1.0,240.0
+2453,wall street journal articles in the opinions section,491,417,3,47,24,1,241.0,525.0
+2454,a random animated gif,987,417,3,47,24,1,526.0,655.0
+2455,articles in the new york times world section,563,417,3,47,24,1,656.0,900.0
+2456,opinions washington post 's articles,868,418,4,47,24,1,1.0,206.0
+2457,a fact about horse,355,418,4,47,24,1,207.0,322.0
+2458,beauty_and_fashion channels in youtube,627,418,4,47,24,1,323.0,538.0
+2459,the state of my battery,392,418,4,47,24,1,539.0,679.0
+2460,help me open the window,6,418,4,47,24,1,680.0,820.0
+2461,a fake name,542,418,4,47,24,1,821.0,901.0
+2462,washington post 's post_partisan blog,959,419,5,47,24,1,1.0,216.0
+2463,articles on life hacker,441,419,5,47,24,1,217.0,362.0
+2464,the valence of this song,842,419,5,47,24,1,363.0,513.0
+2465,youtube channels with category from_tv,851,419,5,47,24,1,514.0,734.0
+2466,when the internet goes down,1297,419,5,47,24,1,735.0,900.0
+2467,when the battery is running low,1444,420,6,47,24,1,1.0,179.0
+2468,when i receive a message on omlet,1072,420,6,47,24,1,180.0,368.0
+2469,when ars technica publishes a new article,1437,420,6,47,24,1,369.0,597.0
+2470,start my vacuum,246,420,6,47,24,1,598.0,696.0
+2471,my onedrive files modified this week,352,420,6,47,24,1,697.0,900.0
+2472,update my facebook status,90,421,7,47,24,1,1.0,145.0
+2473,stop my fan from oscillating,228,421,7,47,24,1,146.0,305.0
+2474,instagram pictures on my account,892,421,7,47,24,1,306.0,485.0
+2475,when macrumors updates,1183,421,7,47,24,1,486.0,615.0
+2476,youtube channels with category film_and_entertainment,962,421,7,47,24,1,616.0,900.0
+2477,is this song acoustic,503,422,8,47,24,1,1.0,113.0
+2478,top stories on cnn news,1053,422,8,47,24,1,114.0,236.0
+2479,when my window is open,1294,422,8,47,24,1,237.0,354.0
+2480,youtube channels with category news_and_politics,922,422,8,47,24,1,355.0,602.0
+2481,request an uber ,212,422,8,47,24,1,603.0,690.0
+2482,set the power on my security camera to on,250,422,8,47,24,1,691.0,903.0
+2483,reduce the volume of my lg tv,198,423,9,47,24,1,1.0,147.0
+2484,play some music on spotify,107,423,9,47,24,1,148.0,279.0
+2485,a giphy picture,798,423,9,47,24,1,280.0,356.0
+2486,turn on the lights,205,423,9,47,24,1,357.0,448.0
+2487,skip this song,184,423,9,47,24,1,449.0,520.0
+2488,youtube channels with category gaming,944,423,9,47,24,1,521.0,707.0
+2489,play my spotify,23,423,9,47,24,1,708.0,784.0
+2490,once I lose connectivity,1201,423,9,47,24,1,785.0,906.0
+2491,if my switch gets switched off,1450,424,1,48,24,2,1.0,169.0
+2492,when a new message is posted on slack,1359,424,1,48,24,2,170.0,373.0
+2493,save the current track,10,424,1,48,24,2,374.0,502.0
+2494,repeat this song,233,424,1,48,24,2,503.0,601.0
+2495,the new york times travel section,766,424,1,48,24,2,602.0,785.0
+2496,retract the awnings,146,424,1,48,24,2,786.0,899.0
+2497,emails arrived yesterday,598,425,2,48,24,2,1.0,136.0
+2498,when my top tracks changes,1190,425,2,48,24,2,137.0,282.0
+2499,when my security camera detects a person,1066,425,2,48,24,2,283.0,498.0
+2500,the fitbit step counter,706,425,2,48,24,2,499.0,629.0
+2501,whether the fan is turned on or turned off,935,425,2,48,24,2,630.0,855.0
+2502,a plot,407,425,2,48,24,2,856.0,901.0
+2503,how positive is this song,445,426,3,48,24,2,1.0,127.0
+2504,how danceable is this song,574,426,3,48,24,2,128.0,259.0
+2505,make a playlist,51,426,3,48,24,2,260.0,336.0
+2506,images from Imgur User Submitted rising,694,426,3,48,24,2,337.0,533.0
+2507,order me a latte,209,426,3,48,24,2,534.0,615.0
+2508,when i make a new file in google drive,1145,426,3,48,24,2,616.0,807.0
+2509,new nature articles,613,426,3,48,24,2,808.0,904.0
+2510,when the new york times publishes a new article,1303,427,4,48,24,2,1.0,244.0
+2511,order me a black macchiato,163,427,4,48,24,2,245.0,383.0
+2512,when nothing is detected by the sound sensor,1061,427,4,48,24,2,384.0,612.0
+2513,youtube 's paid channels,903,427,4,48,24,2,613.0,741.0
+2514,if my damper is open or closed,810,427,4,48,24,2,742.0,900.0
+2515,when i tweet,1167,428,5,48,24,2,1.0,69.0
+2516,a random piece of wisdom,840,428,5,48,24,2,70.0,198.0
+2517,images from Imgur,831,428,5,48,24,2,199.0,292.0
+2518,channels in category gaming on youtube,983,428,5,48,24,2,293.0,491.0
+2519,when the shades get lowered,1335,428,5,48,24,2,492.0,635.0
+2520,upload a picture to Imgur,30,428,5,48,24,2,636.0,769.0
+2521,order me a iced americano,173,428,5,48,24,2,770.0,903.0
+2522,posts in the washington post post_everything blog,672,429,6,48,24,2,1.0,260.0
+2523,color loop the lights,242,429,6,48,24,2,261.0,380.0
+2524,once my fan starts or stops oscillating,1413,429,6,48,24,2,381.0,590.0
+2525,my fitbit step count,417,429,6,48,24,2,591.0,705.0
+2526,when the time of my meetings changes,1369,429,6,48,24,2,706.0,900.0
+2527,when there is no one in the corridor,1416,430,7,48,24,2,1.0,190.0
+2528,turn off repeat,181,430,7,48,24,2,191.0,275.0
+2529,please turn on the fan,318,430,7,48,24,2,276.0,395.0
+2530,when my damper lowers,1288,430,7,48,24,2,396.0,510.0
+2531,channels in category tech on youtube,952,430,7,48,24,2,511.0,700.0
+2532,whether the router is connected or not,518,430,7,48,24,2,701.0,900.0
+2533,close the awning,115,431,8,48,24,2,1.0,90.0
+2534,the new york times sports section,719,431,8,48,24,2,91.0,265.0
+2535,get the climate state of my Tesla car,1047,431,8,48,24,2,266.0,460.0
+2536,latest popular science news,971,431,8,48,24,2,461.0,605.0
+2537,posts on matrix67 blog,666,431,8,48,24,2,606.0,725.0
+2538,how energetic is the current song,1034,431,8,48,24,2,726.0,900.0
+2539,the positivity of this song,950,432,9,48,24,2,1.0,152.0
+2540,raise the volume of my lg tv,312,432,9,48,24,2,153.0,309.0
+2541,when the fan stops swinging,1301,432,9,48,24,2,310.0,461.0
+2542,articles in the new york times travel section,862,432,9,48,24,2,462.0,703.0
+2543,when the state of the lights changes,1381,432,9,48,24,2,704.0,900.0
+2544,when top stories on wired update,1140,433,1,49,25,1,1.0,177.0
+2545,national washington post 's articles,388,433,1,49,25,1,178.0,374.0
+2546,random trump quote,595,433,1,49,25,1,375.0,481.0
+2547,help me turn off the switch,9,433,1,49,25,1,482.0,633.0
+2548,is this song live,484,433,1,49,25,1,634.0,735.0
+2549,when my vacuum starts charging,1380,433,1,49,25,1,736.0,902.0
+2550,when my fan stops oscillating,1372,434,2,49,25,1,1.0,170.0
+2551,when a new message is sent on slack,1241,434,2,49,25,1,171.0,370.0
+2552,when lifehacker updates,1107,434,2,49,25,1,371.0,510.0
+2553,raise the curtains,266,434,2,49,25,1,511.0,625.0
+2554,a random dog fact,733,434,2,49,25,1,626.0,735.0
+2555,switch on the vacuum cleaner,320,434,2,49,25,1,736.0,900.0
+2556,write to a new file in onedrive,256,435,3,49,25,1,1.0,177.0
+2557,a random factoid,464,435,3,49,25,1,178.0,279.0
+2558,my starred google drive files,483,435,3,49,25,1,280.0,446.0
+2559,once my vacuum turns off,1078,435,3,49,25,1,447.0,588.0
+2560,mature images from Imgur,820,435,3,49,25,1,589.0,730.0
+2561,phd comics,864,435,3,49,25,1,731.0,802.0
+2562,shut up my lg tv,166,435,3,49,25,1,803.0,904.0
+2563,when there is a new slack message,1400,436,4,49,25,1,1.0,172.0
+2564,whether my awnings are open or closed,385,436,4,49,25,1,173.0,364.0
+2565,my google drive files that changed most recently,458,436,4,49,25,1,365.0,611.0
+2566,the blog the_fix of the washington post,795,436,4,49,25,1,612.0,813.0
+2567,important emails,943,436,4,49,25,1,814.0,900.0
+2568,if my smart plug is connected,495,437,5,49,25,1,1.0,156.0
+2569,turn my fan,207,437,5,49,25,1,157.0,222.0
+2570,when a new xkcd is out in the what-if section,1328,437,5,49,25,1,223.0,458.0
+2571,gamespot news,1044,437,5,49,25,1,459.0,534.0
+2572,when there is an asteroid nearby,1314,437,5,49,25,1,535.0,705.0
+2573,close my blinds,60,437,5,49,25,1,706.0,791.0
+2574,when there is no gas,1071,437,5,49,25,1,792.0,902.0
+2575,how dancey is this song,489,438,6,49,25,1,1.0,122.0
+2576,if my battery starts running out,1280,438,6,49,25,1,123.0,289.0
+2577,when an event is about to start on my icalendar,1095,438,6,49,25,1,290.0,531.0
+2578,when my weight changes on fitbit,1337,438,6,49,25,1,532.0,698.0
+2579,my google drive files created this week,860,438,6,49,25,1,699.0,900.0
+2580,when somebody i follow on twitter posts,1306,439,7,49,25,1,1.0,198.0
+2581,recommended youtube channels,1019,439,7,49,25,1,199.0,341.0
+2582,order me a mocha,143,439,7,49,25,1,342.0,424.0
+2583,put the damper down,47,439,7,49,25,1,425.0,522.0
+2584,order me a iced drip_coffee,296,439,7,49,25,1,523.0,660.0
+2585,web search,676,439,7,49,25,1,661.0,713.0
+2586,the Imgur front page,427,439,7,49,25,1,714.0,816.0
+2587,open the shutters,187,439,7,49,25,1,817.0,904.0
+2588,channels I follow on youtube,631,440,8,49,25,1,1.0,141.0
+2589,the world section of the new york times,999,440,8,49,25,1,142.0,337.0
+2590,go back,127,440,8,49,25,1,338.0,373.0
+2591,the blog post_everything of the washington post,888,440,8,49,25,1,374.0,609.0
+2592,the new york times business section,655,440,8,49,25,1,610.0,785.0
+2593,set me as away on slack,37,440,8,49,25,1,786.0,901.0
+2594,when the living room becomes occupied or empty,1462,441,9,49,25,1,1.0,244.0
+2595,make the fan swing,108,441,9,49,25,1,245.0,348.0
+2596,wall street journal articles,812,441,9,49,25,1,349.0,502.0
+2597,a quote,865,441,9,49,25,1,503.0,551.0
+2598,if there is a new picture on my instagram,1104,441,9,49,25,1,552.0,770.0
+2599,make a new facebook post,182,441,9,49,25,1,771.0,904.0
+2600,when I have new favorite songs,1203,442,1,50,25,2,1.0,172.0
+2601,sticky notes,466,442,1,50,25,2,173.0,254.0
+2602,my onedrive files,413,442,1,50,25,2,255.0,361.0
+2603,when the motion sensor detects or stops detecting movement,1393,442,1,50,25,2,362.0,673.0
+2604,posts in the washington post compost blog,973,442,1,50,25,2,674.0,900.0
+2605,the bpm of the current song,841,443,2,50,25,2,1.0,149.0
+2606,when hacker news front page updates,1319,443,2,50,25,2,150.0,338.0
+2607,when there is a new post on phd comics,1368,443,2,50,25,2,339.0,542.0
+2608,blow the horn in my car,253,443,2,50,25,2,543.0,671.0
+2609,imgur usersub viral,1037,443,2,50,25,2,672.0,780.0
+2610,switch off the switch,135,443,2,50,25,2,781.0,899.0
+2611,my google drive files modified today,1050,444,3,50,25,2,1.0,189.0
+2612,when the blinds get lowered,1128,444,3,50,25,2,190.0,333.0
+2613,top stories on abc news,880,444,3,50,25,2,334.0,457.0
+2614,when i post something to twitter,1417,444,3,50,25,2,458.0,626.0
+2615,whether my blinds are open or closed,867,444,3,50,25,2,627.0,815.0
+2616,close my shades,280,444,3,50,25,2,816.0,899.0
+2617,change the temperature on my thermostat,192,445,4,50,25,2,1.0,196.0
+2618,when an event on my icalendar ends,1189,445,4,50,25,2,197.0,367.0
+2619,a trump quote,341,445,4,50,25,2,368.0,433.0
+2620,when i instagram a picture,1420,445,4,50,25,2,434.0,564.0
+2621,when a new phd comic is published,1244,445,4,50,25,2,565.0,730.0
+2622,sports washington post 's articles,419,445,4,50,25,2,731.0,901.0
+2623,donald trump's quote,476,446,5,50,25,2,1.0,101.0
+2624,new books by stanford press,509,446,5,50,25,2,102.0,237.0
+2625,order me a iced mocha,292,446,5,50,25,2,238.0,343.0
+2626,when the time of some event changes on my icalendar,1414,446,5,50,25,2,344.0,599.0
+2627,channels in category from_tv on youtube,1035,446,5,50,25,2,600.0,795.0
+2628,my weight from fitbit,336,446,5,50,25,2,796.0,901.0
+2629,when my awnings close,1287,447,6,50,25,2,1.0,113.0
+2630,when my security camera does not detect motion,1105,447,6,50,25,2,114.0,351.0
+2631,a random animal fact,374,447,6,50,25,2,352.0,459.0
+2632,my calendar schedule,659,447,6,50,25,2,460.0,567.0
+2633,if the switch switches on,1436,447,6,50,25,2,568.0,700.0
+2634,when the motion sensor detects a person,1402,447,6,50,25,2,701.0,903.0
+2635,disable my security camera,52,448,7,50,25,2,1.0,137.0
+2636,make the fan oscillate,279,448,7,50,25,2,138.0,254.0
+2637,when i make a new tweet,1116,448,7,50,25,2,255.0,376.0
+2638,when the vacuum turns off,1165,448,7,50,25,2,377.0,508.0
+2639,film_and_entertainment channels in youtube,942,448,7,50,25,2,509.0,725.0
+2640,when my sound sensor hears silence,1178,448,7,50,25,2,726.0,902.0
+2641,turn on repeat,167,449,8,50,25,2,1.0,80.0
+2642,when you smell gas,1305,449,8,50,25,2,81.0,180.0
+2643,causes channels in youtube,689,449,8,50,25,2,181.0,320.0
+2644,when I bring up my curtains,1447,449,8,50,25,2,321.0,465.0
+2645,if the room is occupied,954,449,8,50,25,2,466.0,590.0
+2646,once somebody opens the window,1214,449,8,50,25,2,591.0,750.0
+2647,youtube 's animation channels,511,449,8,50,25,2,751.0,905.0
+2648,when how-to geek updates,1361,450,9,50,25,2,1.0,127.0
+2649,the time signature of the current song,416,450,9,50,25,2,128.0,324.0
+2650,my dropbox files,347,450,9,50,25,2,325.0,411.0
+2651,whether the shades are raised or lowered,404,450,9,50,25,2,412.0,618.0
+2652,set my hvac to heat,295,450,9,50,25,2,619.0,720.0
+2653,describe a picture,342,450,9,50,25,2,721.0,817.0
+2654,my recent tweets,499,450,9,50,25,2,818.0,904.0
+2655,add a new playlist,319,451,1,51,26,1,1.0,112.0
+2656,the new york times arts section,843,451,1,51,26,1,113.0,289.0
+2657,a math plot,994,451,1,51,26,1,290.0,366.0
+2658,when my fan is swinging,1171,451,1,51,26,1,367.0,503.0
+2659,when my damper is lowered,1235,451,1,51,26,1,504.0,650.0
+2660,flash the lights,76,451,1,51,26,1,651.0,752.0
+2661,when the connection is up,1234,451,1,51,26,1,753.0,899.0
+2662,open spotify and play some music,147,452,2,51,26,1,1.0,164.0
+2663,play a playlist,240,452,2,51,26,1,165.0,243.0
+2664,all my rss feeds,372,452,2,51,26,1,244.0,327.0
+2665,once my vacuum returns to base,1340,452,2,51,26,1,328.0,481.0
+2666,close my damper,244,452,2,51,26,1,482.0,560.0
+2667,my steps from fitbit,835,452,2,51,26,1,561.0,664.0
+2668,when nothing moves in front of my motion sensor,1131,452,2,51,26,1,665.0,903.0
+2669,turn shuffle off,297,453,3,51,26,1,1.0,89.0
+2670,if my blinds are open or closed,832,453,3,51,26,1,90.0,253.0
+2671,the moment my switch changes to on,1068,453,3,51,26,1,254.0,432.0
+2672,turn off my lg webos tv,224,453,3,51,26,1,433.0,556.0
+2673,order me a iced caramel_mocha,153,453,3,51,26,1,557.0,710.0
+2674,latest star wars news,678,453,3,51,26,1,711.0,824.0
+2675,blog on medium,632,453,3,51,26,1,825.0,903.0
+2676,whether the motion sensor is detecting any movement,383,454,4,51,26,1,1.0,279.0
+2677,wall street journal articles in the technology section published in the last hour,1004,454,4,51,26,1,280.0,708.0
+2678,when you smell smoke,1098,454,4,51,26,1,709.0,832.0
+2679,TED talks,752,454,4,51,26,1,833.0,901.0
+2680,the energy of the current song,969,455,5,51,26,1,1.0,191.0
+2681,washington post 's the_plum_line blog,492,455,5,51,26,1,192.0,417.0
+2682,put a picture on facebook,118,455,5,51,26,1,418.0,583.0
+2683,wall street journal articles in the us_business section,1010,455,5,51,26,1,584.0,899.0
+2684,posts in the washington post politics blog,1000,456,6,51,26,1,1.0,237.0
+2685,when my fan turns off,1401,456,6,51,26,1,238.0,369.0
+2686,when my plug is unplugged,1084,456,6,51,26,1,370.0,521.0
+2687,when I turn on my vacuum,1424,456,6,51,26,1,522.0,668.0
+2688,the direct messages i received on twitter,725,456,6,51,26,1,669.0,900.0
+2689,when my vacuum turns on or off,1386,457,7,51,26,1,1.0,161.0
+2690,washington post 's politics blog,478,457,7,51,26,1,162.0,332.0
+2691,lower the volume of my lg tv,303,457,7,51,26,1,333.0,483.0
+2692,my dropbox files in some folder,402,457,7,51,26,1,484.0,649.0
+2693,sports youtube channels,707,457,7,51,26,1,650.0,775.0
+2694,the latest xkcd what if,713,457,7,51,26,1,776.0,901.0
+2695,when someone i follow tweets,1242,458,8,51,26,1,1.0,155.0
+2696,articles in the washington post in section national,741,458,8,51,26,1,156.0,425.0
+2697,stop the fan from swinging,140,458,8,51,26,1,426.0,570.0
+2698,when i receive an important email,1180,458,8,51,26,1,571.0,750.0
+2699,once anyone closes the door,1082,458,8,51,26,1,751.0,900.0
+2700,when somebody messages me on twitter,1330,459,9,51,26,1,1.0,181.0
+2701,when the motion sensor sees something move,1070,459,9,51,26,1,182.0,392.0
+2702,when I upload a photo to my timeline on facebook,1238,459,9,51,26,1,393.0,633.0
+2703,Stanford news,796,459,9,51,26,1,634.0,699.0
+2704,weather tomorrow,421,459,9,51,26,1,700.0,780.0
+2705,when the smoke goes away,1254,459,9,51,26,1,781.0,901.0
+2706,channels in category news_and_politics on youtube,679,460,1,52,26,2,1.0,265.0
+2707,stop moving the fan,49,460,1,52,26,2,266.0,380.0
+2708,a picture from curiosity,452,460,1,52,26,2,381.0,520.0
+2709,make my security camera stop recording,273,460,1,52,26,2,521.0,730.0
+2710,whether anyone opened the door,610,460,1,52,26,2,731.0,900.0
+2711,when a person is detected by my security camera,1219,461,2,52,26,2,1.0,249.0
+2712,fortnite stats ,931,461,2,52,26,2,250.0,338.0
+2713,be,1031,461,2,52,26,2,339.0,362.0
+2714,when my battery is charged,1122,461,2,52,26,2,363.0,506.0
+2715,get the battery level of my Tesla car,1049,461,2,52,26,2,507.0,705.0
+2716,when engadget publishes a new article,1202,461,2,52,26,2,706.0,904.0
+2717,gaming channels in youtube,905,462,3,52,26,2,1.0,135.0
+2718,tweets i made,1017,462,3,52,26,2,136.0,205.0
+2719,my bmi from fitbit,345,462,3,52,26,2,206.0,300.0
+2720,the latest tweets,988,462,3,52,26,2,301.0,390.0
+2721,the temperature in the room,915,462,3,52,26,2,391.0,530.0
+2722,when the blinds finish lowering,1209,462,3,52,26,2,531.0,690.0
+2723,save this song,327,462,3,52,26,2,691.0,765.0
+2724,when star wars news updates,1216,462,3,52,26,2,766.0,905.0
+2725,the speechiness of the current track,746,463,4,52,26,2,1.0,185.0
+2726,the step count from fitbit,406,463,4,52,26,2,186.0,320.0
+2727,when the state of the heat sensor changes,1382,463,4,52,26,2,321.0,530.0
+2728,turn the switch on,226,463,4,52,26,2,531.0,625.0
+2729,lower the curtains,48,463,4,52,26,2,626.0,720.0
+2730,washington post 's morning_mix blog,791,463,4,52,26,2,721.0,900.0
+2731,charge the vacuum,248,464,5,52,26,2,1.0,106.0
+2732,unmute my lg tv,66,464,5,52,26,2,107.0,202.0
+2733,washington post 's compost blog,338,464,5,52,26,2,203.0,378.0
+2734,order me a black espresso,214,464,5,52,26,2,379.0,524.0
+2735,wiki call for paper,993,464,5,52,26,2,525.0,640.0
+2736,the tempo of the current song,754,464,5,52,26,2,641.0,806.0
+2737,my latest email,882,464,5,52,26,2,807.0,902.0
+2738,when the time of some event changes on my calendar,1261,465,6,52,26,2,1.0,268.0
+2739,the acousticness of the current track,700,465,6,52,26,2,269.0,471.0
+2740,the blog morning_mix of the washington post,437,465,6,52,26,2,472.0,704.0
+2741,when a meeting on my calendar begins,1346,465,6,52,26,2,705.0,902.0
+2742,when the awnings are open,1172,466,7,52,26,2,1.0,131.0
+2743,unmute my lg webos tv,230,466,7,52,26,2,132.0,242.0
+2744,posts on phd comics,845,466,7,52,26,2,243.0,343.0
+2745,if the vacuum is turned on or off,726,466,7,52,26,2,344.0,514.0
+2746,if I raised the curtains,337,466,7,52,26,2,515.0,640.0
+2747,when there is no more carbon monoxide,1249,466,7,52,26,2,641.0,831.0
+2748,a random name,529,466,7,52,26,2,832.0,902.0
+2749,a picture of a fox,738,467,8,52,26,2,1.0,91.0
+2750,order me a espresso,229,467,8,52,26,2,92.0,187.0
+2751,if the fan is on or off,925,467,8,52,26,2,188.0,303.0
+2752,my dropbox files that changed most recently,995,467,8,52,26,2,304.0,519.0
+2753,the blog the_plum_line of the washington post,538,467,8,52,26,2,520.0,745.0
+2754,close my shutters,270,467,8,52,26,2,746.0,831.0
+2755,the upbeatness,913,467,8,52,26,2,832.0,902.0
+2756,add whatever's playing to my playlist,302,468,9,52,26,2,1.0,196.0
+2757,articles in the new york times technology section,462,468,9,52,26,2,197.0,452.0
+2758,latest TED talks,645,468,9,52,26,2,453.0,543.0
+2759,order me a americano,178,468,9,52,26,2,544.0,654.0
+2760,when my appointment ends,1389,468,9,52,26,2,655.0,785.0
+2761,put the curtains down,14,468,9,52,26,2,786.0,901.0
+2762,when the fan oscillation stops,1230,469,1,53,27,1,1.0,151.0
+2763,whether the battery is too low or normal,968,469,1,53,27,1,152.0,352.0
+2764,my lists from Wunderlist ,731,469,1,53,27,1,353.0,478.0
+2765,the state of my heater,334,469,1,53,27,1,479.0,589.0
+2766,music channels in youtube,500,469,1,53,27,1,590.0,715.0
+2767,last slack messages,881,469,1,53,27,1,716.0,811.0
+2768,shuffle my spotify,93,469,1,53,27,1,812.0,902.0
+2769,ask my vacuum to stop cleaning,139,470,2,53,27,1,1.0,161.0
+2770,when my damper is raised,1133,470,2,53,27,1,162.0,292.0
+2771,articles in the washington post in section business,825,470,2,53,27,1,293.0,558.0
+2772,whether anyone closed the window,828,470,2,53,27,1,559.0,729.0
+2773,if the fan is oscillating or not,1020,470,2,53,27,1,730.0,900.0
+2774,when there is a new article on life hacker,1332,471,3,53,27,1,1.0,238.0
+2775,channels in category science on youtube,929,471,3,53,27,1,239.0,461.0
+2776,youtube channels with category animation,904,471,3,53,27,1,462.0,689.0
+2777,channels in category music on youtube,477,471,3,53,27,1,690.0,902.0
+2778,when my security camera hears sound,1318,472,4,53,27,1,1.0,183.0
+2779,when the awnings finish retracting,1232,472,4,53,27,1,184.0,361.0
+2780,when top stories on abc news update,1120,472,4,53,27,1,362.0,544.0
+2781,how danceable is the current track,578,472,4,53,27,1,545.0,722.0
+2782,when there is somebody in the room,1461,472,4,53,27,1,723.0,900.0
+2783,increase the volume of my lg tv,306,473,5,53,27,1,1.0,159.0
+2784,extend the awnings,274,473,5,53,27,1,160.0,253.0
+2785,when gas is not detected anymore,1259,473,5,53,27,1,254.0,417.0
+2786,the blog fact_checker of the washington post,363,473,5,53,27,1,418.0,641.0
+2787,upload a picture to facebook,64,473,5,53,27,1,642.0,785.0
+2788,top stories on bbc news,797,473,5,53,27,1,786.0,904.0
+2789,update my linkedin,81,474,6,53,27,1,1.0,114.0
+2790,when an appointment on my calendar begins,1465,474,6,53,27,1,115.0,343.0
+2791,when people leave the room,1106,474,6,53,27,1,344.0,497.0
+2792,my twitter messages,782,474,6,53,27,1,498.0,616.0
+2793,some random trivia,353,474,6,53,27,1,617.0,730.0
+2794,order me a black caramel_mocha,294,474,6,53,27,1,731.0,904.0
+2795,posts in the washington post morning_mix blog,910,475,7,53,27,1,1.0,241.0
+2796,my emails on gmail,428,475,7,53,27,1,242.0,347.0
+2797,dock my vacuum,189,475,7,53,27,1,348.0,433.0
+2798,politics washington post 's articles,671,475,7,53,27,1,434.0,629.0
+2799,when there is nobody in the room,1076,475,7,53,27,1,630.0,805.0
+2800,lower the damper,31,475,7,53,27,1,806.0,901.0
+2801,when my fan starts oscillating,1289,476,8,53,27,1,1.0,159.0
+2802,my security camera,375,476,8,53,27,1,160.0,258.0
+2803,when my awnings are extended or retracted,1127,476,8,53,27,1,259.0,472.0
+2804,when there are people in the corridor,1266,476,8,53,27,1,473.0,666.0
+2805,honk the horn on my car,26,476,8,53,27,1,667.0,790.0
+2806,when the gas is gone,1157,476,8,53,27,1,791.0,899.0
+2807,front page of hacker news,423,477,9,53,27,1,1.0,141.0
+2808,bbc news top stories,863,477,9,53,27,1,142.0,257.0
+2809,posts in the washington post wonkblog blog,405,477,9,53,27,1,258.0,483.0
+2810,after sunrise,1364,477,9,53,27,1,484.0,564.0
+2811,when somebody messages slack,1123,477,9,53,27,1,565.0,720.0
+2812,when the curtains finish lowering,1198,477,9,53,27,1,721.0,901.0
+2813,a random trump quote,720,478,1,54,27,2,1.0,144.0
+2814,order me a black americano,117,478,1,54,27,2,145.0,318.0
+2815,engadget news,848,478,1,54,27,2,319.0,427.0
+2816,posts in the washington post powerpost blog,681,478,1,54,27,2,428.0,686.0
+2817,nba news,781,478,1,54,27,2,687.0,770.0
+2818,turn on my switch,53,478,1,54,27,2,771.0,899.0
+2819,when the smoke sensor starts or stops detecting smoke,1388,479,2,54,27,2,1.0,307.0
+2820,wall street journal articles in the us_business section published in the last hour,514,479,2,54,27,2,308.0,759.0
+2821,shut down the lights,87,479,2,54,27,2,760.0,901.0
+2822,when the window is opened or closed,1274,480,3,54,27,2,1.0,177.0
+2823,Is my tesla car plugged in? ,711,480,3,54,27,2,178.0,319.0
+2824,if I raised the blinds,850,480,3,54,27,2,320.0,431.0
+2825,when my motion sensor is not detecting anything,1430,480,3,54,27,2,432.0,668.0
+2826,stop the vacuum cleaner,155,480,3,54,27,2,669.0,785.0
+2827,halt my oscillating fan,59,480,3,54,27,2,786.0,902.0
+2828,whether my vacuum is docked,553,481,4,54,27,2,1.0,166.0
+2829,set on the lights,113,481,4,54,27,2,167.0,282.0
+2830,when the front page of huffington post updates,1228,481,4,54,27,2,283.0,543.0
+2831,wall street journal lifestyle,530,481,4,54,27,2,544.0,719.0
+2832,the state of the motion sensor,376,481,4,54,27,2,720.0,900.0
+2833,washington post 's fact_checker blog,981,482,5,54,27,2,1.0,181.0
+2834,whether I have enough battery,366,482,5,54,27,2,182.0,327.0
+2835,the latest posts in the reddit front page,763,482,5,54,27,2,328.0,533.0
+2836,new york times,470,482,5,54,27,2,534.0,604.0
+2837,set the power on my lg tv to on,220,482,5,54,27,2,605.0,760.0
+2838,my tweets,756,482,5,54,27,2,761.0,806.0
+2839,my posts on twitter,984,482,5,54,27,2,807.0,902.0
+2840,my appointments,587,483,6,54,27,2,1.0,105.0
+2841,open my awning for me,241,483,6,54,27,2,106.0,240.0
+2842,when someone comments on a github issue,1162,483,6,54,27,2,241.0,465.0
+2843,posts in the washington post post_partisan blog,749,483,6,54,27,2,466.0,730.0
+2844,whether my plug is turned on,425,483,6,54,27,2,731.0,900.0
+2845,whether there is carbon monoxide,552,484,7,54,27,2,1.0,161.0
+2846,ask my vacuum cleaner to pause,56,484,7,54,27,2,162.0,312.0
+2847,the moment the sound sensor hears anything,1438,484,7,54,27,2,313.0,523.0
+2848,set my hvac to off,188,484,7,54,27,2,524.0,614.0
+2849,order me a caramel_mocha,35,484,7,54,27,2,615.0,735.0
+2850,when the door is opened or closed,1452,484,7,54,27,2,736.0,901.0
+2851,generate a caption for a picture,501,485,8,54,27,2,1.0,166.0
+2852,when the heat sensor is cold,1062,485,8,54,27,2,167.0,312.0
+2853,a picture from curiosity rover,540,485,8,54,27,2,313.0,468.0
+2854,youtube channels with category paid,975,485,8,54,27,2,469.0,649.0
+2855,the speechiness of this song,991,485,8,54,27,2,650.0,795.0
+2856,order me a macchiato,323,485,8,54,27,2,796.0,901.0
+2857,take a note,2,486,9,54,27,2,1.0,78.0
+2858,set me as not away on slack,213,486,9,54,27,2,79.0,236.0
+2859,the upbeatness of this track,887,486,9,54,27,2,237.0,399.0
+2860,channels in category diy on youtube,817,486,9,54,27,2,400.0,597.0
+2861,mozilla blogs,344,486,9,54,27,2,598.0,685.0
+2862,when i send or receive an omlet message,1445,486,9,54,27,2,686.0,903.0
+2863,images from Imgur that are safe to a general audience,450,487,1,55,28,1,1.0,280.0
+2864,wall street journal articles in the technology section,772,487,1,55,28,1,281.0,565.0
+2865,turn on my lg tv,123,487,1,55,28,1,566.0,660.0
+2866,abc news,907,487,1,55,28,1,661.0,715.0
+2867,when it is time for my appointment,1152,487,1,55,28,1,716.0,900.0
+2868,when there is a new top stories on abc news,1108,488,2,55,28,1,1.0,224.0
+2869,if the heat sensor is hot or cold,856,488,2,55,28,1,225.0,398.0
+2870,best_of_youtube youtube channels,870,488,2,55,28,1,399.0,567.0
+2871,washington post 's capital_weather_gang blog,533,488,2,55,28,1,568.0,796.0
+2872,make a twitter post,237,488,2,55,28,1,797.0,900.0
+2873,when sunset,1379,489,3,55,28,1,1.0,80.0
+2874,the liveness of the current song,788,489,3,55,28,1,81.0,265.0
+2875,posts on facebook,970,489,3,55,28,1,266.0,375.0
+2876,when any of my rss feeds update,1404,489,3,55,28,1,376.0,555.0
+2877,once my smart plug is disconnected,1423,489,3,55,28,1,556.0,750.0
+2878,youtube 's music channels,966,489,3,55,28,1,751.0,900.0
+2879,restore the volume on my lg tv,284,490,4,55,28,1,1.0,158.0
+2880,tell my vacuum cleaner to stop,72,490,4,55,28,1,159.0,316.0
+2881,when i make a new file in onedrive,1345,490,4,55,28,1,317.0,494.0
+2882,youtube channels with category science,891,490,4,55,28,1,495.0,692.0
+2883,make the fan turn,97,490,4,55,28,1,693.0,785.0
+2884,a random poem,735,490,4,55,28,1,786.0,858.0
+2885,wikicfp,721,490,4,55,28,1,859.0,901.0
+2886,order me a caramel_macchiato,119,491,5,55,28,1,1.0,172.0
+2887,when somebody sends me an email on gmail,1124,491,5,55,28,1,173.0,404.0
+2888,today's asteroid,739,491,5,55,28,1,405.0,516.0
+2889,when a new xkcd is out,1347,491,5,55,28,1,517.0,658.0
+2890,make the vacuum stop,151,491,5,55,28,1,659.0,790.0
+2891,turn off the fan,98,491,5,55,28,1,791.0,902.0
+2892,channels in category comedy on youtube,536,492,6,55,28,1,1.0,192.0
+2893,the arts section of the new york times,715,492,6,55,28,1,193.0,384.0
+2894,turn off the light,3,492,6,55,28,1,385.0,476.0
+2895,when sun sets,1421,492,6,55,28,1,477.0,543.0
+2896,articles on howtogeek,608,492,6,55,28,1,544.0,650.0
+2897,when news on mashable updates,1257,492,6,55,28,1,651.0,797.0
+2898,when I turn on my fan,1283,492,6,55,28,1,798.0,904.0
+2899,news_and_politics channels in youtube,963,493,7,55,28,1,1.0,196.0
+2900,when there is a new post on matrix67 blog,1086,493,7,55,28,1,197.0,412.0
+2901,if there is gas leaking,440,493,7,55,28,1,413.0,538.0
+2902,a plot from wolfram alpha,633,493,7,55,28,1,539.0,674.0
+2903,when I turn off the vacuum,1446,493,7,55,28,1,675.0,815.0
+2904,the latest xkcd,703,493,7,55,28,1,816.0,901.0
+2905,news from american broadcasting company,513,494,8,55,28,1,1.0,216.0
+2906,causes youtube channels,586,494,8,55,28,1,217.0,352.0
+2907,once the toilet is not being used,1326,494,8,55,28,1,353.0,538.0
+2908,my twitter direct messages,580,494,8,55,28,1,539.0,689.0
+2909,channels in category sports on youtube,431,494,8,55,28,1,690.0,900.0
+2910,if anything was detected by my sound sensor,685,495,9,55,28,1,1.0,245.0
+2911,loop the color in my light bulb,235,495,9,55,28,1,246.0,430.0
+2912,the currently playing song,605,495,9,55,28,1,431.0,590.0
+2913,stop the vacuum,44,495,9,55,28,1,591.0,695.0
+2914,when a file is modified on onedrive,1079,495,9,55,28,1,696.0,900.0
+2915,when the router gets disconnected,1200,496,1,56,28,2,1.0,184.0
+2916,open my window for me,255,496,1,56,28,2,185.0,308.0
+2917,the blog wonkblog of the washington post,436,496,1,56,28,2,309.0,527.0
+2918,the front page of the new york times,1011,496,1,56,28,2,528.0,726.0
+2919,when the curtains open or close,1153,496,1,56,28,2,727.0,900.0
+2920,stop turning the fan,239,497,2,56,28,2,1.0,124.0
+2921,when reddit front page updates,1194,497,2,56,28,2,125.0,298.0
+2922,my playlist,786,497,2,56,28,2,299.0,377.0
+2923,post something on my linkedin,315,497,2,56,28,2,378.0,546.0
+2924,whether the sensor is detecting smoke,537,497,2,56,28,2,547.0,755.0
+2925,once the connection is up,1085,497,2,56,28,2,756.0,904.0
+2926,create a file in google drive,128,498,3,56,28,2,1.0,162.0
+2927,switch off my vacuum for me,174,498,3,56,28,2,163.0,314.0
+2928,when i receive a tweet,1366,498,3,56,28,2,315.0,441.0
+2929,open my damper for me,41,498,3,56,28,2,442.0,563.0
+2930,when I open the door,1130,498,3,56,28,2,564.0,680.0
+2931,washington post politics,890,498,3,56,28,2,681.0,817.0
+2932,cs294w slides,996,498,3,56,28,2,818.0,899.0
+2933,the technology section of the new york times,928,499,4,56,28,2,1.0,238.0
+2934,if my shutters are open or closed,449,499,4,56,28,2,239.0,421.0
+2935,latest posts in all my rss subscriptions,965,499,4,56,28,2,422.0,639.0
+2936,tell me a joke,387,499,4,56,28,2,640.0,727.0
+2937,interesting facts about numbers,855,499,4,56,28,2,728.0,900.0
+2938,once my switch is off,1176,500,5,56,28,2,1,105
+2939,when my curtains are raised,1250,500,5,56,28,2,106,240
+2940,gaming youtube channels,900,500,5,56,28,2,241,355
+2941,make my lg tv quieter,309,500,5,56,28,2,356,460

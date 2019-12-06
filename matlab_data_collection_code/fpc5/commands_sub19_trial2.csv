@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1979,the energy of level the current track,818,1,1.0,214.0
+1980,when there is a gas leak,1309,1,215.0,363.0
+1981,new york times articles published this week,899,1,364.0,607.0
+1982,when my sound sensor detects nothing,1448,1,608.0,816.0
+1983,name a baby,693,1,817.0,900.0
+1984,lifestyle washington post 's articles,1021,2,1.0,196.0
+1985,if the router is connected or disconnected,804,2,197.0,417.0
+1986,when somebody emails me,1431,2,418.0,543.0
+1987,if my battery has power,958,2,544.0,669.0
+1988,posts in the washington post right_turn blog,442,2,670.0,900.0
+1989,honk the Tesla car,317,3,1.0,116.0
+1990,file on github,410,3,117.0,212.0
+1991,articles on the mozilla blog,507,3,213.0,378.0
+1992,wall street journal world_news,367,3,379.0,554.0
+1993,post on slack,62,3,555.0,645.0
+1994,news on nature,1059,3,646.0,741.0
+1995,if the battery is topped up,1213,3,742.0,902.0
+1996,when the state of my battery changes,1411,4,1.0,183.0
+1997,my google drive files in reverse alphabetical order,359,4,184.0,441.0
+1998,I want to switch off the fan,232,4,442.0,584.0
+1999,oscillate my fan,193,4,585.0,667.0
+2000,Is my car at home? ,638,4,668.0,765.0
+2001,turn off the vacuum cleaner,252,4,766.0,903.0
+2002,articles on popular science,391,5,1.0,153.0
+2003,when there are new mac rumors,1231,5,154.0,316.0
+2004,my security camera live feed,895,5,317.0,474.0
+2005,go back to the last song,157,5,475.0,612.0
+2006,once somebody closes the window,1286,5,613.0,785.0
+2007,the state of my hvac,541,5,786.0,903.0
+2008,new books published by stanford press,934,6,1.0,219.0
+2009,the moment the awnings get extended,1080,6,220.0,428.0
+2010,latest gamespot news,561,6,429.0,562.0
+2011,when stanford press publishes a new book,1367,6,563.0,796.0
+2012,my twitter dms,866,6,797.0,900.0
+2013,when an event is about to start on my calendar,1096,7,1.0,237.0
+2014,if the gas sensor is detecting gas,761,7,238.0,414.0
+2015,when I oscillate the fan,1248,7,415.0,541.0
+2016,when the connection drops,1168,7,542.0,673.0
+2017,washington post national,1036,7,674.0,800.0
+2018,flash the Tesla car,137,7,801.0,902.0
+2019,set my speaker as default,1,8,1.0,137.0
+2020,the key of this song,722,8,138.0,249.0
+2021,when nobody is using the toilet,1100,8,250.0,416.0
+2022,if i update my instagram,1073,8,417.0,548.0
+2023,post something on tumblr,219,8,549.0,680.0
+2024,a fact about cat,439,8,681.0,772.0
+2025,my files in google drive,829,8,773.0,904.0
+2026,a random snail fact,680,9,1.0,115.0
+2027,set the power on my security camera to off,301,9,116.0,345.0
+2028,wall street journal us_business,348,9,346.0,520.0
+2029,a picture from nasa curiosity,730,9,521.0,685.0
+2030,when somebody sends me a direct message,1419,9,686.0,900.0

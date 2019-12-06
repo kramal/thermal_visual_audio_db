@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+166,when the plug gets unplugged,1170,1,1.0,145.0
+167,close my window,191,1,146.0,225.0
+168,when the fan stops swinging,1301,1,226.0,365.0
+169,a random cat fact,997,1,366.0,455.0
+170,when the gas is gone,1157,1,456.0,560.0
+171,upload a NSFW picture to Imgur,102,1,561.0,715.0
+172,when something changes on my calendar,1441,1,716.0,905.0
+173,a plot from wolframalpha,1012,2,1.0,142.0
+174,whether anybody is detected by the sound sensor,517,2,143.0,399.0
+175,recent tweets,980,2,400.0,486.0
+176,loop the color of the light bulb,82,2,487.0,668.0
+177,the business section of the new york times,557,2,669.0,900.0
+178,youtube 's news_and_politics channels,577,3,1.0,197.0
+179,how loud is this song,714,3,198.0,314.0
+180,turn off my light bulb,91,3,315.0,436.0
+181,my onedrive files in alphabetical order,908,3,437.0,643.0
+182,articles in the washington post in section sports,594,3,644.0,900.0
+183,my recent tweets,499,4,1.0,116.0
+184,whether my damper is open or closed,976,4,117.0,327.0
+185,set the power on my security camera to off,301,4,328.0,573.0
+186,disable my security camera,52,4,574.0,739.0
+187,when a new xkcd is posted,1464,4,740.0,900.0
+188,whether the battery is too low or normal,968,5,1.0,203.0
+189,phd comics,864,5,204.0,256.0
+190,pictures of cats,362,5,257.0,339.0
+191,the blog capital_weather_gang of the washington post,960,5,340.0,602.0
+192,on the switch,305,5,603.0,670.0
+193,lower the curtains,48,5,671.0,763.0
+194,if the toilet is being used,498,5,764.0,901.0
+195,images from Imgur,831,6,1.0,88.0
+196,my body measurements from fitbit,688,6,89.0,251.0
+197,move the fan,124,6,252.0,314.0
+198,new books published by stanford press,934,6,315.0,502.0
+199,latest posts on an atom feed,467,6,503.0,645.0
+200,the liveness of the current track,695,6,646.0,813.0
+201,p_query_location},556,6,814.0,901.0
+202,latest techcrunch news,564,7,1.0,151.0
+203,a random picture of a dog,802,7,152.0,317.0
+204,put the shades up,20,7,318.0,443.0
+205,help me open the shutters,268,7,444.0,609.0
+206,order me a black flat_white,277,7,610.0,785.0
+207,generate a meme,625,7,786.0,901.0
+208,youtube channels with category beauty_and_fashion,496,8,1.0,247.0
+209,when they publish something on the rss feed,1114,8,248.0,464.0
+210,set my speaker louder,132,8,465.0,571.0
+211,piled higher and deeper comics,626,8,572.0,723.0
+212,create a new empty file in onedrive,206,8,724.0,900.0
+213,switch off the fan,275,9,1.0,125.0
+214,articles in the washington post in section business,825,9,126.0,415.0
+215,when nba news updates,1315,9,416.0,555.0
+216,once the motion sensor detects movement,1094,9,556.0,785.0
+217,raise the damper,141,9,786.0,900.0

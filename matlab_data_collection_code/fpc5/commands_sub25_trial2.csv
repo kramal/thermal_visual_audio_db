@@ -1,0 +1,56 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2600,when I have new favorite songs,1203,1,1.0,172.0
+2601,sticky notes,466,1,173.0,254.0
+2602,my onedrive files,413,1,255.0,361.0
+2603,when the motion sensor detects or stops detecting movement,1393,1,362.0,673.0
+2604,posts in the washington post compost blog,973,1,674.0,900.0
+2605,the bpm of the current song,841,2,1.0,149.0
+2606,when hacker news front page updates,1319,2,150.0,338.0
+2607,when there is a new post on phd comics,1368,2,339.0,542.0
+2608,blow the horn in my car,253,2,543.0,671.0
+2609,imgur usersub viral,1037,2,672.0,780.0
+2610,switch off the switch,135,2,781.0,899.0
+2611,my google drive files modified today,1050,3,1.0,189.0
+2612,when the blinds get lowered,1128,3,190.0,333.0
+2613,top stories on abc news,880,3,334.0,457.0
+2614,when i post something to twitter,1417,3,458.0,626.0
+2615,whether my blinds are open or closed,867,3,627.0,815.0
+2616,close my shades,280,3,816.0,899.0
+2617,change the temperature on my thermostat,192,4,1.0,196.0
+2618,when an event on my icalendar ends,1189,4,197.0,367.0
+2619,a trump quote,341,4,368.0,433.0
+2620,when i instagram a picture,1420,4,434.0,564.0
+2621,when a new phd comic is published,1244,4,565.0,730.0
+2622,sports washington post 's articles,419,4,731.0,901.0
+2623,donald trump's quote,476,5,1.0,101.0
+2624,new books by stanford press,509,5,102.0,237.0
+2625,order me a iced mocha,292,5,238.0,343.0
+2626,when the time of some event changes on my icalendar,1414,5,344.0,599.0
+2627,channels in category from_tv on youtube,1035,5,600.0,795.0
+2628,my weight from fitbit,336,5,796.0,901.0
+2629,when my awnings close,1287,6,1.0,113.0
+2630,when my security camera does not detect motion,1105,6,114.0,351.0
+2631,a random animal fact,374,6,352.0,459.0
+2632,my calendar schedule,659,6,460.0,567.0
+2633,if the switch switches on,1436,6,568.0,700.0
+2634,when the motion sensor detects a person,1402,6,701.0,903.0
+2635,disable my security camera,52,7,1.0,137.0
+2636,make the fan oscillate,279,7,138.0,254.0
+2637,when i make a new tweet,1116,7,255.0,376.0
+2638,when the vacuum turns off,1165,7,377.0,508.0
+2639,film_and_entertainment channels in youtube,942,7,509.0,725.0
+2640,when my sound sensor hears silence,1178,7,726.0,902.0
+2641,turn on repeat,167,8,1.0,80.0
+2642,when you smell gas,1305,8,81.0,180.0
+2643,causes channels in youtube,689,8,181.0,320.0
+2644,when I bring up my curtains,1447,8,321.0,465.0
+2645,if the room is occupied,954,8,466.0,590.0
+2646,once somebody opens the window,1214,8,591.0,750.0
+2647,youtube 's animation channels,511,8,751.0,905.0
+2648,when how-to geek updates,1361,9,1.0,127.0
+2649,the time signature of the current song,416,9,128.0,324.0
+2650,my dropbox files,347,9,325.0,411.0
+2651,whether the shades are raised or lowered,404,9,412.0,618.0
+2652,set my hvac to heat,295,9,619.0,720.0
+2653,describe a picture,342,9,721.0,817.0
+2654,my recent tweets,499,9,818.0,904.0

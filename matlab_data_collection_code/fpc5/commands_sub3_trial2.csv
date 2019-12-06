@@ -1,0 +1,57 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+268,post something on tumblr,219,1,1.0,128.0
+269,if I opened the shutters,992,1,129.0,256.0
+270,order me a black macchiato,163,1,257.0,394.0
+271,news on nba basketball,396,1,395.0,512.0
+272,the blog wonkblog of the washington post,436,1,513.0,720.0
+273,when top stories on bbc news update,1136,1,721.0,903.0
+274,my schedule,964,2,1.0,74.0
+275,the moment the sound sensor hears anything,1438,2,75.0,303.0
+276,raise the shades,121,2,304.0,402.0
+277,when an event on my calendar begins,1060,2,403.0,596.0
+278,turn off my lg webos tv,224,2,597.0,730.0
+279,when the shades finish lowering,1161,2,731.0,904.0
+280,once my plug is switched on,1349,3,1.0,141.0
+281,the time signature of the current song,416,3,142.0,337.0
+282,Wunderlist lists ,373,3,338.0,428.0
+283,once the state of the heat sensor changes,1406,3,429.0,639.0
+284,movie information,945,3,640.0,730.0
+285,make the fan turn,97,3,731.0,821.0
+286,open the awning,63,3,822.0,902.0
+287,the direct messages i received on twitter,725,4,1.0,216.0
+288,when i make a new tweet,1116,4,217.0,342.0
+289,save whatever's playing to my library,142,4,343.0,538.0
+290,my fitbit step count,417,4,539.0,649.0
+291,when i receive a message on omlet,1072,4,650.0,825.0
+292,on the vacuum,92,4,826.0,901.0
+293,when gas is not detected anymore,1259,5,1.0,168.0
+294,channels I follow on youtube,631,5,169.0,316.0
+295,the weather,783,5,317.0,379.0
+296,a picture from mars,1054,5,380.0,482.0
+297,if something happens on my security camera,1351,5,483.0,700.0
+298,news on mashable,873,5,701.0,788.0
+299,close the awning,115,5,789.0,876.0
+300,wsj,743,5,877.0,899.0
+301,wall street journal articles in the markets section,982,6,1.0,270.0
+302,youtube channels with category science,891,6,271.0,475.0
+303,when a file is modified on onedrive,1079,6,476.0,665.0
+304,save the current track,10,6,666.0,790.0
+305,set my hvac to heat,295,6,791.0,900.0
+306,the new york times arts section,843,7,1.0,164.0
+307,when my curtains are raised,1250,7,165.0,308.0
+308,a random animated gif,987,7,309.0,422.0
+309,when engadget news updates,1362,7,423.0,561.0
+310,opinions washington post 's articles,868,7,562.0,750.0
+311,change the volume of my lg tv,311,7,751.0,904.0
+312,my files in google drive,829,8,1.0,123.0
+313,unmute my lg tv,66,8,124.0,201.0
+314,whether my fan is oscillating or not,790,8,202.0,384.0
+315,mozilla blogs,344,8,385.0,452.0
+316,the moment I open the door,1212,8,453.0,585.0
+317,tweet a picture,148,8,586.0,663.0
+318,when mashable updates,1083,8,664.0,771.0
+319,post something on facebook,204,8,772.0,904.0
+320,posts in the washington post post_partisan blog,749,9,1.0,249.0
+321,the speechiness of the current song,453,9,250.0,438.0
+322,when there is no one left in the living room,1207,9,439.0,672.0
+323,whenever the state of my lights has changed,1439,9,673.0,901.0

@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2441,when someone opens the door,1317,1,1.0,150.0
+2442,washington post 's post_everything blog,426,1,151.0,360.0
+2443,youtube 's beauty_and_fashion channels,424,1,361.0,565.0
+2444,youtube 's news_and_politics channels,577,1,566.0,765.0
+2445,return my vacuum to base,325,1,766.0,900.0
+2446,shut the window,267,2,1.0,108.0
+2447,the loudness of the current track,986,2,109.0,306.0
+2448,a dad joke,748,2,307.0,389.0
+2449,channels I am subscribed to on youtube,465,2,390.0,612.0
+2450,send an email to somebody,258,2,613.0,770.0
+2451,stories on macrumors,487,2,771.0,903.0
+2452,increase the volume on my bluetooth speaker,24,3,1.0,240.0
+2453,wall street journal articles in the opinions section,491,3,241.0,525.0
+2454,a random animated gif,987,3,526.0,655.0
+2455,articles in the new york times world section,563,3,656.0,900.0
+2456,opinions washington post 's articles,868,4,1.0,206.0
+2457,a fact about horse,355,4,207.0,322.0
+2458,beauty_and_fashion channels in youtube,627,4,323.0,538.0
+2459,the state of my battery,392,4,539.0,679.0
+2460,help me open the window,6,4,680.0,820.0
+2461,a fake name,542,4,821.0,901.0
+2462,washington post 's post_partisan blog,959,5,1.0,216.0
+2463,articles on life hacker,441,5,217.0,362.0
+2464,the valence of this song,842,5,363.0,513.0
+2465,youtube channels with category from_tv,851,5,514.0,734.0
+2466,when the internet goes down,1297,5,735.0,900.0
+2467,when the battery is running low,1444,6,1.0,179.0
+2468,when i receive a message on omlet,1072,6,180.0,368.0
+2469,when ars technica publishes a new article,1437,6,369.0,597.0
+2470,start my vacuum,246,6,598.0,696.0
+2471,my onedrive files modified this week,352,6,697.0,900.0
+2472,update my facebook status,90,7,1.0,145.0
+2473,stop my fan from oscillating,228,7,146.0,305.0
+2474,instagram pictures on my account,892,7,306.0,485.0
+2475,when macrumors updates,1183,7,486.0,615.0
+2476,youtube channels with category film_and_entertainment,962,7,616.0,900.0
+2477,is this song acoustic,503,8,1.0,113.0
+2478,top stories on cnn news,1053,8,114.0,236.0
+2479,when my window is open,1294,8,237.0,354.0
+2480,youtube channels with category news_and_politics,922,8,355.0,602.0
+2481,request an uber ,212,8,603.0,690.0
+2482,set the power on my security camera to on,250,8,691.0,903.0
+2483,reduce the volume of my lg tv,198,9,1.0,147.0
+2484,play some music on spotify,107,9,148.0,279.0
+2485,a giphy picture,798,9,280.0,356.0
+2486,turn on the lights,205,9,357.0,448.0
+2487,skip this song,184,9,449.0,520.0
+2488,youtube channels with category gaming,944,9,521.0,707.0
+2489,play my spotify,23,9,708.0,784.0
+2490,once I lose connectivity,1201,9,785.0,906.0

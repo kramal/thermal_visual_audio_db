@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+428,turn shuffle off,297,1,1.0,97.0
+429,a random cat picture,757,1,98.0,214.0
+430,bbc news top stories,863,1,215.0,331.0
+431,honk the Tesla car,317,1,332.0,438.0
+432,when I don't have connection,1227,1,439.0,595.0
+433,on the fan for me,308,1,596.0,697.0
+434,when the blinds are raised or lowered,1331,1,698.0,899.0
+435,whether the lights are on or off,811,2,1.0,173.0
+436,when a file is modified on google drive,1166,2,174.0,381.0
+437,add a new playlist,319,2,382.0,484.0
+438,wall street journal articles in the world_news section published in the last hour,728,2,485.0,902.0
+439,new playlist,152,3,1.0,64.0
+440,order me a black drip_coffee,73,3,65.0,208.0
+441,when the heat sensor is freezing,1253,3,209.0,372.0
+442,film_and_entertainment channels in youtube,942,3,373.0,586.0
+443,when the heat sensor is not hot,1312,3,587.0,745.0
+444,whether my vacuum is on or off,411,3,746.0,899.0
+445,when the switch becomes on,1407,4,1.0,133.0
+446,my posts on twitter,984,4,134.0,231.0
+447,my contacts,670,4,232.0,289.0
+448,a picture from curiosity rover,540,4,290.0,442.0
+449,when the state of the heat sensor changes,1382,4,443.0,650.0
+450,wsj lifestyle articles,898,4,651.0,763.0
+451,cooking channels in youtube,774,4,764.0,901.0
+452,once I lose connectivity,1201,5,1.0,124.0
+453,shut down my security camera,5,5,125.0,268.0
+454,update my facebook status,90,5,269.0,397.0
+455,when an appointment on my calendar begins,1465,5,398.0,606.0
+456,order me a iced latte,199,5,607.0,715.0
+457,the moment the curtains get put down,1451,5,716.0,899.0
+458,the linguistic analysis of a sentence,430,6,1.0,219.0
+459,when something is detected by my motion sensor,1377,6,220.0,483.0
+460,once everyone leaves the room,1353,6,484.0,662.0
+461,posts in the washington post compost blog,973,6,663.0,901.0
+462,my onedrive files created this week,927,7,1.0,194.0
+463,when a new file is created on onedrive,1097,7,195.0,403.0
+464,the key of the current track,1045,7,404.0,562.0
+465,when my damper lowers,1288,7,563.0,686.0
+466,open my window,55,7,687.0,775.0
+467,if I opened the window,335,7,776.0,904.0
+468,whether my window is open or closed,1001,8,1.0,184.0
+469,horse fun facts,486,8,185.0,268.0
+470,wall street journal articles in the lifestyle section published in the last hour,657,8,269.0,677.0
+471,a picture of a fox,738,8,678.0,776.0
+472,how upbeat is this song,611,8,777.0,900.0
+473,when I turn off my switch,1075,9,1.0,130.0
+474,switch on the vacuum cleaner,320,9,131.0,275.0
+475,turn the ac on,254,9,276.0,350.0
+476,youtube 's science channels,723,9,351.0,490.0
+477,the state of my heater,334,9,491.0,605.0
+478,set my hvac to cool,43,9,606.0,705.0
+479,when something changes on my icalendar,1245,9,706.0,900.0

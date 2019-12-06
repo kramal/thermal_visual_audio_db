@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1389,latest popular science news,971,1,1.0,139.0
+1390,channels I am subscribed to on youtube,465,1,140.0,333.0
+1391,the danceability of the current track,510,1,334.0,522.0
+1392,order me a iced flat_white,164,1,523.0,656.0
+1393,if the vacuum is on or off,839,1,657.0,790.0
+1394,turn on my light bulb,116,1,791.0,899.0
+1395,start disco lights,195,2,1.0,99.0
+1396,when i update my instagram,1087,2,100.0,238.0
+1397,tweet something,227,2,239.0,322.0
+1398,when my motion sensor is not detecting anything,1430,2,323.0,566.0
+1399,if anything was detected by my sound sensor,685,2,567.0,790.0
+1400,open my awning for me,241,2,791.0,904.0
+1401,youtube 's recommended channels,566,3,1.0,159.0
+1402,best_of_youtube youtube channels,870,3,160.0,323.0
+1403,trump's quote,799,3,324.0,392.0
+1404,when TED publishes a new talk,1292,3,393.0,541.0
+1405,my primary category emails,532,3,542.0,675.0
+1406,when there is new article on popular science,1156,3,676.0,899.0
+1407,image search,614,4,1.0,81.0
+1408,when there is no smoke,1064,4,82.0,212.0
+1409,when Stanford news updates,1284,4,213.0,363.0
+1410,when the fan oscillation stops,1230,4,364.0,534.0
+1411,when there is a new article in washington post,1343,4,535.0,785.0
+1412,some gif from giphy,652,4,786.0,901.0
+1413,when somebody i follow on twitter posts,1306,5,1.0,203.0
+1414,post on twitter,238,5,204.0,286.0
+1415,order me a iced espresso,65,5,287.0,414.0
+1416,whether anyone switched off my plug,1052,5,415.0,597.0
+1417,when my vacuum goes back to base,1185,5,598.0,765.0
+1418,when the shades are put up,1263,5,766.0,903.0
+1419,when my security camera detects no person,1125,6,1.0,222.0
+1420,tweets i made,1017,6,223.0,304.0
+1421,set on the lights,113,6,305.0,406.0
+1422,order me a mocha,143,6,407.0,503.0
+1423,when i instagram a picture,1420,6,504.0,650.0
+1424,the latest xkcd,703,6,651.0,742.0
+1425,the new york times us section,727,6,743.0,904.0
+1426,when i receive an email on Gmail,1215,7,1.0,174.0
+1427,once my plug is switched off,1390,7,175.0,328.0
+1428,the us section of the new york times,912,7,329.0,522.0
+1429,when my window is open,1294,7,523.0,646.0
+1430,honk the horn on my car,26,7,647.0,775.0
+1431,when my plug is plugged,1285,7,776.0,904.0
+1432,omlet messages from me,901,8,1.0,144.0
+1433,set me as not away on slack,213,8,145.0,313.0
+1434,when there is a new TED talk,1134,8,314.0,487.0
+1435,turn off the lights,271,8,488.0,616.0
+1436,open spotify and play some music,147,8,617.0,810.0
+1437,when i tweet,1167,8,811.0,904.0
+1438,posts in the washington post the_plum_line blog,667,9,1.0,276.0
+1439,wall street journal world_news,367,9,277.0,467.0
+1440,once the motion sensor does not detect any movement,1428,9,468.0,763.0
+1441,my meeting schedule,370,9,764.0,899.0

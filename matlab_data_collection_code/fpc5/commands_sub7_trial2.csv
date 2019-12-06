@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+686,when I extend my awnings,1088,1,1.0,134.0
+687,when an asteroid passes close to earth,1113,1,135.0,338.0
+688,snail fun facts,634,1,339.0,427.0
+689,if i update my instagram,1073,1,428.0,561.0
+690,once people enter the room,1268,1,562.0,705.0
+691,the acousticness of the current track,700,1,706.0,904.0
+692,please turn on the fan,318,2,1.0,147.0
+693,mature images from Imgur,820,2,148.0,304.0
+694,time estimate for uber,630,2,305.0,451.0
+695,channels in category science on youtube,929,2,452.0,683.0
+696,the acousticness of the current song,579,2,684.0,900.0
+697,whether the sound sensor is detecting sound or not,547,3,1.0,255.0
+698,the blog compost of the washington post,827,3,256.0,455.0
+699,youtube 's cooking channels,658,3,456.0,595.0
+700,turn off the light,3,3,596.0,690.0
+701,if the battery is low or normal,474,3,691.0,850.0
+702,call uber,260,3,851.0,900.0
+703,after sunset,1160,4,1.0,79.0
+704,latest TED talks,645,4,80.0,178.0
+705,when the front page of huffington post updates,1228,4,179.0,427.0
+706,if the heat sensor is hot or cold,856,4,428.0,611.0
+707,an interesting factoid about snail,505,4,612.0,800.0
+708,a fact about dog,662,4,801.0,899.0
+709,when matrix67 publishes something new,1350,5,1.0,186.0
+710,get the climate state of my Tesla car,1047,5,187.0,372.0
+711,whether anyone opened the door,610,5,373.0,523.0
+712,mute my lg tv,324,5,524.0,589.0
+713,after sunrise,1364,5,590.0,655.0
+714,open the window,168,5,656.0,731.0
+715,if the gas sensor is detecting gas,761,5,732.0,902.0
+716,sports washington post 's articles,419,6,1.0,179.0
+717,tweets in my timeline,724,6,180.0,293.0
+718,when someone comments on a github issue,1162,6,294.0,497.0
+719,articles on nature,697,6,498.0,596.0
+720,when somebody posts a message to slack,1391,6,597.0,795.0
+721,put the damper down,47,6,796.0,899.0
+722,whether the sound sensor hears anything,682,7,1.0,246.0
+723,shut the window,267,7,247.0,372.0
+724,news from abc,948,7,373.0,488.0
+725,when the battery is running low,1444,7,489.0,694.0
+726,when the curtains open or close,1153,7,695.0,900.0
+727,when there is a new video from youtube channels I follow,1378,8,1.0,308.0
+728,when I turn off the vacuum,1446,8,309.0,466.0
+729,when i receive an email marked as important,1117,8,467.0,709.0
+730,when the door is opened or closed,1452,8,710.0,902.0
+731,my google drive files that were created most recently,736,9,1.0,276.0
+732,when my weight changes on fitbit,1337,9,277.0,447.0
+733,when there is a new post in the xkcd what-if blog,1159,9,448.0,703.0
+734,get the battery level of my Tesla car,1049,9,704.0,899.0

@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+480,when somebody dms me,1208,1,1.0,102.0
+481,open the damper,247,1,103.0,179.0
+482,my google contacts,395,1,180.0,271.0
+483,when there is a new top stories on bbc news,1270,1,272.0,488.0
+484,a picture from nasa curiosity,730,1,489.0,635.0
+485,when the heat sensor is chilly,1135,1,636.0,787.0
+486,when a new xkcd is out,1347,1,788.0,899.0
+487,open my shades,299,2,1.0,118.0
+488,my starred google drive files,483,2,119.0,311.0
+489,when it gets smokey,1237,2,312.0,454.0
+490,when the curtains get lowered,1091,2,455.0,647.0
+491,youtube channels with category automotive,784,2,648.0,900.0
+492,wall street journal articles in the world_news section,665,3,1.0,276.0
+493,once somebody closes the window,1286,3,277.0,437.0
+494,turn the switch on,226,3,438.0,533.0
+495,business washington post 's articles,600,3,534.0,719.0
+496,my onedrive files,413,3,720.0,810.0
+497,switch on the fan,101,3,811.0,901.0
+498,pause my spotify,120,4,1.0,86.0
+499,latest business insider news,961,4,87.0,232.0
+500,the steps i have taken,777,4,233.0,348.0
+501,when the sound sensor hears something or stops hearing anything,1149,4,349.0,669.0
+502,articles in the new york times travel section,862,4,670.0,900.0
+503,switch on the vacuum,8,5,1.0,129.0
+504,when there is a new slack message,1400,5,130.0,323.0
+505,wall street journal lifestyle,530,5,324.0,497.0
+506,the messages i got on twitter,1024,5,498.0,671.0
+507,when i create a new file on google drive,1252,5,672.0,900.0
+508,youtube channels with category music,849,6,1.0,192.0
+509,youtube channels with category diy,664,6,193.0,374.0
+510,make a meme,472,6,375.0,441.0
+511,increase the volume on my bluetooth speaker,24,6,442.0,668.0
+512,when the plug gets connected or disconnected,1147,6,669.0,900.0
+513,techcrunch news,397,7,1.0,91.0
+514,order me a iced cappuccino,177,7,92.0,237.0
+515,make the fan oscillate,279,7,238.0,363.0
+516,when my damper is lowered,1235,7,364.0,504.0
+517,when the heat sensor is not cold,1357,7,505.0,680.0
+518,articles in the new york times us section,675,7,681.0,901.0
+519,latest news by ars technica,708,8,1.0,162.0
+520,random number facts,643,8,163.0,284.0
+521,latest posts in all my rss subscriptions,965,8,285.0,511.0
+522,whether the awning is extended or retracted,989,8,512.0,753.0
+523,when my appointment ends,1389,8,754.0,900.0
+524,my onedrive files that were created most recently,512,9,1.0,289.0
+525,when my battery has no juice,1394,9,290.0,473.0
+526,make my lg tv quieter,309,9,474.0,622.0
+527,when the bedroom gets occupied or becomes empty,1222,9,623.0,901.0

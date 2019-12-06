@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1227,set my hvac to off,188,1,1.0,110.0
+1228,when my vacuum starts or stops cleaning,1466,1,111.0,325.0
+1229,change the minimum and maximum temperatures on my thermostat,134,1,326.0,645.0
+1230,top stories on cnn news,1053,1,646.0,780.0
+1231,when my blinds lower,1325,1,781.0,900.0
+1232,when hacker news front page updates,1319,2,1.0,195.0
+1233,latest nba news,551,2,196.0,290.0
+1234,a random picture from giphy,651,2,291.0,445.0
+1235,when there is no internet,1468,2,446.0,590.0
+1236,whether my shades are open or closed,755,2,591.0,790.0
+1237,describe a picture,342,2,791.0,900.0
+1238,when somebody sends me a message on twitter,1408,3,1.0,224.0
+1239,youtube channels with category gaming,944,3,225.0,418.0
+1240,the state of my battery,392,3,419.0,542.0
+1241,order me a black caramel_macchiato,329,3,543.0,721.0
+1242,when my sound sensor hears silence,1178,3,722.0,900.0
+1243,plot a math function,444,4,1.0,115.0
+1244,when there is nobody in the room,1076,4,116.0,290.0
+1245,when the motion sensor detects a person,1402,4,291.0,500.0
+1246,when my motion sensor detects someone,1275,4,501.0,700.0
+1247,turn off my Tesla car air-conditioner,278,4,701.0,900.0
+1248,lower the volume of my lg tv,303,5,1.0,166.0
+1249,when an event on my calendar ends,1397,5,167.0,357.0
+1250,switch off the switch,135,5,358.0,488.0
+1251,a word from the dictionary,619,5,489.0,644.0
+1252,articles in the new york times science section,403,5,645.0,900.0
+1253,animation youtube channels,760,6,1.0,135.0
+1254,ars's latest news,602,6,136.0,225.0
+1255,post something on my linkedin,315,6,226.0,375.0
+1256,stop my fan from oscillating,228,6,376.0,520.0
+1257,if the switch is turned on or turned off,919,6,521.0,725.0
+1258,the tempo,422,6,726.0,775.0
+1259,set my hvac to heat_cool,29,6,776.0,900.0
+1260,important emails,943,7,1.0,99.0
+1261,my files in dropbox,771,7,100.0,213.0
+1262,when smoke is not detected anymore,1467,7,214.0,402.0
+1263,when I post on facebook,1307,7,403.0,536.0
+1264,the key of the current song,967,7,537.0,690.0
+1265,put the blinds up,71,7,691.0,794.0
+1266,a fact about snail,692,7,795.0,903.0
+1267,when anyone takes out my plug,1425,8,1.0,165.0
+1268,photos on facebook,418,8,166.0,275.0
+1269,increase the volume of my lg tv,306,8,276.0,450.0
+1270,change the temperature on my thermostat,192,8,451.0,665.0
+1271,my profile on linkedin,461,8,666.0,795.0
+1272,some useless fact,876,8,796.0,900.0
+1273,when there is a new top stories on abc news,1108,9,1.0,232.0
+1274,when the meeting is over,1463,9,233.0,369.0
+1275,upload a picture to onedrive,313,9,370.0,526.0
+1276,close my damper,244,9,527.0,618.0
+1277,articles on how-to geek,769,9,619.0,750.0
+1278,whether my fan is on or off,382,9,751.0,902.0

@@ -1,0 +1,57 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+56,if I raised the shades,361,1,1.0,111.0
+57,when there is no more carbon monoxide,1249,1,112.0,297.0
+58,when somebody plugs in my plug,1069,1,298.0,448.0
+59,science channels in youtube,704,1,449.0,584.0
+60,the speechiness of the current track,746,1,585.0,765.0
+61,youtube 's from_tv channels,745,1,766.0,901.0
+62,when there is a gas leak,1309,2,1.0,128.0
+63,take a note,2,2,129.0,191.0
+64,set my speaker as sink,190,2,192.0,309.0
+65,turn off my vacuum cleaner,89,2,310.0,447.0
+66,when it 's a holiday,1342,2,448.0,555.0
+67,order me a latte,209,2,556.0,643.0
+68,set my speaker as default,1,2,644.0,776.0
+69,if my battery has power,958,2,777.0,899.0
+70,open my blinds,114,3,1.0,83.0
+71,whether the curtains is raised or lowered,617,3,84.0,301.0
+72,once I leave the door closed,1205,3,302.0,454.0
+73,when my smart plug gets plugged or unplugged,1344,3,455.0,687.0
+74,shut up my lg tv,166,3,688.0,780.0
+75,cs294s class materials,358,3,781.0,903.0
+76,posts in the washington post powerpost blog,681,4,1.0,232.0
+77,what does trump think,875,4,233.0,354.0
+78,search images on bing,612,4,355.0,476.0
+79,posts in the washington post fact_checker blog,940,4,477.0,723.0
+80,turn on my vacuum cleaner for me,125,4,724.0,900.0
+81,order me a black caramel_mocha,294,5,1.0,188.0
+82,articles in the new york times sports section,1002,5,189.0,451.0
+83,business news on fortune,641,5,452.0,609.0
+84,turn on shuffle,79,5,610.0,722.0
+85,when anyone shuts the window,1385,5,723.0,900.0
+86,if the heat sensor is getting heated up,1356,6,1.0,198.0
+87,washington post 's powerpost blog,957,6,199.0,366.0
+88,washington post 's morning_mix blog,791,6,367.0,544.0
+89,when the shutters are opened or closed,1229,6,545.0,737.0
+90,top stories on bbc news,797,6,738.0,855.0
+91,my tweets,756,6,856.0,903.0
+92,if I raised the blinds,850,7,1.0,111.0
+93,the free space i have on dropbox,459,7,112.0,272.0
+94,all my rss feeds,372,7,273.0,353.0
+95,once anyone closes the door,1082,7,354.0,489.0
+96,play a playlist,240,7,490.0,565.0
+97,my google drive files in alphabetical order,527,7,566.0,781.0
+98,when I turn on my vacuum,1424,7,782.0,902.0
+99,a random trump quote,720,8,1.0,105.0
+100,how speechlike is the current song,469,8,106.0,280.0
+101,when sun rises,1164,8,281.0,355.0
+102,wall street journal articles in the opinions section,491,8,356.0,620.0
+103,a picture from curiosity,452,8,621.0,745.0
+104,youtube 's automotive channels,549,8,746.0,900.0
+105,when my fitbit steps update,1251,9,1.0,142.0
+106,make a twitter post,237,9,143.0,244.0
+107,halt my oscillating fan,59,9,245.0,366.0
+108,my latest email,882,9,367.0,448.0
+109,flash the lights as alerts,259,9,449.0,585.0
+110,once my vacuum is switched on,1398,9,586.0,737.0
+111,an interesting factoid about dog,535,9,738.0,904.0

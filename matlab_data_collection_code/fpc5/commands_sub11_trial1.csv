@@ -1,0 +1,58 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1065,when nothing is detected by the sound sensor,1061,1,1.0,238.0
+1066,turn on my switch for me,310,1,239.0,376.0
+1067,diy youtube channels,932,1,377.0,494.0
+1068,news on slashdot,585,1,495.0,592.0
+1069,popular science news,765,1,593.0,710.0
+1070,is this song dancey,1046,1,711.0,823.0
+1071,talks on TED,539,1,824.0,901.0
+1072,washington post lifestyle,543,2,1.0,132.0
+1073,what is the weather tomorrow,548,2,133.0,279.0
+1074,articles in the washington post in section local,646,2,280.0,526.0
+1075,washington post 's capital_weather_gang blog,533,2,527.0,753.0
+1076,when popular science updates,1099,2,754.0,900.0
+1077,new tips on lifehacker,642,3,1.0,114.0
+1078,once my vacuum turns off,1078,3,115.0,238.0
+1079,ask my vacuum cleaner to pause,56,3,239.0,392.0
+1080,when the fan switches on or off,1239,3,393.0,551.0
+1081,from_tv channels in youtube,654,3,552.0,690.0
+1082,posts in the washington post wonkblog blog,405,3,691.0,904.0
+1083,when i make a new file in google drive,1145,4,1.0,216.0
+1084,a fake name,542,4,217.0,297.0
+1085,turn off the fan,98,4,298.0,403.0
+1086,when I bring up my curtains,1447,4,404.0,564.0
+1087,when there is a new post on phd comics,1368,4,565.0,780.0
+1088,Is my car at home? ,638,4,781.0,901.0
+1089,when the heat sensor grows warm,1395,5,1.0,171.0
+1090,when sun sets,1421,5,172.0,252.0
+1091,when there is a new post on rss feed,1322,5,253.0,448.0
+1092,is my Tesla remotely accessible? ,414,5,449.0,629.0
+1093,the bpm of the current track,446,5,630.0,785.0
+1094,stop turning the fan,239,5,786.0,901.0
+1095,order me a iced americano,173,6,1.0,130.0
+1096,the world section of the new york times,999,6,131.0,330.0
+1097,when there is somebody in the room,1461,6,331.0,505.0
+1098,a plot,407,6,506.0,540.0
+1099,emails arrived in the last hour,764,6,541.0,700.0
+1100,my google drive files created this week,860,6,701.0,900.0
+1101,today's asteroid info,409,7,1.0,106.0
+1102,when somebody messages slack,1123,7,107.0,247.0
+1103,the travel section of the new york times,936,7,248.0,448.0
+1104,washington post 's the_plum_line blog,492,7,449.0,634.0
+1105,omlet messages,640,7,635.0,705.0
+1106,play my spotify,23,7,706.0,781.0
+1107,when I oscillate the fan,1248,7,782.0,902.0
+1108,latest gamespot news,561,8,1.0,105.0
+1109,the description of a picture,1056,8,106.0,250.0
+1110,nba news,781,8,251.0,295.0
+1111,articles in the new york times health section,826,8,296.0,525.0
+1112,gamespot news,1044,8,526.0,595.0
+1113,a joke,596,8,596.0,630.0
+1114,when my vacuum turns on,1460,8,631.0,750.0
+1115,when news on mashable updates,1257,8,751.0,900.0
+1116,stop the fan from turning,225,9,1.0,129.0
+1117,my playlist,786,9,130.0,188.0
+1118,gaming channels in youtube,905,9,189.0,322.0
+1119,set the power on my security camera to on,250,9,323.0,531.0
+1120,if the sound sensor is detecting any sound,648,9,532.0,745.0
+1121,if my shades are open or closed,816,9,746.0,904.0
