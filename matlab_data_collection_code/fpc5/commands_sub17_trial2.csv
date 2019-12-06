@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1754,add this song to my playlist,25,1,1.0,158.0
+1755,order me a iced latte,199,1,159.0,281.0
+1756,images from Imgur that are safe-for-work,360,1,282.0,499.0
+1757,order me a cappuccino,12,1,500.0,622.0
+1758,keep my curtains,7,1,623.0,720.0
+1759,tell the vacuum to return to base,84,1,721.0,903.0
+1760,my tasks on Wunderlist,956,2,1.0,113.0
+1761,articles in the washington post in section world,516,2,114.0,356.0
+1762,enable my security camera,68,2,357.0,484.0
+1763,automotive channels in youtube,780,2,485.0,637.0
+1764,the time signature of the current track,624,2,638.0,835.0
+1765,animal trivia,955,2,836.0,903.0
+1766,honk my car horn,34,3,1.0,107.0
+1767,my linkedin profile,490,3,108.0,229.0
+1768,whether the awning is extended or retracted,989,3,230.0,471.0
+1769,when the plug gets connected or disconnected,1147,3,472.0,718.0
+1770,when the heat sensor is not hot,1312,3,719.0,900.0
+1771,order me a black cappuccino,105,4,1.0,137.0
+1772,save whatever's playing to my library,142,4,138.0,324.0
+1773,when news on gamespot updates,1354,4,325.0,471.0
+1774,washington post business,716,4,472.0,593.0
+1775,put the curtains up,183,4,594.0,690.0
+1776,the business section of the new york times,557,4,691.0,902.0
+1777,the acousticness of the current song,579,5,1.0,191.0
+1778,if my battery is finishing,1273,5,192.0,332.0
+1779,when someone closes the door,1265,5,333.0,483.0
+1780,new newest onedrive files,545,5,484.0,619.0
+1781,when a gas leak is detected,1320,5,620.0,765.0
+1782,skip this song on spotify,276,5,766.0,901.0
+1783,youtube channels with category best_of_youtube,978,6,1.0,231.0
+1784,my onedrive files in alphabetical order,908,6,232.0,427.0
+1785,time estimate for uber,630,6,428.0,538.0
+1786,popular science articles,1025,6,539.0,659.0
+1787,order me a iced macchiato,314,6,660.0,785.0
+1788,the energy of this song,515,6,786.0,901.0
+1789,today's asteroid info,409,7,1.0,116.0
+1790,when nobody is in the living room,1384,7,117.0,292.0
+1791,wall street journal articles in the markets section,982,7,293.0,558.0
+1792,the new york times world section,814,7,559.0,729.0
+1793,the loudness of the current song,621,7,730.0,900.0
+1794,wsj technology articles,846,8,1.0,120.0
+1795,turn the ac on,254,8,121.0,195.0
+1796,lifestyle channels in youtube,384,8,196.0,345.0
+1797,turn off the lights,271,8,346.0,445.0
+1798,cs294s class materials,358,8,446.0,560.0
+1799,flash the lights as alerts,259,8,561.0,695.0
+1800,if the switch is turned on or turned off,919,8,696.0,900.0
+1801,when the fan is off,1360,9,1.0,112.0
+1802,when there is a new post on rss feed,1322,9,113.0,309.0
+1803,when somebody dms me,1208,9,310.0,426.0
+1804,whenever the state of my lights has changed,1439,9,427.0,658.0
+1805,whenever the state of the heat sensor changes,1264,9,659.0,900.0

@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2813,a random trump quote,720,1,1.0,144.0
+2814,order me a black americano,117,1,145.0,318.0
+2815,engadget news,848,1,319.0,427.0
+2816,posts in the washington post powerpost blog,681,1,428.0,686.0
+2817,nba news,781,1,687.0,770.0
+2818,turn on my switch,53,1,771.0,899.0
+2819,when the smoke sensor starts or stops detecting smoke,1388,2,1.0,307.0
+2820,wall street journal articles in the us_business section published in the last hour,514,2,308.0,759.0
+2821,shut down the lights,87,2,760.0,901.0
+2822,when the window is opened or closed,1274,3,1.0,177.0
+2823,Is my tesla car plugged in? ,711,3,178.0,319.0
+2824,if I raised the blinds,850,3,320.0,431.0
+2825,when my motion sensor is not detecting anything,1430,3,432.0,668.0
+2826,stop the vacuum cleaner,155,3,669.0,785.0
+2827,halt my oscillating fan,59,3,786.0,902.0
+2828,whether my vacuum is docked,553,4,1.0,166.0
+2829,set on the lights,113,4,167.0,282.0
+2830,when the front page of huffington post updates,1228,4,283.0,543.0
+2831,wall street journal lifestyle,530,4,544.0,719.0
+2832,the state of the motion sensor,376,4,720.0,900.0
+2833,washington post 's fact_checker blog,981,5,1.0,181.0
+2834,whether I have enough battery,366,5,182.0,327.0
+2835,the latest posts in the reddit front page,763,5,328.0,533.0
+2836,new york times,470,5,534.0,604.0
+2837,set the power on my lg tv to on,220,5,605.0,760.0
+2838,my tweets,756,5,761.0,806.0
+2839,my posts on twitter,984,5,807.0,902.0
+2840,my appointments,587,6,1.0,105.0
+2841,open my awning for me,241,6,106.0,240.0
+2842,when someone comments on a github issue,1162,6,241.0,465.0
+2843,posts in the washington post post_partisan blog,749,6,466.0,730.0
+2844,whether my plug is turned on,425,6,731.0,900.0
+2845,whether there is carbon monoxide,552,7,1.0,161.0
+2846,ask my vacuum cleaner to pause,56,7,162.0,312.0
+2847,the moment the sound sensor hears anything,1438,7,313.0,523.0
+2848,set my hvac to off,188,7,524.0,614.0
+2849,order me a caramel_mocha,35,7,615.0,735.0
+2850,when the door is opened or closed,1452,7,736.0,901.0
+2851,generate a caption for a picture,501,8,1.0,166.0
+2852,when the heat sensor is cold,1062,8,167.0,312.0
+2853,a picture from curiosity rover,540,8,313.0,468.0
+2854,youtube channels with category paid,975,8,469.0,649.0
+2855,the speechiness of this song,991,8,650.0,795.0
+2856,order me a macchiato,323,8,796.0,901.0
+2857,take a note,2,9,1.0,78.0
+2858,set me as not away on slack,213,9,79.0,236.0
+2859,the upbeatness of this track,887,9,237.0,399.0
+2860,channels in category diy on youtube,817,9,400.0,597.0
+2861,mozilla blogs,344,9,598.0,685.0
+2862,when i send or receive an omlet message,1445,9,686.0,903.0

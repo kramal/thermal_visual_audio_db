@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2863,images from Imgur that are safe to a general audience,450,1,1.0,280.0
+2864,wall street journal articles in the technology section,772,1,281.0,565.0
+2865,turn on my lg tv,123,1,566.0,660.0
+2866,abc news,907,1,661.0,715.0
+2867,when it is time for my appointment,1152,1,716.0,900.0
+2868,when there is a new top stories on abc news,1108,2,1.0,224.0
+2869,if the heat sensor is hot or cold,856,2,225.0,398.0
+2870,best_of_youtube youtube channels,870,2,399.0,567.0
+2871,washington post 's capital_weather_gang blog,533,2,568.0,796.0
+2872,make a twitter post,237,2,797.0,900.0
+2873,when sunset,1379,3,1.0,80.0
+2874,the liveness of the current song,788,3,81.0,265.0
+2875,posts on facebook,970,3,266.0,375.0
+2876,when any of my rss feeds update,1404,3,376.0,555.0
+2877,once my smart plug is disconnected,1423,3,556.0,750.0
+2878,youtube 's music channels,966,3,751.0,900.0
+2879,restore the volume on my lg tv,284,4,1.0,158.0
+2880,tell my vacuum cleaner to stop,72,4,159.0,316.0
+2881,when i make a new file in onedrive,1345,4,317.0,494.0
+2882,youtube channels with category science,891,4,495.0,692.0
+2883,make the fan turn,97,4,693.0,785.0
+2884,a random poem,735,4,786.0,858.0
+2885,wikicfp,721,4,859.0,901.0
+2886,order me a caramel_macchiato,119,5,1.0,172.0
+2887,when somebody sends me an email on gmail,1124,5,173.0,404.0
+2888,today's asteroid,739,5,405.0,516.0
+2889,when a new xkcd is out,1347,5,517.0,658.0
+2890,make the vacuum stop,151,5,659.0,790.0
+2891,turn off the fan,98,5,791.0,902.0
+2892,channels in category comedy on youtube,536,6,1.0,192.0
+2893,the arts section of the new york times,715,6,193.0,384.0
+2894,turn off the light,3,6,385.0,476.0
+2895,when sun sets,1421,6,477.0,543.0
+2896,articles on howtogeek,608,6,544.0,650.0
+2897,when news on mashable updates,1257,6,651.0,797.0
+2898,when I turn on my fan,1283,6,798.0,904.0
+2899,news_and_politics channels in youtube,963,7,1.0,196.0
+2900,when there is a new post on matrix67 blog,1086,7,197.0,412.0
+2901,if there is gas leaking,440,7,413.0,538.0
+2902,a plot from wolfram alpha,633,7,539.0,674.0
+2903,when I turn off the vacuum,1446,7,675.0,815.0
+2904,the latest xkcd,703,7,816.0,901.0
+2905,news from american broadcasting company,513,8,1.0,216.0
+2906,causes youtube channels,586,8,217.0,352.0
+2907,once the toilet is not being used,1326,8,353.0,538.0
+2908,my twitter direct messages,580,8,539.0,689.0
+2909,channels in category sports on youtube,431,8,690.0,900.0
+2910,if anything was detected by my sound sensor,685,9,1.0,245.0
+2911,loop the color in my light bulb,235,9,246.0,430.0
+2912,the currently playing song,605,9,431.0,590.0
+2913,stop the vacuum,44,9,591.0,695.0
+2914,when a file is modified on onedrive,1079,9,696.0,900.0

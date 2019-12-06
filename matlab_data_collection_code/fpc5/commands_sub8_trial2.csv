@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+792,add an album to my playlist,262,1,1.0,137.0
+793,news on fortune,1005,1,138.0,214.0
+794,imgur usersub,1040,1,215.0,281.0
+795,when the nyt publishes a new article,1132,1,282.0,463.0
+796,when the heat sensor is heating up,1454,1,464.0,635.0
+797,new lifehacker articles,669,1,636.0,752.0
+798,wall street journal technology,933,1,753.0,904.0
+799,when a new message is posted on slack,1359,2,1.0,194.0
+800,when slashdot news updates,1341,2,195.0,333.0
+801,wake up the Tesla car,194,2,334.0,447.0
+802,when i make a new twitter post,1255,2,448.0,606.0
+803,when I close the door,1358,2,607.0,720.0
+804,when it is time for my appointment,1152,2,721.0,899.0
+805,post something on my tumblr blog,179,3,1.0,164.0
+806,when my switch is on,1374,3,165.0,268.0
+807,wiki call for paper,993,3,269.0,367.0
+808,stop the vacuum,44,3,368.0,446.0
+809,cs294w slides,996,3,447.0,515.0
+810,a giphy picture,798,3,516.0,594.0
+811,make a playlist,51,3,595.0,673.0
+812,latest posts on an rss feed,718,3,674.0,812.0
+813,a fact about horse,355,3,813.0,906.0
+814,when the time of my meetings changes,1369,4,1.0,182.0
+815,slack channel history,998,4,183.0,289.0
+816,the moment the awnings get retracted,1412,4,290.0,471.0
+817,when my plug is switched on or off,1336,4,472.0,643.0
+818,flash the Tesla car,137,4,644.0,740.0
+819,keep my curtains,7,4,741.0,822.0
+820,turn off repeat,181,4,823.0,899.0
+821,today's asteroid,739,5,1.0,97.0
+822,channels in category film_and_entertainment on youtube,894,5,98.0,384.0
+823,when someone commits to github,1302,5,385.0,551.0
+824,unmute my lg webos tv,230,5,552.0,673.0
+825,channels in category automotive on youtube,592,5,674.0,900.0
+826,when a file is created in google drive,1093,6,1.0,195.0
+827,when the time of some event changes on my calendar,1261,6,196.0,450.0
+828,when the mozilla blog updates,1211,6,451.0,600.0
+829,make my lg tv louder,149,6,601.0,705.0
+830,when a file changes in my google drive,1455,6,706.0,900.0
+831,posts in the washington post post_everything blog,672,7,1.0,247.0
+832,my oldest google drive files,909,7,248.0,389.0
+833,articles in the new york times business section,572,7,390.0,626.0
+834,when my vacuum gets switched off,1272,7,627.0,788.0
+835,help me on my fan,243,7,789.0,875.0
+836,imgur,717,7,876.0,902.0
+837,the best images from the Internet,677,8,1.0,223.0
+838,if my window is open or closed,1018,8,224.0,431.0
+839,wall street journal articles in the us_business section published in the last hour,514,8,432.0,899.0
+840,washington post 's post_partisan blog,959,9,1.0,199.0
+841,close my curtains,104,9,200.0,298.0
+842,when new blog posted on techcrunch,1226,9,299.0,482.0
+843,a fact about cat,439,9,483.0,576.0
+844,mark me as away on slack,289,9,577.0,710.0
+845,when my security camera hears sound,1318,9,711.0,899.0

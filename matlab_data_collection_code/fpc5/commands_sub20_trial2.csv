@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+2085,when there is a new file in google drive,1321,1,1.0,223.0
+2086,turn on my lg webos tv,32,1,224.0,356.0
+2087,when my security camera detects motion,1323,1,357.0,569.0
+2088,the bpm of the current track,446,1,570.0,732.0
+2089,the new york times front page,859,1,733.0,900.0
+2090,if the sensor is detecting any smoke,525,2,1.0,191.0
+2091,posts in the washington post the_plum_line blog,667,2,192.0,437.0
+2092,when nothing is detected by my motion sensor,1146,2,438.0,668.0
+2093,when my shutters are open,1370,2,669.0,804.0
+2094,switch on the fan,101,2,805.0,900.0
+2095,the temperature on my thermostat,333,3,1.0,190.0
+2096,set off the lights,58,3,191.0,310.0
+2097,once the room has been cleared,1375,3,311.0,490.0
+2098,if the heat sensor is getting heated up,1356,3,491.0,715.0
+2099,images from Imgur marked mature,1015,3,716.0,900.0
+2100,raise volume on my bluetooth speaker,27,4,1.0,198.0
+2101,wall street journal articles in the world_news section published in the last hour,728,4,199.0,621.0
+2102,news on huffpost,806,4,622.0,719.0
+2103,whether my vacuum getting charged,650,4,720.0,902.0
+2104,when my door closes,1181,5,1.0,99.0
+2105,when someone is in the living room,1182,5,100.0,273.0
+2106,when i put up a new picture on instagram,1110,5,274.0,477.0
+2107,when my blinds are raised,1074,5,478.0,606.0
+2108,youtube 's recommended channels,566,5,607.0,765.0
+2109,order me a iced flat_white,164,5,766.0,899.0
+2110,when somebody plugs in my plug,1069,6,1.0,172.0
+2111,ask my vacuum to return to base,106,6,173.0,349.0
+2112,when it 's a holiday,1342,6,350.0,471.0
+2113,comedy channels in youtube,947,6,472.0,623.0
+2114,the humidity reported by thermostat,785,6,624.0,820.0
+2115,move the fan,124,6,821.0,902.0
+2116,once the vacuum switches off,1224,7,1.0,168.0
+2117,latest posts on matrix67,356,7,169.0,316.0
+2118,news on fortune,1005,7,317.0,419.0
+2119,photos on facebook,418,7,420.0,537.0
+2120,shut off my lg tv,156,7,538.0,650.0
+2121,turn off shuffle,231,7,651.0,758.0
+2122,new lifehacker articles,669,7,759.0,901.0
+2123,when my fan starts or stops oscillating,1158,8,1.0,202.0
+2124,when i send a message on omlet,1258,8,203.0,359.0
+2125,off the fan,328,8,360.0,421.0
+2126,when something is detected by my motion sensor,1377,8,422.0,658.0
+2127,articles in the new york times business section,572,8,659.0,900.0
+2128,an interesting factoid about cat,526,9,1.0,166.0
+2129,latest mashable news,386,9,167.0,272.0
+2130,best_of_youtube channels in youtube,357,9,273.0,453.0
+2131,create a new text file in onedrive,42,9,454.0,629.0
+2132,when a song is playing,1410,9,630.0,745.0
+2133,articles in the new york times,502,9,746.0,901.0

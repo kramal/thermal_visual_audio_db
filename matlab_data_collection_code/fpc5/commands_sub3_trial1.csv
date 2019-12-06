@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+218,when an event in my schedule is about to start,1433,1,1.0,248.0
+219,articles on popular science,391,1,249.0,401.0
+220,recommended youtube channels,1019,1,402.0,559.0
+221,youtube channels with category tech,696,1,560.0,752.0
+222,post a picture on facebook,234,1,753.0,900.0
+223,channels in category recommended on youtube,893,2,1.0,232.0
+224,how danceable is this song,574,2,233.0,379.0
+225,youtube 's tech channels,629,2,380.0,516.0
+226,my security camera live feed,895,2,517.0,673.0
+227,tell my vacuum to start cleaning the house,28,2,674.0,900.0
+228,posts on matrix67,607,3,1.0,95.0
+229,put a picture on facebook,118,3,96.0,230.0
+230,how energetic is the current song,1034,3,231.0,405.0
+231,TED videos,926,3,406.0,465.0
+232,NSFW images from Imgur,480,3,466.0,585.0
+233,my twitter messages,782,3,586.0,690.0
+234,when there is a new file in google drive,1321,3,691.0,900.0
+235,when nobody is in the living room,1384,4,1.0,176.0
+236,my contact's info,805,4,177.0,272.0
+237,channels in category best_of_youtube on youtube,628,4,273.0,518.0
+238,when my fan turns off,1401,4,519.0,634.0
+239,last slack messages,881,4,635.0,740.0
+240,if my switch gets switched off,1450,4,741.0,901.0
+241,lifestyle washington post 's articles,1021,5,1.0,196.0
+242,the latest posts in the reddit front page,763,5,197.0,412.0
+243,start my vacuum,246,5,413.0,498.0
+244,turn off my security camera,38,5,499.0,644.0
+245,new nature articles,613,5,645.0,750.0
+246,when my switch changes state,1403,5,751.0,901.0
+247,if the door is open or closed,874,6,1.0,147.0
+248,wall street journal,493,6,148.0,244.0
+249,when an event is about to start on my calendar,1096,6,245.0,476.0
+250,articles on medium,606,6,477.0,568.0
+251,if my battery is finishing,1273,6,569.0,700.0
+252,images from Imgur that are safe-for-work,360,6,701.0,902.0
+253,stop the fan from swinging,140,7,1.0,188.0
+254,the blog post_partisan of the washington post,609,7,189.0,471.0
+255,whether the shades are raised or lowered,404,7,472.0,729.0
+256,if the fan switches off,1192,7,730.0,902.0
+257,youtube channels with category film_and_entertainment,962,8,1.0,275.0
+258,when I dock the vacuum,1443,8,276.0,395.0
+259,the energy of level the current track,818,8,396.0,590.0
+260,decrease volume on my speaker,13,8,591.0,745.0
+261,if my smart plug is connected,495,8,746.0,900.0
+262,whether my plug is plugged in,1030,9,1.0,156.0
+263,generate a caption for a picture,501,9,157.0,327.0
+264,the valence of this song,842,9,328.0,458.0
+265,switch off my switch,257,9,459.0,569.0
+266,when top stories on wired update,1140,9,570.0,740.0
+267,when the awning becomes closed,1281,9,741.0,901.0

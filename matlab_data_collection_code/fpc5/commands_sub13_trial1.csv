@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1279,when I open the door,1130,1,1.0,121.0
+1280,stop moving the fan,49,1,122.0,237.0
+1281,when there are new mac rumors,1231,1,238.0,403.0
+1282,cs294s slides,819,1,404.0,489.0
+1283,cat fun facts,921,1,490.0,575.0
+1284,whether I have enough battery,366,1,576.0,741.0
+1285,Is my tesla car plugged in? ,711,1,742.0,902.0
+1286,completed tasks from Wunderlist,567,2,1.0,166.0
+1287,when the fan becomes switched on,1459,2,167.0,337.0
+1288,how dancey is this song,489,2,338.0,463.0
+1289,the state of the motion sensor,376,2,464.0,624.0
+1290,when my battery is charged,1122,2,625.0,765.0
+1291,time magazine top stories,751,2,766.0,901.0
+1292,whether the living room is occupied or empty,570,3,1.0,239.0
+1293,if the smoke detector is catching any smoke,953,3,240.0,473.0
+1294,a random fact,830,3,474.0,557.0
+1295,lifestyle youtube channels,801,3,558.0,706.0
+1296,when top stories on abc news update,1120,3,707.0,900.0
+1297,images from Imgur User Submitted rising,694,4,1.0,197.0
+1298,once the room has been cleared,1375,4,198.0,349.0
+1299,the blog world_views of the washington post,340,4,350.0,566.0
+1300,paid channels in youtube,853,4,567.0,688.0
+1301,when someone closes the door,1265,4,689.0,830.0
+1302,dock my vacuum,189,4,831.0,902.0
+1303,channels in category lifestyle on youtube,691,5,1.0,209.0
+1304,wall street journal articles in the technology section published in the last hour,1004,5,210.0,618.0
+1305,puppy pictures,911,5,619.0,692.0
+1306,the instrumentalness of the current track,701,5,693.0,901.0
+1307,the new york times science section,351,6,1.0,179.0
+1308,fox pictures,381,6,180.0,248.0
+1309,share a picture on Imgur,86,6,249.0,377.0
+1310,the liveness of the current song,788,6,378.0,546.0
+1311,when there is smoke,1415,6,547.0,650.0
+1312,when something moves in front of my motion sensor,1206,6,651.0,904.0
+1313,play the previous song,39,7,1.0,122.0
+1314,what song is currently playing,1042,7,123.0,284.0
+1315,when the router gets connected,1193,7,285.0,446.0
+1316,a dad joke,748,7,447.0,508.0
+1317,return my vacuum to base,325,7,509.0,640.0
+1318,wsj us_business articles,837,7,641.0,772.0
+1319,when my fan is swinging,1171,7,773.0,899.0
+1320,if i upload a picture on instagram,1148,8,1.0,186.0
+1321,posts in the washington post politics blog,1000,8,187.0,412.0
+1322,make a new playlist,218,8,413.0,523.0
+1323,the new york times sports section,719,8,524.0,704.0
+1324,when i create a new file on onedrive,1142,8,705.0,900.0
+1325,when my plug is unplugged,1084,9,1.0,135.0
+1326,play a song,172,9,136.0,200.0
+1327,order me a black espresso,214,9,201.0,335.0
+1328,a nasa picture,744,9,336.0,415.0
+1329,the instrumentalness of the current song,485,9,416.0,625.0
+1330,music channels in youtube,500,9,626.0,760.0
+1331,play some music on spotify,107,9,761.0,900.0

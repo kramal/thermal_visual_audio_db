@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1122,make a new post on facebook,180,1,1.0,145.0
+1123,whether anyone closed the window,828,1,146.0,315.0
+1124,open my curtains,45,1,316.0,405.0
+1125,the state of my hvac,541,1,406.0,515.0
+1126,log my weight on fitbit,61,1,516.0,640.0
+1127,the humidity reported by thermostat,785,1,641.0,825.0
+1128,off the switch,216,1,826.0,905.0
+1129,once my motion sensor senses something,1427,2,1.0,192.0
+1130,what's on right now,620,2,193.0,289.0
+1131,my recent instagram pictures,451,2,290.0,431.0
+1132,when sun comes up,1348,2,432.0,518.0
+1133,when my sound sensor detects nothing,1448,2,519.0,700.0
+1134,when macrumors updates,1183,2,701.0,812.0
+1135,analyze a sentence,889,2,813.0,904.0
+1136,cooking youtube channels,471,3,1.0,156.0
+1137,the loudness of the current song,621,3,157.0,352.0
+1138,turn on my Tesla car air-conditioner,269,3,353.0,568.0
+1139,search on bing,886,3,569.0,674.0
+1140,my dropbox files in alphabetical order,1029,3,675.0,900.0
+1141,when the motion sensor detects or stops detecting movement,1393,4,1.0,293.0
+1142,set my speaker softer,69,4,294.0,401.0
+1143,engadget news,848,4,402.0,469.0
+1144,order me a black cappuccino,105,4,470.0,607.0
+1145,my gmail,603,4,608.0,650.0
+1146,TED talks,752,4,651.0,698.0
+1147,when I upload a new picture on instagram,1291,4,699.0,901.0
+1148,the front page of the new york times,1011,5,1.0,201.0
+1149,the moment the shades get put down,1269,5,202.0,392.0
+1150,switch off my vacuum for me,174,5,393.0,548.0
+1151,when there is no gas,1071,5,549.0,669.0
+1152,whether the fan is turned on or turned off,935,5,670.0,900.0
+1153,when gamespot updates,1188,6,1.0,111.0
+1154,the loudness of the current track,986,6,112.0,282.0
+1155,ask my vacuum to stop cleaning,139,6,283.0,438.0
+1156,when news on gamespot updates,1354,6,439.0,589.0
+1157,once the connection is running smoothly,1276,6,590.0,790.0
+1158,my weight from fitbit,336,6,791.0,901.0
+1159,charge the vacuum,248,7,1.0,89.0
+1160,whether the motion sensor is detecting any movement,383,7,90.0,348.0
+1161,youtube channels with category causes,877,7,349.0,537.0
+1162,washington post sports,599,7,538.0,651.0
+1163,wall street journal markets,759,7,652.0,790.0
+1164,order me a cappuccino,12,7,791.0,899.0
+1165,when a meeting on my calendar begins,1346,8,1.0,182.0
+1166,send a picture via email,281,8,183.0,304.0
+1167,channels in category animation on youtube,1016,8,305.0,511.0
+1168,order me a iced caramel_mocha,153,8,512.0,658.0
+1169,loop the color in my light bulb,235,8,659.0,815.0
+1170,shut off my lg tv,156,8,816.0,902.0
+1171,an interesting factoid about cat,526,9,1.0,170.0
+1172,switch on the switch,171,9,171.0,280.0
+1173,when my security camera does not detect motion,1105,9,281.0,520.0
+1174,beauty_and_fashion youtube channels,979,9,521.0,705.0
+1175,channels in category music on youtube,477,9,706.0,900.0

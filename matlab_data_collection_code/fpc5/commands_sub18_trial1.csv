@@ -1,0 +1,59 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+1806,pull the curtains close,222,1,1.0,124.0
+1807,when smoke is detected,1338,1,125.0,243.0
+1808,nasa 's astronomy picture of the day,583,1,244.0,432.0
+1809,switch off the vacuum,126,1,433.0,546.0
+1810,when the mozilla blog updates,1211,1,547.0,700.0
+1811,open my shades,299,1,701.0,779.0
+1812,latest news on engadget,1038,1,780.0,903.0
+1813,youtube 's causes channels,747,2,1.0,141.0
+1814,if I opened the shutters,992,2,142.0,272.0
+1815,set my hvac to heat_cool,29,2,273.0,403.0
+1816,upload a mature picture to Imgure,272,2,404.0,579.0
+1817,whether the gas sensor is detecting any gas,332,2,580.0,805.0
+1818,movie information,945,2,806.0,901.0
+1819,set my speaker softer,69,3,1.0,112.0
+1820,when my shades lower,1355,3,113.0,219.0
+1821,resume my spotify,21,3,220.0,311.0
+1822,how loud is this song,714,3,312.0,423.0
+1823,cooking channels in youtube,774,3,424.0,565.0
+1824,my onedrive files modified today,833,3,566.0,732.0
+1825,order me a iced caramel_macchiato,130,3,733.0,904.0
+1826,popular science news,765,4,1.0,121.0
+1827,whether the door is open or closed,497,4,122.0,312.0
+1828,an interesting factoid about snail,505,4,313.0,503.0
+1829,science channels in youtube,704,4,504.0,659.0
+1830,upload a picture to Imgur and mark it mature,103,4,660.0,900.0
+1831,add an album to my playlist,262,5,1.0,154.0
+1832,make my vacuum stop cleaning,223,5,155.0,313.0
+1833,where is my Tesla car?,354,5,314.0,442.0
+1834,get info on people I know,558,5,443.0,586.0
+1835,use spotify to play some music,33,5,587.0,755.0
+1836,when a new xkcd is posted,1464,5,756.0,899.0
+1837,when the switch becomes on,1407,6,1.0,178.0
+1838,make note of my weight on fitbit,288,6,179.0,386.0
+1839,when I bring up my shades,1409,6,387.0,559.0
+1840,once my plug is switched on,1349,6,560.0,742.0
+1841,when I dock the vacuum,1443,6,743.0,900.0
+1842,when something is detected by my security camera,1277,7,1.0,249.0
+1843,play something on my speaker,158,7,250.0,398.0
+1844,my emails,800,7,399.0,452.0
+1845,the instrumentalness of the current song,485,7,453.0,661.0
+1846,help me turn off my fan,200,7,662.0,785.0
+1847,wsj lifestyle articles,898,7,786.0,904.0
+1848,curiosity rover,836,8,1.0,77.0
+1849,a picture from giphy,398,8,78.0,179.0
+1850,the moment I close the door,1151,8,180.0,316.0
+1851,play music on my speaker,57,8,317.0,438.0
+1852,how upbeat is this song,611,8,439.0,555.0
+1853,mac rumors,794,8,556.0,607.0
+1854,once the connection is running smoothly,1276,8,608.0,804.0
+1855,the fitbit pedometer,523,8,805.0,906.0
+1856,my gmail inbox,639,9,1.0,78.0
+1857,when the toilet is being used,1247,9,79.0,231.0
+1858,when my curtains lower,1469,9,232.0,349.0
+1859,when anyone takes out my plug,1425,9,350.0,502.0
+1860,can you switch on my fan,145,9,503.0,630.0
+1861,close my window,191,9,631.0,713.0
+1862,dictionary definitions,343,9,714.0,831.0
+1863,new playlist,152,9,832.0,899.0

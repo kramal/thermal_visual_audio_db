@@ -1,0 +1,59 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id
+580,when anyone opens the window,1470,1,1.0,143.0
+581,when I turn on the plug,1186,1,144.0,261.0
+582,order me a caramel_mocha,35,1,262.0,384.0
+583,the number of steps i took,368,1,385.0,517.0
+584,posts in the washington post right_turn blog,442,1,518.0,740.0
+585,bing search,433,1,741.0,798.0
+586,my calendar schedule,659,1,799.0,901.0
+587,the new york times business section,655,2,1.0,177.0
+588,whether my vacuum is cleaning,377,2,178.0,324.0
+589,when the vacuum is docking,1387,2,325.0,456.0
+590,once my smart plug is disconnected,1423,2,457.0,628.0
+591,the power state of my lights,380,2,629.0,770.0
+592,youtube 's gaming channels,938,2,771.0,902.0
+593,youtube channels with category best_of_youtube,978,3,1.0,261.0
+594,a random snail fact,680,3,262.0,387.0
+595,turn shuffle on,122,3,388.0,493.0
+596,when there is a new article on the mozilla blog,1063,3,494.0,759.0
+597,my tasks on Wunderlist,956,3,760.0,900.0
+598,if my battery starts running out,1280,4,1.0,175.0
+599,when my vacuum is off,1339,4,176.0,295.0
+600,when there is gas,1225,4,296.0,395.0
+601,mute my lg webos tv,165,4,396.0,505.0
+602,turn on the lights,205,4,506.0,610.0
+603,the count of steps from fitbit,429,4,611.0,775.0
+604,when my curtains lower,1469,4,776.0,900.0
+605,play music on my speaker,57,5,1.0,132.0
+606,make a tweet,75,5,133.0,204.0
+607,channels in category sports on youtube,431,5,205.0,406.0
+608,order me a black white_mocha,131,5,407.0,558.0
+609,some animated gif,636,5,559.0,655.0
+610,the new york times front page,859,5,656.0,812.0
+611,a gif from giphy,858,5,813.0,904.0
+612,sports channels in youtube,412,6,1.0,140.0
+613,when my shades lower,1355,6,141.0,250.0
+614,close my shades,280,6,251.0,335.0
+615,when i record a new weight on fitbit,1126,6,336.0,525.0
+616,have my security camera start recording,96,6,526.0,730.0
+617,play the next song,11,6,731.0,830.0
+618,mashable news,488,6,831.0,905.0
+619,turn the cooling system on,50,7,1.0,141.0
+620,my google drive files in reverse alphabetical order,359,7,142.0,407.0
+621,when there is no more gas,1392,7,408.0,543.0
+622,when there is a new asteroid passing by,1383,7,544.0,749.0
+623,I want to switch off the fan,232,7,750.0,900.0
+624,when a meeting ends,1295,8,1.0,98.0
+625,my dropbox quota,531,8,99.0,181.0
+626,lower the blinds,287,8,182.0,264.0
+627,order me a flat_white,326,8,265.0,372.0
+628,my calendar events,1051,8,373.0,465.0
+629,the BPM of the current track,813,8,466.0,608.0
+630,when the toilet is being used,1247,8,609.0,756.0
+631,instagram pictures i uploaded,699,8,757.0,904.0
+632,if my shutters are open or closed,449,9,1.0,167.0
+633,my twitter direct messages,580,9,168.0,299.0
+634,the lexical analysis of a sentence,1055,9,300.0,471.0
+635,change my slack presence,186,9,472.0,593.0
+636,new york times,470,9,594.0,665.0
+637,when the new york times publishes a new article,1303,9,666.0,902.0
