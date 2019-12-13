@@ -69,8 +69,19 @@ while count <= numOfPosit
                     filenameMic2 = sprintf('%s%d_%d_%d_%d_%s.wav', path_mic2, sub_id, trial_id, count, 2, msgs.msgs(ind,2)); % mic2
                     x_start = floor(1/v_rgb.FrameRate*Fs1*str2double(msgs.msgs(ind,4)));
                     x_end = floor(1/v_rgb.FrameRate*Fs1*(str2double(msgs.msgs(ind,5))));
-                    y1_spl = y1(x_start:x_end);
-                    y2_spl = y2(x_start:x_end);
+                    
+                    if x_end <= length(y1)
+                        y1_spl = y1(x_start:x_end);
+                    else
+                        y1_spl = y1(x_start:length(y1));
+                    end
+                    
+                    if x_end <= length(y2)
+                        y2_spl = y2(x_start:x_end);
+                    else
+                        y2_spl = y2(x_start:length(y2));
+                    end
+                    
                     audiowrite(filenameMic1,y1_spl,Fs1);
                     audiowrite(filenameMic2,y2_spl,Fs2);
                 end
