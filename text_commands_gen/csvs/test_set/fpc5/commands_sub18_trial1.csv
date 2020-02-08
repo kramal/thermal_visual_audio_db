@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1527,my security camera,11,1,1.0,114.0,18
+1528,play michael jackson,102,1,115.0,238.0,20
+1529,an interesting factoid about snail,42,1,239.0,432.0,34
+1530,latest papers in category geography on arxiv,13,1,433.0,676.0,44
+1531,set my thermostat to twenty four degrees,31,1,677.0,900.0,40
+1532,tweets from anyone i follow,79,2,1.0,165.0,27
+1533,set temperature on my thermostat to twenty five degrees,187,2,166.0,470.0,55
+1534,paper in category chemistry on arxiv,56,2,471.0,680.0,36
+1535,the speechiness of song counting stars,104,2,681.0,900.0,38
+1536,completed tasks from work list on wunderlist,172,3,1.0,225.0,44
+1537,on spotify play counting stars,122,3,226.0,380.0,30
+1538,paper in category economics on arxiv,182,3,381.0,565.0,36
+1539,a translation to chinese,227,3,566.0,690.0,24
+1540,latest news on engadget,9,3,691.0,810.0,23
+1541,trivia about five,103,3,811.0,900.0,17
+1542,my google drive files smaller than ten gigabytes,171,4,1.0,300.0,48
+1543,interesting facts about the number one,117,4,301.0,550.0,38
+1544,mathematical trivia about nine,28,4,551.0,760.0,30
+1545,facts about five,97,4,761.0,900.0,16
+1546,set the temperature to twenty degrees on my thermostat,148,5,1.0,296.0,54
+1547,four cat pictures,163,5,297.0,407.0,17
+1548,interesting facts about the number five,40,5,408.0,628.0,39
+1549,one cat pictures,59,5,629.0,734.0,16
+1550,my txt files in google drive,168,5,735.0,900.0,28
+1551,the nine latest instagram pictures on my account,127,6,1.0,304.0,48
+1552,play counting stars on spotify,236,6,305.0,518.0,30
+1553,take a picture,3,6,519.0,652.0,14
+1554,show me the appointments for tomorrow,38,6,653.0,901.0,37
+1555,tasks from the last twenty days days from wunderlist,250,7,1.0,287.0,52
+1556,turn on wi-fi,206,7,288.0,379.0,13
+1557,pull the curtains open,72,7,380.0,516.0,22
+1558,read it again,190,7,517.0,608.0,13
+1559,sunrise at chicago,80,7,609.0,725.0,18
+1560,how positive is counting stars,173,7,726.0,902.0,30
+1561,the free space i have on dropbox,178,8,1.0,184.0,32
+1562,the key of despacito,73,8,185.0,308.0,20
+1563,open whatsapp,159,8,309.0,397.0,13
+1564,animation youtube channels,175,8,398.0,551.0,26
+1565,play the song uptown funnk,221,8,552.0,705.0,26
+1566,find movie theaters near my office,203,8,706.0,899.0,34
+1567,play the song yesterday on spotify,76,9,1.0,183.0,34
+1568,make the bedroom fan oscillate,238,9,184.0,346.0,30
+1569,how energetic is counting stars,93,9,347.0,514.0,31
+1570,play radiohead,233,9,515.0,597.0,14
+1571,my jpg files in google drive,75,9,598.0,750.0,28
+1572,shuffle my roadtrip playlist,142,9,751.0,903.0,28

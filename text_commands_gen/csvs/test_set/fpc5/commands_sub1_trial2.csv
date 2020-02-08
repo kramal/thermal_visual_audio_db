@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+43,order me an iced drip coffee,231,1,1.0,142.0,28
+44,shuffle my roadtrip playlist,142,1,143.0,284.0,28
+45,translate to french,83,1,285.0,381.0,19
+46,play the song counting stars,156,1,382.0,523.0,28
+47,the two latest instagram pictures on my account,179,1,524.0,760.0,47
+48,the current weather at paris,94,1,761.0,902.0,28
+49,is yesterday live,37,2,1.0,94.0,17
+50,completed tasks from to do list from the last seven days on wunderlist,204,2,95.0,453.0,70
+51,make the kitchen fan oscillate,209,2,454.0,612.0,30
+52,the loudness of yesterday,189,2,613.0,746.0,25
+53,how energetic is uptown funnk,141,2,747.0,900.0,29
+54,my google drive files of type png,192,3,1.0,174.0,33
+55,my gmail inbox,164,3,175.0,253.0,14
+56,set the temperature of my tesla car to twenty one degrees,48,3,254.0,547.0,57
+57,play the album meteora,185,3,548.0,666.0,22
+58,my png files in google drive,135,3,667.0,815.0,28
+59,facts about five,97,3,816.0,904.0,16
+60,set the low temperature to twenty one degrees on my thermostat and the high to twenty four degrees,121,4,1.0,610.0,98
+61,paper in category biology on arxiv,194,4,611.0,900.0,34
+62,set temperature on my thermostat to nineteen degrees,216,5,1.0,291.0,52
+63,sunrise at chicago,80,5,292.0,412.0,18
+64,the key of despacito,73,5,413.0,543.0,20
+65,the key of song jingle bells,120,5,544.0,714.0,28
+66,add uptown funnk to my playlist,232,5,715.0,900.0,31
+67,nine pictures from curiosity rover,129,6,1.0,175.0,34
+68,tweet something,87,6,176.0,255.0,15
+69,turn on my tesla car air-conditioner,150,6,256.0,440.0,36
+70,check my messages,169,6,441.0,530.0,17
+71,my txt files in google drive,168,6,531.0,675.0,28
+72,interesting facts about numbers,29,6,676.0,835.0,31
+73,read it again,190,6,836.0,905.0,13
+74,the instrumentalness of song counting stars,217,7,1.0,228.0,43
+75,play radiohead,233,7,229.0,311.0,14
+76,the acousticness of yesterday,181,7,312.0,469.0,29
+77,sunrise at paris,85,7,470.0,562.0,16
+78,show my calendar,228,7,563.0,655.0,16
+79,the bpm of song yesterday,131,7,656.0,793.0,25
+80,discover my devices,191,7,794.0,901.0,19
+81,completed tasks from the last twelve days on wunderlist,100,8,1.0,301.0,55
+82,the nine latest instagram pictures on my account,127,8,302.0,567.0,48
+83,the energy of song uptown funnk,49,8,568.0,748.0,31
+84,play yesterday on spotify,230,8,749.0,899.0,25
+85,play the artist radiohead,248,9,1.0,154.0,25
+86,raise the blinds,224,9,155.0,263.0,16
+87,stop turning the entrance fan,123,9,264.0,437.0,29
+88,set the temperature between twenty one degrees and twenty four degrees on my thermostat,128,9,438.0,901.0,87

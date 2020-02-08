@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+182,how positive is counting stars,173,1,1.0,158.0,30
+183,images from imgur with more than two thousand points,81,1,159.0,426.0,52
+184,seek to thirty seconds in,4,1,427.0,559.0,25
+185,tweets i made,32,1,560.0,632.0,13
+186,my google drive files smaller than hundred megabytes,137,1,633.0,900.0,52
+187,my five recent instagram pictures,8,2,1.0,180.0,33
+188,completed tasks from work list on wunderlist,172,2,181.0,415.0,44
+189,open the damper,153,2,416.0,505.0,15
+190,animation youtube channels,175,2,506.0,650.0,26
+191,my google drive files smaller than two gigabyte,167,2,651.0,900.0,47
+192,the bpm of song counting stars,22,3,1.0,155.0,30
+193,call my sister,112,3,156.0,230.0,14
+194,two cat pictures,89,3,231.0,315.0,16
+195,set temperature on my thermostat to twenty one degrees,21,3,316.0,590.0,54
+196,how upbeat is yesterday,246,3,591.0,710.0,23
+197,add rolling in the deep to dance mood,197,3,711.0,900.0,37
+198,the danceability of the song yesterday,151,4,1.0,199.0,38
+199,how dancey is the song yesterday,99,4,200.0,368.0,32
+200,paper in category economics on arxiv,182,4,369.0,557.0,36
+201,make the bedroom fan oscillate,238,4,558.0,716.0,30
+202,washington post's fact checker blog,57,4,717.0,900.0,35
+203,power off the entrance fan,116,5,1.0,140.0,26
+204,the speechiness of counting stars,166,5,141.0,315.0,33
+205,take a picture,3,5,316.0,395.0,14
+206,four cat pictures,163,5,396.0,490.0,17
+207,what happened in twenty sixteen,98,5,491.0,655.0,31
+208,my google drive files larger than ten gigabytes,125,5,656.0,900.0,47
+209,a translation to spanish,71,6,1.0,156.0,24
+210,the latest xkcd,239,6,157.0,267.0,15
+211,play my party mix,14,6,268.0,388.0,17
+212,set the temperature to twenty one degrees on my thermostat,27,6,389.0,714.0,58
+213,the key of rolling in the deep,17,6,715.0,900.0,30
+214,set the volume of my bluetooth speaker to eighty,111,7,1.0,264.0,48
+215,open my curtains,115,7,265.0,368.0,16
+216,completed tasks from the last seven days on wunderlist,52,7,369.0,662.0,54
+217,set volume on my speaker to seventy percent,51,7,663.0,901.0,43
+218,set the temperature between nineteen degrees and twenty one degrees on my thermostat,33,8,1.0,434.0,84
+219,interesting facts about the number one,117,8,435.0,638.0,38
+220,moon phase for location paris,212,8,639.0,797.0,29
+221,my security camera,11,8,798.0,901.0,18
+222,all my rss feed,165,9,1.0,84.0,15
+223,the bpm of yesterday,20,9,85.0,193.0,20
+224,the energy of uptown funnk,113,9,194.0,332.0,26
+225,ten pictures from curiosity rover,143,9,333.0,506.0,33
+226,the instrumentalness of uptown funnk,7,9,507.0,695.0,36
+227,interesting facts about the number five,40,9,696.0,899.0,39

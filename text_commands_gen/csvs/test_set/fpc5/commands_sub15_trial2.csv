@@ -1,0 +1,46 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1302,set temperature on my thermostat to twenty four degrees,202,1,1.0,352.0,55
+1303,tasks from the last twelve days days from wunderlist,92,1,353.0,689.0,52
+1304,weather in chicago tomorrow,235,1,690.0,901.0,27
+1305,set the temperature between nineteen degrees and twenty one degrees on my thermostat,33,2,1.0,445.0,84
+1306,the current weather at paris,94,2,446.0,610.0,28
+1307,stop moving the entrance fan,70,2,611.0,775.0,28
+1308,read my new messages,50,2,776.0,900.0,20
+1309,posts in the washington post capital weather gang blog,19,3,1.0,275.0,54
+1310,the energy of song uptown funnk,49,3,276.0,435.0,31
+1311,order me a black caramel mocha,25,3,436.0,590.0,30
+1312,show me the nearest malls,58,3,591.0,720.0,25
+1313,all my rss feed,165,3,721.0,800.0,15
+1314,translate to german,147,3,801.0,900.0,19
+1315,how energetic is uptown funnk,141,4,1.0,154.0,29
+1316,images from imgur usersub with more than two hundred points,18,4,155.0,458.0,59
+1317,the us section of the new york times,88,4,459.0,647.0,36
+1318,is this song live,180,4,648.0,741.0,17
+1319,open my curtains,115,4,742.0,830.0,16
+1320,open whatsapp,159,4,831.0,904.0,13
+1321,the blog fact checker of the washington post,215,5,1.0,224.0,44
+1322,the bpm of jingle bells,247,5,225.0,343.0,23
+1323,the tempo of song counting stars,64,5,344.0,507.0,32
+1324,interesting facts about the number five,40,5,508.0,706.0,39
+1325,two cat pictures,89,5,707.0,790.0,16
+1326,turn off airplane mode,222,5,791.0,904.0,22
+1327,my security camera,11,6,1.0,140.0,18
+1328,disable my security camera,195,6,141.0,320.0,26
+1329,play the songs yesterday on spotify,174,6,321.0,545.0,35
+1330,pull the curtains close,242,6,546.0,710.0,23
+1331,the key of song jingle bells,120,6,711.0,900.0,28
+1332,set the temperature between twenty one degrees and twenty four degrees on my thermostat,128,7,1.0,442.0,87
+1333,set the volume of my bluetooth speaker to ninety,62,7,443.0,689.0,48
+1334,the time signature of song counting stars,10,7,690.0,901.0,41
+1335,what happened in twenty eighteen,53,8,1.0,165.0,32
+1336,play the song counting stars on spotify,186,8,166.0,365.0,39
+1337,lock the front door,47,8,366.0,465.0,19
+1338,my google drive files of type png,192,8,466.0,635.0,33
+1339,moon phase for location chicago,241,8,636.0,795.0,31
+1340,turn my entrance fan,152,8,796.0,900.0,20
+1341,play the artist radiohead,248,9,1.0,126.0,25
+1342,the first nine instagram pictures on my account,155,9,127.0,362.0,47
+1343,a piece of animal trivia,35,9,363.0,483.0,24
+1344,seven pictures from curiosity rover,30,9,484.0,659.0,35
+1345,emails arrived today,211,9,660.0,760.0,20
+1346,play the voice mail from mom,139,9,761.0,901.0,28

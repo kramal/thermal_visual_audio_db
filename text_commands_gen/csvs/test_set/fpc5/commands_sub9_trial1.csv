@@ -1,0 +1,46 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+719,play the artist radiohead,248,1,1.0,127.0,25
+720,open the damper,153,1,128.0,204.0,15
+721,add yesterday to my playlist,234,1,205.0,346.0,28
+722,tweet something,87,1,347.0,423.0,15
+723,moon phase for location chicago,241,1,424.0,580.0,31
+724,my jpg files in google drive,75,1,581.0,722.0,28
+725,play the songs yesterday on spotify,174,1,723.0,899.0,35
+726,images from imgur usersub with more than hundred points,145,2,1.0,304.0,55
+727,what happened in twenty sixteen,98,2,305.0,488.0,31
+728,articles in the new york times us section,208,2,489.0,722.0,41
+729,the bpm of song counting stars,22,2,723.0,901.0,30
+730,the blog the fix of the washington post,95,3,1.0,205.0,39
+731,lock the front door,47,3,206.0,310.0,19
+732,order me a caramel mocha,45,3,311.0,440.0,24
+733,check my messages,169,3,441.0,535.0,17
+734,translate to french,83,3,536.0,640.0,19
+735,two cat pictures,89,3,641.0,730.0,16
+736,the latest xkcd,239,3,731.0,815.0,15
+737,open my curtains,115,3,816.0,905.0,16
+738,one cat pictures,59,4,1.0,122.0,16
+739,the bpm of jingle bells,247,4,123.0,279.0,23
+740,a piece of animal trivia,35,4,280.0,441.0,24
+741,the first two instagram pictures on my account,78,4,442.0,713.0,46
+742,the acousticness of yesterday,181,4,714.0,900.0,29
+743,images from imgur with more than two thousand points,81,5,1.0,269.0,52
+744,show me the appointments for tomorrow,38,5,270.0,463.0,37
+745,set volume on my speaker to seventy percent,51,5,464.0,687.0,43
+746,the instrumentalness of song uptown funnk,219,5,688.0,901.0,41
+747,an interesting factoid about snail,42,6,1.0,218.0,34
+748,how positive is counting stars,173,6,219.0,416.0,30
+749,set the temperature between twenty one degrees and twenty four degrees on my thermostat,128,6,417.0,899.0,87
+750,completed tasks from the last twelve days on wunderlist,100,7,1.0,307.0,55
+751,the free space i have on dropbox,178,7,308.0,499.0,32
+752,the latest xkcd,239,7,500.0,606.0,15
+753,tweet something,87,7,607.0,713.0,15
+754,add uptown funnk to my playlist,232,7,714.0,900.0,31
+755,set my thermostat to twenty four degrees,31,8,1.0,246.0,40
+756,seven pictures from curiosity rover,30,8,247.0,467.0,35
+757,the blog the fix of the washington post,95,8,468.0,708.0,39
+758,moon phase for location paris,212,8,709.0,899.0,29
+759,set my thermostat to nineteen degrees,46,9,1.0,224.0,37
+760,the bpm of song yesterday,131,9,225.0,388.0,25
+761,play the songs yesterday on spotify,174,9,389.0,602.0,35
+762,turn the heating off,6,9,603.0,741.0,20
+763,oscillate my bedroom fan,82,9,742.0,900.0,24

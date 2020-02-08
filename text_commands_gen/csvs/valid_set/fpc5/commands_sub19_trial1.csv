@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1765,on spotify play yesterday,209,1,1.0,145.0,25
+1766,decrease brightness,115,1,146.0,260.0,19
+1767,my google drive files larger than hundred megabytes,63,1,261.0,535.0,51
+1768,the weather in singapore,67,1,536.0,675.0,24
+1769,sunrise and sunset for location singapore,143,1,676.0,900.0,41
+1770,put the entrance curtains down,50,2,1.0,163.0,30
+1771,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,2,164.0,651.0,95
+1772,the tempo of the current song,236,2,652.0,809.0,29
+1773,order me a latte,138,2,810.0,902.0,16
+1774,the danceability of the song counting stars,226,3,1.0,238.0,43
+1775,create a new empty folder in dropbox,80,3,239.0,441.0,36
+1776,images from imgur usersub with more than six hundred points,71,3,442.0,759.0,59
+1777,where is my next meeting,124,3,760.0,902.0,24
+1778,my seven recent instagram pictures,242,4,1.0,223.0,34
+1779,set volume on my speaker to ninety percent,249,4,224.0,486.0,42
+1780,trump's quote,217,4,487.0,604.0,13
+1781,how upbeat is despacito,185,4,605.0,772.0,23
+1782,turn off repeat,235,4,773.0,900.0,15
+1783,images from imgur usersub with more than two thousand points,87,5,1.0,355.0,60
+1784,value in dollars of ethereum,4,5,356.0,550.0,28
+1785,set the temperature to twenty four degrees on my thermostat,211,5,551.0,900.0,59
+1786,paper in category computer science on arxiv,129,6,1.0,218.0,43
+1787,call mom on speaker,86,6,219.0,316.0,19
+1788,my latest email,212,6,317.0,394.0,15
+1789,sticky notes,244,6,395.0,457.0,12
+1790,the five latest instagram pictures on my account,68,6,458.0,700.0,48
+1791,facts about one,241,6,701.0,778.0,15
+1792,show my current location,44,6,779.0,901.0,24
+1793,turn off wi-fi,215,7,1.0,85.0,14
+1794,upload a picture to onedrive,32,7,86.0,240.0,28
+1795,my google drive files that changed most recently,79,7,241.0,495.0,48
+1796,my nine latest instagram pictures,90,7,496.0,675.0,33
+1797,what does trump think,172,7,676.0,795.0,21
+1798,make the fan swing,110,7,796.0,900.0,18
+1799,two pictures from curiosity rover,60,8,1.0,178.0,33
+1800,sunrise and sunset for location chicago,144,8,179.0,386.0,39
+1801,set my thermostat to twenty one degrees,198,8,387.0,594.0,39
+1802,the tempo of song yesterday,150,8,595.0,742.0,27
+1803,a random xkcd comic,19,8,743.0,850.0,19
+1804,my gmail,197,8,851.0,903.0,8
+1805,the danceability of yesterday,247,9,1.0,161.0,29
+1806,the blog morning mix of the washington post,89,9,162.0,392.0,43
+1807,set night mode,12,9,393.0,478.0,14
+1808,how energetic is yesterday,169,9,479.0,624.0,26
+1809,how positive is uptown funnk,148,9,625.0,780.0,28
+1810,where is my tesla car,9,9,781.0,901.0,21

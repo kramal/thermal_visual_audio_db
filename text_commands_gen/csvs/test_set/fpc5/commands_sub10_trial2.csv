@@ -1,0 +1,44 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+852,the current weather at paris,94,1,1.0,150.0,28
+853,the energy of uptown funnk,113,1,151.0,290.0,26
+854,images from imgur with more than six hundred points,114,1,291.0,555.0,51
+855,the danceability of uptown funnk,77,1,556.0,725.0,32
+856,is yesterday live,37,1,726.0,820.0,17
+857,play radiohead,233,1,821.0,900.0,14
+858,set the temperature of my tesla car to twenty four degrees,54,2,1.0,301.0,58
+859,go back to the last song,12,2,302.0,432.0,24
+860,add song rolling in the deep to my playlist favourite songs,106,2,433.0,738.0,59
+861,order me a black caramel mocha,25,2,739.0,899.0,30
+862,the loudness of yesterday,189,3,1.0,215.0,25
+863,the bpm of song uptown funnk,5,3,216.0,445.0,28
+864,the liveness of yesterday,134,3,446.0,660.0,25
+865,the loudness of counting stars,101,3,661.0,900.0,30
+866,set the temperature between twenty degrees and twenty three degrees on my thermostat,124,4,1.0,436.0,84
+867,set volume on my speaker to seventy percent,51,4,437.0,667.0,43
+868,the bpm of counting stars,162,4,668.0,808.0,25
+869,all my rss feed,165,4,809.0,899.0,15
+870,sports washington post's articles,193,5,1.0,178.0,33
+871,power off the entrance fan,116,5,179.0,321.0,26
+872,the danceability of counting stars,149,5,322.0,504.0,34
+873,set an alarm for six am,109,5,505.0,632.0,23
+874,translate to french,83,5,633.0,740.0,19
+875,the bpm of song counting stars,22,5,741.0,903.0,30
+876,set the temperature to twenty degrees on my thermostat,148,6,1.0,286.0,54
+877,make the kitchen fan oscillate,209,6,287.0,452.0,30
+878,the blog fact checker of the washington post,215,6,453.0,688.0,44
+879,interesting facts about the number five,40,6,689.0,899.0,39
+880,turn on my tesla car air-conditioner,150,7,1.0,198.0,36
+881,the science section of the new york times,176,7,199.0,421.0,41
+882,add yesterday to my playlist,234,7,422.0,579.0,28
+883,four cat pictures,163,7,580.0,682.0,17
+884,sunrise at paris,85,7,683.0,780.0,16
+885,math facts about five,146,7,781.0,903.0,21
+886,stop moving the entrance fan,70,8,1.0,165.0,28
+887,set the volume of my bluetooth speaker to thirty,65,8,166.0,430.0,48
+888,completed tasks from work list on wunderlist,172,8,431.0,675.0,44
+889,remind me to call my mom when i get home,243,8,676.0,900.0,40
+890,how energetic is uptown funnk,141,9,1.0,154.0,29
+891,the instrumentalness of song counting stars,217,9,155.0,378.0,43
+892,completed tasks from the last twenty days on wunderlist,200,9,379.0,662.0,55
+893,how positive is this song,74,9,663.0,796.0,25
+894,increase brightness,188,9,797.0,900.0,19

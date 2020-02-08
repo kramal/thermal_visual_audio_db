@@ -1,0 +1,44 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1214,how positive is this song,74,1,1.0,152.0,25
+1215,is yesterday instrumental,161,1,153.0,304.0,25
+1216,the us section of the new york times,88,1,305.0,511.0,36
+1217,the blog fact checker of the washington post,215,1,512.0,758.0,44
+1218,latest news on engadget,9,1,759.0,900.0,23
+1219,my google drive files larger than ten gigabytes,125,2,1.0,291.0,47
+1220,close the shutters,244,2,292.0,437.0,18
+1221,the speechiness of song counting stars,104,2,438.0,683.0,38
+1222,my two latest instagram pictures,198,2,684.0,899.0,32
+1223,set temperature on my thermostat to nineteen degrees,216,3,1.0,273.0,52
+1224,sunset at singapore,183,3,274.0,381.0,19
+1225,take a picture,3,3,382.0,464.0,14
+1226,one cat pictures,59,3,465.0,557.0,16
+1227,set the volume of my bluetooth speaker to hundred,118,3,558.0,815.0,49
+1228,all my rss feed,165,3,816.0,903.0,15
+1229,play michael jackson,102,4,1.0,128.0,20
+1230,tasks from the last twenty days days from wunderlist,250,4,129.0,416.0,52
+1231,images from imgur with more than six hundred points,114,4,417.0,699.0,51
+1232,play the songs yesterday on spotify,174,4,700.0,902.0,35
+1233,interesting facts about numbers,29,5,1.0,176.0,31
+1234,my google drive files smaller than hundred megabytes,137,5,177.0,457.0,52
+1235,play yesterday on spotify,230,5,458.0,603.0,25
+1236,add yesterday to my playlist,234,5,604.0,764.0,28
+1237,the key of uptown funnk,229,5,765.0,900.0,23
+1238,set the low temperature to twenty one degrees on my thermostat and the high to twenty four degrees,121,6,1.0,510.0,98
+1239,what happened in the year twenty seventeen,177,6,511.0,740.0,42
+1240,a plot,24,6,741.0,790.0,6
+1241,turn up the volume,68,6,791.0,900.0,18
+1242,the free space i have on dropbox,178,7,1.0,186.0,32
+1243,set the volume of my bluetooth speaker to eighty,111,7,187.0,452.0,48
+1244,the key of song jingle bells,120,7,453.0,618.0,28
+1245,images from imgur with more than two hundred points,201,7,619.0,899.0,51
+1246,add song rolling in the deep to my playlist favourite songs,106,8,1.0,301.0,59
+1247,set the temperature to twenty one degrees on my thermostat,27,8,302.0,597.0,58
+1248,how dancey is yesterday,55,8,598.0,718.0,23
+1249,translate to chinese,66,8,719.0,824.0,20
+1250,take a picture,3,8,825.0,900.0,14
+1251,set the temperature to twenty degrees on my thermostat,148,9,1.0,277.0,54
+1252,play michael jackson,102,9,278.0,384.0,20
+1253,translate to french,83,9,385.0,486.0,19
+1254,the tempo of song uptown funnk,119,9,487.0,643.0,30
+1255,the key of rolling in the deep,17,9,644.0,800.0,30
+1256,discover my devices,191,9,801.0,902.0,19

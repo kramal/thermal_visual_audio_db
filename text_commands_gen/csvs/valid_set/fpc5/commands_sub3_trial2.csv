@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+247,when is my next appointment,121,1,1.0,158.0,27
+248,on spotify play yesterday,209,1,159.0,306.0,25
+249,the loudness of uptown funnk,199,1,307.0,469.0,28
+250,how dancey is counting stars,101,1,470.0,632.0,28
+251,where is my next meeting,124,1,633.0,775.0,24
+252,play the artist adele,99,1,776.0,903.0,21
+253,my nine recent instagram pictures,94,2,1.0,176.0,33
+254,donald trump's quote,72,2,177.0,287.0,20
+255,change the volume of my lg tv,174,2,288.0,443.0,29
+256,movie information,228,2,444.0,539.0,17
+257,the weather in boston,34,2,540.0,655.0,21
+258,sunset at chicago,108,2,656.0,751.0,17
+259,add despacito to my playlist,102,2,752.0,902.0,28
+260,price of litecoin,175,3,1.0,94.0,17
+261,my calendar events,225,3,95.0,193.0,18
+262,two pictures from curiosity rover,60,3,194.0,367.0,33
+263,set the temperature to eighteen degrees on my thermostat,20,3,368.0,656.0,56
+264,the key of song yesterday,109,3,657.0,790.0,25
+265,where is my tesla car,9,3,791.0,904.0,21
+266,turn on my computer,216,4,1.0,106.0,19
+267,make note of my weight on fitbit,221,4,107.0,277.0,32
+268,opinions washington post's articles,58,4,278.0,463.0,35
+269,my google drive files larger than hundred megabytes,63,4,464.0,729.0,51
+270,my two recent instagram pictures,161,4,730.0,900.0,32
+271,the weather in singapore,67,5,1.0,163.0,24
+272,how loud is counting stars,106,5,164.0,336.0,26
+273,washington post's post everything blog,116,5,337.0,569.0,38
+274,two dog pictures,240,5,570.0,692.0,16
+275,the instrumentalness of yesterday,66,5,693.0,900.0,33
+276,my google drive files larger than fifty megabytes,22,6,1.0,267.0,49
+277,what is the weather in boston tomorrow,196,6,268.0,479.0,38
+278,make a playlist,195,6,480.0,576.0,15
+279,the time signature of yesterday,78,6,577.0,753.0,31
+280,skip this song on spotify,133,6,754.0,900.0,25
+281,the danceability of the song counting stars,226,7,1.0,228.0,43
+282,set my bluetooth speaker to seventy percent,135,7,229.0,456.0,43
+283,the valence of despacito,13,7,457.0,589.0,24
+284,how upbeat is counting stars,210,7,590.0,742.0,28
+285,get status of my current ride,223,7,743.0,900.0,29
+286,the valence of uptown funnk,65,8,1.0,167.0,27
+287,my five latest instagram pictures,155,8,168.0,364.0,33
+288,the tempo of the current song,236,8,365.0,541.0,29
+289,is uptown funnk instrumental,230,8,542.0,713.0,28
+290,show me the nearest restaurants,213,8,714.0,900.0,31
+291,youtube channels with category comedy,208,9,1.0,191.0,37
+292,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,9,192.0,622.0,85
+293,what movies are coming out this weekend,88,9,623.0,823.0,39
+294,play despacito,183,9,824.0,899.0,14

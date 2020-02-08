@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+344,turn off wi-fi,215,1,1.0,87.0,14
+345,show my tasks,54,1,88.0,169.0,13
+346,set my thermostat to twenty one degrees,198,1,170.0,381.0,39
+347,my latest email,212,1,382.0,473.0,15
+348,add counting stars to my playlist,234,1,474.0,655.0,33
+349,how upbeat is uptown funnk,218,1,656.0,802.0,26
+350,read my new email,75,1,803.0,904.0,17
+351,set the volume of my lg tv to hundred,123,2,1.0,194.0,37
+352,close the damper,81,2,195.0,283.0,16
+353,weather in singapore tomorrow,17,2,284.0,437.0,29
+354,show my current location,44,2,438.0,566.0,24
+355,call my father,31,2,567.0,645.0,14
+356,tasks from the last two days days from wunderlist,15,2,646.0,899.0,49
+357,play the song rolling in the deep on spotify,2,3,1.0,225.0,44
+358,latest papers in category chemistry on arxiv,120,3,226.0,450.0,44
+359,the instrumentalness of song yesterday,128,3,451.0,645.0,38
+360,lower the shades,25,3,646.0,730.0,16
+361,the new york times sports section,47,3,731.0,900.0,33
+362,the key of counting stars,149,4,1.0,165.0,25
+363,my seven latest instagram pictures,170,4,166.0,375.0,34
+364,lifestyle youtube channels,93,4,376.0,545.0,26
+365,play yesterday,166,4,546.0,655.0,14
+366,trivia about pi,61,4,656.0,770.0,15
+367,turn the switch on,152,4,771.0,900.0,18
+368,my google drive files smaller than fifty megabytes,40,5,1.0,258.0,50
+369,how speechlike is uptown funnk,168,5,259.0,416.0,30
+370,set the temperature to nineteen degrees on my thermostat,1,5,417.0,704.0,56
+371,paper in category mathematics on arxiv,156,5,705.0,902.0,38
+372,a picture from curiosity,176,6,1.0,122.0,24
+373,play the songs uptown funnk on spotify,206,6,123.0,314.0,38
+374,set volume on my speaker to thirty percent,132,6,315.0,526.0,42
+375,the time signature of song uptown funnk,186,6,527.0,723.0,39
+376,sunrise and sunset times at chicago,92,6,724.0,900.0,35
+377,the valence of counting stars,222,7,1.0,177.0,29
+378,put the entrance curtains down,50,7,178.0,359.0,30
+379,show the movies playing near me,55,7,360.0,546.0,31
+380,the loudness of uptown funnk,199,7,547.0,718.0,28
+381,how speechlike is jingle bells,112,7,719.0,900.0,30
+382,what is the weather in singapore tomorrow,91,8,1.0,212.0,41
+383,help me open the entrance window,142,8,213.0,379.0,32
+384,a translation to french,7,8,380.0,501.0,23
+385,value in dollars of litecoin,187,8,502.0,648.0,28
+386,plot a math function,167,8,649.0,755.0,20
+387,play uptown funnk on spotify,154,8,756.0,902.0,28
+388,mathematical trivia about five,191,9,1.0,162.0,30
+389,the front page of the new york times,126,9,163.0,354.0,36
+390,save the current track,41,9,355.0,476.0,22
+391,the time signature of counting stars,53,9,477.0,668.0,36
+392,set an alarm for eight am,14,9,669.0,805.0,25
+393,nine dog pictures,69,9,806.0,902.0,17

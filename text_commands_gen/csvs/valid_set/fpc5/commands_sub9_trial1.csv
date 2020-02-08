@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+783,set night mode,12,1,1.0,75.0,14
+784,steam id,248,1,76.0,120.0,8
+785,turn on my computer,216,1,121.0,220.0,19
+786,the new york times sports section,47,1,221.0,390.0,33
+787,paper in category geography on arxiv,158,1,391.0,575.0,36
+788,value in dollars of litecoin,187,1,576.0,720.0,28
+789,facts about the year twenty eighteen,162,1,721.0,905.0,36
+790,the tempo of song yesterday,150,2,1.0,150.0,27
+791,how energetic is yesterday,169,2,151.0,295.0,26
+792,sunrise and sunset times at chicago,92,2,296.0,485.0,35
+793,put the shades up,181,2,486.0,585.0,17
+794,my calendar events,225,2,586.0,690.0,18
+795,the time signature of song uptown funnk,186,2,691.0,900.0,39
+796,seven dog pictures,193,3,1.0,98.0,18
+797,make note of my weight on fitbit,221,3,99.0,266.0,32
+798,what is the weather in boston tomorrow,196,3,267.0,464.0,38
+799,set the temperature to twenty four degrees on my thermostat,211,3,465.0,767.0,59
+800,skip this song on spotify,133,3,768.0,900.0,25
+801,set my thermostat to twenty one degrees,198,4,1.0,205.0,39
+802,how positive is uptown funnk,148,4,206.0,355.0,28
+803,my google drive files smaller than fifty megabytes,40,4,356.0,615.0,50
+804,nine dog pictures,69,4,616.0,710.0,17
+805,the time signature of song yesterday,179,4,711.0,900.0,36
+806,how loud is uptown funnk,137,5,1.0,124.0,24
+807,what is the weather in paris tomorrow,139,5,125.0,313.0,37
+808,seven cat pictures,205,5,314.0,407.0,18
+809,movie information,228,5,408.0,496.0,17
+810,a picture from giphy,192,5,497.0,600.0,20
+811,math facts about one,245,5,601.0,704.0,20
+812,interesting facts about the number nine,26,5,705.0,903.0,39
+813,the front page of the new york times,126,6,1.0,182.0,36
+814,mature images from imgur,52,6,183.0,304.0,24
+815,the key of song uptown funnk,140,6,305.0,446.0,28
+816,trump's quote,217,6,447.0,513.0,13
+817,add a song to my playlist,189,6,514.0,640.0,25
+818,the weather in boston,34,6,641.0,747.0,21
+819,play the artist michael jackson,182,6,748.0,904.0,31
+820,sunrise and sunset for location chicago,144,7,1.0,234.0,39
+821,play the song yesterday,203,7,235.0,388.0,23
+822,the tempo of uptown funnk,188,7,389.0,552.0,25
+823,call my father,31,7,553.0,661.0,14
+824,interesting facts about the number three,59,7,662.0,900.0,40
+825,images from imgur usersub with more than six hundred points,71,8,1.0,305.0,59
+826,set my bluetooth speaker to ninety percent,173,8,306.0,525.0,42
+827,open facebook,125,8,526.0,600.0,13
+828,the energy of counting stars,100,8,601.0,750.0,28
+829,add despacito to my playlist,102,8,751.0,900.0,28
+830,get the battery level of my tesla car,177,9,1.0,205.0,37
+831,the liveness of uptown funnk,56,9,206.0,365.0,28
+832,the valence of despacito,13,9,366.0,505.0,24
+833,paper in category computer science on arxiv,129,9,506.0,740.0,43
+834,on spotify play uptown funnk,49,9,741.0,900.0,28

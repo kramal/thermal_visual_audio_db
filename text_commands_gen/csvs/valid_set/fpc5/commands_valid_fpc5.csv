@@ -1,0 +1,2001 @@
+,command_name,command_id,set_id,pos_id,expr_id,subject_id,trial_id,start_fr_id,end_fr_id,num_chars
+0,the speechiness of yesterday,24,1,1,1,1,1,1.0,147.0,28
+1,the liveness of jingle bells,77,1,1,1,1,1,148.0,294.0,28
+2,add despacito to my playlist,102,1,1,1,1,1,295.0,441.0,28
+3,how dancey is counting stars,101,1,1,1,1,1,442.0,588.0,28
+4,movie information,228,1,1,1,1,1,589.0,680.0,17
+5,the weather in boston,34,1,1,1,1,1,681.0,792.0,21
+6,play adele on spotify,227,1,1,1,1,1,793.0,904.0,21
+7,trivia about pi,61,2,2,1,1,1,1.0,85.0,15
+8,two dog pictures,240,2,2,1,1,1,86.0,175.0,16
+9,five dog pictures,36,2,2,1,1,1,176.0,270.0,17
+10,show my current location,44,2,2,1,1,1,271.0,400.0,24
+11,turn on airplane mode,204,2,2,1,1,1,401.0,515.0,21
+12,the five latest instagram pictures on my account,68,2,2,1,1,1,516.0,765.0,48
+13,how energetic is yesterday,169,2,2,1,1,1,766.0,905.0,26
+14,set the volume of my bluetooth speaker to seventy,229,3,3,1,1,1,1.0,259.0,49
+15,a fact about dog,119,3,3,1,1,1,260.0,353.0,16
+16,play yesterday,166,3,3,1,1,1,354.0,437.0,14
+17,washington post national,111,3,3,1,1,1,438.0,571.0,24
+18,add the album meteora to my playlist dance mood,43,3,3,1,1,1,572.0,820.0,47
+19,play despacito,183,3,3,1,1,1,821.0,904.0,14
+20,the current weather at singapore,97,4,4,1,1,1,1.0,163.0,32
+21,paper in category geography on arxiv,158,4,4,1,1,1,164.0,346.0,36
+22,mathematical trivia about five,191,4,4,1,1,1,347.0,499.0,30
+23,set the temperature of my tesla car to nineteen degrees,57,4,4,1,1,1,500.0,777.0,55
+24,mature images from imgur,52,4,4,1,1,1,778.0,900.0,24
+25,make the fan swing,110,5,5,1,1,1,1.0,104.0,18
+26,set an alarm for eight am,14,5,5,1,1,1,105.0,243.0,25
+27,set my bluetooth speaker to thirty percent,42,5,5,1,1,1,244.0,467.0,42
+28,move the entrance fan,48,5,5,1,1,1,468.0,586.0,21
+29,the blog morning mix of the washington post,89,5,5,1,1,1,587.0,815.0,43
+30,curiosity rover,220,5,5,1,1,1,816.0,904.0,15
+31,is uptown funnk instrumental,230,6,6,1,1,1,1.0,178.0,28
+32,the instrumentalness of counting stars,207,6,6,1,1,1,179.0,406.0,38
+33,get status of my current ride,223,6,6,1,1,1,407.0,589.0,29
+34,trivia about nine,84,6,6,1,1,1,590.0,712.0,17
+35,the state of the motion sensor,76,6,6,1,1,1,713.0,900.0,30
+36,set my thermostat to twenty one degrees,198,7,7,1,1,1,1.0,210.0,39
+37,sunrise at singapore,117,7,7,1,1,1,211.0,325.0,20
+38,the liveness of uptown funnk,56,7,7,1,1,1,326.0,480.0,28
+39,a quote,118,7,7,1,1,1,481.0,530.0,7
+40,lower the shades,25,7,7,1,1,1,531.0,625.0,16
+41,completed tasks from the last two days on wunderlist,27,7,7,1,1,1,626.0,900.0,52
+42,the valence of despacito,13,8,8,1,1,1,1.0,130.0,24
+43,opinions washington post's articles,58,8,8,1,1,1,131.0,315.0,35
+44,set volume on my speaker to ninety percent,249,8,8,1,1,1,316.0,535.0,42
+45,my google drive files modified today,30,8,8,1,1,1,536.0,725.0,36
+46,open netflix,238,8,8,1,1,1,726.0,795.0,12
+47,wiki call for paper,82,8,8,1,1,1,796.0,900.0,19
+48,trump's quote,217,9,9,1,1,1,1.0,83.0,13
+49,when a new paper is published in category chemistry on arxiv,131,9,9,1,1,1,84.0,401.0,60
+50,the danceability of the song counting stars,226,9,9,1,1,1,402.0,634.0,43
+51,a picture from giphy,192,9,9,1,1,1,635.0,752.0,20
+52,how upbeat is uptown funnk,218,9,9,1,1,1,753.0,900.0,26
+53,the time signature of uptown funnk,153,10,1,2,1,2,1.0,220.0,34
+54,the blog powerpost of the washington post,95,10,1,2,1,2,221.0,475.0,41
+55,value in dollars of ethereum,4,10,1,2,1,2,476.0,665.0,28
+56,youtube channels with category comedy,208,10,1,2,1,2,666.0,900.0,37
+57,my google drive files larger than hundred megabytes,63,11,2,2,1,2,1.0,256.0,51
+58,is uptown funnk live,18,11,2,2,1,2,257.0,357.0,20
+59,answer the call,23,11,2,2,1,2,358.0,433.0,15
+60,make note of my weight on fitbit,221,11,2,2,1,2,434.0,594.0,32
+61,how loud is counting stars,106,11,2,2,1,2,595.0,725.0,26
+62,youtube channels with category paid,103,11,2,2,1,2,726.0,901.0,35
+63,set volume on my speaker to thirty percent,132,12,3,2,1,2,1.0,212.0,42
+64,where is my next meeting,124,12,3,2,1,2,213.0,334.0,24
+65,what is the weather in paris tomorrow,139,12,3,2,1,2,335.0,521.0,37
+66,my google drive files of type mp3,28,12,3,2,1,2,522.0,688.0,33
+67,sunset at chicago,108,12,3,2,1,2,689.0,775.0,17
+68,the tempo of uptown funnk,188,12,3,2,1,2,776.0,902.0,25
+69,wsj world news articles,237,13,4,2,1,2,1.0,133.0,23
+70,how speechlike is jingle bells,112,13,4,2,1,2,134.0,301.0,30
+71,set my bluetooth speaker to ninety percent,173,13,4,2,1,2,302.0,529.0,42
+72,the time signature of song uptown funnk,186,13,4,2,1,2,530.0,742.0,39
+73,how upbeat is counting stars,210,13,4,2,1,2,743.0,900.0,28
+74,the weather in singapore,67,14,5,2,1,2,1.0,135.0,24
+75,what is the weather in singapore tomorrow,91,14,5,2,1,2,136.0,355.0,41
+76,on spotify play uptown funnk,49,14,5,2,1,2,356.0,510.0,28
+77,the acousticness of uptown funnk,165,14,5,2,1,2,511.0,685.0,32
+78,turn off wi-fi,215,14,5,2,1,2,686.0,770.0,14
+79,a translation to french,7,14,5,2,1,2,771.0,900.0,23
+80,set my bluetooth speaker to seventy percent,135,15,6,2,1,2,1.0,224.0,43
+81,share a picture on imgur,10,15,6,2,1,2,225.0,353.0,24
+82,my mp3 files in google drive,243,15,6,2,1,2,354.0,502.0,28
+83,save the current track,41,15,6,2,1,2,503.0,621.0,22
+84,turn down the volume,157,15,6,2,1,2,622.0,730.0,20
+85,two pictures from curiosity rover,60,15,6,2,1,2,731.0,904.0,33
+86,add the album parachutes to my playlist sad songs,184,16,7,2,1,2,1.0,272.0,49
+87,three cat pictures,6,16,7,2,1,2,273.0,389.0,18
+88,open instagram,178,16,7,2,1,2,390.0,486.0,14
+89,how upbeat is despacito,185,16,7,2,1,2,487.0,628.0,23
+90,a translation to english,202,16,7,2,1,2,629.0,775.0,24
+91,the key of yesterday,107,16,7,2,1,2,776.0,902.0,20
+92,what is the weather in chicago tomorrow,45,17,8,2,1,2,1.0,220.0,39
+93,my nine recent instagram pictures,94,17,8,2,1,2,221.0,410.0,33
+94,play uptown funnk on spotify,154,17,8,2,1,2,411.0,575.0,28
+95,the time signature of song yesterday,179,17,8,2,1,2,576.0,780.0,36
+96,turn on my computer,216,17,8,2,1,2,781.0,900.0,19
+97,what movies are coming out this weekend,88,18,9,2,1,2,1.0,202.0,39
+98,my top tracks,105,18,9,2,1,2,203.0,274.0,13
+99,my google drive files larger than fifty megabytes,22,18,9,2,1,2,275.0,526.0,49
+100,show me the nearest gas stations,35,18,9,2,1,2,527.0,693.0,32
+101,interesting facts about the number three,59,18,9,2,1,2,694.0,900.0,40
+102,images from imgur usersub with more than six hundred points,71,19,1,3,2,1,1.0,402.0,59
+103,shut the entrance window,51,19,1,3,2,1,403.0,629.0,24
+104,the instrumentalness of yesterday,66,19,1,3,2,1,630.0,901.0,33
+105,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,20,2,3,2,1,1.0,439.0,85
+106,the bpm of uptown funnk,190,20,2,3,2,1,440.0,568.0,23
+107,call home,224,20,2,3,2,1,569.0,627.0,9
+108,set night mode,12,20,2,3,2,1,628.0,711.0,14
+109,sunrise and sunset times at chicago,92,20,2,3,2,1,712.0,900.0,35
+110,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,21,3,3,2,1,1.0,481.0,95
+111,the new york times sports section,47,21,3,3,2,1,482.0,652.0,33
+112,a picture from curiosity,176,21,3,3,2,1,653.0,778.0,24
+113,causes youtube channels,145,21,3,3,2,1,779.0,899.0,23
+114,play the artist adele,99,22,4,3,2,1,1.0,108.0,21
+115,what does trump think,172,22,4,3,2,1,109.0,216.0,21
+116,nine dog pictures,69,22,4,3,2,1,217.0,304.0,17
+117,tasks from the last two days days from wunderlist,15,22,4,3,2,1,305.0,552.0,49
+118,the tempo of the current song,236,22,4,3,2,1,553.0,700.0,29
+119,steam id,248,22,4,3,2,1,701.0,743.0,8
+120,show the movies playing near me,55,22,4,3,2,1,744.0,901.0,31
+121,the front page of the new york times,126,23,5,3,2,1,1.0,191.0,36
+122,youtube's comedy channels,127,23,5,3,2,1,192.0,327.0,25
+123,my nine latest instagram pictures,90,23,5,3,2,1,328.0,503.0,33
+124,interesting facts about the number nine,26,23,5,3,2,1,504.0,709.0,39
+125,create a new empty folder in dropbox,80,23,5,3,2,1,710.0,900.0,36
+126,my latest email,212,24,6,3,2,1,1.0,88.0,15
+127,order me a black macchiato,64,24,6,3,2,1,89.0,231.0,26
+128,how dancey is the song counting stars,8,24,6,3,2,1,232.0,429.0,37
+129,make a playlist,195,24,6,3,2,1,430.0,517.0,15
+130,play the songs uptown funnk on spotify,206,24,6,3,2,1,518.0,720.0,38
+131,my seven latest instagram pictures,170,24,6,3,2,1,721.0,903.0,34
+132,set the volume of my lg tv to hundred,123,25,7,3,2,1,1.0,194.0,37
+133,the key of song uptown funnk,140,25,7,3,2,1,195.0,343.0,28
+134,what is the weather in london tomorrow,194,25,7,3,2,1,344.0,542.0,38
+135,washington post's post everything blog,116,25,7,3,2,1,543.0,741.0,38
+136,the liveness of counting stars,11,25,7,3,2,1,742.0,900.0,30
+137,how loud is yesterday,136,26,8,3,2,1,1.0,125.0,21
+138,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,26,8,3,2,1,126.0,625.0,96
+139,call my father,31,26,8,3,2,1,626.0,715.0,14
+140,add counting stars to my playlist,234,26,8,3,2,1,716.0,900.0,33
+141,the speechiness of uptown funnk,73,27,9,3,2,1,1.0,190.0,31
+142,show me the nearest restaurants,213,27,9,3,2,1,191.0,380.0,31
+143,close the damper,81,27,9,3,2,1,381.0,495.0,16
+144,the energy of song counting stars,233,27,9,3,2,1,496.0,695.0,33
+145,facts about the year twenty twelve,214,27,9,3,2,1,696.0,900.0,34
+146,latest papers in category chemistry on arxiv,120,28,1,4,2,2,1.0,239.0,44
+147,sunrise and sunset times at singapore,98,28,1,4,2,2,240.0,443.0,37
+148,my two recent instagram pictures,161,28,1,4,2,2,444.0,622.0,32
+149,play counting stars,200,28,1,4,2,2,623.0,736.0,19
+150,change the volume of my lg tv,174,28,1,4,2,2,737.0,900.0,29
+151,call mom on speaker,86,29,2,4,2,2,1.0,102.0,19
+152,my google drive files of type pdf,85,29,2,4,2,2,103.0,274.0,33
+153,the valence of uptown funnk,65,29,2,4,2,2,275.0,416.0,27
+154,put the shades up,181,29,2,4,2,2,417.0,508.0,17
+155,my gmail,197,29,2,4,2,2,509.0,555.0,8
+156,what is the weather in boston tomorrow,196,29,2,4,2,2,556.0,752.0,38
+157,upload a picture to onedrive,32,29,2,4,2,2,753.0,899.0,28
+158,the danceability of yesterday,247,30,3,4,2,2,1.0,150.0,29
+159,seven dog pictures,193,30,3,4,2,2,151.0,245.0,18
+160,the time signature of counting stars,53,30,3,4,2,2,246.0,430.0,36
+161,add a song to my playlist,189,30,3,4,2,2,431.0,560.0,25
+162,decrease brightness,115,30,3,4,2,2,561.0,660.0,19
+163,the key of counting stars,149,30,3,4,2,2,661.0,790.0,25
+164,the tempo of yesterday,74,30,3,4,2,2,791.0,905.0,22
+165,the instrumentalness of despacito,33,31,4,4,2,2,1.0,178.0,33
+166,my google drive files that changed most recently,79,31,4,4,2,2,179.0,431.0,48
+167,play uptown funnk,141,31,4,4,2,2,432.0,529.0,17
+168,facts about the year twenty eighteen,162,31,4,4,2,2,530.0,722.0,36
+169,my five latest instagram pictures,155,31,4,4,2,2,723.0,900.0,33
+170,my google drive files smaller than fifty megabytes,40,32,5,4,2,2,1.0,263.0,50
+171,play the artist david bowie,37,32,5,4,2,2,264.0,411.0,27
+172,set the temperature to eighteen degrees on my thermostat,20,32,5,4,2,2,412.0,704.0,56
+173,turn the switch on,152,32,5,4,2,2,705.0,807.0,18
+174,order me a latte,138,32,5,4,2,2,808.0,900.0,16
+175,set the temperature to twenty four degrees on my thermostat,211,33,6,4,2,2,1.0,309.0,59
+176,add the album meteora to my playlist favourite songs,62,33,6,4,2,2,310.0,583.0,52
+177,lifestyle youtube channels,93,33,6,4,2,2,584.0,727.0,26
+178,help me open the entrance window,142,33,6,4,2,2,728.0,901.0,32
+179,play the song rolling in the deep on spotify,2,34,7,4,2,2,1.0,227.0,44
+180,donald trump's quote,72,34,7,4,2,2,228.0,334.0,20
+181,turn off repeat,235,34,7,4,2,2,335.0,416.0,15
+182,a random xkcd comic,19,34,7,4,2,2,417.0,518.0,19
+183,the key of song yesterday,109,34,7,4,2,2,519.0,650.0,25
+184,how speechlike is uptown funnk,168,34,7,4,2,2,651.0,807.0,30
+185,my calendar events,225,34,7,4,2,2,808.0,904.0,18
+186,set the temperature to nineteen degrees on my thermostat,1,35,8,4,2,2,1.0,288.0,56
+187,a random fact,134,35,8,4,2,2,289.0,361.0,13
+188,skip this song on spotify,133,35,8,4,2,2,362.0,494.0,25
+189,open facebook,125,35,8,4,2,2,495.0,567.0,13
+190,check my voicemail,146,35,8,4,2,2,568.0,665.0,18
+191,start the timer,201,35,8,4,2,2,666.0,748.0,15
+192,the valence of counting stars,222,35,8,4,2,2,749.0,901.0,29
+193,show my tasks,54,36,9,4,2,2,1.0,81.0,13
+194,the instrumentalness of song yesterday,128,36,9,4,2,2,82.0,287.0,38
+195,math facts about nine,246,36,9,4,2,2,288.0,408.0,21
+196,put the entrance curtains down,50,36,9,4,2,2,409.0,574.0,30
+197,paper in category mathematics on arxiv,156,36,9,4,2,2,575.0,780.0,38
+198,where is my tesla car,9,36,9,4,2,2,781.0,901.0,21
+199,when a new paper is published in category biology on arxiv,250,37,1,5,3,1,1.0,355.0,58
+200,how loud is uptown funnk,137,37,1,5,3,1,356.0,540.0,24
+201,the valence of yesterday,232,37,1,5,3,1,541.0,725.0,24
+202,order me a black latte,239,37,1,5,3,1,726.0,900.0,22
+203,when a new paper is published in category geography on arxiv,159,38,2,5,3,1,1.0,303.0,60
+204,value in dollars of litecoin,187,38,2,5,3,1,304.0,446.0,28
+205,facts about one,241,38,2,5,3,1,447.0,524.0,15
+206,show me the bus route to home,219,38,2,5,3,1,525.0,672.0,29
+207,seven cat pictures,205,38,2,5,3,1,673.0,765.0,18
+208,the tempo of song yesterday,150,38,2,5,3,1,766.0,903.0,27
+209,the last event detected by my security camera,151,39,3,5,3,1,1.0,235.0,45
+210,information on wikicfp,5,39,3,5,3,1,236.0,355.0,22
+211,moon phase for location singapore,21,39,3,5,3,1,356.0,530.0,33
+212,the time signature of yesterday,78,39,3,5,3,1,531.0,695.0,31
+213,sunrise and sunset for location chicago,144,39,3,5,3,1,696.0,900.0,39
+214,a random gif from giphy,38,40,4,5,3,1,1.0,135.0,23
+215,set the volume of my lg tv to fifty,163,40,4,5,3,1,136.0,330.0,35
+216,how positive is yesterday,3,40,4,5,3,1,331.0,475.0,25
+217,math facts about one,245,40,4,5,3,1,476.0,595.0,20
+218,the energy of yesterday,104,40,4,5,3,1,596.0,730.0,23
+219,ars's latest news,130,40,4,5,3,1,731.0,835.0,17
+220,on the fan,113,40,4,5,3,1,836.0,905.0,10
+221,the energy of counting stars,100,41,5,5,3,1,1.0,166.0,28
+222,price of litecoin,175,41,5,5,3,1,167.0,277.0,17
+223,add song rolling in the deep to my playlist dance mood,16,41,5,5,3,1,278.0,573.0,54
+224,images from imgur usersub with more than two thousand points,87,41,5,5,3,1,574.0,899.0,60
+225,how windy is it out there,171,42,6,5,3,1,1.0,159.0,25
+226,sunrise and sunset for location singapore,143,42,6,5,3,1,160.0,398.0,41
+227,how positive is uptown funnk,148,42,6,5,3,1,399.0,572.0,28
+228,my appointments,114,42,6,5,3,1,573.0,681.0,15
+229,get the battery level of my tesla car,177,42,6,5,3,1,682.0,900.0,37
+230,stop my entrance fan from oscillating,147,43,7,5,3,1,1.0,199.0,37
+231,sticky notes,244,43,7,5,3,1,200.0,273.0,12
+232,plot a math function,167,43,7,5,3,1,274.0,387.0,20
+233,weather in singapore tomorrow,17,43,7,5,3,1,388.0,546.0,29
+234,order me an iced caramel macchiato,96,43,7,5,3,1,547.0,730.0,34
+235,play the artist michael jackson,182,43,7,5,3,1,731.0,899.0,31
+236,create a new empty file in onedrive,70,44,8,5,3,1,1.0,202.0,35
+237,paper in category computer science on arxiv,129,44,8,5,3,1,203.0,444.0,43
+238,the energy of the current song,164,44,8,5,3,1,445.0,621.0,30
+239,the weather in chicago,231,44,8,5,3,1,622.0,758.0,22
+240,play the song yesterday,203,44,8,5,3,1,759.0,900.0,23
+241,the speechiness of song uptown funnk,160,45,9,5,3,1,1.0,184.0,36
+242,the key of this song,46,45,9,5,3,1,185.0,288.0,20
+243,my seven recent instagram pictures,242,45,9,5,3,1,289.0,462.0,34
+244,the speechiness of song yesterday,122,45,9,5,3,1,463.0,631.0,33
+245,how dancey is the song uptown funnk,29,45,9,5,3,1,632.0,810.0,35
+246,read my new email,75,45,9,5,3,1,811.0,899.0,17
+247,when is my next appointment,121,46,1,6,3,2,1.0,158.0,27
+248,on spotify play yesterday,209,46,1,6,3,2,159.0,306.0,25
+249,the loudness of uptown funnk,199,46,1,6,3,2,307.0,469.0,28
+250,how dancey is counting stars,101,46,1,6,3,2,470.0,632.0,28
+251,where is my next meeting,124,46,1,6,3,2,633.0,775.0,24
+252,play the artist adele,99,46,1,6,3,2,776.0,903.0,21
+253,my nine recent instagram pictures,94,47,2,6,3,2,1.0,176.0,33
+254,donald trump's quote,72,47,2,6,3,2,177.0,287.0,20
+255,change the volume of my lg tv,174,47,2,6,3,2,288.0,443.0,29
+256,movie information,228,47,2,6,3,2,444.0,539.0,17
+257,the weather in boston,34,47,2,6,3,2,540.0,655.0,21
+258,sunset at chicago,108,47,2,6,3,2,656.0,751.0,17
+259,add despacito to my playlist,102,47,2,6,3,2,752.0,902.0,28
+260,price of litecoin,175,48,3,6,3,2,1.0,94.0,17
+261,my calendar events,225,48,3,6,3,2,95.0,193.0,18
+262,two pictures from curiosity rover,60,48,3,6,3,2,194.0,367.0,33
+263,set the temperature to eighteen degrees on my thermostat,20,48,3,6,3,2,368.0,656.0,56
+264,the key of song yesterday,109,48,3,6,3,2,657.0,790.0,25
+265,where is my tesla car,9,48,3,6,3,2,791.0,904.0,21
+266,turn on my computer,216,49,4,6,3,2,1.0,106.0,19
+267,make note of my weight on fitbit,221,49,4,6,3,2,107.0,277.0,32
+268,opinions washington post's articles,58,49,4,6,3,2,278.0,463.0,35
+269,my google drive files larger than hundred megabytes,63,49,4,6,3,2,464.0,729.0,51
+270,my two recent instagram pictures,161,49,4,6,3,2,730.0,900.0,32
+271,the weather in singapore,67,50,5,6,3,2,1.0,163.0,24
+272,how loud is counting stars,106,50,5,6,3,2,164.0,336.0,26
+273,washington post's post everything blog,116,50,5,6,3,2,337.0,569.0,38
+274,two dog pictures,240,50,5,6,3,2,570.0,692.0,16
+275,the instrumentalness of yesterday,66,50,5,6,3,2,693.0,900.0,33
+276,my google drive files larger than fifty megabytes,22,51,6,6,3,2,1.0,267.0,49
+277,what is the weather in boston tomorrow,196,51,6,6,3,2,268.0,479.0,38
+278,make a playlist,195,51,6,6,3,2,480.0,576.0,15
+279,the time signature of yesterday,78,51,6,6,3,2,577.0,753.0,31
+280,skip this song on spotify,133,51,6,6,3,2,754.0,900.0,25
+281,the danceability of the song counting stars,226,52,7,6,3,2,1.0,228.0,43
+282,set my bluetooth speaker to seventy percent,135,52,7,6,3,2,229.0,456.0,43
+283,the valence of despacito,13,52,7,6,3,2,457.0,589.0,24
+284,how upbeat is counting stars,210,52,7,6,3,2,590.0,742.0,28
+285,get status of my current ride,223,52,7,6,3,2,743.0,900.0,29
+286,the valence of uptown funnk,65,53,8,6,3,2,1.0,167.0,27
+287,my five latest instagram pictures,155,53,8,6,3,2,168.0,364.0,33
+288,the tempo of the current song,236,53,8,6,3,2,365.0,541.0,29
+289,is uptown funnk instrumental,230,53,8,6,3,2,542.0,713.0,28
+290,show me the nearest restaurants,213,53,8,6,3,2,714.0,900.0,31
+291,youtube channels with category comedy,208,54,9,6,3,2,1.0,191.0,37
+292,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,54,9,6,3,2,192.0,622.0,85
+293,what movies are coming out this weekend,88,54,9,6,3,2,623.0,823.0,39
+294,play despacito,183,54,9,6,3,2,824.0,899.0,14
+295,on spotify play uptown funnk,49,55,1,7,4,1,1.0,154.0,28
+296,call home,224,55,1,7,4,1,155.0,213.0,9
+297,play the song yesterday,203,55,1,7,4,1,214.0,342.0,23
+298,washington post national,111,55,1,7,4,1,343.0,476.0,24
+299,shut the entrance window,51,55,1,7,4,1,477.0,610.0,24
+300,trump's quote,217,55,1,7,4,1,611.0,689.0,13
+301,interesting facts about the number three,59,55,1,7,4,1,690.0,903.0,40
+302,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,56,2,7,4,1,1.0,530.0,95
+303,youtube channels with category paid,103,56,2,7,4,1,531.0,760.0,35
+304,play uptown funnk,141,56,2,7,4,1,761.0,900.0,17
+305,set volume on my speaker to ninety percent,249,57,3,7,4,1,1.0,213.0,42
+306,open netflix,238,57,3,7,4,1,214.0,276.0,12
+307,create a new empty folder in dropbox,80,57,3,7,4,1,277.0,459.0,36
+308,the energy of song counting stars,233,57,3,7,4,1,460.0,627.0,33
+309,my google drive files modified today,30,57,3,7,4,1,628.0,810.0,36
+310,seven dog pictures,193,57,3,7,4,1,811.0,903.0,18
+311,value in dollars of ethereum,4,58,4,7,4,1,1.0,183.0,28
+312,move the entrance fan,48,58,4,7,4,1,184.0,331.0,21
+313,images from imgur usersub with more than six hundred points,71,58,4,7,4,1,332.0,669.0,59
+314,play counting stars,200,58,4,7,4,1,670.0,807.0,19
+315,on the fan,113,58,4,7,4,1,808.0,900.0,10
+316,add the album meteora to my playlist favourite songs,62,59,5,7,4,1,1.0,289.0,52
+317,youtube's comedy channels,127,59,5,7,4,1,290.0,443.0,25
+318,the speechiness of uptown funnk,73,59,5,7,4,1,444.0,627.0,31
+319,how positive is uptown funnk,148,59,5,7,4,1,628.0,796.0,28
+320,turn off repeat,235,59,5,7,4,1,797.0,900.0,15
+321,the speechiness of song yesterday,122,60,6,7,4,1,1.0,166.0,33
+322,add a song to my playlist,189,60,6,7,4,1,167.0,292.0,25
+323,seven cat pictures,205,60,6,7,4,1,293.0,383.0,18
+324,start the timer,201,60,6,7,4,1,384.0,459.0,15
+325,how upbeat is despacito,185,60,6,7,4,1,460.0,575.0,23
+326,a random fact,134,60,6,7,4,1,576.0,641.0,13
+327,three cat pictures,6,60,6,7,4,1,642.0,732.0,18
+328,the time signature of uptown funnk,153,60,6,7,4,1,733.0,903.0,34
+329,set my bluetooth speaker to ninety percent,173,61,7,7,4,1,1.0,223.0,42
+330,set the volume of my bluetooth speaker to seventy,229,61,7,7,4,1,224.0,481.0,49
+331,the acousticness of uptown funnk,165,61,7,7,4,1,482.0,654.0,32
+332,add the album meteora to my playlist dance mood,43,61,7,7,4,1,655.0,902.0,47
+333,interesting facts about the number nine,26,62,8,7,4,1,1.0,216.0,39
+334,answer the call,23,62,8,7,4,1,217.0,312.0,15
+335,sticky notes,244,62,8,7,4,1,313.0,393.0,12
+336,the five latest instagram pictures on my account,68,62,8,7,4,1,394.0,654.0,48
+337,the last event detected by my security camera,151,62,8,7,4,1,655.0,900.0,45
+338,mature images from imgur,52,63,9,7,4,1,1.0,127.0,24
+339,set the temperature of my tesla car to nineteen degrees,57,63,9,7,4,1,128.0,409.0,55
+340,the speechiness of yesterday,24,63,9,7,4,1,410.0,556.0,28
+341,order me a black latte,239,63,9,7,4,1,557.0,673.0,22
+342,check my voicemail,146,63,9,7,4,1,674.0,770.0,18
+343,the tempo of uptown funnk,188,63,9,7,4,1,771.0,902.0,25
+344,turn off wi-fi,215,64,1,8,4,2,1.0,87.0,14
+345,show my tasks,54,64,1,8,4,2,88.0,169.0,13
+346,set my thermostat to twenty one degrees,198,64,1,8,4,2,170.0,381.0,39
+347,my latest email,212,64,1,8,4,2,382.0,473.0,15
+348,add counting stars to my playlist,234,64,1,8,4,2,474.0,655.0,33
+349,how upbeat is uptown funnk,218,64,1,8,4,2,656.0,802.0,26
+350,read my new email,75,64,1,8,4,2,803.0,904.0,17
+351,set the volume of my lg tv to hundred,123,65,2,8,4,2,1.0,194.0,37
+352,close the damper,81,65,2,8,4,2,195.0,283.0,16
+353,weather in singapore tomorrow,17,65,2,8,4,2,284.0,437.0,29
+354,show my current location,44,65,2,8,4,2,438.0,566.0,24
+355,call my father,31,65,2,8,4,2,567.0,645.0,14
+356,tasks from the last two days days from wunderlist,15,65,2,8,4,2,646.0,899.0,49
+357,play the song rolling in the deep on spotify,2,66,3,8,4,2,1.0,225.0,44
+358,latest papers in category chemistry on arxiv,120,66,3,8,4,2,226.0,450.0,44
+359,the instrumentalness of song yesterday,128,66,3,8,4,2,451.0,645.0,38
+360,lower the shades,25,66,3,8,4,2,646.0,730.0,16
+361,the new york times sports section,47,66,3,8,4,2,731.0,900.0,33
+362,the key of counting stars,149,67,4,8,4,2,1.0,165.0,25
+363,my seven latest instagram pictures,170,67,4,8,4,2,166.0,375.0,34
+364,lifestyle youtube channels,93,67,4,8,4,2,376.0,545.0,26
+365,play yesterday,166,67,4,8,4,2,546.0,655.0,14
+366,trivia about pi,61,67,4,8,4,2,656.0,770.0,15
+367,turn the switch on,152,67,4,8,4,2,771.0,900.0,18
+368,my google drive files smaller than fifty megabytes,40,68,5,8,4,2,1.0,258.0,50
+369,how speechlike is uptown funnk,168,68,5,8,4,2,259.0,416.0,30
+370,set the temperature to nineteen degrees on my thermostat,1,68,5,8,4,2,417.0,704.0,56
+371,paper in category mathematics on arxiv,156,68,5,8,4,2,705.0,902.0,38
+372,a picture from curiosity,176,69,6,8,4,2,1.0,122.0,24
+373,play the songs uptown funnk on spotify,206,69,6,8,4,2,123.0,314.0,38
+374,set volume on my speaker to thirty percent,132,69,6,8,4,2,315.0,526.0,42
+375,the time signature of song uptown funnk,186,69,6,8,4,2,527.0,723.0,39
+376,sunrise and sunset times at chicago,92,69,6,8,4,2,724.0,900.0,35
+377,the valence of counting stars,222,70,7,8,4,2,1.0,177.0,29
+378,put the entrance curtains down,50,70,7,8,4,2,178.0,359.0,30
+379,show the movies playing near me,55,70,7,8,4,2,360.0,546.0,31
+380,the loudness of uptown funnk,199,70,7,8,4,2,547.0,718.0,28
+381,how speechlike is jingle bells,112,70,7,8,4,2,719.0,900.0,30
+382,what is the weather in singapore tomorrow,91,71,8,8,4,2,1.0,212.0,41
+383,help me open the entrance window,142,71,8,8,4,2,213.0,379.0,32
+384,a translation to french,7,71,8,8,4,2,380.0,501.0,23
+385,value in dollars of litecoin,187,71,8,8,4,2,502.0,648.0,28
+386,plot a math function,167,71,8,8,4,2,649.0,755.0,20
+387,play uptown funnk on spotify,154,71,8,8,4,2,756.0,902.0,28
+388,mathematical trivia about five,191,72,9,8,4,2,1.0,162.0,30
+389,the front page of the new york times,126,72,9,8,4,2,163.0,354.0,36
+390,save the current track,41,72,9,8,4,2,355.0,476.0,22
+391,the time signature of counting stars,53,72,9,8,4,2,477.0,668.0,36
+392,set an alarm for eight am,14,72,9,8,4,2,669.0,805.0,25
+393,nine dog pictures,69,72,9,8,4,2,806.0,902.0,17
+394,a picture from giphy,192,73,1,9,5,1,1.0,108.0,20
+395,stop my entrance fan from oscillating,147,73,1,9,5,1,109.0,301.0,37
+396,get the battery level of my tesla car,177,73,1,9,5,1,302.0,494.0,37
+397,show me the bus route to home,219,73,1,9,5,1,495.0,647.0,29
+398,how loud is yesterday,136,73,1,9,5,1,648.0,760.0,21
+399,the tempo of song yesterday,150,73,1,9,5,1,761.0,903.0,27
+400,sunrise at singapore,117,74,2,9,5,1,1.0,103.0,20
+401,create a new empty file in onedrive,70,74,2,9,5,1,104.0,281.0,35
+402,my google drive files of type pdf,85,74,2,9,5,1,282.0,449.0,33
+403,the energy of yesterday,104,74,2,9,5,1,450.0,567.0,23
+404,order me a latte,138,74,2,9,5,1,568.0,650.0,16
+405,wiki call for paper,82,74,2,9,5,1,651.0,748.0,19
+406,a fact about dog,119,74,2,9,5,1,749.0,831.0,16
+407,open instagram,178,74,2,9,5,1,832.0,904.0,14
+408,order me a black macchiato,64,75,3,9,5,1,1.0,151.0,26
+409,open facebook,125,75,3,9,5,1,152.0,237.0,13
+410,a quote,118,75,3,9,5,1,238.0,293.0,7
+411,my nine latest instagram pictures,90,75,3,9,5,1,294.0,479.0,33
+412,make the fan swing,110,75,3,9,5,1,480.0,590.0,18
+413,trivia about nine,84,75,3,9,5,1,591.0,696.0,17
+414,sunrise and sunset times at singapore,98,75,3,9,5,1,697.0,902.0,37
+415,the speechiness of song uptown funnk,160,76,4,9,5,1,1.0,230.0,36
+416,the blog powerpost of the washington post,95,76,4,9,5,1,231.0,485.0,41
+417,facts about the year twenty eighteen,162,76,4,9,5,1,486.0,715.0,36
+418,when is my next appointment,121,76,4,9,5,1,716.0,900.0,27
+419,my google drive files that changed most recently,79,77,5,9,5,1,1.0,295.0,48
+420,play the artist david bowie,37,77,5,9,5,1,296.0,485.0,27
+421,what is the weather in london tomorrow,194,77,5,9,5,1,486.0,730.0,38
+422,causes youtube channels,145,77,5,9,5,1,731.0,900.0,23
+423,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,78,6,9,5,1,1.0,483.0,96
+424,completed tasks from the last two days on wunderlist,27,78,6,9,5,1,484.0,746.0,52
+425,steam id,248,78,6,9,5,1,747.0,789.0,8
+426,information on wikicfp,5,78,6,9,5,1,790.0,902.0,22
+427,call mom on speaker,86,79,7,9,5,1,1.0,123.0,19
+428,my top tracks,105,79,7,9,5,1,124.0,216.0,13
+429,the tempo of yesterday,74,79,7,9,5,1,217.0,354.0,22
+430,sunrise and sunset for location singapore,143,79,7,9,5,1,355.0,587.0,41
+431,show me the nearest gas stations,35,79,7,9,5,1,588.0,775.0,32
+432,math facts about one,245,79,7,9,5,1,776.0,903.0,20
+433,set the volume of my lg tv to fifty,163,80,8,9,5,1,1.0,179.0,35
+434,the energy of the current song,164,80,8,9,5,1,180.0,333.0,30
+435,play the artist michael jackson,182,80,8,9,5,1,334.0,492.0,31
+436,math facts about nine,246,80,8,9,5,1,493.0,601.0,21
+437,the state of the motion sensor,76,80,8,9,5,1,602.0,755.0,30
+438,the danceability of yesterday,247,80,8,9,5,1,756.0,904.0,29
+439,order me an iced caramel macchiato,96,81,9,9,5,1,1.0,219.0,34
+440,when a new paper is published in category chemistry on arxiv,131,81,9,9,5,1,220.0,568.0,60
+441,decrease brightness,115,81,9,9,5,1,569.0,712.0,19
+442,the key of song uptown funnk,140,81,9,9,5,1,713.0,901.0,28
+443,set the temperature to twenty four degrees on my thermostat,211,82,1,10,5,2,1.0,304.0,59
+444,share a picture on imgur,10,82,1,10,5,2,305.0,433.0,24
+445,the key of this song,46,82,1,10,5,2,434.0,542.0,20
+446,is uptown funnk live,18,82,1,10,5,2,543.0,651.0,20
+447,on spotify play yesterday,209,82,1,10,5,2,652.0,785.0,25
+448,the weather in chicago,231,82,1,10,5,2,786.0,904.0,22
+449,paper in category geography on arxiv,158,83,2,10,5,2,1.0,192.0,36
+450,add song rolling in the deep to my playlist dance mood,16,83,2,10,5,2,193.0,474.0,54
+451,the key of yesterday,107,83,2,10,5,2,475.0,586.0,20
+452,paper in category computer science on arxiv,129,83,2,10,5,2,587.0,813.0,43
+453,facts about one,241,83,2,10,5,2,814.0,900.0,15
+454,when a new paper is published in category geography on arxiv,159,84,3,10,5,2,1.0,311.0,60
+455,the time signature of song yesterday,179,84,3,10,5,2,312.0,502.0,36
+456,the bpm of uptown funnk,190,84,3,10,5,2,503.0,628.0,23
+457,a translation to english,202,84,3,10,5,2,629.0,759.0,24
+458,how energetic is yesterday,169,84,3,10,5,2,760.0,900.0,26
+459,the instrumentalness of despacito,33,85,4,10,5,2,1.0,193.0,33
+460,five dog pictures,36,85,4,10,5,2,194.0,306.0,17
+461,how dancey is the song uptown funnk,29,85,4,10,5,2,307.0,509.0,35
+462,the valence of yesterday,232,85,4,10,5,2,510.0,657.0,24
+463,the blog morning mix of the washington post,89,85,4,10,5,2,658.0,900.0,43
+464,upload a picture to onedrive,32,86,5,10,5,2,1.0,173.0,28
+465,the liveness of counting stars,11,86,5,10,5,2,174.0,356.0,30
+466,my google drive files of type mp3,28,86,5,10,5,2,357.0,554.0,33
+467,the liveness of uptown funnk,56,86,5,10,5,2,555.0,727.0,28
+468,the energy of counting stars,100,86,5,10,5,2,728.0,900.0,28
+469,add the album parachutes to my playlist sad songs,184,87,6,10,5,2,1.0,263.0,49
+470,how windy is it out there,171,87,6,10,5,2,264.0,406.0,25
+471,how positive is yesterday,3,87,6,10,5,2,407.0,549.0,25
+472,my gmail,197,87,6,10,5,2,550.0,607.0,8
+473,how dancey is the song counting stars,8,87,6,10,5,2,608.0,810.0,37
+474,my appointments,114,87,6,10,5,2,811.0,903.0,15
+475,what does trump think,172,88,7,10,5,2,1.0,114.0,21
+476,turn on airplane mode,204,88,7,10,5,2,115.0,228.0,21
+477,set night mode,12,88,7,10,5,2,229.0,307.0,14
+478,what is the weather in chicago tomorrow,45,88,7,10,5,2,308.0,511.0,39
+479,moon phase for location singapore,21,88,7,10,5,2,512.0,685.0,33
+480,set my bluetooth speaker to thirty percent,42,88,7,10,5,2,686.0,904.0,42
+481,images from imgur usersub with more than two thousand points,87,89,8,10,5,2,1.0,310.0,60
+482,sunrise and sunset for location chicago,144,89,8,10,5,2,311.0,515.0,39
+483,how loud is uptown funnk,137,89,8,10,5,2,516.0,645.0,24
+484,curiosity rover,220,89,8,10,5,2,646.0,730.0,15
+485,the current weather at singapore,97,89,8,10,5,2,731.0,900.0,32
+486,turn down the volume,157,90,9,10,5,2,1.0,115.0,20
+487,the instrumentalness of counting stars,207,90,9,10,5,2,116.0,320.0,38
+488,facts about the year twenty twelve,214,90,9,10,5,2,321.0,505.0,34
+489,wsj world news articles,237,90,9,10,5,2,506.0,635.0,23
+490,my mp3 files in google drive,243,90,9,10,5,2,636.0,790.0,28
+491,a random xkcd comic,19,90,9,10,5,2,791.0,900.0,19
+492,my seven recent instagram pictures,242,91,1,11,6,1,1.0,211.0,34
+493,the liveness of jingle bells,77,91,1,11,6,1,212.0,392.0,28
+494,a random gif from giphy,38,91,1,11,6,1,393.0,548.0,23
+495,what is the weather in paris tomorrow,139,91,1,11,6,1,549.0,774.0,37
+496,ars's latest news,130,91,1,11,6,1,775.0,900.0,17
+497,when a new paper is published in category biology on arxiv,250,92,2,11,6,1,1.0,430.0,58
+498,put the shades up,181,92,2,11,6,1,431.0,655.0,17
+499,play adele on spotify,227,92,2,11,6,1,656.0,900.0,21
+500,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,93,3,11,6,1,1.0,537.0,96
+501,set the volume of my lg tv to hundred,123,93,3,11,6,1,538.0,779.0,37
+502,my top tracks,105,93,3,11,6,1,780.0,901.0,13
+503,add song rolling in the deep to my playlist dance mood,16,94,4,11,6,1,1.0,336.0,54
+504,facts about one,241,94,4,11,6,1,337.0,477.0,15
+505,shut the entrance window,51,94,4,11,6,1,478.0,663.0,24
+506,my seven recent instagram pictures,242,94,4,11,6,1,664.0,899.0,34
+507,when a new paper is published in category chemistry on arxiv,131,95,5,11,6,1,1.0,309.0,60
+508,call home,224,95,5,11,6,1,310.0,363.0,9
+509,opinions washington post's articles,58,95,5,11,6,1,364.0,547.0,35
+510,information on wikicfp,5,95,5,11,6,1,548.0,666.0,22
+511,play the song yesterday,203,95,5,11,6,1,667.0,790.0,23
+512,what does trump think,172,95,5,11,6,1,791.0,904.0,21
+513,the five latest instagram pictures on my account,68,96,6,11,6,1,1.0,244.0,48
+514,what movies are coming out this weekend,88,96,6,11,6,1,245.0,443.0,39
+515,seven cat pictures,205,96,6,11,6,1,444.0,537.0,18
+516,play adele on spotify,227,96,6,11,6,1,538.0,646.0,21
+517,close the damper,81,96,6,11,6,1,647.0,730.0,16
+518,the energy of song counting stars,233,96,6,11,6,1,731.0,899.0,33
+519,play the artist david bowie,37,97,7,11,6,1,1.0,163.0,27
+520,play uptown funnk,141,97,7,11,6,1,164.0,276.0,17
+521,add despacito to my playlist,102,97,7,11,6,1,277.0,444.0,28
+522,the tempo of yesterday,74,97,7,11,6,1,445.0,582.0,22
+523,the danceability of yesterday,247,97,7,11,6,1,583.0,755.0,29
+524,the valence of yesterday,232,97,7,11,6,1,756.0,903.0,24
+525,set the temperature of my tesla car to nineteen degrees,57,98,8,11,6,1,1.0,279.0,55
+526,the speechiness of song uptown funnk,160,98,8,11,6,1,280.0,463.0,36
+527,the weather in chicago,231,98,8,11,6,1,464.0,577.0,22
+528,what is the weather in chicago tomorrow,45,98,8,11,6,1,578.0,776.0,39
+529,how loud is uptown funnk,137,98,8,11,6,1,777.0,900.0,24
+530,call my father,31,99,9,11,6,1,1.0,82.0,14
+531,price of litecoin,175,99,9,11,6,1,83.0,179.0,17
+532,the new york times sports section,47,99,9,11,6,1,180.0,356.0,33
+533,when is my next appointment,121,99,9,11,6,1,357.0,503.0,27
+534,make the fan swing,110,99,9,11,6,1,504.0,605.0,18
+535,where is my next meeting,124,99,9,11,6,1,606.0,737.0,24
+536,play the artist michael jackson,182,99,9,11,6,1,738.0,904.0,31
+537,the time signature of song yesterday,179,100,1,12,6,2,1.0,200.0,36
+538,when a new paper is published in category biology on arxiv,250,100,1,12,6,2,201.0,510.0,58
+539,sunrise and sunset times at singapore,98,100,1,12,6,2,511.0,715.0,37
+540,my google drive files of type mp3,28,100,1,12,6,2,716.0,900.0,33
+541,nine dog pictures,69,101,2,12,6,2,1.0,124.0,17
+542,the energy of counting stars,100,101,2,12,6,2,125.0,303.0,28
+543,my google drive files of type pdf,85,101,2,12,6,2,304.0,507.0,33
+544,steam id,248,101,2,12,6,2,508.0,586.0,8
+545,the valence of despacito,13,101,2,12,6,2,587.0,745.0,24
+546,causes youtube channels,145,101,2,12,6,2,746.0,899.0,23
+547,set the volume of my bluetooth speaker to seventy,229,102,3,12,6,2,1.0,269.0,49
+548,sunrise and sunset times at chicago,92,102,3,12,6,2,270.0,468.0,35
+549,add the album meteora to my playlist favourite songs,62,102,3,12,6,2,469.0,752.0,52
+550,the tempo of uptown funnk,188,102,3,12,6,2,753.0,901.0,25
+551,youtube channels with category comedy,208,103,4,12,6,2,1.0,203.0,37
+552,weather in singapore tomorrow,17,103,4,12,6,2,204.0,366.0,29
+553,the speechiness of uptown funnk,73,103,4,12,6,2,367.0,539.0,31
+554,the key of this song,46,103,4,12,6,2,540.0,657.0,20
+555,order me a black macchiato,64,103,4,12,6,2,658.0,805.0,26
+556,a fact about dog,119,103,4,12,6,2,806.0,903.0,16
+557,how dancey is the song uptown funnk,29,104,5,12,6,2,1.0,181.0,35
+558,how upbeat is counting stars,210,104,5,12,6,2,182.0,327.0,28
+559,play yesterday,166,104,5,12,6,2,328.0,403.0,14
+560,set my bluetooth speaker to ninety percent,173,104,5,12,6,2,404.0,619.0,42
+561,how upbeat is uptown funnk,218,104,5,12,6,2,620.0,755.0,26
+562,value in dollars of litecoin,187,104,5,12,6,2,756.0,901.0,28
+563,a translation to english,202,105,6,12,6,2,1.0,154.0,24
+564,the speechiness of yesterday,24,105,6,12,6,2,155.0,328.0,28
+565,a translation to french,7,105,6,12,6,2,329.0,477.0,23
+566,my nine recent instagram pictures,94,105,6,12,6,2,478.0,676.0,33
+567,what is the weather in london tomorrow,194,105,6,12,6,2,677.0,900.0,38
+568,my seven latest instagram pictures,170,106,7,12,6,2,1.0,184.0,34
+569,paper in category mathematics on arxiv,156,106,7,12,6,2,185.0,388.0,38
+570,moon phase for location singapore,21,106,7,12,6,2,389.0,567.0,33
+571,value in dollars of ethereum,4,106,7,12,6,2,568.0,721.0,28
+572,my five latest instagram pictures,155,106,7,12,6,2,722.0,900.0,33
+573,the blog powerpost of the washington post,95,107,8,12,6,2,1.0,212.0,41
+574,the liveness of counting stars,11,107,8,12,6,2,213.0,369.0,30
+575,the time signature of yesterday,78,107,8,12,6,2,370.0,531.0,31
+576,my mp3 files in google drive,243,107,8,12,6,2,532.0,678.0,28
+577,the blog morning mix of the washington post,89,107,8,12,6,2,679.0,900.0,43
+578,images from imgur usersub with more than six hundred points,71,108,9,12,6,2,1.0,385.0,59
+579,latest papers in category chemistry on arxiv,120,108,9,12,6,2,386.0,695.0,44
+580,a random gif from giphy,38,108,9,12,6,2,696.0,900.0,23
+581,set the temperature to twenty four degrees on my thermostat,211,109,1,13,7,1,1.0,299.0,59
+582,answer the call,23,109,1,13,7,1,300.0,378.0,15
+583,how positive is yesterday,3,109,1,13,7,1,379.0,507.0,25
+584,open netflix,238,109,1,13,7,1,508.0,571.0,12
+585,set my bluetooth speaker to seventy percent,135,109,1,13,7,1,572.0,790.0,43
+586,turn on airplane mode,204,109,1,13,7,1,791.0,899.0,21
+587,the time signature of uptown funnk,153,110,2,13,7,1,1.0,204.0,34
+588,skip this song on spotify,133,110,2,13,7,1,205.0,363.0,25
+589,add a song to my playlist,189,110,2,13,7,1,364.0,522.0,25
+590,add counting stars to my playlist,234,110,2,13,7,1,523.0,721.0,33
+591,show me the bus route to home,219,110,2,13,7,1,722.0,900.0,29
+592,order me an iced caramel macchiato,96,111,3,13,7,1,1.0,175.0,34
+593,is uptown funnk instrumental,230,111,3,13,7,1,176.0,320.0,28
+594,facts about the year twenty twelve,214,111,3,13,7,1,321.0,495.0,34
+595,turn on my computer,216,111,3,13,7,1,496.0,595.0,19
+596,the tempo of song yesterday,150,111,3,13,7,1,596.0,735.0,27
+597,show me the nearest gas stations,35,111,3,13,7,1,736.0,900.0,32
+598,my google drive files modified today,30,112,4,13,7,1,1.0,184.0,36
+599,decrease brightness,115,112,4,13,7,1,185.0,283.0,19
+600,order me a black latte,239,112,4,13,7,1,284.0,397.0,22
+601,the time signature of counting stars,53,112,4,13,7,1,398.0,581.0,36
+602,my two recent instagram pictures,161,112,4,13,7,1,582.0,745.0,32
+603,put the entrance curtains down,50,112,4,13,7,1,746.0,899.0,30
+604,stop my entrance fan from oscillating,147,113,5,13,7,1,1.0,215.0,37
+605,play the artist adele,99,113,5,13,7,1,216.0,350.0,21
+606,order me a latte,138,113,5,13,7,1,351.0,460.0,16
+607,the valence of uptown funnk,65,113,5,13,7,1,461.0,625.0,27
+608,tasks from the last two days days from wunderlist,15,113,5,13,7,1,626.0,900.0,49
+609,show the movies playing near me,55,114,6,13,7,1,1.0,164.0,31
+610,interesting facts about the number three,59,114,6,13,7,1,165.0,373.0,40
+611,upload a picture to onedrive,32,114,6,13,7,1,374.0,522.0,28
+612,paper in category geography on arxiv,158,114,6,13,7,1,523.0,711.0,36
+613,create a new empty folder in dropbox,80,114,6,13,7,1,712.0,900.0,36
+614,the instrumentalness of despacito,33,115,7,13,7,1,1.0,167.0,33
+615,plot a math function,167,115,7,13,7,1,168.0,269.0,20
+616,my nine latest instagram pictures,90,115,7,13,7,1,270.0,436.0,33
+617,the weather in boston,34,115,7,13,7,1,437.0,543.0,21
+618,the acousticness of uptown funnk,165,115,7,13,7,1,544.0,705.0,32
+619,play uptown funnk on spotify,154,115,7,13,7,1,706.0,847.0,28
+620,on the fan,113,115,7,13,7,1,848.0,899.0,10
+621,check my voicemail,146,116,8,13,7,1,1.0,106.0,18
+622,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,116,8,13,7,1,107.0,547.0,85
+623,lifestyle youtube channels,93,116,8,13,7,1,548.0,693.0,26
+624,the instrumentalness of counting stars,207,116,8,13,7,1,694.0,899.0,38
+625,make note of my weight on fitbit,221,117,9,13,7,1,1.0,175.0,32
+626,my latest email,212,117,9,13,7,1,176.0,265.0,15
+627,washington post national,111,117,9,13,7,1,266.0,400.0,24
+628,set the volume of my lg tv to fifty,163,117,9,13,7,1,401.0,590.0,35
+629,how speechlike is jingle bells,112,117,9,13,7,1,591.0,755.0,30
+630,how loud is counting stars,106,117,9,13,7,1,756.0,900.0,26
+631,completed tasks from the last two days on wunderlist,27,118,1,14,7,2,1.0,284.0,52
+632,what is the weather in boston tomorrow,196,118,1,14,7,2,285.0,498.0,38
+633,add the album meteora to my playlist dance mood,43,118,1,14,7,2,499.0,757.0,47
+634,show my current location,44,118,1,14,7,2,758.0,901.0,24
+635,create a new empty file in onedrive,70,119,2,14,7,2,1.0,178.0,35
+636,my google drive files larger than fifty megabytes,22,119,2,14,7,2,179.0,426.0,49
+637,the speechiness of song yesterday,122,119,2,14,7,2,427.0,594.0,33
+638,my appointments,114,119,2,14,7,2,595.0,672.0,15
+639,donald trump's quote,72,119,2,14,7,2,673.0,775.0,20
+640,put the shades up,181,119,2,14,7,2,776.0,863.0,17
+641,a quote,118,119,2,14,7,2,864.0,901.0,7
+642,the time signature of song uptown funnk,186,120,3,14,7,2,1.0,235.0,39
+643,is uptown funnk live,18,120,3,14,7,2,236.0,375.0,20
+644,the valence of counting stars,222,120,3,14,7,2,376.0,560.0,29
+645,images from imgur usersub with more than two thousand points,87,120,3,14,7,2,561.0,900.0,60
+646,what is the weather in singapore tomorrow,91,121,4,14,7,2,1.0,230.0,41
+647,washington post's post everything blog,116,121,4,14,7,2,231.0,445.0,38
+648,trump's quote,217,121,4,14,7,2,446.0,535.0,13
+649,the key of song yesterday,109,121,4,14,7,2,536.0,685.0,25
+650,play the songs uptown funnk on spotify,206,121,4,14,7,2,686.0,900.0,38
+651,how speechlike is uptown funnk,168,122,5,14,7,2,1.0,159.0,30
+652,how windy is it out there,171,122,5,14,7,2,160.0,293.0,25
+653,two dog pictures,240,122,5,14,7,2,294.0,382.0,16
+654,five dog pictures,36,122,5,14,7,2,383.0,476.0,17
+655,the danceability of the song counting stars,226,122,5,14,7,2,477.0,700.0,43
+656,set my thermostat to twenty one degrees,198,122,5,14,7,2,701.0,904.0,39
+657,two pictures from curiosity rover,60,123,6,14,7,2,1.0,186.0,33
+658,the instrumentalness of song yesterday,128,123,6,14,7,2,187.0,397.0,38
+659,paper in category computer science on arxiv,129,123,6,14,7,2,398.0,633.0,43
+660,add the album parachutes to my playlist sad songs,184,123,6,14,7,2,634.0,899.0,49
+661,the energy of yesterday,104,124,7,14,7,2,1.0,118.0,23
+662,change the volume of my lg tv,174,124,7,14,7,2,119.0,266.0,29
+663,ars's latest news,130,124,7,14,7,2,267.0,354.0,17
+664,share a picture on imgur,10,124,7,14,7,2,355.0,477.0,24
+665,turn off wi-fi,215,124,7,14,7,2,478.0,550.0,14
+666,trivia about pi,61,124,7,14,7,2,551.0,628.0,15
+667,mathematical trivia about five,191,124,7,14,7,2,629.0,781.0,30
+668,wsj world news articles,237,124,7,14,7,2,782.0,899.0,23
+669,sticky notes,244,125,8,14,7,2,1.0,64.0,12
+670,my google drive files smaller than fifty megabytes,40,125,8,14,7,2,65.0,318.0,50
+671,open instagram,178,125,8,14,7,2,319.0,392.0,14
+672,wiki call for paper,82,125,8,14,7,2,393.0,491.0,19
+673,call mom on speaker,86,125,8,14,7,2,492.0,590.0,19
+674,the weather in singapore,67,125,8,14,7,2,591.0,714.0,24
+675,math facts about nine,246,125,8,14,7,2,715.0,823.0,21
+676,start the timer,201,125,8,14,7,2,824.0,902.0,15
+677,get status of my current ride,223,126,9,14,7,2,1.0,147.0,29
+678,get the battery level of my tesla car,177,126,9,14,7,2,148.0,334.0,37
+679,a random xkcd comic,19,126,9,14,7,2,335.0,431.0,19
+680,show me the nearest restaurants,213,126,9,14,7,2,432.0,588.0,31
+681,youtube's comedy channels,127,126,9,14,7,2,589.0,715.0,25
+682,turn down the volume,157,126,9,14,7,2,716.0,817.0,20
+683,sunset at chicago,108,126,9,14,7,2,818.0,904.0,17
+684,how energetic is yesterday,169,127,1,15,8,1,1.0,135.0,26
+685,set the temperature to eighteen degrees on my thermostat,20,127,1,15,8,1,136.0,420.0,56
+686,the liveness of uptown funnk,56,127,1,15,8,1,421.0,565.0,28
+687,trivia about nine,84,127,1,15,8,1,566.0,655.0,17
+688,my google drive files that changed most recently,79,127,1,15,8,1,656.0,900.0,48
+689,the instrumentalness of yesterday,66,128,2,15,8,1,1.0,170.0,33
+690,my gmail,197,128,2,15,8,1,171.0,215.0,8
+691,a random fact,134,128,2,15,8,1,216.0,285.0,13
+692,the front page of the new york times,126,128,2,15,8,1,286.0,470.0,36
+693,interesting facts about the number nine,26,128,2,15,8,1,471.0,670.0,39
+694,the last event detected by my security camera,151,128,2,15,8,1,671.0,900.0,45
+695,a picture from curiosity,176,129,3,15,8,1,1.0,204.0,24
+696,how dancey is counting stars,101,129,3,15,8,1,205.0,428.0,28
+697,turn off repeat,235,129,3,15,8,1,429.0,587.0,15
+698,play despacito,183,129,3,15,8,1,588.0,741.0,14
+699,curiosity rover,220,129,3,15,8,1,742.0,900.0,15
+700,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,130,4,15,8,1,1.0,481.0,95
+701,seven dog pictures,193,130,4,15,8,1,482.0,577.0,18
+702,save the current track,41,130,4,15,8,1,578.0,693.0,22
+703,my calendar events,225,130,4,15,8,1,694.0,789.0,18
+704,move the entrance fan,48,130,4,15,8,1,790.0,900.0,21
+705,sunrise and sunset for location chicago,144,131,5,15,8,1,1.0,197.0,39
+706,youtube channels with category paid,103,131,5,15,8,1,198.0,374.0,35
+707,how upbeat is despacito,185,131,5,15,8,1,375.0,491.0,23
+708,set my bluetooth speaker to thirty percent,42,131,5,15,8,1,492.0,703.0,42
+709,play counting stars,200,131,5,15,8,1,704.0,800.0,19
+710,sunrise at singapore,117,131,5,15,8,1,801.0,902.0,20
+711,the liveness of jingle bells,77,132,6,15,8,1,1.0,153.0,28
+712,open facebook,125,132,6,15,8,1,154.0,231.0,13
+713,set the temperature to nineteen degrees on my thermostat,1,132,6,15,8,1,232.0,524.0,56
+714,how dancey is the song counting stars,8,132,6,15,8,1,525.0,722.0,37
+715,movie information,228,132,6,15,8,1,723.0,820.0,17
+716,set night mode,12,132,6,15,8,1,821.0,903.0,14
+717,the key of counting stars,149,133,7,15,8,1,1.0,161.0,25
+718,what is the weather in paris tomorrow,139,133,7,15,8,1,162.0,382.0,37
+719,help me open the entrance window,142,133,7,15,8,1,383.0,578.0,32
+720,the tempo of the current song,236,133,7,15,8,1,579.0,759.0,29
+721,where is my tesla car,9,133,7,15,8,1,760.0,900.0,21
+722,set volume on my speaker to ninety percent,249,134,8,15,8,1,1.0,226.0,42
+723,play the song rolling in the deep on spotify,2,134,8,15,8,1,227.0,462.0,44
+724,the current weather at singapore,97,134,8,15,8,1,463.0,638.0,32
+725,the key of song uptown funnk,140,134,8,15,8,1,639.0,794.0,28
+726,turn the switch on,152,134,8,15,8,1,795.0,900.0,18
+727,on spotify play uptown funnk,49,135,9,15,8,1,1.0,179.0,28
+728,how positive is uptown funnk,148,135,9,15,8,1,180.0,358.0,28
+729,on spotify play yesterday,209,135,9,15,8,1,359.0,522.0,25
+730,three cat pictures,6,135,9,15,8,1,523.0,651.0,18
+731,set volume on my speaker to thirty percent,132,135,9,15,8,1,652.0,900.0,42
+732,sunrise and sunset for location singapore,143,136,1,16,8,2,1.0,207.0,41
+733,how loud is yesterday,136,136,1,16,8,2,208.0,314.0,21
+734,when a new paper is published in category geography on arxiv,159,136,1,16,8,2,315.0,616.0,60
+735,show my tasks,54,136,1,16,8,2,617.0,683.0,13
+736,the key of yesterday,107,136,1,16,8,2,684.0,785.0,20
+737,the bpm of uptown funnk,190,136,1,16,8,2,786.0,902.0,23
+738,the loudness of uptown funnk,199,137,2,16,8,2,1.0,151.0,28
+739,facts about the year twenty eighteen,162,137,2,16,8,2,152.0,342.0,36
+740,lower the shades,25,137,2,16,8,2,343.0,433.0,16
+741,a picture from giphy,192,137,2,16,8,2,434.0,544.0,20
+742,math facts about one,245,137,2,16,8,2,545.0,655.0,20
+743,make a playlist,195,137,2,16,8,2,656.0,741.0,15
+744,the energy of the current song,164,137,2,16,8,2,742.0,902.0,30
+745,set an alarm for eight am,14,138,3,16,8,2,1.0,127.0,25
+746,read my new email,75,138,3,16,8,2,128.0,214.0,17
+747,mature images from imgur,52,138,3,16,8,2,215.0,336.0,24
+748,the state of the motion sensor,76,138,3,16,8,2,337.0,488.0,30
+749,my google drive files larger than hundred megabytes,63,138,3,16,8,2,489.0,745.0,51
+750,the speechiness of uptown funnk,73,138,3,16,8,2,746.0,902.0,31
+751,set the volume of my lg tv to hundred,123,139,4,16,8,2,1.0,197.0,37
+752,make the fan swing,110,139,4,16,8,2,198.0,299.0,18
+753,create a new empty file in onedrive,70,139,4,16,8,2,300.0,486.0,35
+754,how windy is it out there,171,139,4,16,8,2,487.0,623.0,25
+755,the state of the motion sensor,76,139,4,16,8,2,624.0,785.0,30
+756,turn on airplane mode,204,139,4,16,8,2,786.0,902.0,21
+757,call mom on speaker,86,140,5,16,8,2,1.0,125.0,19
+758,mathematical trivia about five,191,140,5,16,8,2,126.0,305.0,30
+759,where is my tesla car,9,140,5,16,8,2,306.0,440.0,21
+760,how positive is yesterday,3,140,5,16,8,2,441.0,595.0,25
+761,a translation to english,202,140,5,16,8,2,596.0,745.0,24
+762,the key of counting stars,149,140,5,16,8,2,746.0,900.0,25
+763,what is the weather in singapore tomorrow,91,141,6,16,8,2,1.0,216.0,41
+764,what movies are coming out this weekend,88,141,6,16,8,2,217.0,422.0,39
+765,the energy of song counting stars,233,141,6,16,8,2,423.0,598.0,33
+766,how dancey is the song counting stars,8,141,6,16,8,2,599.0,794.0,37
+767,a random xkcd comic,19,141,6,16,8,2,795.0,900.0,19
+768,completed tasks from the last two days on wunderlist,27,142,7,16,8,2,1.0,290.0,52
+769,the instrumentalness of despacito,33,142,7,16,8,2,291.0,485.0,33
+770,my mp3 files in google drive,243,142,7,16,8,2,486.0,655.0,28
+771,the blog morning mix of the washington post,89,142,7,16,8,2,656.0,900.0,43
+772,value in dollars of ethereum,4,143,8,16,8,2,1.0,150.0,28
+773,set the temperature of my tesla car to nineteen degrees,57,143,8,16,8,2,151.0,435.0,55
+774,when a new paper is published in category geography on arxiv,159,143,8,16,8,2,436.0,745.0,60
+775,change the volume of my lg tv,174,143,8,16,8,2,746.0,900.0,29
+776,my google drive files modified today,30,144,9,16,8,2,1.0,182.0,36
+777,play yesterday,166,144,9,16,8,2,183.0,254.0,14
+778,add the album meteora to my playlist dance mood,43,144,9,16,8,2,255.0,491.0,47
+779,play despacito,183,144,9,16,8,2,492.0,563.0,14
+780,turn the switch on,152,144,9,16,8,2,564.0,655.0,18
+781,information on wikicfp,5,144,9,16,8,2,656.0,767.0,22
+782,when is my next appointment,121,144,9,16,8,2,768.0,904.0,27
+783,set night mode,12,145,1,17,9,1,1.0,75.0,14
+784,steam id,248,145,1,17,9,1,76.0,120.0,8
+785,turn on my computer,216,145,1,17,9,1,121.0,220.0,19
+786,the new york times sports section,47,145,1,17,9,1,221.0,390.0,33
+787,paper in category geography on arxiv,158,145,1,17,9,1,391.0,575.0,36
+788,value in dollars of litecoin,187,145,1,17,9,1,576.0,720.0,28
+789,facts about the year twenty eighteen,162,145,1,17,9,1,721.0,905.0,36
+790,the tempo of song yesterday,150,146,2,17,9,1,1.0,150.0,27
+791,how energetic is yesterday,169,146,2,17,9,1,151.0,295.0,26
+792,sunrise and sunset times at chicago,92,146,2,17,9,1,296.0,485.0,35
+793,put the shades up,181,146,2,17,9,1,486.0,585.0,17
+794,my calendar events,225,146,2,17,9,1,586.0,690.0,18
+795,the time signature of song uptown funnk,186,146,2,17,9,1,691.0,900.0,39
+796,seven dog pictures,193,147,3,17,9,1,1.0,98.0,18
+797,make note of my weight on fitbit,221,147,3,17,9,1,99.0,266.0,32
+798,what is the weather in boston tomorrow,196,147,3,17,9,1,267.0,464.0,38
+799,set the temperature to twenty four degrees on my thermostat,211,147,3,17,9,1,465.0,767.0,59
+800,skip this song on spotify,133,147,3,17,9,1,768.0,900.0,25
+801,set my thermostat to twenty one degrees,198,148,4,17,9,1,1.0,205.0,39
+802,how positive is uptown funnk,148,148,4,17,9,1,206.0,355.0,28
+803,my google drive files smaller than fifty megabytes,40,148,4,17,9,1,356.0,615.0,50
+804,nine dog pictures,69,148,4,17,9,1,616.0,710.0,17
+805,the time signature of song yesterday,179,148,4,17,9,1,711.0,900.0,36
+806,how loud is uptown funnk,137,149,5,17,9,1,1.0,124.0,24
+807,what is the weather in paris tomorrow,139,149,5,17,9,1,125.0,313.0,37
+808,seven cat pictures,205,149,5,17,9,1,314.0,407.0,18
+809,movie information,228,149,5,17,9,1,408.0,496.0,17
+810,a picture from giphy,192,149,5,17,9,1,497.0,600.0,20
+811,math facts about one,245,149,5,17,9,1,601.0,704.0,20
+812,interesting facts about the number nine,26,149,5,17,9,1,705.0,903.0,39
+813,the front page of the new york times,126,150,6,17,9,1,1.0,182.0,36
+814,mature images from imgur,52,150,6,17,9,1,183.0,304.0,24
+815,the key of song uptown funnk,140,150,6,17,9,1,305.0,446.0,28
+816,trump's quote,217,150,6,17,9,1,447.0,513.0,13
+817,add a song to my playlist,189,150,6,17,9,1,514.0,640.0,25
+818,the weather in boston,34,150,6,17,9,1,641.0,747.0,21
+819,play the artist michael jackson,182,150,6,17,9,1,748.0,904.0,31
+820,sunrise and sunset for location chicago,144,151,7,17,9,1,1.0,234.0,39
+821,play the song yesterday,203,151,7,17,9,1,235.0,388.0,23
+822,the tempo of uptown funnk,188,151,7,17,9,1,389.0,552.0,25
+823,call my father,31,151,7,17,9,1,553.0,661.0,14
+824,interesting facts about the number three,59,151,7,17,9,1,662.0,900.0,40
+825,images from imgur usersub with more than six hundred points,71,152,8,17,9,1,1.0,305.0,59
+826,set my bluetooth speaker to ninety percent,173,152,8,17,9,1,306.0,525.0,42
+827,open facebook,125,152,8,17,9,1,526.0,600.0,13
+828,the energy of counting stars,100,152,8,17,9,1,601.0,750.0,28
+829,add despacito to my playlist,102,152,8,17,9,1,751.0,900.0,28
+830,get the battery level of my tesla car,177,153,9,17,9,1,1.0,205.0,37
+831,the liveness of uptown funnk,56,153,9,17,9,1,206.0,365.0,28
+832,the valence of despacito,13,153,9,17,9,1,366.0,505.0,24
+833,paper in category computer science on arxiv,129,153,9,17,9,1,506.0,740.0,43
+834,on spotify play uptown funnk,49,153,9,17,9,1,741.0,900.0,28
+835,is uptown funnk instrumental,230,154,1,18,9,2,1.0,146.0,28
+836,how upbeat is uptown funnk,218,154,1,18,9,2,147.0,282.0,26
+837,math facts about nine,246,154,1,18,9,2,283.0,393.0,21
+838,what is the weather in chicago tomorrow,45,154,1,18,9,2,394.0,594.0,39
+839,when a new paper is published in category chemistry on arxiv,131,154,1,18,9,2,595.0,900.0,60
+840,how upbeat is despacito,185,155,2,18,9,2,1.0,148.0,23
+841,my google drive files larger than fifty megabytes,22,155,2,18,9,2,149.0,426.0,49
+842,turn off wi-fi,215,155,2,18,9,2,427.0,529.0,14
+843,the valence of uptown funnk,65,155,2,18,9,2,530.0,697.0,27
+844,the time signature of uptown funnk,153,155,2,18,9,2,698.0,900.0,34
+845,how dancey is the song uptown funnk,29,156,3,18,9,2,1.0,196.0,35
+846,set the temperature to nineteen degrees on my thermostat,1,156,3,18,9,2,197.0,497.0,56
+847,order me a latte,138,156,3,18,9,2,498.0,598.0,16
+848,set the temperature to eighteen degrees on my thermostat,20,156,3,18,9,2,599.0,899.0,56
+849,paper in category mathematics on arxiv,156,157,4,18,9,2,1.0,194.0,38
+850,upload a picture to onedrive,32,157,4,18,9,2,195.0,338.0,28
+851,check my voicemail,146,157,4,18,9,2,339.0,432.0,18
+852,youtube's comedy channels,127,157,4,18,9,2,433.0,561.0,25
+853,save the current track,41,157,4,18,9,2,562.0,675.0,22
+854,on the fan,113,157,4,18,9,2,676.0,729.0,10
+855,my seven latest instagram pictures,170,157,4,18,9,2,730.0,903.0,34
+856,the speechiness of song uptown funnk,160,158,5,18,9,2,1.0,189.0,36
+857,the tempo of the current song,236,158,5,18,9,2,190.0,343.0,29
+858,order me a black latte,239,158,5,18,9,2,344.0,462.0,22
+859,the loudness of uptown funnk,199,158,5,18,9,2,463.0,611.0,28
+860,show me the nearest gas stations,35,158,5,18,9,2,612.0,780.0,32
+861,the energy of yesterday,104,158,5,18,9,2,781.0,904.0,23
+862,trivia about pi,61,159,6,18,9,2,1.0,77.0,15
+863,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,159,6,18,9,2,78.0,554.0,95
+864,my gmail,197,159,6,18,9,2,555.0,596.0,8
+865,stop my entrance fan from oscillating,147,159,6,18,9,2,597.0,783.0,37
+866,causes youtube channels,145,159,6,18,9,2,784.0,900.0,23
+867,my nine latest instagram pictures,90,160,7,18,9,2,1.0,225.0,33
+868,three cat pictures,6,160,7,18,9,2,226.0,375.0,18
+869,tasks from the last two days days from wunderlist,15,160,7,18,9,2,376.0,680.0,49
+870,my two recent instagram pictures,161,160,7,18,9,2,681.0,900.0,32
+871,add the album meteora to my playlist favourite songs,62,161,8,18,9,2,1.0,281.0,52
+872,washington post national,111,161,8,18,9,2,282.0,422.0,24
+873,order me an iced caramel macchiato,96,161,8,18,9,2,423.0,613.0,34
+874,set an alarm for eight am,14,161,8,18,9,2,614.0,759.0,25
+875,shut the entrance window,51,161,8,18,9,2,760.0,900.0,24
+876,show me the nearest restaurants,213,162,9,18,9,2,1.0,164.0,31
+877,set volume on my speaker to ninety percent,249,162,9,18,9,2,165.0,383.0,42
+878,my google drive files of type pdf,85,162,9,18,9,2,384.0,557.0,33
+879,the energy of the current song,164,162,9,18,9,2,558.0,716.0,30
+880,set the volume of my lg tv to fifty,163,162,9,18,9,2,717.0,900.0,35
+881,set the volume of my bluetooth speaker to seventy,229,163,1,19,10,1,1.0,250.0,49
+882,price of litecoin,175,163,1,19,10,1,251.0,340.0,17
+883,the danceability of yesterday,247,163,1,19,10,1,341.0,490.0,29
+884,the weather in chicago,231,163,1,19,10,1,491.0,605.0,22
+885,call home,224,163,1,19,10,1,606.0,655.0,9
+886,my google drive files that changed most recently,79,163,1,19,10,1,656.0,900.0,48
+887,on spotify play yesterday,209,164,2,19,10,1,1.0,129.0,25
+888,the key of this song,46,164,2,19,10,1,130.0,233.0,20
+889,my latest email,212,164,2,19,10,1,234.0,312.0,15
+890,add song rolling in the deep to my playlist dance mood,16,164,2,19,10,1,313.0,586.0,54
+891,facts about the year twenty twelve,214,164,2,19,10,1,587.0,760.0,34
+892,the speechiness of yesterday,24,164,2,19,10,1,761.0,904.0,28
+893,the valence of yesterday,232,165,3,19,10,1,1.0,124.0,24
+894,wsj world news articles,237,165,3,19,10,1,125.0,243.0,23
+895,five dog pictures,36,165,3,19,10,1,244.0,332.0,17
+896,a fact about dog,119,165,3,19,10,1,333.0,416.0,16
+897,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,165,3,19,10,1,417.0,900.0,96
+898,add the album parachutes to my playlist sad songs,184,166,4,19,10,1,1.0,250.0,49
+899,play the artist adele,99,166,4,19,10,1,251.0,360.0,21
+900,facts about one,241,166,4,19,10,1,361.0,440.0,15
+901,a quote,118,166,4,19,10,1,441.0,480.0,7
+902,set volume on my speaker to thirty percent,132,166,4,19,10,1,481.0,695.0,42
+903,show my current location,44,166,4,19,10,1,696.0,820.0,24
+904,make a playlist,195,166,4,19,10,1,821.0,900.0,15
+905,my five latest instagram pictures,155,167,5,19,10,1,1.0,177.0,33
+906,the instrumentalness of yesterday,66,167,5,19,10,1,178.0,354.0,33
+907,set my bluetooth speaker to seventy percent,135,167,5,19,10,1,355.0,581.0,43
+908,ars's latest news,130,167,5,19,10,1,582.0,678.0,17
+909,set my bluetooth speaker to thirty percent,42,167,5,19,10,1,679.0,900.0,42
+910,lifestyle youtube channels,93,168,6,19,10,1,1.0,144.0,26
+911,the instrumentalness of song yesterday,128,168,6,19,10,1,145.0,348.0,38
+912,my top tracks,105,168,6,19,10,1,349.0,427.0,13
+913,the time signature of counting stars,53,168,6,19,10,1,428.0,621.0,36
+914,turn down the volume,157,168,6,19,10,1,622.0,735.0,20
+915,the liveness of counting stars,11,168,6,19,10,1,736.0,899.0,30
+916,show me the bus route to home,219,169,7,19,10,1,1.0,150.0,29
+917,the tempo of yesterday,74,169,7,19,10,1,151.0,265.0,22
+918,wiki call for paper,82,169,7,19,10,1,266.0,365.0,19
+919,how loud is counting stars,106,169,7,19,10,1,366.0,500.0,26
+920,how dancey is counting stars,101,169,7,19,10,1,501.0,645.0,28
+921,show my tasks,54,169,7,19,10,1,646.0,715.0,13
+922,sunrise and sunset times at singapore,98,169,7,19,10,1,716.0,905.0,37
+923,the danceability of the song counting stars,226,170,8,19,10,1,1.0,235.0,43
+924,what is the weather in london tomorrow,194,170,8,19,10,1,236.0,445.0,38
+925,how loud is yesterday,136,170,8,19,10,1,446.0,570.0,21
+926,the key of song yesterday,109,170,8,19,10,1,571.0,715.0,25
+927,the speechiness of song yesterday,122,170,8,19,10,1,716.0,900.0,33
+928,my google drive files of type mp3,28,171,9,19,10,1,1.0,180.0,33
+929,images from imgur usersub with more than two thousand points,87,171,9,19,10,1,181.0,495.0,60
+930,how upbeat is counting stars,210,171,9,19,10,1,496.0,650.0,28
+931,get status of my current ride,223,171,9,19,10,1,651.0,810.0,29
+932,start the timer,201,171,9,19,10,1,811.0,900.0,15
+933,turn off repeat,235,172,1,20,10,2,1.0,79.0,15
+934,weather in singapore tomorrow,17,172,1,20,10,2,80.0,228.0,29
+935,a random gif from giphy,38,172,1,20,10,2,229.0,347.0,23
+936,decrease brightness,115,172,1,20,10,2,348.0,446.0,19
+937,play the song rolling in the deep on spotify,2,172,1,20,10,2,447.0,670.0,44
+938,the last event detected by my security camera,151,172,1,20,10,2,671.0,899.0,45
+939,a translation to french,7,173,2,20,10,2,1.0,141.0,23
+940,read my new email,75,173,2,20,10,2,142.0,252.0,17
+941,where is my next meeting,124,173,2,20,10,2,253.0,398.0,24
+942,the time signature of yesterday,78,173,2,20,10,2,399.0,579.0,31
+943,washington post's post everything blog,116,173,2,20,10,2,580.0,795.0,38
+944,close the damper,81,173,2,20,10,2,796.0,901.0,16
+945,the current weather at singapore,97,174,3,20,10,2,1.0,164.0,32
+946,a picture from curiosity,176,174,3,20,10,2,165.0,288.0,24
+947,answer the call,23,174,3,20,10,2,289.0,367.0,15
+948,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,174,3,20,10,2,368.0,796.0,85
+949,the key of yesterday,107,174,3,20,10,2,797.0,900.0,20
+950,the bpm of uptown funnk,190,175,4,20,10,2,1.0,129.0,23
+951,add counting stars to my playlist,234,175,4,20,10,2,130.0,308.0,33
+952,my nine recent instagram pictures,94,175,4,20,10,2,309.0,487.0,33
+953,move the entrance fan,48,175,4,20,10,2,488.0,606.0,21
+954,what does trump think,172,175,4,20,10,2,607.0,725.0,21
+955,the acousticness of uptown funnk,165,175,4,20,10,2,726.0,899.0,32
+956,the five latest instagram pictures on my account,68,176,5,20,10,2,1.0,245.0,48
+957,the liveness of jingle bells,77,176,5,20,10,2,246.0,390.0,28
+958,plot a math function,167,176,5,20,10,2,391.0,495.0,20
+959,play the songs uptown funnk on spotify,206,176,5,20,10,2,496.0,690.0,38
+960,two dog pictures,240,176,5,20,10,2,691.0,775.0,16
+961,share a picture on imgur,10,176,5,20,10,2,776.0,900.0,24
+962,create a new empty folder in dropbox,80,177,6,20,10,2,1.0,186.0,36
+963,moon phase for location singapore,21,177,6,20,10,2,187.0,357.0,33
+964,the instrumentalness of counting stars,207,177,6,20,10,2,358.0,553.0,38
+965,how speechlike is uptown funnk,168,177,6,20,10,2,554.0,709.0,30
+966,youtube channels with category comedy,208,177,6,20,10,2,710.0,900.0,37
+967,sunrise and sunset for location singapore,143,178,7,20,10,2,1.0,206.0,41
+968,play counting stars,200,178,7,20,10,2,207.0,302.0,19
+969,how speechlike is jingle bells,112,178,7,20,10,2,303.0,453.0,30
+970,sticky notes,244,178,7,20,10,2,454.0,514.0,12
+971,open instagram,178,178,7,20,10,2,515.0,585.0,14
+972,open netflix,238,178,7,20,10,2,586.0,646.0,12
+973,my google drive files larger than hundred megabytes,63,178,7,20,10,2,647.0,902.0,51
+974,play uptown funnk,141,179,8,20,10,2,1.0,137.0,17
+975,my seven recent instagram pictures,242,179,8,20,10,2,138.0,359.0,34
+976,sunset at chicago,108,179,8,20,10,2,360.0,496.0,17
+977,two pictures from curiosity rover,60,179,8,20,10,2,497.0,713.0,33
+978,play the artist david bowie,37,179,8,20,10,2,714.0,900.0,27
+979,when a new paper is published in category biology on arxiv,250,180,9,20,10,2,1.0,309.0,58
+980,show the movies playing near me,55,180,9,20,10,2,310.0,483.0,31
+981,opinions washington post's articles,58,180,9,20,10,2,484.0,677.0,35
+982,the blog powerpost of the washington post,95,180,9,20,10,2,678.0,901.0,41
+983,play uptown funnk on spotify,154,181,1,21,11,1,1.0,142.0,28
+984,play adele on spotify,227,181,1,21,11,1,143.0,249.0,21
+985,a random fact,134,181,1,21,11,1,250.0,316.0,13
+986,latest papers in category chemistry on arxiv,120,181,1,21,11,1,317.0,538.0,44
+987,order me a black macchiato,64,181,1,21,11,1,539.0,670.0,26
+988,lower the shades,25,181,1,21,11,1,671.0,752.0,16
+989,put the entrance curtains down,50,181,1,21,11,1,753.0,904.0,30
+990,curiosity rover,220,182,2,21,11,1,1.0,85.0,15
+991,youtube channels with category paid,103,182,2,21,11,1,86.0,270.0,35
+992,sunrise at singapore,117,182,2,21,11,1,271.0,380.0,20
+993,my appointments,114,182,2,21,11,1,381.0,465.0,15
+994,help me open the entrance window,142,182,2,21,11,1,466.0,635.0,32
+995,the valence of counting stars,222,182,2,21,11,1,636.0,790.0,29
+996,is uptown funnk live,18,182,2,21,11,1,791.0,900.0,20
+997,donald trump's quote,72,183,3,21,11,1,1.0,119.0,20
+998,the weather in singapore,67,183,3,21,11,1,120.0,258.0,24
+999,trivia about nine,84,183,3,21,11,1,259.0,362.0,17
+1000,answer the call,23,183,3,21,11,1,363.0,456.0,15
+1001,the loudness of uptown funnk,199,183,3,21,11,1,457.0,615.0,28
+1002,add song rolling in the deep to my playlist dance mood,16,183,3,21,11,1,616.0,904.0,54
+1003,play the song yesterday,203,184,4,21,11,1,1.0,150.0,23
+1004,the key of counting stars,149,184,4,21,11,1,151.0,310.0,25
+1005,my google drive files smaller than fifty megabytes,40,184,4,21,11,1,311.0,595.0,50
+1006,is uptown funnk instrumental,230,184,4,21,11,1,596.0,770.0,28
+1007,a random xkcd comic,19,184,4,21,11,1,771.0,900.0,19
+1008,when a new paper is published in category chemistry on arxiv,131,185,5,21,11,1,1.0,331.0,60
+1009,facts about the year twenty twelve,214,185,5,21,11,1,332.0,532.0,34
+1010,the key of song yesterday,109,185,5,21,11,1,533.0,688.0,25
+1011,the time signature of song yesterday,179,185,5,21,11,1,689.0,899.0,36
+1012,the valence of counting stars,222,186,6,21,11,1,1.0,156.0,29
+1013,how dancey is counting stars,101,186,6,21,11,1,157.0,307.0,28
+1014,how energetic is yesterday,169,186,6,21,11,1,308.0,448.0,26
+1015,sunrise and sunset for location chicago,144,186,6,21,11,1,449.0,654.0,39
+1016,how speechlike is jingle bells,112,186,6,21,11,1,655.0,815.0,30
+1017,trivia about pi,61,186,6,21,11,1,816.0,901.0,15
+1018,the tempo of song yesterday,150,187,7,21,11,1,1.0,159.0,27
+1019,show me the nearest gas stations,35,187,7,21,11,1,160.0,343.0,32
+1020,a picture from giphy,192,187,7,21,11,1,344.0,467.0,20
+1021,the danceability of yesterday,247,187,7,21,11,1,468.0,636.0,29
+1022,the key of this song,46,187,7,21,11,1,637.0,760.0,20
+1023,shut the entrance window,51,187,7,21,11,1,761.0,904.0,24
+1024,the key of song uptown funnk,140,188,8,21,11,1,1.0,149.0,28
+1025,the speechiness of uptown funnk,73,188,8,21,11,1,150.0,313.0,31
+1026,information on wikicfp,5,188,8,21,11,1,314.0,432.0,22
+1027,two pictures from curiosity rover,60,188,8,21,11,1,433.0,606.0,33
+1028,the weather in boston,34,188,8,21,11,1,607.0,720.0,21
+1029,how dancey is the song uptown funnk,29,188,8,21,11,1,721.0,904.0,35
+1030,set volume on my speaker to thirty percent,132,189,9,21,11,1,1.0,215.0,42
+1031,on spotify play uptown funnk,49,189,9,21,11,1,216.0,360.0,28
+1032,a translation to french,7,189,9,21,11,1,361.0,480.0,23
+1033,five dog pictures,36,189,9,21,11,1,481.0,570.0,17
+1034,turn off repeat,235,189,9,21,11,1,571.0,650.0,15
+1035,set the volume of my bluetooth speaker to seventy,229,189,9,21,11,1,651.0,900.0,49
+1036,two dog pictures,240,190,1,22,11,2,1.0,96.0,16
+1037,a fact about dog,119,190,1,22,11,2,97.0,192.0,16
+1038,the energy of the current song,164,190,1,22,11,2,193.0,358.0,30
+1039,facts about the year twenty eighteen,162,190,1,22,11,2,359.0,554.0,36
+1040,decrease brightness,115,190,1,22,11,2,555.0,665.0,19
+1041,the instrumentalness of despacito,33,190,1,22,11,2,666.0,846.0,33
+1042,my gmail,197,190,1,22,11,2,847.0,902.0,8
+1043,save the current track,41,191,2,22,11,2,1.0,146.0,22
+1044,a translation to english,202,191,2,22,11,2,147.0,302.0,24
+1045,help me open the entrance window,142,191,2,22,11,2,303.0,498.0,32
+1046,my google drive files larger than hundred megabytes,63,191,2,22,11,2,499.0,789.0,51
+1047,start the timer,201,191,2,22,11,2,790.0,900.0,15
+1048,the time signature of song uptown funnk,186,192,3,22,11,2,1.0,205.0,39
+1049,how loud is yesterday,136,192,3,22,11,2,206.0,320.0,21
+1050,set the temperature to twenty four degrees on my thermostat,211,192,3,22,11,2,321.0,625.0,59
+1051,make note of my weight on fitbit,221,192,3,22,11,2,626.0,795.0,32
+1052,call mom on speaker,86,192,3,22,11,2,796.0,900.0,19
+1053,turn down the volume,157,193,4,22,11,2,1.0,169.0,20
+1054,facts about one,241,193,4,22,11,2,170.0,313.0,15
+1055,the danceability of the song counting stars,226,193,4,22,11,2,314.0,597.0,43
+1056,add the album meteora to my playlist dance mood,43,193,4,22,11,2,598.0,901.0,47
+1057,set the temperature of my tesla car to nineteen degrees,57,194,5,22,11,2,1.0,277.0,55
+1058,a random gif from giphy,38,194,5,22,11,2,278.0,394.0,23
+1059,my seven latest instagram pictures,170,194,5,22,11,2,395.0,566.0,34
+1060,share a picture on imgur,10,194,5,22,11,2,567.0,688.0,24
+1061,move the entrance fan,48,194,5,22,11,2,689.0,795.0,21
+1062,what does trump think,172,194,5,22,11,2,796.0,902.0,21
+1063,set my bluetooth speaker to thirty percent,42,195,6,22,11,2,1.0,224.0,42
+1064,opinions washington post's articles,58,195,6,22,11,2,225.0,413.0,35
+1065,play the song rolling in the deep on spotify,2,195,6,22,11,2,414.0,647.0,44
+1066,the five latest instagram pictures on my account,68,195,6,22,11,2,648.0,901.0,48
+1067,play despacito,183,196,7,22,11,2,1.0,74.0,14
+1068,trump's quote,217,196,7,22,11,2,75.0,143.0,13
+1069,call my father,31,196,7,22,11,2,144.0,217.0,14
+1070,the speechiness of song yesterday,122,196,7,22,11,2,218.0,386.0,33
+1071,washington post national,111,196,7,22,11,2,387.0,510.0,24
+1072,math facts about nine,246,196,7,22,11,2,511.0,619.0,21
+1073,sunrise and sunset times at chicago,92,196,7,22,11,2,620.0,798.0,35
+1074,the key of yesterday,107,196,7,22,11,2,799.0,902.0,20
+1075,set night mode,12,197,8,22,11,2,1.0,81.0,14
+1076,causes youtube channels,145,197,8,22,11,2,82.0,207.0,23
+1077,turn on airplane mode,204,197,8,22,11,2,208.0,323.0,21
+1078,math facts about one,245,197,8,22,11,2,324.0,434.0,20
+1079,show me the nearest restaurants,213,197,8,22,11,2,435.0,600.0,31
+1080,the energy of counting stars,100,197,8,22,11,2,601.0,751.0,28
+1081,my mp3 files in google drive,243,197,8,22,11,2,752.0,902.0,28
+1082,my google drive files of type pdf,85,198,9,22,11,2,1.0,185.0,33
+1083,open instagram,178,198,9,22,11,2,186.0,275.0,14
+1084,nine dog pictures,69,198,9,22,11,2,276.0,380.0,17
+1085,images from imgur usersub with more than two thousand points,87,198,9,22,11,2,381.0,700.0,60
+1086,the speechiness of song uptown funnk,160,198,9,22,11,2,701.0,900.0,36
+1087,sunrise at singapore,117,199,1,23,12,1,1.0,143.0,20
+1088,my google drive files larger than fifty megabytes,22,199,1,23,12,1,144.0,431.0,49
+1089,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,199,1,23,12,1,432.0,899.0,85
+1090,play the artist michael jackson,182,200,2,23,12,1,1.0,195.0,31
+1091,the valence of despacito,13,200,2,23,12,1,196.0,355.0,24
+1092,what is the weather in paris tomorrow,139,200,2,23,12,1,356.0,580.0,37
+1093,make the fan swing,110,200,2,23,12,1,581.0,710.0,18
+1094,put the entrance curtains down,50,200,2,23,12,1,711.0,900.0,30
+1095,set the temperature to nineteen degrees on my thermostat,1,201,3,23,12,1,1.0,281.0,56
+1096,the instrumentalness of yesterday,66,201,3,23,12,1,282.0,447.0,33
+1097,seven dog pictures,193,201,3,23,12,1,448.0,538.0,18
+1098,three cat pictures,6,201,3,23,12,1,539.0,629.0,18
+1099,order me a latte,138,201,3,23,12,1,630.0,710.0,16
+1100,what is the weather in london tomorrow,194,201,3,23,12,1,711.0,901.0,38
+1101,how upbeat is counting stars,210,202,4,23,12,1,1.0,150.0,28
+1102,the valence of uptown funnk,65,202,4,23,12,1,151.0,295.0,27
+1103,change the volume of my lg tv,174,202,4,23,12,1,296.0,450.0,29
+1104,tasks from the last two days days from wunderlist,15,202,4,23,12,1,451.0,705.0,49
+1105,how dancey is the song counting stars,8,202,4,23,12,1,706.0,900.0,37
+1106,set an alarm for eight am,14,203,5,23,12,1,1.0,140.0,25
+1107,play uptown funnk,141,203,5,23,12,1,141.0,240.0,17
+1108,the tempo of uptown funnk,188,203,5,23,12,1,241.0,380.0,25
+1109,read my new email,75,203,5,23,12,1,381.0,480.0,17
+1110,a random fact,134,203,5,23,12,1,481.0,560.0,13
+1111,how positive is uptown funnk,148,203,5,23,12,1,561.0,715.0,28
+1112,youtube channels with category paid,103,203,5,23,12,1,716.0,905.0,35
+1113,the time signature of yesterday,78,204,6,23,12,1,1.0,186.0,31
+1114,when a new paper is published in category geography on arxiv,159,204,6,23,12,1,187.0,517.0,60
+1115,what is the weather in singapore tomorrow,91,204,6,23,12,1,518.0,753.0,41
+1116,the bpm of uptown funnk,190,204,6,23,12,1,754.0,899.0,23
+1117,the last event detected by my security camera,151,205,7,23,12,1,1.0,241.0,45
+1118,my calendar events,225,205,7,23,12,1,242.0,347.0,18
+1119,the energy of song counting stars,233,205,7,23,12,1,348.0,528.0,33
+1120,sticky notes,244,205,7,23,12,1,529.0,604.0,12
+1121,add despacito to my playlist,102,205,7,23,12,1,605.0,760.0,28
+1122,skip this song on spotify,133,205,7,23,12,1,761.0,901.0,25
+1123,set the temperature to eighteen degrees on my thermostat,20,206,8,23,12,1,1.0,352.0,56
+1124,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,206,8,23,12,1,353.0,899.0,95
+1125,get the battery level of my tesla car,177,207,9,23,12,1,1.0,205.0,37
+1126,steam id,248,207,9,23,12,1,206.0,265.0,8
+1127,how loud is uptown funnk,137,207,9,23,12,1,266.0,405.0,24
+1128,stop my entrance fan from oscillating,147,207,9,23,12,1,406.0,610.0,37
+1129,where is my next meeting,124,207,9,23,12,1,611.0,750.0,24
+1130,order me a black macchiato,64,207,9,23,12,1,751.0,900.0,26
+1131,value in dollars of ethereum,4,208,1,24,12,2,1.0,151.0,28
+1132,how upbeat is uptown funnk,218,208,1,24,12,2,152.0,292.0,26
+1133,sunset at chicago,108,208,1,24,12,2,293.0,388.0,17
+1134,curiosity rover,220,208,1,24,12,2,389.0,474.0,15
+1135,the tempo of yesterday,74,208,1,24,12,2,475.0,595.0,22
+1136,call home,224,208,1,24,12,2,596.0,651.0,9
+1137,my google drive files that changed most recently,79,208,1,24,12,2,652.0,902.0,48
+1138,is uptown funnk live,18,209,2,24,12,2,1.0,112.0,20
+1139,my five latest instagram pictures,155,209,2,24,12,2,113.0,289.0,33
+1140,when a new paper is published in category biology on arxiv,250,209,2,24,12,2,290.0,591.0,58
+1141,where is my tesla car,9,209,2,24,12,2,592.0,708.0,21
+1142,the front page of the new york times,126,209,2,24,12,2,709.0,900.0,36
+1143,play yesterday,166,210,3,24,12,2,1.0,80.0,14
+1144,the liveness of counting stars,11,210,3,24,12,2,81.0,240.0,30
+1145,my seven recent instagram pictures,242,210,3,24,12,2,241.0,420.0,34
+1146,play adele on spotify,227,210,3,24,12,2,421.0,535.0,21
+1147,ars's latest news,130,210,3,24,12,2,536.0,630.0,17
+1148,check my voicemail,146,210,3,24,12,2,631.0,730.0,18
+1149,the new york times sports section,47,210,3,24,12,2,731.0,905.0,33
+1150,set my bluetooth speaker to ninety percent,173,211,4,24,12,2,1.0,238.0,42
+1151,lifestyle youtube channels,93,211,4,24,12,2,239.0,396.0,26
+1152,my nine recent instagram pictures,94,211,4,24,12,2,397.0,589.0,33
+1153,how speechlike is uptown funnk,168,211,4,24,12,2,590.0,767.0,30
+1154,play the artist adele,99,211,4,24,12,2,768.0,900.0,21
+1155,show the movies playing near me,55,212,5,24,12,2,1.0,166.0,31
+1156,get status of my current ride,223,212,5,24,12,2,167.0,322.0,29
+1157,the acousticness of uptown funnk,165,212,5,24,12,2,323.0,493.0,32
+1158,upload a picture to onedrive,32,212,5,24,12,2,494.0,644.0,28
+1159,create a new empty file in onedrive,70,212,5,24,12,2,645.0,830.0,35
+1160,open netflix,238,212,5,24,12,2,831.0,901.0,12
+1161,my two recent instagram pictures,161,213,6,24,12,2,1.0,183.0,32
+1162,show my tasks,54,213,6,24,12,2,184.0,271.0,13
+1163,put the shades up,181,213,6,24,12,2,272.0,379.0,17
+1164,the time signature of counting stars,53,213,6,24,12,2,380.0,582.0,36
+1165,images from imgur usersub with more than six hundred points,71,213,6,24,12,2,583.0,900.0,59
+1166,play the artist david bowie,37,214,7,24,12,2,1.0,148.0,27
+1167,add counting stars to my playlist,234,214,7,24,12,2,149.0,326.0,33
+1168,the current weather at singapore,97,214,7,24,12,2,327.0,499.0,32
+1169,the liveness of jingle bells,77,214,7,24,12,2,500.0,652.0,28
+1170,value in dollars of litecoin,187,214,7,24,12,2,653.0,805.0,28
+1171,price of litecoin,175,214,7,24,12,2,806.0,903.0,17
+1172,the instrumentalness of song yesterday,128,215,8,24,12,2,1.0,195.0,38
+1173,what is the weather in chicago tomorrow,45,215,8,24,12,2,196.0,395.0,39
+1174,when is my next appointment,121,215,8,24,12,2,396.0,535.0,27
+1175,open facebook,125,215,8,24,12,2,536.0,605.0,13
+1176,the speechiness of yesterday,24,215,8,24,12,2,606.0,750.0,28
+1177,weather in singapore tomorrow,17,215,8,24,12,2,751.0,900.0,29
+1178,my google drive files of type mp3,28,216,9,24,12,2,1.0,179.0,33
+1179,moon phase for location singapore,21,216,9,24,12,2,180.0,358.0,33
+1180,the state of the motion sensor,76,216,9,24,12,2,359.0,522.0,30
+1181,order me an iced caramel macchiato,96,216,9,24,12,2,523.0,706.0,34
+1182,turn the switch on,152,216,9,24,12,2,707.0,810.0,18
+1183,my latest email,212,216,9,24,12,2,811.0,899.0,15
+1184,mathematical trivia about five,191,217,1,25,13,1,1.0,214.0,30
+1185,mature images from imgur,52,217,1,25,13,1,215.0,398.0,24
+1186,my google drive files modified today,30,217,1,25,13,1,399.0,642.0,36
+1187,set my thermostat to twenty one degrees,198,217,1,25,13,1,643.0,901.0,39
+1188,completed tasks from the last two days on wunderlist,27,218,2,25,13,1,1.0,266.0,52
+1189,order me a black latte,239,218,2,25,13,1,267.0,382.0,22
+1190,set volume on my speaker to ninety percent,249,218,2,25,13,1,383.0,598.0,42
+1191,paper in category mathematics on arxiv,156,218,2,25,13,1,599.0,794.0,38
+1192,plot a math function,167,218,2,25,13,1,795.0,900.0,20
+1193,sunrise and sunset for location singapore,143,219,3,25,13,1,1.0,219.0,41
+1194,lower the shades,25,219,3,25,13,1,220.0,313.0,16
+1195,interesting facts about the number nine,26,219,3,25,13,1,314.0,522.0,39
+1196,the weather in singapore,67,219,3,25,13,1,523.0,656.0,24
+1197,a picture from curiosity,176,219,3,25,13,1,657.0,790.0,24
+1198,play counting stars,200,219,3,25,13,1,791.0,899.0,19
+1199,the liveness of uptown funnk,56,220,4,25,13,1,1.0,172.0,28
+1200,on the fan,113,220,4,25,13,1,173.0,254.0,10
+1201,the energy of yesterday,104,220,4,25,13,1,255.0,401.0,23
+1202,how windy is it out there,171,220,4,25,13,1,402.0,558.0,25
+1203,youtube channels with category comedy,208,220,4,25,13,1,559.0,775.0,37
+1204,turn on my computer,216,220,4,25,13,1,776.0,902.0,19
+1205,washington post's post everything blog,116,221,5,25,13,1,1.0,195.0,38
+1206,my top tracks,105,221,5,25,13,1,196.0,265.0,13
+1207,the tempo of the current song,236,221,5,25,13,1,266.0,415.0,29
+1208,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,221,5,25,13,1,416.0,900.0,96
+1209,close the damper,81,222,6,25,13,1,1.0,97.0,16
+1210,turn off wi-fi,215,222,6,25,13,1,98.0,184.0,14
+1211,sunrise and sunset times at singapore,98,222,6,25,13,1,185.0,386.0,37
+1212,how loud is counting stars,106,222,6,25,13,1,387.0,533.0,26
+1213,my nine latest instagram pictures,90,222,6,25,13,1,534.0,715.0,33
+1214,the time signature of uptown funnk,153,222,6,25,13,1,716.0,902.0,34
+1215,the blog powerpost of the washington post,95,223,7,25,13,1,1.0,230.0,41
+1216,what is the weather in boston tomorrow,196,223,7,25,13,1,231.0,445.0,38
+1217,youtube's comedy channels,127,223,7,25,13,1,446.0,595.0,25
+1218,show me the bus route to home,219,223,7,25,13,1,596.0,765.0,29
+1219,the weather in chicago,231,223,7,25,13,1,766.0,900.0,22
+1220,set my bluetooth speaker to seventy percent,135,224,8,25,13,1,1.0,219.0,43
+1221,seven cat pictures,205,224,8,25,13,1,220.0,313.0,18
+1222,the blog morning mix of the washington post,89,224,8,25,13,1,314.0,532.0,43
+1223,add the album meteora to my playlist favourite songs,62,224,8,25,13,1,533.0,796.0,52
+1224,donald trump's quote,72,224,8,25,13,1,797.0,900.0,20
+1225,how upbeat is despacito,185,225,9,25,13,1,1.0,133.0,23
+1226,on spotify play yesterday,209,225,9,25,13,1,134.0,276.0,25
+1227,add a song to my playlist,189,225,9,25,13,1,277.0,419.0,25
+1228,create a new empty folder in dropbox,80,225,9,25,13,1,420.0,617.0,36
+1229,my appointments,114,225,9,25,13,1,618.0,710.0,15
+1230,set the volume of my lg tv to fifty,163,225,9,25,13,1,711.0,903.0,35
+1231,play the songs uptown funnk on spotify,206,226,1,26,13,2,1.0,213.0,38
+1232,show my current location,44,226,1,26,13,2,214.0,356.0,24
+1233,wiki call for paper,82,226,1,26,13,2,357.0,474.0,19
+1234,set the volume of my lg tv to hundred,123,226,1,26,13,2,475.0,682.0,37
+1235,what movies are coming out this weekend,88,226,1,26,13,2,683.0,900.0,39
+1236,the instrumentalness of counting stars,207,227,2,26,13,2,1.0,202.0,38
+1237,wsj world news articles,237,227,2,26,13,2,203.0,329.0,23
+1238,play uptown funnk on spotify,154,227,2,26,13,2,330.0,481.0,28
+1239,trivia about nine,84,227,2,26,13,2,482.0,578.0,17
+1240,paper in category geography on arxiv,158,227,2,26,13,2,579.0,770.0,36
+1241,the valence of yesterday,232,227,2,26,13,2,771.0,902.0,24
+1242,how positive is yesterday,3,228,3,26,13,2,1.0,165.0,25
+1243,movie information,228,228,3,26,13,2,166.0,290.0,17
+1244,make a playlist,195,228,3,26,13,2,291.0,405.0,15
+1245,interesting facts about the number three,59,228,3,26,13,2,406.0,645.0,40
+1246,paper in category computer science on arxiv,129,228,3,26,13,2,646.0,900.0,43
+1247,add the album parachutes to my playlist sad songs,184,229,4,26,13,2,1.0,267.0,49
+1248,latest papers in category chemistry on arxiv,120,229,4,26,13,2,268.0,509.0,44
+1249,a quote,118,229,4,26,13,2,510.0,566.0,7
+1250,sunset at chicago,108,229,4,26,13,2,567.0,673.0,17
+1251,play uptown funnk on spotify,154,229,4,26,13,2,674.0,835.0,28
+1252,call home,224,229,4,26,13,2,836.0,902.0,9
+1253,opinions washington post's articles,58,230,5,26,13,2,1.0,209.0,35
+1254,a quote,118,230,5,26,13,2,210.0,278.0,7
+1255,the time signature of song uptown funnk,186,230,5,26,13,2,279.0,507.0,39
+1256,the time signature of song yesterday,179,230,5,26,13,2,508.0,721.0,36
+1257,show me the bus route to home,219,230,5,26,13,2,722.0,900.0,29
+1258,add the album parachutes to my playlist sad songs,184,231,6,26,13,2,1.0,295.0,49
+1259,mathematical trivia about five,191,231,6,26,13,2,296.0,495.0,30
+1260,set volume on my speaker to thirty percent,132,231,6,26,13,2,496.0,755.0,42
+1261,decrease brightness,115,231,6,26,13,2,756.0,900.0,19
+1262,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,232,7,26,13,2,1.0,483.0,96
+1263,play the songs uptown funnk on spotify,206,232,7,26,13,2,484.0,676.0,38
+1264,the valence of counting stars,222,232,7,26,13,2,677.0,824.0,29
+1265,curiosity rover,220,232,7,26,13,2,825.0,902.0,15
+1266,add counting stars to my playlist,234,233,8,26,13,2,1.0,187.0,33
+1267,the key of song yesterday,109,233,8,26,13,2,188.0,334.0,25
+1268,turn off wi-fi,215,233,8,26,13,2,335.0,426.0,14
+1269,put the shades up,181,233,8,26,13,2,427.0,533.0,17
+1270,turn off repeat,235,233,8,26,13,2,534.0,630.0,15
+1271,causes youtube channels,145,233,8,26,13,2,631.0,767.0,23
+1272,a random gif from giphy,38,233,8,26,13,2,768.0,904.0,23
+1273,my nine latest instagram pictures,90,234,9,26,13,2,1.0,193.0,33
+1274,the valence of despacito,13,234,9,26,13,2,194.0,341.0,24
+1275,call mom on speaker,86,234,9,26,13,2,342.0,464.0,19
+1276,the instrumentalness of despacito,33,234,9,26,13,2,465.0,657.0,33
+1277,my gmail,197,234,9,26,13,2,658.0,725.0,8
+1278,the energy of the current song,164,234,9,26,13,2,726.0,903.0,30
+1279,the danceability of the song counting stars,226,235,1,27,14,1,1.0,235.0,43
+1280,latest papers in category chemistry on arxiv,120,235,1,27,14,1,236.0,475.0,44
+1281,a random fact,134,235,1,27,14,1,476.0,560.0,13
+1282,three cat pictures,6,235,1,27,14,1,561.0,670.0,18
+1283,set my bluetooth speaker to ninety percent,173,235,1,27,14,1,671.0,900.0,42
+1284,the valence of uptown funnk,65,236,2,27,14,1,1.0,138.0,27
+1285,order me an iced caramel macchiato,96,236,2,27,14,1,139.0,311.0,34
+1286,play yesterday,166,236,2,27,14,1,312.0,384.0,14
+1287,save the current track,41,236,2,27,14,1,385.0,497.0,22
+1288,play the artist michael jackson,182,236,2,27,14,1,498.0,655.0,31
+1289,tasks from the last two days days from wunderlist,15,236,2,27,14,1,656.0,903.0,49
+1290,the energy of song counting stars,233,237,3,27,14,1,1.0,204.0,33
+1291,steam id,248,237,3,27,14,1,205.0,283.0,8
+1292,the last event detected by my security camera,151,237,3,27,14,1,284.0,547.0,45
+1293,the time signature of yesterday,78,237,3,27,14,1,548.0,741.0,31
+1294,how loud is uptown funnk,137,237,3,27,14,1,742.0,900.0,24
+1295,set the temperature to eighteen degrees on my thermostat,20,238,4,27,14,1,1.0,304.0,56
+1296,play uptown funnk,141,238,4,27,14,1,305.0,413.0,17
+1297,the front page of the new york times,126,238,4,27,14,1,414.0,617.0,36
+1298,a random xkcd comic,19,238,4,27,14,1,618.0,736.0,19
+1299,upload a picture to onedrive,32,238,4,27,14,1,737.0,900.0,28
+1300,how dancey is counting stars,101,239,5,27,14,1,1.0,154.0,28
+1301,the five latest instagram pictures on my account,68,239,5,27,14,1,155.0,408.0,48
+1302,what is the weather in boston tomorrow,196,239,5,27,14,1,409.0,612.0,38
+1303,the liveness of uptown funnk,56,239,5,27,14,1,613.0,766.0,28
+1304,a translation to english,202,239,5,27,14,1,767.0,900.0,24
+1305,the acousticness of uptown funnk,165,240,6,27,14,1,1.0,196.0,32
+1306,plot a math function,167,240,6,27,14,1,197.0,332.0,20
+1307,the instrumentalness of yesterday,66,240,6,27,14,1,333.0,533.0,33
+1308,how loud is counting stars,106,240,6,27,14,1,534.0,699.0,26
+1309,the speechiness of song yesterday,122,240,6,27,14,1,700.0,900.0,33
+1310,paper in category computer science on arxiv,129,241,7,27,14,1,1.0,253.0,43
+1311,set my bluetooth speaker to thirty percent,42,241,7,27,14,1,254.0,501.0,42
+1312,my google drive files smaller than fifty megabytes,40,241,7,27,14,1,502.0,789.0,50
+1313,my appointments,114,241,7,27,14,1,790.0,902.0,15
+1314,my seven latest instagram pictures,170,242,8,27,14,1,1.0,175.0,34
+1315,how positive is yesterday,3,242,8,27,14,1,176.0,305.0,25
+1316,order me a black macchiato,64,242,8,27,14,1,306.0,440.0,26
+1317,trump's quote,217,242,8,27,14,1,441.0,510.0,13
+1318,play the artist adele,99,242,8,27,14,1,511.0,620.0,21
+1319,moon phase for location singapore,21,242,8,27,14,1,621.0,790.0,33
+1320,math facts about nine,246,242,8,27,14,1,791.0,900.0,21
+1321,two pictures from curiosity rover,60,243,9,27,14,1,1.0,203.0,33
+1322,when a new paper is published in category chemistry on arxiv,131,243,9,27,14,1,204.0,541.0,60
+1323,facts about the year twenty twelve,214,243,9,27,14,1,542.0,749.0,34
+1324,a translation to french,7,243,9,27,14,1,750.0,902.0,23
+1325,youtube channels with category paid,103,244,1,28,14,2,1.0,179.0,35
+1326,the energy of yesterday,104,244,1,28,14,2,180.0,298.0,23
+1327,images from imgur usersub with more than two thousand points,87,244,1,28,14,2,299.0,602.0,60
+1328,images from imgur usersub with more than six hundred points,71,244,1,28,14,2,603.0,901.0,59
+1329,how upbeat is uptown funnk,218,245,2,28,14,2,1.0,152.0,26
+1330,a picture from giphy,192,245,2,28,14,2,153.0,274.0,20
+1331,order me a black latte,239,245,2,28,14,2,275.0,406.0,22
+1332,the tempo of uptown funnk,188,245,2,28,14,2,407.0,553.0,25
+1333,help me open the entrance window,142,245,2,28,14,2,554.0,735.0,32
+1334,weather in singapore tomorrow,17,245,2,28,14,2,736.0,902.0,29
+1335,what is the weather in paris tomorrow,139,246,3,28,14,2,1.0,223.0,37
+1336,set the temperature to twenty four degrees on my thermostat,211,246,3,28,14,2,224.0,556.0,59
+1337,the liveness of jingle bells,77,246,3,28,14,2,557.0,734.0,28
+1338,how energetic is yesterday,169,246,3,28,14,2,735.0,902.0,26
+1339,completed tasks from the last two days on wunderlist,27,247,4,28,14,2,1.0,291.0,52
+1340,the weather in chicago,231,247,4,28,14,2,292.0,432.0,22
+1341,the tempo of the current song,236,247,4,28,14,2,433.0,608.0,29
+1342,add the album meteora to my playlist favourite songs,62,247,4,28,14,2,609.0,899.0,52
+1343,my seven recent instagram pictures,242,248,5,28,14,2,1.0,174.0,34
+1344,make note of my weight on fitbit,221,248,5,28,14,2,175.0,338.0,32
+1345,paper in category mathematics on arxiv,156,248,5,28,14,2,339.0,532.0,38
+1346,play the artist david bowie,37,248,5,28,14,2,533.0,671.0,27
+1347,youtube's comedy channels,127,248,5,28,14,2,672.0,800.0,25
+1348,the key of yesterday,107,248,5,28,14,2,801.0,904.0,20
+1349,price of litecoin,175,249,6,28,14,2,1.0,101.0,17
+1350,play adele on spotify,227,249,6,28,14,2,102.0,222.0,21
+1351,my google drive files larger than hundred megabytes,63,249,6,28,14,2,223.0,493.0,51
+1352,when is my next appointment,121,249,6,28,14,2,494.0,644.0,27
+1353,add a song to my playlist,189,249,6,28,14,2,645.0,785.0,25
+1354,turn down the volume,157,249,6,28,14,2,786.0,901.0,20
+1355,the valence of yesterday,232,250,7,28,14,2,1.0,121.0,24
+1356,on spotify play uptown funnk,49,250,7,28,14,2,122.0,262.0,28
+1357,trivia about nine,84,250,7,28,14,2,263.0,348.0,17
+1358,the energy of counting stars,100,250,7,28,14,2,349.0,489.0,28
+1359,add song rolling in the deep to my playlist dance mood,16,250,7,28,14,2,490.0,760.0,54
+1360,how positive is uptown funnk,148,250,7,28,14,2,761.0,901.0,28
+1361,show my tasks,54,251,8,28,14,2,1.0,86.0,13
+1362,create a new empty file in onedrive,70,251,8,28,14,2,87.0,282.0,35
+1363,is uptown funnk live,18,251,8,28,14,2,283.0,403.0,20
+1364,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,251,8,28,14,2,404.0,899.0,95
+1365,math facts about one,245,252,9,28,14,2,1.0,106.0,20
+1366,sunrise at singapore,117,252,9,28,14,2,107.0,212.0,20
+1367,set the temperature to nineteen degrees on my thermostat,1,252,9,28,14,2,213.0,498.0,56
+1368,my google drive files that changed most recently,79,252,9,28,14,2,499.0,744.0,48
+1369,trivia about pi,61,252,9,28,14,2,745.0,825.0,15
+1370,open instagram,178,252,9,28,14,2,826.0,901.0,14
+1371,paper in category geography on arxiv,158,253,1,29,15,1,1.0,220.0,36
+1372,sunrise and sunset for location chicago,144,253,1,29,15,1,221.0,455.0,39
+1373,my google drive files of type pdf,85,253,1,29,15,1,456.0,660.0,33
+1374,interesting facts about the number three,59,253,1,29,15,1,661.0,900.0,40
+1375,my google drive files modified today,30,254,2,29,15,1,1.0,201.0,36
+1376,movie information,228,254,2,29,15,1,202.0,307.0,17
+1377,the time signature of uptown funnk,153,254,2,29,15,1,308.0,498.0,34
+1378,how dancey is the song uptown funnk,29,254,2,29,15,1,499.0,694.0,35
+1379,sunrise and sunset times at singapore,98,254,2,29,15,1,695.0,900.0,37
+1380,how loud is yesterday,136,255,3,29,15,1,1.0,113.0,21
+1381,a picture from curiosity,176,255,3,29,15,1,114.0,241.0,24
+1382,set an alarm for eight am,14,255,3,29,15,1,242.0,374.0,25
+1383,add the album meteora to my playlist dance mood,43,255,3,29,15,1,375.0,617.0,47
+1384,the liveness of counting stars,11,255,3,29,15,1,618.0,775.0,30
+1385,the weather in singapore,67,255,3,29,15,1,776.0,903.0,24
+1386,skip this song on spotify,133,256,4,29,15,1,1.0,127.0,25
+1387,the current weather at singapore,97,256,4,29,15,1,128.0,289.0,32
+1388,the loudness of uptown funnk,199,256,4,29,15,1,290.0,431.0,28
+1389,move the entrance fan,48,256,4,29,15,1,432.0,538.0,21
+1390,share a picture on imgur,10,256,4,29,15,1,539.0,660.0,24
+1391,create a new empty folder in dropbox,80,256,4,29,15,1,661.0,842.0,36
+1392,sticky notes,244,256,4,29,15,1,843.0,904.0,12
+1393,the blog powerpost of the washington post,95,257,5,29,15,1,1.0,214.0,41
+1394,interesting facts about the number nine,26,257,5,29,15,1,215.0,418.0,39
+1395,set the volume of my bluetooth speaker to seventy,229,257,5,29,15,1,419.0,672.0,49
+1396,get status of my current ride,223,257,5,29,15,1,673.0,826.0,29
+1397,my top tracks,105,257,5,29,15,1,827.0,900.0,13
+1398,set the temperature of my tesla car to nineteen degrees,57,258,6,29,15,1,1.0,284.0,55
+1399,answer the call,23,258,6,29,15,1,285.0,368.0,15
+1400,shut the entrance window,51,258,6,29,15,1,369.0,497.0,24
+1401,play the song yesterday,203,258,6,29,15,1,498.0,621.0,23
+1402,lower the shades,25,258,6,29,15,1,622.0,710.0,16
+1403,get the battery level of my tesla car,177,258,6,29,15,1,711.0,904.0,37
+1404,set my bluetooth speaker to seventy percent,135,259,7,29,15,1,1.0,237.0,43
+1405,the new york times sports section,47,259,7,29,15,1,238.0,424.0,33
+1406,play counting stars,200,259,7,29,15,1,425.0,541.0,19
+1407,the tempo of song yesterday,150,259,7,29,15,1,542.0,698.0,27
+1408,the speechiness of song uptown funnk,160,259,7,29,15,1,699.0,900.0,36
+1409,set volume on my speaker to ninety percent,249,260,8,29,15,1,1.0,225.0,42
+1410,the bpm of uptown funnk,190,260,8,29,15,1,226.0,355.0,23
+1411,my calendar events,225,260,8,29,15,1,356.0,460.0,18
+1412,sunrise and sunset times at chicago,92,260,8,29,15,1,461.0,650.0,35
+1413,lifestyle youtube channels,93,260,8,29,15,1,651.0,795.0,26
+1414,turn the switch on,152,260,8,29,15,1,796.0,900.0,18
+1415,the instrumentalness of song yesterday,128,261,9,29,15,1,1.0,196.0,38
+1416,show me the nearest restaurants,213,261,9,29,15,1,197.0,357.0,31
+1417,the key of this song,46,261,9,29,15,1,358.0,463.0,20
+1418,on spotify play yesterday,209,261,9,29,15,1,464.0,594.0,25
+1419,what is the weather in singapore tomorrow,91,261,9,29,15,1,595.0,805.0,41
+1420,seven cat pictures,205,261,9,29,15,1,806.0,901.0,18
+1421,my google drive files of type mp3,28,262,1,30,15,2,1.0,174.0,33
+1422,my google drive files larger than fifty megabytes,22,262,1,30,15,2,175.0,428.0,49
+1423,the state of the motion sensor,76,262,1,30,15,2,429.0,587.0,30
+1424,set night mode,12,262,1,30,15,2,588.0,666.0,14
+1425,put the entrance curtains down,50,262,1,30,15,2,667.0,825.0,30
+1426,call my father,31,262,1,30,15,2,826.0,904.0,14
+1427,check my voicemail,146,263,2,30,15,2,1.0,104.0,18
+1428,the blog morning mix of the washington post,89,263,2,30,15,2,105.0,333.0,43
+1429,order me a latte,138,263,2,30,15,2,334.0,427.0,16
+1430,read my new email,75,263,2,30,15,2,428.0,526.0,17
+1431,five dog pictures,36,263,2,30,15,2,527.0,625.0,17
+1432,the instrumentalness of counting stars,207,263,2,30,15,2,626.0,829.0,38
+1433,open netflix,238,263,2,30,15,2,830.0,903.0,12
+1434,play the song rolling in the deep on spotify,2,264,3,30,15,2,1.0,238.0,44
+1435,how speechlike is uptown funnk,168,264,3,30,15,2,239.0,406.0,30
+1436,open facebook,125,264,3,30,15,2,407.0,489.0,13
+1437,my mp3 files in google drive,243,264,3,30,15,2,490.0,647.0,28
+1438,the speechiness of yesterday,24,264,3,30,15,2,648.0,805.0,28
+1439,two dog pictures,240,264,3,30,15,2,806.0,903.0,16
+1440,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,265,4,30,15,2,1.0,449.0,85
+1441,how upbeat is counting stars,210,265,4,30,15,2,450.0,613.0,28
+1442,show me the nearest gas stations,35,265,4,30,15,2,614.0,797.0,32
+1443,a fact about dog,119,265,4,30,15,2,798.0,901.0,16
+1444,donald trump's quote,72,266,5,30,15,2,1.0,105.0,20
+1445,facts about one,241,266,5,30,15,2,106.0,185.0,15
+1446,close the damper,81,266,5,30,15,2,186.0,270.0,16
+1447,turn on airplane mode,204,266,5,30,15,2,271.0,380.0,21
+1448,how windy is it out there,171,266,5,30,15,2,381.0,510.0,25
+1449,set the volume of my lg tv to fifty,163,266,5,30,15,2,511.0,690.0,35
+1450,where is my tesla car,9,266,5,30,15,2,691.0,800.0,21
+1451,wiki call for paper,82,266,5,30,15,2,801.0,900.0,19
+1452,stop my entrance fan from oscillating,147,267,6,30,15,2,1.0,211.0,37
+1453,facts about the year twenty eighteen,162,267,6,30,15,2,212.0,417.0,36
+1454,change the volume of my lg tv,174,267,6,30,15,2,418.0,588.0,29
+1455,value in dollars of ethereum,4,267,6,30,15,2,589.0,754.0,28
+1456,where is my next meeting,124,267,6,30,15,2,755.0,900.0,24
+1457,set my thermostat to twenty one degrees,198,268,7,30,15,2,1.0,207.0,39
+1458,seven dog pictures,193,268,7,30,15,2,208.0,309.0,18
+1459,my nine recent instagram pictures,94,268,7,30,15,2,310.0,486.0,33
+1460,show the movies playing near me,55,268,7,30,15,2,487.0,653.0,31
+1461,how speechlike is jingle bells,112,268,7,30,15,2,654.0,815.0,30
+1462,my latest email,212,268,7,30,15,2,816.0,902.0,15
+1463,the tempo of yesterday,74,269,8,30,15,2,1.0,120.0,22
+1464,the danceability of yesterday,247,269,8,30,15,2,121.0,275.0,29
+1465,show my current location,44,269,8,30,15,2,276.0,405.0,24
+1466,what is the weather in chicago tomorrow,45,269,8,30,15,2,406.0,610.0,39
+1467,nine dog pictures,69,269,8,30,15,2,611.0,705.0,17
+1468,what does trump think,172,269,8,30,15,2,706.0,820.0,21
+1469,make a playlist,195,269,8,30,15,2,821.0,905.0,15
+1470,the time signature of counting stars,53,270,9,30,15,2,1.0,196.0,36
+1471,what movies are coming out this weekend,88,270,9,30,15,2,197.0,407.0,39
+1472,when a new paper is published in category geography on arxiv,159,270,9,30,15,2,408.0,723.0,60
+1473,my two recent instagram pictures,161,270,9,30,15,2,724.0,899.0,32
+1474,my five latest instagram pictures,155,271,1,31,16,1,1.0,172.0,33
+1475,how dancey is the song counting stars,8,271,1,31,16,1,173.0,364.0,37
+1476,youtube channels with category comedy,208,271,1,31,16,1,365.0,556.0,37
+1477,the key of song uptown funnk,140,271,1,31,16,1,557.0,703.0,28
+1478,what is the weather in london tomorrow,194,271,1,31,16,1,704.0,900.0,38
+1479,washington post national,111,272,2,31,16,1,1.0,137.0,24
+1480,start the timer,201,272,2,31,16,1,138.0,229.0,15
+1481,ars's latest news,130,272,2,31,16,1,230.0,331.0,17
+1482,sunrise and sunset for location singapore,143,272,2,31,16,1,332.0,553.0,41
+1483,value in dollars of litecoin,187,272,2,31,16,1,554.0,710.0,28
+1484,make the fan swing,110,272,2,31,16,1,711.0,817.0,18
+1485,play despacito,183,272,2,31,16,1,818.0,904.0,14
+1486,add despacito to my playlist,102,273,3,31,16,1,1.0,153.0,28
+1487,how upbeat is despacito,185,273,3,31,16,1,154.0,281.0,23
+1488,wsj world news articles,237,273,3,31,16,1,282.0,409.0,23
+1489,washington post's post everything blog,116,273,3,31,16,1,410.0,612.0,38
+1490,the speechiness of uptown funnk,73,273,3,31,16,1,613.0,780.0,31
+1491,information on wikicfp,5,273,3,31,16,1,781.0,903.0,22
+1492,the weather in boston,34,274,4,31,16,1,1.0,109.0,21
+1493,mature images from imgur,52,274,4,31,16,1,110.0,233.0,24
+1494,turn on my computer,216,274,4,31,16,1,234.0,332.0,19
+1495,when a new paper is published in category biology on arxiv,250,274,4,31,16,1,333.0,626.0,58
+1496,is uptown funnk instrumental,230,274,4,31,16,1,627.0,770.0,28
+1497,the key of counting stars,149,274,4,31,16,1,771.0,899.0,25
+1498,on the fan,113,275,5,31,16,1,1.0,144.0,10
+1499,set the volume of my lg tv to hundred,123,275,5,31,16,1,145.0,423.0,37
+1500,my seven recent instagram pictures,242,275,5,31,16,1,424.0,687.0,34
+1501,how loud is uptown funnk,137,275,5,31,16,1,688.0,901.0,24
+1502,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,276,6,31,16,1,1.0,480.0,85
+1503,the weather in boston,34,276,6,31,16,1,481.0,640.0,21
+1504,sunrise and sunset for location singapore,143,276,6,31,16,1,641.0,900.0,41
+1505,what is the weather in paris tomorrow,139,277,7,31,16,1,1.0,208.0,37
+1506,the time signature of yesterday,78,277,7,31,16,1,209.0,386.0,31
+1507,ars's latest news,130,277,7,31,16,1,387.0,494.0,17
+1508,three cat pictures,6,277,7,31,16,1,495.0,607.0,18
+1509,the liveness of uptown funnk,56,277,7,31,16,1,608.0,770.0,28
+1510,information on wikicfp,5,277,7,31,16,1,771.0,903.0,22
+1511,opinions washington post's articles,58,278,8,31,16,1,1.0,203.0,35
+1512,the time signature of counting stars,53,278,8,31,16,1,204.0,411.0,36
+1513,the instrumentalness of song yesterday,128,278,8,31,16,1,412.0,629.0,38
+1514,tasks from the last two days days from wunderlist,15,278,8,31,16,1,630.0,902.0,49
+1515,my google drive files larger than fifty megabytes,22,279,9,31,16,1,1.0,294.0,49
+1516,the instrumentalness of despacito,33,279,9,31,16,1,295.0,508.0,33
+1517,set volume on my speaker to thirty percent,132,279,9,31,16,1,509.0,767.0,42
+1518,sunset at chicago,108,279,9,31,16,1,768.0,901.0,17
+1519,completed tasks from the last two days on wunderlist,27,280,1,32,16,2,1.0,292.0,52
+1520,turn off wi-fi,215,280,1,32,16,2,293.0,394.0,14
+1521,open facebook,125,280,1,32,16,2,395.0,491.0,13
+1522,set the temperature to twenty four degrees on my thermostat,211,280,1,32,16,2,492.0,818.0,59
+1523,on the fan,113,280,1,32,16,2,819.0,900.0,10
+1524,the acousticness of uptown funnk,165,281,2,32,16,2,1.0,168.0,32
+1525,the time signature of uptown funnk,153,281,2,32,16,2,169.0,346.0,34
+1526,read my new email,75,281,2,32,16,2,347.0,439.0,17
+1527,paper in category geography on arxiv,158,281,2,32,16,2,440.0,627.0,36
+1528,stop my entrance fan from oscillating,147,281,2,32,16,2,628.0,820.0,37
+1529,turn off repeat,235,281,2,32,16,2,821.0,903.0,15
+1530,how upbeat is uptown funnk,218,282,3,32,16,2,1.0,183.0,26
+1531,move the entrance fan,48,282,3,32,16,2,184.0,341.0,21
+1532,make the fan swing,110,282,3,32,16,2,342.0,484.0,18
+1533,get status of my current ride,223,282,3,32,16,2,485.0,682.0,29
+1534,my nine latest instagram pictures,90,282,3,32,16,2,683.0,900.0,33
+1535,images from imgur usersub with more than two thousand points,87,283,4,32,16,2,1.0,325.0,60
+1536,the speechiness of yesterday,24,283,4,32,16,2,326.0,490.0,28
+1537,the instrumentalness of yesterday,66,283,4,32,16,2,491.0,680.0,33
+1538,the time signature of song uptown funnk,186,283,4,32,16,2,681.0,900.0,39
+1539,the tempo of song yesterday,150,284,5,32,16,2,1.0,179.0,27
+1540,the liveness of jingle bells,77,284,5,32,16,2,180.0,363.0,28
+1541,the state of the motion sensor,76,284,5,32,16,2,364.0,557.0,30
+1542,when a new paper is published in category chemistry on arxiv,131,284,5,32,16,2,558.0,901.0,60
+1543,youtube channels with category comedy,208,285,6,32,16,2,1.0,224.0,37
+1544,the new york times sports section,47,285,6,32,16,2,225.0,428.0,33
+1545,the valence of despacito,13,285,6,32,16,2,429.0,587.0,24
+1546,how upbeat is despacito,185,285,6,32,16,2,588.0,741.0,23
+1547,where is my next meeting,124,285,6,32,16,2,742.0,900.0,24
+1548,what is the weather in chicago tomorrow,45,286,7,32,16,2,1.0,207.0,39
+1549,my appointments,114,286,7,32,16,2,208.0,294.0,15
+1550,mature images from imgur,52,286,7,32,16,2,295.0,426.0,24
+1551,a translation to english,202,286,7,32,16,2,427.0,558.0,24
+1552,set volume on my speaker to ninety percent,249,286,7,32,16,2,559.0,780.0,42
+1553,the tempo of yesterday,74,286,7,32,16,2,781.0,902.0,22
+1554,the blog powerpost of the washington post,95,287,8,32,16,2,1.0,214.0,41
+1555,trivia about pi,61,287,8,32,16,2,215.0,298.0,15
+1556,facts about the year twenty eighteen,162,287,8,32,16,2,299.0,487.0,36
+1557,seven dog pictures,193,287,8,32,16,2,488.0,586.0,18
+1558,plot a math function,167,287,8,32,16,2,587.0,695.0,20
+1559,set my thermostat to twenty one degrees,198,287,8,32,16,2,696.0,899.0,39
+1560,my nine recent instagram pictures,94,288,9,32,16,2,1.0,206.0,33
+1561,set my bluetooth speaker to seventy percent,135,288,9,32,16,2,207.0,462.0,43
+1562,two pictures from curiosity rover,60,288,9,32,16,2,463.0,668.0,33
+1563,paper in category mathematics on arxiv,156,288,9,32,16,2,669.0,899.0,38
+1564,my five latest instagram pictures,155,289,1,33,17,1,1.0,180.0,33
+1565,play the artist david bowie,37,289,1,33,17,1,181.0,330.0,27
+1566,add despacito to my playlist,102,289,1,33,17,1,331.0,485.0,28
+1567,skip this song on spotify,133,289,1,33,17,1,486.0,625.0,25
+1568,help me open the entrance window,142,289,1,33,17,1,626.0,800.0,32
+1569,nine dog pictures,69,289,1,33,17,1,801.0,900.0,17
+1570,how loud is yesterday,136,290,2,33,17,1,1.0,120.0,21
+1571,the tempo of the current song,236,290,2,33,17,1,121.0,280.0,29
+1572,when is my next appointment,121,290,2,33,17,1,281.0,430.0,27
+1573,order me a black macchiato,64,290,2,33,17,1,431.0,575.0,26
+1574,turn down the volume,157,290,2,33,17,1,576.0,690.0,20
+1575,interesting facts about the number nine,26,290,2,33,17,1,691.0,900.0,39
+1576,the energy of counting stars,100,291,3,33,17,1,1.0,176.0,28
+1577,a picture from giphy,192,291,3,33,17,1,177.0,312.0,20
+1578,play the songs uptown funnk on spotify,206,291,3,33,17,1,313.0,538.0,38
+1579,the energy of the current song,164,291,3,33,17,1,539.0,724.0,30
+1580,the loudness of uptown funnk,199,291,3,33,17,1,725.0,900.0,28
+1581,set the temperature to nineteen degrees on my thermostat,1,292,4,33,17,1,1.0,348.0,56
+1582,add the album meteora to my playlist dance mood,43,292,4,33,17,1,349.0,651.0,47
+1583,create a new empty folder in dropbox,80,292,4,33,17,1,652.0,899.0,36
+1584,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,293,5,33,17,1,1.0,484.0,95
+1585,set the volume of my bluetooth speaker to seventy,229,293,5,33,17,1,485.0,738.0,49
+1586,a fact about dog,119,293,5,33,17,1,739.0,827.0,16
+1587,a random fact,134,293,5,33,17,1,828.0,901.0,13
+1588,create a new empty file in onedrive,70,294,6,33,17,1,1.0,210.0,35
+1589,how dancey is the song uptown funnk,29,294,6,33,17,1,211.0,420.0,35
+1590,the energy of song counting stars,233,294,6,33,17,1,421.0,620.0,33
+1591,add the album parachutes to my playlist sad songs,184,294,6,33,17,1,621.0,900.0,49
+1592,set the temperature of my tesla car to nineteen degrees,57,295,7,33,17,1,1.0,305.0,55
+1593,images from imgur usersub with more than six hundred points,71,295,7,33,17,1,306.0,630.0,59
+1594,play yesterday,166,295,7,33,17,1,631.0,730.0,14
+1595,how upbeat is counting stars,210,295,7,33,17,1,731.0,900.0,28
+1596,the five latest instagram pictures on my account,68,296,8,33,17,1,1.0,248.0,48
+1597,my calendar events,225,296,8,33,17,1,249.0,346.0,18
+1598,what is the weather in boston tomorrow,196,296,8,33,17,1,347.0,544.0,38
+1599,a quote,118,296,8,33,17,1,545.0,587.0,7
+1600,decrease brightness,115,296,8,33,17,1,588.0,690.0,19
+1601,what is the weather in singapore tomorrow,91,296,8,33,17,1,691.0,903.0,41
+1602,call home,224,297,9,33,17,1,1.0,55.0,9
+1603,value in dollars of litecoin,187,297,9,33,17,1,56.0,205.0,28
+1604,play the artist michael jackson,182,297,9,33,17,1,206.0,370.0,31
+1605,make a playlist,195,297,9,33,17,1,371.0,455.0,15
+1606,get the battery level of my tesla car,177,297,9,33,17,1,456.0,650.0,37
+1607,how energetic is yesterday,169,297,9,33,17,1,651.0,790.0,26
+1608,play the artist adele,99,297,9,33,17,1,791.0,905.0,21
+1609,the instrumentalness of counting stars,207,298,1,34,17,2,1.0,202.0,38
+1610,youtube's comedy channels,127,298,1,34,17,2,203.0,339.0,25
+1611,check my voicemail,146,298,1,34,17,2,340.0,441.0,18
+1612,the key of counting stars,149,298,1,34,17,2,442.0,578.0,25
+1613,price of litecoin,175,298,1,34,17,2,579.0,675.0,17
+1614,the blog morning mix of the washington post,89,298,1,34,17,2,676.0,902.0,43
+1615,turn on my computer,216,299,2,34,17,2,1.0,109.0,19
+1616,wsj world news articles,237,299,2,34,17,2,110.0,238.0,23
+1617,the weather in singapore,67,299,2,34,17,2,239.0,372.0,24
+1618,is uptown funnk live,18,299,2,34,17,2,373.0,486.0,20
+1619,the valence of yesterday,232,299,2,34,17,2,487.0,620.0,24
+1620,facts about the year twenty twelve,214,299,2,34,17,2,621.0,804.0,34
+1621,put the shades up,181,299,2,34,17,2,805.0,903.0,17
+1622,mathematical trivia about five,191,300,3,34,17,2,1.0,175.0,30
+1623,the key of yesterday,107,300,3,34,17,2,176.0,300.0,20
+1624,my google drive files of type pdf,85,300,3,34,17,2,301.0,490.0,33
+1625,washington post national,111,300,3,34,17,2,491.0,635.0,24
+1626,call mom on speaker,86,300,3,34,17,2,636.0,755.0,19
+1627,a picture from curiosity,176,300,3,34,17,2,756.0,900.0,24
+1628,add counting stars to my playlist,234,301,4,34,17,2,1.0,188.0,33
+1629,the key of song yesterday,109,301,4,34,17,2,189.0,336.0,25
+1630,the key of song uptown funnk,140,301,4,34,17,2,337.0,499.0,28
+1631,play the song yesterday,203,301,4,34,17,2,500.0,637.0,23
+1632,two dog pictures,240,301,4,34,17,2,638.0,740.0,16
+1633,how dancey is counting stars,101,301,4,34,17,2,741.0,903.0,28
+1634,is uptown funnk instrumental,230,302,5,34,17,2,1.0,164.0,28
+1635,the key of this song,46,302,5,34,17,2,165.0,288.0,20
+1636,what does trump think,172,302,5,34,17,2,289.0,417.0,21
+1637,what movies are coming out this weekend,88,302,5,34,17,2,418.0,636.0,39
+1638,where is my tesla car,9,302,5,34,17,2,637.0,765.0,21
+1639,causes youtube channels,145,302,5,34,17,2,766.0,904.0,23
+1640,interesting facts about the number three,59,303,6,34,17,2,1.0,219.0,40
+1641,play counting stars,200,303,6,34,17,2,220.0,333.0,19
+1642,answer the call,23,303,6,34,17,2,334.0,427.0,15
+1643,set an alarm for eight am,14,303,6,34,17,2,428.0,571.0,25
+1644,the speechiness of song uptown funnk,160,303,6,34,17,2,572.0,770.0,36
+1645,order me a black latte,239,303,6,34,17,2,771.0,899.0,22
+1646,when a new paper is published in category geography on arxiv,159,304,7,34,17,2,1.0,307.0,60
+1647,on spotify play uptown funnk,49,304,7,34,17,2,308.0,454.0,28
+1648,my top tracks,105,304,7,34,17,2,455.0,526.0,13
+1649,upload a picture to onedrive,32,304,7,34,17,2,527.0,673.0,28
+1650,math facts about nine,246,304,7,34,17,2,674.0,785.0,21
+1651,my gmail,197,304,7,34,17,2,786.0,832.0,8
+1652,trump's quote,217,304,7,34,17,2,833.0,904.0,13
+1653,the front page of the new york times,126,305,8,34,17,2,1.0,189.0,36
+1654,add song rolling in the deep to my playlist dance mood,16,305,8,34,17,2,190.0,468.0,54
+1655,a translation to french,7,305,8,34,17,2,469.0,592.0,23
+1656,how windy is it out there,171,305,8,34,17,2,593.0,726.0,25
+1657,the speechiness of song yesterday,122,305,8,34,17,2,727.0,900.0,33
+1658,the energy of yesterday,104,306,9,34,17,2,1.0,119.0,23
+1659,start the timer,201,306,9,34,17,2,120.0,198.0,15
+1660,play despacito,183,306,9,34,17,2,199.0,272.0,14
+1661,sunrise and sunset times at chicago,92,306,9,34,17,2,273.0,451.0,35
+1662,latest papers in category chemistry on arxiv,120,306,9,34,17,2,452.0,675.0,44
+1663,show me the nearest gas stations,35,306,9,34,17,2,676.0,839.0,32
+1664,open netflix,238,306,9,34,17,2,840.0,903.0,12
+1665,weather in singapore tomorrow,17,307,1,35,18,1,1.0,159.0,29
+1666,add a song to my playlist,189,307,1,35,18,1,160.0,298.0,25
+1667,the valence of counting stars,222,307,1,35,18,1,299.0,457.0,29
+1668,show my tasks,54,307,1,35,18,1,458.0,536.0,13
+1669,order me an iced caramel macchiato,96,307,1,35,18,1,537.0,720.0,34
+1670,moon phase for location singapore,21,307,1,35,18,1,721.0,899.0,33
+1671,washington post's post everything blog,116,308,2,35,18,1,1.0,193.0,38
+1672,when a new paper is published in category biology on arxiv,250,308,2,35,18,1,194.0,486.0,58
+1673,put the entrance curtains down,50,308,2,35,18,1,487.0,639.0,30
+1674,the speechiness of uptown funnk,73,308,2,35,18,1,640.0,797.0,31
+1675,donald trump's quote,72,308,2,35,18,1,798.0,900.0,20
+1676,show me the bus route to home,219,309,3,35,18,1,1.0,175.0,29
+1677,shut the entrance window,51,309,3,35,18,1,176.0,325.0,24
+1678,steam id,248,309,3,35,18,1,326.0,395.0,8
+1679,set my bluetooth speaker to thirty percent,42,309,3,35,18,1,396.0,635.0,42
+1680,change the volume of my lg tv,174,309,3,35,18,1,636.0,810.0,29
+1681,sticky notes,244,309,3,35,18,1,811.0,900.0,12
+1682,set my bluetooth speaker to ninety percent,173,310,4,35,18,1,1.0,233.0,42
+1683,how speechlike is jingle bells,112,310,4,35,18,1,234.0,406.0,30
+1684,the current weather at singapore,97,310,4,35,18,1,407.0,589.0,32
+1685,the time signature of song yesterday,179,310,4,35,18,1,590.0,792.0,36
+1686,play uptown funnk,141,310,4,35,18,1,793.0,900.0,17
+1687,value in dollars of ethereum,4,311,5,35,18,1,1.0,169.0,28
+1688,how positive is yesterday,3,311,5,35,18,1,170.0,323.0,25
+1689,play uptown funnk on spotify,154,311,5,35,18,1,324.0,492.0,28
+1690,close the damper,81,311,5,35,18,1,493.0,601.0,16
+1691,my two recent instagram pictures,161,311,5,35,18,1,602.0,790.0,32
+1692,movie information,228,311,5,35,18,1,791.0,904.0,17
+1693,set the volume of my lg tv to fifty,163,312,6,35,18,1,1.0,189.0,35
+1694,turn on airplane mode,204,312,6,35,18,1,190.0,308.0,21
+1695,share a picture on imgur,10,312,6,35,18,1,309.0,442.0,24
+1696,set the temperature to eighteen degrees on my thermostat,20,312,6,35,18,1,443.0,736.0,56
+1697,the liveness of counting stars,11,312,6,35,18,1,737.0,900.0,30
+1698,how loud is counting stars,106,313,7,35,18,1,1.0,137.0,26
+1699,curiosity rover,220,313,7,35,18,1,138.0,219.0,15
+1700,turn the switch on,152,313,7,35,18,1,220.0,316.0,18
+1701,play adele on spotify,227,313,7,35,18,1,317.0,428.0,21
+1702,sunrise and sunset times at singapore,98,313,7,35,18,1,429.0,620.0,37
+1703,the weather in chicago,231,313,7,35,18,1,621.0,737.0,22
+1704,show the movies playing near me,55,313,7,35,18,1,738.0,899.0,31
+1705,my google drive files smaller than fifty megabytes,40,314,8,35,18,1,1.0,277.0,50
+1706,show my current location,44,314,8,35,18,1,278.0,424.0,24
+1707,wiki call for paper,82,314,8,35,18,1,425.0,546.0,19
+1708,paper in category computer science on arxiv,129,314,8,35,18,1,547.0,788.0,43
+1709,trivia about nine,84,314,8,35,18,1,789.0,900.0,17
+1710,how dancey is the song counting stars,8,315,9,35,18,1,1.0,208.0,37
+1711,set night mode,12,315,9,35,18,1,209.0,301.0,14
+1712,how positive is uptown funnk,148,315,9,35,18,1,302.0,464.0,28
+1713,the tempo of uptown funnk,188,315,9,35,18,1,465.0,612.0,25
+1714,math facts about one,245,315,9,35,18,1,613.0,735.0,20
+1715,the danceability of yesterday,247,315,9,35,18,1,736.0,903.0,29
+1716,add the album meteora to my playlist favourite songs,62,316,1,36,18,2,1.0,293.0,52
+1717,set the volume of my lg tv to hundred,123,316,1,36,18,2,294.0,511.0,37
+1718,show me the nearest restaurants,213,316,1,36,18,2,512.0,699.0,31
+1719,my seven latest instagram pictures,170,316,1,36,18,2,700.0,902.0,34
+1720,the last event detected by my security camera,151,317,2,36,18,2,1.0,253.0,45
+1721,sunrise at singapore,117,317,2,36,18,2,254.0,381.0,20
+1722,my google drive files of type mp3,28,317,2,36,18,2,382.0,574.0,33
+1723,make note of my weight on fitbit,221,317,2,36,18,2,575.0,762.0,32
+1724,save the current track,41,317,2,36,18,2,763.0,900.0,22
+1725,my google drive files larger than hundred megabytes,63,318,3,36,18,2,1.0,263.0,51
+1726,the danceability of the song counting stars,226,318,3,36,18,2,264.0,486.0,43
+1727,the valence of uptown funnk,65,318,3,36,18,2,487.0,629.0,27
+1728,my latest email,212,318,3,36,18,2,630.0,712.0,15
+1729,seven cat pictures,205,318,3,36,18,2,713.0,810.0,18
+1730,five dog pictures,36,318,3,36,18,2,811.0,903.0,17
+1731,lower the shades,25,319,4,36,18,2,1.0,94.0,16
+1732,order me a latte,138,319,4,36,18,2,95.0,188.0,16
+1733,play the song rolling in the deep on spotify,2,319,4,36,18,2,189.0,422.0,44
+1734,the bpm of uptown funnk,190,319,4,36,18,2,423.0,551.0,23
+1735,youtube channels with category paid,103,319,4,36,18,2,552.0,740.0,35
+1736,how speechlike is uptown funnk,168,319,4,36,18,2,741.0,904.0,30
+1737,what is the weather in london tomorrow,194,320,5,36,18,2,1.0,193.0,38
+1738,on spotify play yesterday,209,320,5,36,18,2,194.0,321.0,25
+1739,a random xkcd comic,19,320,5,36,18,2,322.0,419.0,19
+1740,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,320,5,36,18,2,420.0,902.0,96
+1741,call my father,31,321,6,36,18,2,1.0,98.0,14
+1742,my google drive files that changed most recently,79,321,6,36,18,2,99.0,366.0,48
+1743,facts about one,241,321,6,36,18,2,367.0,469.0,15
+1744,sunrise and sunset for location chicago,144,321,6,36,18,2,470.0,692.0,39
+1745,my google drive files modified today,30,321,6,36,18,2,693.0,900.0,36
+1746,my mp3 files in google drive,243,322,7,36,18,2,1.0,164.0,28
+1747,open instagram,178,322,7,36,18,2,165.0,258.0,14
+1748,lifestyle youtube channels,93,322,7,36,18,2,259.0,412.0,26
+1749,a random gif from giphy,38,322,7,36,18,2,413.0,551.0,23
+1750,show me the nearest gas stations,35,322,7,36,18,2,552.0,735.0,32
+1751,show me the bus route to home,219,322,7,36,18,2,736.0,904.0,29
+1752,stop my entrance fan from oscillating,147,323,8,36,18,2,1.0,193.0,37
+1753,the weather in boston,34,323,8,36,18,2,194.0,306.0,21
+1754,the weather in chicago,231,323,8,36,18,2,307.0,424.0,22
+1755,order me a black macchiato,64,323,8,36,18,2,425.0,562.0,26
+1756,open facebook,125,323,8,36,18,2,563.0,635.0,13
+1757,turn down the volume,157,323,8,36,18,2,636.0,743.0,20
+1758,the state of the motion sensor,76,323,8,36,18,2,744.0,901.0,30
+1759,the valence of despacito,13,324,9,36,18,2,1.0,121.0,24
+1760,my google drive files of type pdf,85,324,9,36,18,2,122.0,287.0,33
+1761,ars's latest news,130,324,9,36,18,2,288.0,373.0,17
+1762,the time signature of song uptown funnk,186,324,9,36,18,2,374.0,569.0,39
+1763,my google drive files smaller than fifty megabytes,40,324,9,36,18,2,570.0,820.0,50
+1764,lower the shades,25,324,9,36,18,2,821.0,901.0,16
+1765,on spotify play yesterday,209,325,1,37,19,1,1.0,145.0,25
+1766,decrease brightness,115,325,1,37,19,1,146.0,260.0,19
+1767,my google drive files larger than hundred megabytes,63,325,1,37,19,1,261.0,535.0,51
+1768,the weather in singapore,67,325,1,37,19,1,536.0,675.0,24
+1769,sunrise and sunset for location singapore,143,325,1,37,19,1,676.0,900.0,41
+1770,put the entrance curtains down,50,326,2,37,19,1,1.0,163.0,30
+1771,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,39,326,2,37,19,1,164.0,651.0,95
+1772,the tempo of the current song,236,326,2,37,19,1,652.0,809.0,29
+1773,order me a latte,138,326,2,37,19,1,810.0,902.0,16
+1774,the danceability of the song counting stars,226,327,3,37,19,1,1.0,238.0,43
+1775,create a new empty folder in dropbox,80,327,3,37,19,1,239.0,441.0,36
+1776,images from imgur usersub with more than six hundred points,71,327,3,37,19,1,442.0,759.0,59
+1777,where is my next meeting,124,327,3,37,19,1,760.0,902.0,24
+1778,my seven recent instagram pictures,242,328,4,37,19,1,1.0,223.0,34
+1779,set volume on my speaker to ninety percent,249,328,4,37,19,1,224.0,486.0,42
+1780,trump's quote,217,328,4,37,19,1,487.0,604.0,13
+1781,how upbeat is despacito,185,328,4,37,19,1,605.0,772.0,23
+1782,turn off repeat,235,328,4,37,19,1,773.0,900.0,15
+1783,images from imgur usersub with more than two thousand points,87,329,5,37,19,1,1.0,355.0,60
+1784,value in dollars of ethereum,4,329,5,37,19,1,356.0,550.0,28
+1785,set the temperature to twenty four degrees on my thermostat,211,329,5,37,19,1,551.0,900.0,59
+1786,paper in category computer science on arxiv,129,330,6,37,19,1,1.0,218.0,43
+1787,call mom on speaker,86,330,6,37,19,1,219.0,316.0,19
+1788,my latest email,212,330,6,37,19,1,317.0,394.0,15
+1789,sticky notes,244,330,6,37,19,1,395.0,457.0,12
+1790,the five latest instagram pictures on my account,68,330,6,37,19,1,458.0,700.0,48
+1791,facts about one,241,330,6,37,19,1,701.0,778.0,15
+1792,show my current location,44,330,6,37,19,1,779.0,901.0,24
+1793,turn off wi-fi,215,331,7,37,19,1,1.0,85.0,14
+1794,upload a picture to onedrive,32,331,7,37,19,1,86.0,240.0,28
+1795,my google drive files that changed most recently,79,331,7,37,19,1,241.0,495.0,48
+1796,my nine latest instagram pictures,90,331,7,37,19,1,496.0,675.0,33
+1797,what does trump think,172,331,7,37,19,1,676.0,795.0,21
+1798,make the fan swing,110,331,7,37,19,1,796.0,900.0,18
+1799,two pictures from curiosity rover,60,332,8,37,19,1,1.0,178.0,33
+1800,sunrise and sunset for location chicago,144,332,8,37,19,1,179.0,386.0,39
+1801,set my thermostat to twenty one degrees,198,332,8,37,19,1,387.0,594.0,39
+1802,the tempo of song yesterday,150,332,8,37,19,1,595.0,742.0,27
+1803,a random xkcd comic,19,332,8,37,19,1,743.0,850.0,19
+1804,my gmail,197,332,8,37,19,1,851.0,903.0,8
+1805,the danceability of yesterday,247,333,9,37,19,1,1.0,161.0,29
+1806,the blog morning mix of the washington post,89,333,9,37,19,1,162.0,392.0,43
+1807,set night mode,12,333,9,37,19,1,393.0,478.0,14
+1808,how energetic is yesterday,169,333,9,37,19,1,479.0,624.0,26
+1809,how positive is uptown funnk,148,333,9,37,19,1,625.0,780.0,28
+1810,where is my tesla car,9,333,9,37,19,1,781.0,901.0,21
+1811,the energy of counting stars,100,334,1,38,19,2,1.0,142.0,28
+1812,how upbeat is uptown funnk,218,334,1,38,19,2,143.0,274.0,26
+1813,the key of counting stars,149,334,1,38,19,2,275.0,401.0,25
+1814,how loud is yesterday,136,334,1,38,19,2,402.0,508.0,21
+1815,save the current track,41,334,1,38,19,2,509.0,620.0,22
+1816,the time signature of uptown funnk,153,334,1,38,19,2,621.0,792.0,34
+1817,play the artist adele,99,334,1,38,19,2,793.0,899.0,21
+1818,the energy of yesterday,104,335,2,38,19,2,1.0,136.0,23
+1819,latest papers in category chemistry on arxiv,120,335,2,38,19,2,137.0,377.0,44
+1820,mature images from imgur,52,335,2,38,19,2,378.0,518.0,24
+1821,show the movies playing near me,55,335,2,38,19,2,519.0,694.0,31
+1822,sunrise and sunset times at singapore,98,335,2,38,19,2,695.0,900.0,37
+1823,washington post national,111,336,3,38,19,2,1.0,132.0,24
+1824,on the fan,113,336,3,38,19,2,133.0,194.0,10
+1825,turn on my computer,216,336,3,38,19,2,195.0,301.0,19
+1826,set the volume of my bluetooth speaker to seventy,229,336,3,38,19,2,302.0,558.0,49
+1827,set my bluetooth speaker to seventy percent,135,336,3,38,19,2,559.0,785.0,43
+1828,move the entrance fan,48,336,3,38,19,2,786.0,902.0,21
+1829,the speechiness of song yesterday,122,337,4,38,19,2,1.0,182.0,33
+1830,get the battery level of my tesla car,177,337,4,38,19,2,183.0,384.0,37
+1831,the liveness of jingle bells,77,337,4,38,19,2,385.0,541.0,28
+1832,interesting facts about the number three,59,337,4,38,19,2,542.0,758.0,40
+1833,youtube's comedy channels,127,337,4,38,19,2,759.0,900.0,25
+1834,the key of song yesterday,109,338,5,38,19,2,1.0,128.0,25
+1835,causes youtube channels,145,338,5,38,19,2,129.0,246.0,23
+1836,youtube channels with category comedy,208,338,5,38,19,2,247.0,434.0,37
+1837,the key of yesterday,107,338,5,38,19,2,435.0,537.0,20
+1838,play the songs uptown funnk on spotify,206,338,5,38,19,2,538.0,730.0,38
+1839,trivia about pi,61,338,5,38,19,2,731.0,808.0,15
+1840,check my voicemail,146,338,5,38,19,2,809.0,901.0,18
+1841,put the shades up,181,339,6,38,19,2,1.0,114.0,17
+1842,show my tasks,54,339,6,38,19,2,115.0,208.0,13
+1843,start the timer,201,339,6,38,19,2,209.0,312.0,15
+1844,a translation to french,7,339,6,38,19,2,313.0,456.0,23
+1845,tasks from the last two days days from wunderlist,15,339,6,38,19,2,457.0,730.0,49
+1846,get status of my current ride,223,339,6,38,19,2,731.0,904.0,29
+1847,set the temperature to eighteen degrees on my thermostat,20,340,7,38,19,2,1.0,311.0,56
+1848,sunrise and sunset times at chicago,92,340,7,38,19,2,312.0,517.0,35
+1849,three cat pictures,6,340,7,38,19,2,518.0,638.0,18
+1850,close the damper,81,340,7,38,19,2,639.0,749.0,16
+1851,a translation to english,202,340,7,38,19,2,750.0,900.0,24
+1852,what movies are coming out this weekend,88,341,8,38,19,2,1.0,204.0,39
+1853,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,341,8,38,19,2,205.0,693.0,96
+1854,the liveness of counting stars,11,341,8,38,19,2,694.0,852.0,30
+1855,steam id,248,341,8,38,19,2,853.0,901.0,8
+1856,my five latest instagram pictures,155,342,9,38,19,2,1.0,175.0,33
+1857,how loud is uptown funnk,137,342,9,38,19,2,176.0,305.0,24
+1858,is uptown funnk live,18,342,9,38,19,2,306.0,415.0,20
+1859,a fact about dog,119,342,9,38,19,2,416.0,505.0,16
+1860,wsj world news articles,237,342,9,38,19,2,506.0,630.0,23
+1861,completed tasks from the last two days on wunderlist,27,342,9,38,19,2,631.0,900.0,52
+1862,the instrumentalness of song yesterday,128,343,1,39,20,1,1.0,199.0,38
+1863,is uptown funnk instrumental,230,343,1,39,20,1,200.0,348.0,28
+1864,my mp3 files in google drive,243,343,1,39,20,1,349.0,497.0,28
+1865,play counting stars,200,343,1,39,20,1,498.0,601.0,19
+1866,my seven latest instagram pictures,170,343,1,39,20,1,602.0,780.0,34
+1867,order me a black latte,239,343,1,39,20,1,781.0,899.0,22
+1868,show me the nearest restaurants,213,344,2,39,20,1,1.0,159.0,31
+1869,make a playlist,195,344,2,39,20,1,160.0,238.0,15
+1870,how positive is yesterday,3,344,2,39,20,1,239.0,367.0,25
+1871,share a picture on imgur,10,344,2,39,20,1,368.0,491.0,24
+1872,add the album parachutes to my playlist sad songs,184,344,2,39,20,1,492.0,740.0,49
+1873,make note of my weight on fitbit,221,344,2,39,20,1,741.0,904.0,32
+1874,what is the weather in paris tomorrow,139,345,3,39,20,1,1.0,194.0,37
+1875,movie information,228,345,3,39,20,1,195.0,288.0,17
+1876,shut the entrance window,51,345,3,39,20,1,289.0,417.0,24
+1877,the time signature of counting stars,53,345,3,39,20,1,418.0,606.0,36
+1878,the tempo of yesterday,74,345,3,39,20,1,607.0,725.0,22
+1879,my nine recent instagram pictures,94,345,3,39,20,1,726.0,899.0,33
+1880,when a new paper is published in category geography on arxiv,159,346,4,39,20,1,1.0,308.0,60
+1881,what is the weather in chicago tomorrow,45,346,4,39,20,1,309.0,511.0,39
+1882,paper in category mathematics on arxiv,156,346,4,39,20,1,512.0,709.0,38
+1883,set the volume of my lg tv to hundred,123,346,4,39,20,1,710.0,902.0,37
+1884,the key of this song,46,347,5,39,20,1,1.0,102.0,20
+1885,on spotify play uptown funnk,49,347,5,39,20,1,103.0,244.0,28
+1886,the speechiness of yesterday,24,347,5,39,20,1,245.0,386.0,28
+1887,turn the switch on,152,347,5,39,20,1,387.0,478.0,18
+1888,math facts about one,245,347,5,39,20,1,479.0,580.0,20
+1889,order me an iced caramel macchiato,96,347,5,39,20,1,581.0,752.0,34
+1890,how speechlike is jingle bells,112,347,5,39,20,1,753.0,904.0,30
+1891,play uptown funnk,141,348,6,39,20,1,1.0,93.0,17
+1892,call home,224,348,6,39,20,1,94.0,146.0,9
+1893,my google drive files larger than fifty megabytes,22,348,6,39,20,1,147.0,399.0,49
+1894,play the artist michael jackson,182,348,6,39,20,1,400.0,562.0,31
+1895,help me open the entrance window,142,348,6,39,20,1,563.0,730.0,32
+1896,moon phase for location singapore,21,348,6,39,20,1,731.0,903.0,33
+1897,lifestyle youtube channels,93,349,7,39,20,1,1.0,141.0,26
+1898,the energy of the current song,164,349,7,39,20,1,142.0,302.0,30
+1899,play the song yesterday,203,349,7,39,20,1,303.0,428.0,23
+1900,the time signature of yesterday,78,349,7,39,20,1,429.0,594.0,31
+1901,play despacito,183,349,7,39,20,1,595.0,675.0,14
+1902,information on wikicfp,5,349,7,39,20,1,676.0,796.0,22
+1903,wiki call for paper,82,349,7,39,20,1,797.0,902.0,19
+1904,a random gif from giphy,38,350,8,39,20,1,1.0,137.0,23
+1905,the valence of counting stars,222,350,8,39,20,1,138.0,304.0,29
+1906,what is the weather in singapore tomorrow,91,350,8,39,20,1,305.0,531.0,41
+1907,two dog pictures,240,350,8,39,20,1,532.0,633.0,16
+1908,how upbeat is counting stars,210,350,8,39,20,1,634.0,795.0,28
+1909,nine dog pictures,69,350,8,39,20,1,796.0,902.0,17
+1910,play the artist david bowie,37,351,9,39,20,1,1.0,159.0,27
+1911,my google drive files of type mp3,28,351,9,39,20,1,160.0,348.0,33
+1912,weather in singapore tomorrow,17,351,9,39,20,1,349.0,517.0,29
+1913,read my new email,75,351,9,39,20,1,518.0,626.0,17
+1914,answer the call,23,351,9,39,20,1,627.0,725.0,15
+1915,how speechlike is uptown funnk,168,351,9,39,20,1,726.0,899.0,30
+1916,set my bluetooth speaker to ninety percent,173,352,1,40,20,2,1.0,238.0,42
+1917,the acousticness of uptown funnk,165,352,1,40,20,2,239.0,426.0,32
+1918,the time signature of song yesterday,179,352,1,40,20,2,427.0,634.0,36
+1919,open netflix,238,352,1,40,20,2,635.0,722.0,12
+1920,mathematical trivia about five,191,352,1,40,20,2,723.0,900.0,30
+1921,play uptown funnk on spotify,154,353,2,40,20,2,1.0,153.0,28
+1922,the speechiness of uptown funnk,73,353,2,40,20,2,154.0,321.0,31
+1923,my top tracks,105,353,2,40,20,2,322.0,399.0,13
+1924,how windy is it out there,171,353,2,40,20,2,400.0,537.0,25
+1925,the instrumentalness of yesterday,66,353,2,40,20,2,538.0,715.0,33
+1926,set the volume of my lg tv to fifty,163,353,2,40,20,2,716.0,903.0,35
+1927,the current weather at singapore,97,354,3,40,20,2,1.0,164.0,32
+1928,the liveness of uptown funnk,56,354,3,40,20,2,165.0,308.0,28
+1929,paper in category geography on arxiv,158,354,3,40,20,2,309.0,492.0,36
+1930,call my father,31,354,3,40,20,2,493.0,566.0,14
+1931,seven dog pictures,193,354,3,40,20,2,567.0,660.0,18
+1932,add the album meteora to my playlist dance mood,43,354,3,40,20,2,661.0,899.0,47
+1933,change the volume of my lg tv,174,355,4,40,20,2,1.0,180.0,29
+1934,my two recent instagram pictures,161,355,4,40,20,2,181.0,375.0,32
+1935,the new york times sports section,47,355,4,40,20,2,376.0,575.0,33
+1936,when a new paper is published in category biology on arxiv,250,355,4,40,20,2,576.0,900.0,58
+1937,the instrumentalness of counting stars,207,356,5,40,20,2,1.0,225.0,38
+1938,a picture from curiosity,176,356,5,40,20,2,226.0,380.0,24
+1939,when is my next appointment,121,356,5,40,20,2,381.0,550.0,27
+1940,value in dollars of litecoin,187,356,5,40,20,2,551.0,725.0,28
+1941,add despacito to my playlist,102,356,5,40,20,2,726.0,900.0,28
+1942,my google drive files modified today,30,357,6,40,20,2,1.0,184.0,36
+1943,opinions washington post's articles,58,357,6,40,20,2,185.0,363.0,35
+1944,a picture from giphy,192,357,6,40,20,2,364.0,467.0,20
+1945,the energy of song counting stars,233,357,6,40,20,2,468.0,636.0,33
+1946,what is the weather in boston tomorrow,196,357,6,40,20,2,637.0,830.0,38
+1947,a random fact,134,357,6,40,20,2,831.0,899.0,13
+1948,how dancey is the song counting stars,8,358,7,40,20,2,1.0,189.0,37
+1949,turn on airplane mode,204,358,7,40,20,2,190.0,298.0,21
+1950,five dog pictures,36,358,7,40,20,2,299.0,387.0,17
+1951,set the temperature to nineteen degrees on my thermostat,1,358,7,40,20,2,388.0,671.0,56
+1952,the last event detected by my security camera,151,358,7,40,20,2,672.0,900.0,45
+1953,washington post's post everything blog,116,359,8,40,20,2,1.0,200.0,38
+1954,the key of song uptown funnk,140,359,8,40,20,2,201.0,350.0,28
+1955,set my bluetooth speaker to thirty percent,42,359,8,40,20,2,351.0,570.0,42
+1956,the valence of yesterday,232,359,8,40,20,2,571.0,700.0,24
+1957,play adele on spotify,227,359,8,40,20,2,701.0,815.0,21
+1958,my appointments,114,359,8,40,20,2,816.0,900.0,15
+1959,the instrumentalness of despacito,33,360,9,40,20,2,1.0,168.0,33
+1960,how dancey is the song uptown funnk,29,360,9,40,20,2,169.0,346.0,35
+1961,set an alarm for eight am,14,360,9,40,20,2,347.0,474.0,25
+1962,price of litecoin,175,360,9,40,20,2,475.0,562.0,17
+1963,set volume on my speaker to thirty percent,132,360,9,40,20,2,563.0,775.0,42
+1964,add a song to my playlist,189,360,9,40,20,2,776.0,903.0,25
+1965,my calendar events,225,361,1,41,21,1,1.0,93.0,18
+1966,sunset at chicago,108,361,1,41,21,1,94.0,181.0,17
+1967,the valence of uptown funnk,65,361,1,41,21,1,182.0,319.0,27
+1968,add song rolling in the deep to my playlist dance mood,16,361,1,41,21,1,320.0,592.0,54
+1969,facts about the year twenty eighteen,162,361,1,41,21,1,593.0,775.0,36
+1970,skip this song on spotify,133,361,1,41,21,1,776.0,903.0,25
+1971,set the temperature of my tesla car to nineteen degrees,57,362,2,41,21,1,1.0,336.0,55
+1972,youtube channels with category paid,103,362,2,41,21,1,337.0,572.0,35
+1973,how loud is counting stars,106,362,2,41,21,1,573.0,763.0,26
+1974,curiosity rover,220,362,2,41,21,1,764.0,899.0,15
+1975,add the album meteora to my playlist favourite songs,62,363,3,41,21,1,1.0,273.0,52
+1976,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,363,3,41,21,1,274.0,711.0,85
+1977,create a new empty file in onedrive,70,363,3,41,21,1,712.0,899.0,35
+1978,the bpm of uptown funnk,190,364,4,41,21,1,1.0,169.0,23
+1979,seven cat pictures,205,364,4,41,21,1,170.0,313.0,18
+1980,when a new paper is published in category chemistry on arxiv,131,364,4,41,21,1,314.0,667.0,60
+1981,the speechiness of song uptown funnk,160,364,4,41,21,1,668.0,901.0,36
+1982,play the song rolling in the deep on spotify,2,365,5,41,21,1,1.0,225.0,44
+1983,the loudness of uptown funnk,199,365,5,41,21,1,226.0,370.0,28
+1984,add counting stars to my playlist,234,365,5,41,21,1,371.0,540.0,33
+1985,math facts about nine,246,365,5,41,21,1,541.0,650.0,21
+1986,the blog powerpost of the washington post,95,365,5,41,21,1,651.0,860.0,41
+1987,a quote,118,365,5,41,21,1,861.0,900.0,7
+1988,what is the weather in london tomorrow,194,366,6,41,21,1,1.0,199.0,38
+1989,donald trump's quote,72,366,6,41,21,1,200.0,308.0,20
+1990,the front page of the new york times,126,366,6,41,21,1,309.0,497.0,36
+1991,trivia about nine,84,366,6,41,21,1,498.0,591.0,17
+1992,the tempo of uptown funnk,188,366,6,41,21,1,592.0,725.0,25
+1993,facts about the year twenty twelve,214,366,6,41,21,1,726.0,904.0,34
+1994,interesting facts about the number nine,26,367,7,41,21,1,1,195,39
+1995,how dancey is counting stars,101,367,7,41,21,1,196,335,28
+1996,open instagram,178,367,7,41,21,1,336,405,14
+1997,sunrise at singapore,117,367,7,41,21,1,406,505,20
+1998,play yesterday,166,367,7,41,21,1,506,575,14
+1999,plot a math function,167,367,7,41,21,1,576,675,20

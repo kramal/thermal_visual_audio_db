@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+581,set the temperature to twenty four degrees on my thermostat,211,1,1.0,299.0,59
+582,answer the call,23,1,300.0,378.0,15
+583,how positive is yesterday,3,1,379.0,507.0,25
+584,open netflix,238,1,508.0,571.0,12
+585,set my bluetooth speaker to seventy percent,135,1,572.0,790.0,43
+586,turn on airplane mode,204,1,791.0,899.0,21
+587,the time signature of uptown funnk,153,2,1.0,204.0,34
+588,skip this song on spotify,133,2,205.0,363.0,25
+589,add a song to my playlist,189,2,364.0,522.0,25
+590,add counting stars to my playlist,234,2,523.0,721.0,33
+591,show me the bus route to home,219,2,722.0,900.0,29
+592,order me an iced caramel macchiato,96,3,1.0,175.0,34
+593,is uptown funnk instrumental,230,3,176.0,320.0,28
+594,facts about the year twenty twelve,214,3,321.0,495.0,34
+595,turn on my computer,216,3,496.0,595.0,19
+596,the tempo of song yesterday,150,3,596.0,735.0,27
+597,show me the nearest gas stations,35,3,736.0,900.0,32
+598,my google drive files modified today,30,4,1.0,184.0,36
+599,decrease brightness,115,4,185.0,283.0,19
+600,order me a black latte,239,4,284.0,397.0,22
+601,the time signature of counting stars,53,4,398.0,581.0,36
+602,my two recent instagram pictures,161,4,582.0,745.0,32
+603,put the entrance curtains down,50,4,746.0,899.0,30
+604,stop my entrance fan from oscillating,147,5,1.0,215.0,37
+605,play the artist adele,99,5,216.0,350.0,21
+606,order me a latte,138,5,351.0,460.0,16
+607,the valence of uptown funnk,65,5,461.0,625.0,27
+608,tasks from the last two days days from wunderlist,15,5,626.0,900.0,49
+609,show the movies playing near me,55,6,1.0,164.0,31
+610,interesting facts about the number three,59,6,165.0,373.0,40
+611,upload a picture to onedrive,32,6,374.0,522.0,28
+612,paper in category geography on arxiv,158,6,523.0,711.0,36
+613,create a new empty folder in dropbox,80,6,712.0,900.0,36
+614,the instrumentalness of despacito,33,7,1.0,167.0,33
+615,plot a math function,167,7,168.0,269.0,20
+616,my nine latest instagram pictures,90,7,270.0,436.0,33
+617,the weather in boston,34,7,437.0,543.0,21
+618,the acousticness of uptown funnk,165,7,544.0,705.0,32
+619,play uptown funnk on spotify,154,7,706.0,847.0,28
+620,on the fan,113,7,848.0,899.0,10
+621,check my voicemail,146,8,1.0,106.0,18
+622,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,8,107.0,547.0,85
+623,lifestyle youtube channels,93,8,548.0,693.0,26
+624,the instrumentalness of counting stars,207,8,694.0,899.0,38
+625,make note of my weight on fitbit,221,9,1.0,175.0,32
+626,my latest email,212,9,176.0,265.0,15
+627,washington post national,111,9,266.0,400.0,24
+628,set the volume of my lg tv to fifty,163,9,401.0,590.0,35
+629,how speechlike is jingle bells,112,9,591.0,755.0,30
+630,how loud is counting stars,106,9,756.0,900.0,26

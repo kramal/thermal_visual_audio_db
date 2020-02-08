@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+267,set temperature on my thermostat to twenty five degrees,187,1,1.0,340.0,55
+268,images from imgur usersub with more than hundred points,145,1,341.0,680.0,55
+269,the energy of song uptown funnk,49,1,681.0,900.0,31
+270,images from imgur usersub with more than two hundred points,18,2,1.0,318.0,59
+271,my google drive files larger than ten gigabytes,125,2,319.0,576.0,47
+272,add rolling in the deep to dance mood,197,2,577.0,784.0,37
+273,find coffee near me,249,2,785.0,902.0,19
+274,set my thermostat to twenty four degrees,31,3,1.0,224.0,40
+275,my google drive files of type txt,245,3,225.0,413.0,33
+276,the tempo of despacito,126,3,414.0,547.0,22
+277,how speechlike is yesterday,210,3,548.0,706.0,27
+278,show my calendar,228,3,707.0,810.0,16
+279,take a picture,3,3,811.0,904.0,14
+280,how energetic is uptown funnk,141,4,1.0,147.0,29
+281,turn on my tesla car air-conditioner,150,4,148.0,329.0,36
+282,the bpm of jingle bells,247,4,330.0,446.0,23
+283,the instrumentalness of song counting stars,217,4,447.0,663.0,43
+284,pull the curtains close,242,4,664.0,780.0,23
+285,play music on my speaker,157,4,781.0,902.0,24
+286,the bpm of counting stars,162,5,1.0,149.0,25
+287,turn on wi-fi,206,5,150.0,238.0,13
+288,the us section of the new york times,88,5,239.0,442.0,36
+289,how upbeat is yesterday,246,5,443.0,581.0,23
+290,remind me to call my mom when i get home,243,5,582.0,805.0,40
+291,call my sister,112,5,806.0,899.0,14
+292,my google drive files of type png,192,6,1.0,171.0,33
+293,sunrise and sunset for location paris,107,6,172.0,362.0,37
+294,sunrise at paris,85,6,363.0,448.0,16
+295,how speechlike is counting stars,205,6,449.0,614.0,32
+296,washington post's world views blog,105,6,615.0,790.0,34
+297,math facts about five,146,6,791.0,901.0,21
+298,the bpm of the current song,67,7,1.0,151.0,27
+299,increase brightness,188,7,152.0,262.0,19
+300,order me a caramel mocha,45,7,263.0,398.0,24
+301,set the temperature to twenty degrees on my thermostat,148,7,399.0,684.0,54
+302,what happened in the year twenty sixteen,60,7,685.0,900.0,40
+303,the bpm of song counting stars,22,8,1.0,168.0,30
+304,facetime mom,63,8,169.0,246.0,12
+305,the energy of song yesterday,61,8,247.0,404.0,28
+306,set temperature on my thermostat to twenty one degrees,21,8,405.0,692.0,54
+307,the danceability of the song yesterday,151,8,693.0,900.0,38
+308,play the songs yesterday on spotify,174,9,1.0,222.0,35
+309,math facts about three,226,9,223.0,379.0,22
+310,show the weather for today,170,9,380.0,556.0,26
+311,the loudness of counting stars,101,9,557.0,753.0,30
+312,turn my entrance fan,152,9,754.0,900.0,20

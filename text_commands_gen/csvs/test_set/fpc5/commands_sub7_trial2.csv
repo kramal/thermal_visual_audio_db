@@ -1,0 +1,45 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+584,pull the curtains open,72,1,1.0,118.0,22
+585,find coffee near me,249,1,119.0,221.0,19
+586,completed tasks from the last twenty days on wunderlist,200,1,222.0,504.0,55
+587,turn on wi-fi,206,1,505.0,577.0,13
+588,the tempo of song counting stars,64,1,578.0,745.0,32
+589,order me a black caramel mocha,25,1,746.0,903.0,30
+590,the tempo of song uptown funnk,119,2,1.0,166.0,30
+591,my google drive files of type png,192,2,167.0,347.0,33
+592,turn off the entrance fan,213,2,348.0,488.0,25
+593,trivia about five,103,2,489.0,589.0,17
+594,the bpm of song uptown funnk,5,2,590.0,745.0,28
+595,my png files in google drive,135,2,746.0,901.0,28
+596,my google drive files smaller than five gigabytes,214,3,1.0,254.0,49
+597,posts in the washington post capital weather gang blog,19,3,255.0,533.0,54
+598,play the song uptown funnk on spotify,240,3,534.0,727.0,37
+599,my five recent instagram pictures,8,3,728.0,901.0,33
+600,a translation to chinese,227,4,1.0,161.0,24
+601,turn up the volume,68,4,162.0,292.0,18
+602,set the volume of my bluetooth speaker to thirty,65,4,293.0,573.0,48
+603,set the temperature of my tesla car to twenty one degrees,48,4,574.0,899.0,57
+604,images from imgur usersub with more than two hundred points,18,5,1.0,342.0,59
+605,add rolling in the deep to my playlist,160,5,343.0,579.0,38
+606,set temperature on my thermostat to twenty five degrees,187,5,580.0,901.0,55
+607,interesting facts about numbers,29,6,1.0,158.0,31
+608,stop turning the entrance fan,123,6,159.0,306.0,29
+609,how energetic is uptown funnk,141,6,307.0,454.0,29
+610,add rolling in the deep to dance mood,197,6,455.0,642.0,37
+611,images from imgur with more than six hundred points,114,6,643.0,900.0,51
+612,the bpm of counting stars,162,7,1.0,144.0,25
+613,latest papers in category geography on arxiv,13,7,145.0,383.0,44
+614,paper in category economics on arxiv,182,7,384.0,582.0,36
+615,power off the entrance fan,116,7,583.0,731.0,26
+616,play counting stars on spotify,236,7,732.0,900.0,30
+617,completed tasks from the last twelve days on wunderlist,100,8,1.0,279.0,55
+618,completed tasks from the last seven days on wunderlist,52,8,280.0,553.0,54
+619,the current weather at paris,94,8,554.0,697.0,28
+620,increase brightness,188,8,698.0,796.0,19
+621,the weather in paris,196,8,797.0,900.0,20
+622,discover my devices,191,9,1.0,112.0,19
+623,on spotify play counting stars,122,9,113.0,279.0,30
+624,seek to thirty seconds in,4,9,280.0,421.0,25
+625,the key of despacito,73,9,422.0,538.0,20
+626,set my thermostat to twenty four degrees,31,9,539.0,755.0,40
+627,play the song uptown funnk,221,9,756.0,902.0,26

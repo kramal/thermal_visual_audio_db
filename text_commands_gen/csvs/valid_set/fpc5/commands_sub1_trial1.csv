@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+0,the speechiness of yesterday,24,1,1.0,147.0,28
+1,the liveness of jingle bells,77,1,148.0,294.0,28
+2,add despacito to my playlist,102,1,295.0,441.0,28
+3,how dancey is counting stars,101,1,442.0,588.0,28
+4,movie information,228,1,589.0,680.0,17
+5,the weather in boston,34,1,681.0,792.0,21
+6,play adele on spotify,227,1,793.0,904.0,21
+7,trivia about pi,61,2,1.0,85.0,15
+8,two dog pictures,240,2,86.0,175.0,16
+9,five dog pictures,36,2,176.0,270.0,17
+10,show my current location,44,2,271.0,400.0,24
+11,turn on airplane mode,204,2,401.0,515.0,21
+12,the five latest instagram pictures on my account,68,2,516.0,765.0,48
+13,how energetic is yesterday,169,2,766.0,905.0,26
+14,set the volume of my bluetooth speaker to seventy,229,3,1.0,259.0,49
+15,a fact about dog,119,3,260.0,353.0,16
+16,play yesterday,166,3,354.0,437.0,14
+17,washington post national,111,3,438.0,571.0,24
+18,add the album meteora to my playlist dance mood,43,3,572.0,820.0,47
+19,play despacito,183,3,821.0,904.0,14
+20,the current weather at singapore,97,4,1.0,163.0,32
+21,paper in category geography on arxiv,158,4,164.0,346.0,36
+22,mathematical trivia about five,191,4,347.0,499.0,30
+23,set the temperature of my tesla car to nineteen degrees,57,4,500.0,777.0,55
+24,mature images from imgur,52,4,778.0,900.0,24
+25,make the fan swing,110,5,1.0,104.0,18
+26,set an alarm for eight am,14,5,105.0,243.0,25
+27,set my bluetooth speaker to thirty percent,42,5,244.0,467.0,42
+28,move the entrance fan,48,5,468.0,586.0,21
+29,the blog morning mix of the washington post,89,5,587.0,815.0,43
+30,curiosity rover,220,5,816.0,904.0,15
+31,is uptown funnk instrumental,230,6,1.0,178.0,28
+32,the instrumentalness of counting stars,207,6,179.0,406.0,38
+33,get status of my current ride,223,6,407.0,589.0,29
+34,trivia about nine,84,6,590.0,712.0,17
+35,the state of the motion sensor,76,6,713.0,900.0,30
+36,set my thermostat to twenty one degrees,198,7,1.0,210.0,39
+37,sunrise at singapore,117,7,211.0,325.0,20
+38,the liveness of uptown funnk,56,7,326.0,480.0,28
+39,a quote,118,7,481.0,530.0,7
+40,lower the shades,25,7,531.0,625.0,16
+41,completed tasks from the last two days on wunderlist,27,7,626.0,900.0,52
+42,the valence of despacito,13,8,1.0,130.0,24
+43,opinions washington post's articles,58,8,131.0,315.0,35
+44,set volume on my speaker to ninety percent,249,8,316.0,535.0,42
+45,my google drive files modified today,30,8,536.0,725.0,36
+46,open netflix,238,8,726.0,795.0,12
+47,wiki call for paper,82,8,796.0,900.0,19
+48,trump's quote,217,9,1.0,83.0,13
+49,when a new paper is published in category chemistry on arxiv,131,9,84.0,401.0,60
+50,the danceability of the song counting stars,226,9,402.0,634.0,43
+51,a picture from giphy,192,9,635.0,752.0,20
+52,how upbeat is uptown funnk,218,9,753.0,900.0,26

@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+394,a picture from giphy,192,1,1.0,108.0,20
+395,stop my entrance fan from oscillating,147,1,109.0,301.0,37
+396,get the battery level of my tesla car,177,1,302.0,494.0,37
+397,show me the bus route to home,219,1,495.0,647.0,29
+398,how loud is yesterday,136,1,648.0,760.0,21
+399,the tempo of song yesterday,150,1,761.0,903.0,27
+400,sunrise at singapore,117,2,1.0,103.0,20
+401,create a new empty file in onedrive,70,2,104.0,281.0,35
+402,my google drive files of type pdf,85,2,282.0,449.0,33
+403,the energy of yesterday,104,2,450.0,567.0,23
+404,order me a latte,138,2,568.0,650.0,16
+405,wiki call for paper,82,2,651.0,748.0,19
+406,a fact about dog,119,2,749.0,831.0,16
+407,open instagram,178,2,832.0,904.0,14
+408,order me a black macchiato,64,3,1.0,151.0,26
+409,open facebook,125,3,152.0,237.0,13
+410,a quote,118,3,238.0,293.0,7
+411,my nine latest instagram pictures,90,3,294.0,479.0,33
+412,make the fan swing,110,3,480.0,590.0,18
+413,trivia about nine,84,3,591.0,696.0,17
+414,sunrise and sunset times at singapore,98,3,697.0,902.0,37
+415,the speechiness of song uptown funnk,160,4,1.0,230.0,36
+416,the blog powerpost of the washington post,95,4,231.0,485.0,41
+417,facts about the year twenty eighteen,162,4,486.0,715.0,36
+418,when is my next appointment,121,4,716.0,900.0,27
+419,my google drive files that changed most recently,79,5,1.0,295.0,48
+420,play the artist david bowie,37,5,296.0,485.0,27
+421,what is the weather in london tomorrow,194,5,486.0,730.0,38
+422,causes youtube channels,145,5,731.0,900.0,23
+423,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,83,6,1.0,483.0,96
+424,completed tasks from the last two days on wunderlist,27,6,484.0,746.0,52
+425,steam id,248,6,747.0,789.0,8
+426,information on wikicfp,5,6,790.0,902.0,22
+427,call mom on speaker,86,7,1.0,123.0,19
+428,my top tracks,105,7,124.0,216.0,13
+429,the tempo of yesterday,74,7,217.0,354.0,22
+430,sunrise and sunset for location singapore,143,7,355.0,587.0,41
+431,show me the nearest gas stations,35,7,588.0,775.0,32
+432,math facts about one,245,7,776.0,903.0,20
+433,set the volume of my lg tv to fifty,163,8,1.0,179.0,35
+434,the energy of the current song,164,8,180.0,333.0,30
+435,play the artist michael jackson,182,8,334.0,492.0,31
+436,math facts about nine,246,8,493.0,601.0,21
+437,the state of the motion sensor,76,8,602.0,755.0,30
+438,the danceability of yesterday,247,8,756.0,904.0,29
+439,order me an iced caramel macchiato,96,9,1.0,219.0,34
+440,when a new paper is published in category chemistry on arxiv,131,9,220.0,568.0,60
+441,decrease brightness,115,9,569.0,712.0,19
+442,the key of song uptown funnk,140,9,713.0,901.0,28

@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+443,set the temperature to twenty four degrees on my thermostat,211,1,1.0,304.0,59
+444,share a picture on imgur,10,1,305.0,433.0,24
+445,the key of this song,46,1,434.0,542.0,20
+446,is uptown funnk live,18,1,543.0,651.0,20
+447,on spotify play yesterday,209,1,652.0,785.0,25
+448,the weather in chicago,231,1,786.0,904.0,22
+449,paper in category geography on arxiv,158,2,1.0,192.0,36
+450,add song rolling in the deep to my playlist dance mood,16,2,193.0,474.0,54
+451,the key of yesterday,107,2,475.0,586.0,20
+452,paper in category computer science on arxiv,129,2,587.0,813.0,43
+453,facts about one,241,2,814.0,900.0,15
+454,when a new paper is published in category geography on arxiv,159,3,1.0,311.0,60
+455,the time signature of song yesterday,179,3,312.0,502.0,36
+456,the bpm of uptown funnk,190,3,503.0,628.0,23
+457,a translation to english,202,3,629.0,759.0,24
+458,how energetic is yesterday,169,3,760.0,900.0,26
+459,the instrumentalness of despacito,33,4,1.0,193.0,33
+460,five dog pictures,36,4,194.0,306.0,17
+461,how dancey is the song uptown funnk,29,4,307.0,509.0,35
+462,the valence of yesterday,232,4,510.0,657.0,24
+463,the blog morning mix of the washington post,89,4,658.0,900.0,43
+464,upload a picture to onedrive,32,5,1.0,173.0,28
+465,the liveness of counting stars,11,5,174.0,356.0,30
+466,my google drive files of type mp3,28,5,357.0,554.0,33
+467,the liveness of uptown funnk,56,5,555.0,727.0,28
+468,the energy of counting stars,100,5,728.0,900.0,28
+469,add the album parachutes to my playlist sad songs,184,6,1.0,263.0,49
+470,how windy is it out there,171,6,264.0,406.0,25
+471,how positive is yesterday,3,6,407.0,549.0,25
+472,my gmail,197,6,550.0,607.0,8
+473,how dancey is the song counting stars,8,6,608.0,810.0,37
+474,my appointments,114,6,811.0,903.0,15
+475,what does trump think,172,7,1.0,114.0,21
+476,turn on airplane mode,204,7,115.0,228.0,21
+477,set night mode,12,7,229.0,307.0,14
+478,what is the weather in chicago tomorrow,45,7,308.0,511.0,39
+479,moon phase for location singapore,21,7,512.0,685.0,33
+480,set my bluetooth speaker to thirty percent,42,7,686.0,904.0,42
+481,images from imgur usersub with more than two thousand points,87,8,1.0,310.0,60
+482,sunrise and sunset for location chicago,144,8,311.0,515.0,39
+483,how loud is uptown funnk,137,8,516.0,645.0,24
+484,curiosity rover,220,8,646.0,730.0,15
+485,the current weather at singapore,97,8,731.0,900.0,32
+486,turn down the volume,157,9,1.0,115.0,20
+487,the instrumentalness of counting stars,207,9,116.0,320.0,38
+488,facts about the year twenty twelve,214,9,321.0,505.0,34
+489,wsj world news articles,237,9,506.0,635.0,23
+490,my mp3 files in google drive,243,9,636.0,790.0,28
+491,a random xkcd comic,19,9,791.0,900.0,19

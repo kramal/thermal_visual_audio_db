@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+986,sunrise and sunset for location paris,107,1,1.0,213.0,37
+987,the speechiness of counting stars,166,1,214.0,406.0,33
+988,set the temperature to twenty one degrees on my thermostat,27,1,407.0,724.0,58
+989,the tempo of song uptown funnk,119,1,725.0,902.0,30
+990,the danceability of the current track,15,2,1.0,212.0,37
+991,the key of uptown funnk,229,2,213.0,354.0,23
+992,the tempo of counting stars,84,2,355.0,516.0,27
+993,my two latest instagram pictures,198,2,517.0,703.0,32
+994,an interesting factoid about snail,42,2,704.0,900.0,34
+995,how speechlike is counting stars,205,3,1.0,170.0,32
+996,what happened in twenty eighteen,53,3,171.0,340.0,32
+997,stop turning the entrance fan,123,3,341.0,495.0,29
+998,how dancey is uptown funnk,223,3,496.0,635.0,26
+999,open whatsapp,159,3,636.0,710.0,13
+1000,paper in category chemistry on arxiv,56,3,711.0,900.0,36
+1001,my gmail inbox,164,4,1.0,75.0,14
+1002,the loudness of yesterday,189,4,76.0,205.0,25
+1003,add rolling in the deep to my playlist,160,4,206.0,400.0,38
+1004,set the volume of my bluetooth speaker to ninety,62,4,401.0,645.0,48
+1005,how speechlike is yesterday,210,4,646.0,785.0,27
+1006,pull the curtains open,72,4,786.0,900.0,22
+1007,the bpm of song uptown funnk,5,5,1.0,170.0,28
+1008,order me an iced drip coffee,231,5,171.0,340.0,28
+1009,the danceability of the song yesterday,151,5,341.0,560.0,38
+1010,translate to french,83,5,561.0,685.0,19
+1011,show me the appointments for tomorrow,38,5,686.0,900.0,37
+1012,how energetic is counting stars,93,6,1.0,168.0,31
+1013,moon phase for location paris,212,6,169.0,326.0,29
+1014,the science section of the new york times,176,6,327.0,544.0,41
+1015,trivia about one,220,6,545.0,637.0,16
+1016,how dancey is the song yesterday,99,6,638.0,810.0,32
+1017,show my calendar,228,6,811.0,903.0,16
+1018,the tempo of despacito,126,7,1.0,143.0,22
+1019,is this song live,180,7,144.0,261.0,17
+1020,set the temperature between twenty degrees and twenty three degrees on my thermostat,124,7,262.0,714.0,84
+1021,what happened in twenty sixteen,98,7,715.0,902.0,31
+1022,make the bedroom fan oscillate,238,8,1.0,165.0,30
+1023,play the artist radiohead,248,8,166.0,305.0,25
+1024,is counting stars instrumental,144,8,306.0,470.0,30
+1025,sunrise at paris,85,8,471.0,565.0,16
+1026,the time signature of song counting stars,10,8,566.0,785.0,41
+1027,turn the heating off,6,8,786.0,900.0,20
+1028,set volume on my speaker to seventy percent,51,9,1.0,235.0,43
+1029,a piece of animal trivia,35,9,236.0,375.0,24
+1030,is counting stars live,136,9,376.0,505.0,22
+1031,add rolling in the deep to dance mood,197,9,506.0,710.0,37
+1032,the acousticness of counting stars,90,9,711.0,900.0,34

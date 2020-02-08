@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+933,turn off repeat,235,1,1.0,79.0,15
+934,weather in singapore tomorrow,17,1,80.0,228.0,29
+935,a random gif from giphy,38,1,229.0,347.0,23
+936,decrease brightness,115,1,348.0,446.0,19
+937,play the song rolling in the deep on spotify,2,1,447.0,670.0,44
+938,the last event detected by my security camera,151,1,671.0,899.0,45
+939,a translation to french,7,2,1.0,141.0,23
+940,read my new email,75,2,142.0,252.0,17
+941,where is my next meeting,124,2,253.0,398.0,24
+942,the time signature of yesterday,78,2,399.0,579.0,31
+943,washington post's post everything blog,116,2,580.0,795.0,38
+944,close the damper,81,2,796.0,901.0,16
+945,the current weather at singapore,97,3,1.0,164.0,32
+946,a picture from curiosity,176,3,165.0,288.0,24
+947,answer the call,23,3,289.0,367.0,15
+948,set the temperature between nineteen degrees and twenty four degrees on my thermostat,180,3,368.0,796.0,85
+949,the key of yesterday,107,3,797.0,900.0,20
+950,the bpm of uptown funnk,190,4,1.0,129.0,23
+951,add counting stars to my playlist,234,4,130.0,308.0,33
+952,my nine recent instagram pictures,94,4,309.0,487.0,33
+953,move the entrance fan,48,4,488.0,606.0,21
+954,what does trump think,172,4,607.0,725.0,21
+955,the acousticness of uptown funnk,165,4,726.0,899.0,32
+956,the five latest instagram pictures on my account,68,5,1.0,245.0,48
+957,the liveness of jingle bells,77,5,246.0,390.0,28
+958,plot a math function,167,5,391.0,495.0,20
+959,play the songs uptown funnk on spotify,206,5,496.0,690.0,38
+960,two dog pictures,240,5,691.0,775.0,16
+961,share a picture on imgur,10,5,776.0,900.0,24
+962,create a new empty folder in dropbox,80,6,1.0,186.0,36
+963,moon phase for location singapore,21,6,187.0,357.0,33
+964,the instrumentalness of counting stars,207,6,358.0,553.0,38
+965,how speechlike is uptown funnk,168,6,554.0,709.0,30
+966,youtube channels with category comedy,208,6,710.0,900.0,37
+967,sunrise and sunset for location singapore,143,7,1.0,206.0,41
+968,play counting stars,200,7,207.0,302.0,19
+969,how speechlike is jingle bells,112,7,303.0,453.0,30
+970,sticky notes,244,7,454.0,514.0,12
+971,open instagram,178,7,515.0,585.0,14
+972,open netflix,238,7,586.0,646.0,12
+973,my google drive files larger than hundred megabytes,63,7,647.0,902.0,51
+974,play uptown funnk,141,8,1.0,137.0,17
+975,my seven recent instagram pictures,242,8,138.0,359.0,34
+976,sunset at chicago,108,8,360.0,496.0,17
+977,two pictures from curiosity rover,60,8,497.0,713.0,33
+978,play the artist david bowie,37,8,714.0,900.0,27
+979,when a new paper is published in category biology on arxiv,250,9,1.0,309.0,58
+980,show the movies playing near me,55,9,310.0,483.0,31
+981,opinions washington post's articles,58,9,484.0,677.0,35
+982,the blog powerpost of the washington post,95,9,678.0,901.0,41

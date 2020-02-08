@@ -1,0 +1,40 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+228,increase brightness,188,1,1.0,138.0,19
+229,play music on my speaker,157,1,139.0,301.0,24
+230,the science section of the new york times,176,1,302.0,549.0,41
+231,the us section of the new york times,88,1,550.0,772.0,36
+232,is this song live,180,1,773.0,900.0,17
+233,the first two instagram pictures on my account,78,2,1.0,236.0,46
+234,turn off the entrance fan,213,2,237.0,367.0,25
+235,sunrise and sunset times at paris,86,2,368.0,538.0,33
+236,latest papers in category biology on arxiv,225,2,539.0,754.0,42
+237,the energy of song yesterday,61,2,755.0,900.0,28
+238,how speechlike is counting stars,205,3,1.0,199.0,32
+239,set the temperature to twenty degrees on my thermostat,148,3,200.0,508.0,54
+240,set my thermostat to twenty four degrees,31,3,509.0,747.0,40
+241,the key of uptown funnk,229,3,748.0,901.0,23
+242,the danceability of the current track,15,4,1.0,193.0,37
+243,tasks from the last twenty days days from wunderlist,250,4,194.0,461.0,52
+244,images from imgur usersub with more than hundred points,145,4,462.0,744.0,55
+245,on spotify play counting stars,122,4,745.0,902.0,30
+246,images from imgur usersub with more than two hundred points,18,5,1.0,323.0,59
+247,emails arrived today,211,5,324.0,451.0,20
+248,set the temperature between twenty degrees and twenty three degrees on my thermostat,124,5,452.0,899.0,84
+249,the bpm of counting stars,162,6,1.0,158.0,25
+250,how dancey is uptown funnk,223,6,159.0,321.0,26
+251,a plot,24,6,322.0,384.0,6
+252,my google drive files smaller than ten gigabytes,171,6,385.0,657.0,48
+253,what happened in the year twenty seventeen,177,6,658.0,900.0,42
+254,the first seven instagram pictures on my account,91,7,1.0,272.0,48
+255,power off the entrance fan,116,7,273.0,434.0,26
+256,make the kitchen fan oscillate,209,7,435.0,616.0,30
+257,weather in paris tomorrow,138,7,617.0,773.0,25
+258,discover my devices,191,7,774.0,900.0,19
+259,completed tasks from work list on wunderlist,172,8,1.0,233.0,44
+260,play yesterday on spotify,230,8,234.0,371.0,25
+261,how positive is counting stars,173,8,372.0,534.0,30
+262,play the songs counting stars on spotify,23,8,535.0,747.0,40
+263,the bpm of song uptown funnk,5,8,748.0,900.0,28
+264,add rolling in the deep to my playlist,160,9,1.0,263.0,38
+265,set temperature on my thermostat to nineteen degrees,216,9,264.0,596.0,52
+266,posts in the washington post fact checker blog,96,9,597.0,899.0,46
