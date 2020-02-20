@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1622,close my window,878,1,1.0,106.0,15
+1623,CS two nine four W slides,1221,1,107.0,262.0,25
+1624,top stories on wired news,1136,1,263.0,418.0,25
+1625,set the power on my security camera to on,717,1,419.0,654.0,41
+1626,the speechiness of song Rolling in the deep,994,1,655.0,900.0,43
+1627,change the minimum and maximum temperatures on my thermostat,225,2,1.0,375.0,60
+1628,youtube channels with category news and politics,1030,2,376.0,690.0,48
+1629,the sentiment of a sentence,1085,2,691.0,900.0,27
+1630,set the volume of my bluetooth speaker to fifty,971,3,1.0,249.0,47
+1631,honk the Tesla car,1044,3,250.0,353.0,18
+1632,a fact about snail,375,3,354.0,457.0,18
+1633,what happened in twenty nineteen,694,3,458.0,631.0,32
+1634,tasks from the last three days from Wunderlist,1184,3,632.0,900.0,51
+1635,how upbeat is Jingle Bells,1063,4,1.0,134.0,26
+1636,channels in category news and politics on youtube,584,4,135.0,383.0,49
+1637,the key of the current track,245,4,384.0,527.0,28
+1638,generate a caption for a picture,1083,4,528.0,691.0,32
+1639,the time signature of Rolling in the deep,1034,4,692.0,900.0,41
+1640,turn on my switch,736,5,1.0,105.0,17
+1641,record my weight on fitbit,522,5,106.0,255.0,26
+1642,help me on my fan,547,5,256.0,360.0,17
+1643,describe a picture,370,5,361.0,470.0,18
+1644,youtube's sports channels,514,5,471.0,620.0,26
+1645,turn off my LG webos tv,1217,5,621.0,755.0,23
+1646,turn off my vacuum cleaner,817,5,756.0,905.0,26
+1647,youtube channels with category best of youtube,1013,6,1.0,245.0,46
+1648,turn on the light,532,6,246.0,345.0,17
+1649,washington post's the fix blog,1001,6,346.0,515.0,31
+1650,omlet messages,77,6,516.0,600.0,14
+1651,the time signature of Jingle Bells,879,6,601.0,785.0,34
+1652,my steps from fitbit,1235,6,786.0,900.0,20
+1653,the energy of song Rolling in the deep,191,7,1.0,221.0,38
+1654,articles in the washington post in section politics,629,7,222.0,507.0,51
+1655,tell my vacuum cleaner to stop,740,7,508.0,688.0,30
+1656,channels in category paid on youtube,1067,7,689.0,899.0,36
+1657,channels in category sports on youtube,848,8,1.0,223.0,38
+1658,news on techcrunch,248,8,224.0,346.0,18
+1659,the technology section of the new york times,1271,8,347.0,599.0,44
+1660,WSJ markets articles,404,8,600.0,732.0,20
+1661,order me a black flat white,270,8,733.0,900.0,27
+1662,the liveness of Rolling in the deep,82,9,1.0,179.0,35
+1663,dictionary definitions,966,9,180.0,293.0,22
+1664,an interesting factoid about dog,501,9,294.0,457.0,32
+1665,translate to English,87,9,458.0,561.0,20
+1666,raise the volume of my LG tv,284,9,562.0,705.0,28
+1667,the arts section of the new york times,1295,9,706.0,899.0,38

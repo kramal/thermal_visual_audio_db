@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2105,have my security camera start recording,593,1,1.0,202.0,39
+2106,order me an iced mocha,300,1,203.0,314.0,21
+2107,Stanford news,246,1,315.0,386.0,13
+2108,order me a caramel macchiato,74,1,387.0,533.0,28
+2109,TED videos,724,1,534.0,590.0,10
+2110,my contacts,445,1,591.0,652.0,11
+2111,turn the kitchen switch on,785,1,653.0,789.0,26
+2112,on the bedroom switch,1133,1,790.0,901.0,21
+2113,my dropbox files that changed most recently,25,2,1.0,223.0,43
+2114,one Bitcoin in dollars,544,2,224.0,331.0,20
+2115,latest TED talks,354,2,332.0,419.0,16
+2116,songs in my playlist Sad songs,133,2,420.0,577.0,30
+2117,ABC news,566,2,578.0,625.0,8
+2118,a fake name,1096,2,626.0,688.0,11
+2119,snail fun facts,505,2,689.0,771.0,15
+2120,CS two nine four W slides,1221,2,772.0,904.0,25
+2121,my meeting schedule,939,3,1.0,125.0,19
+2122,fox pictures,834,3,126.0,215.0,12
+2123,is this song acoustic,941,3,216.0,350.0,21
+2124,how upbeat is Jingle Bells,1063,3,351.0,510.0,26
+2125,channels in category gaming on youtube,99,3,511.0,730.0,38
+2126,latest business insider news,1279,3,731.0,900.0,28
+2127,tasks from Homework list from the last three days from Wunderlist,1220,4,1.0,364.0,70
+2128,generate a meme,661,4,365.0,453.0,15
+2129,the liveness of Despacito,303,4,454.0,592.0,25
+2130,help me on my bedroom fan,866,4,593.0,731.0,25
+2131,write to a new file in onedrive,845,4,732.0,900.0,31
+2132,add Despacito to my playlist Sad songs,249,5,1.0,214.0,39
+2133,piled higher and deeper comics,862,5,215.0,383.0,30
+2134,add the album to my playlist Dance mood,200,5,384.0,597.0,39
+2135,switch off my vacuum for me,1134,5,598.0,751.0,27
+2136,a word from the dictionary,1073,5,752.0,900.0,26
+2137,my twitter messages,367,6,1.0,114.0,19
+2138,set the temperature between twenty degrees and twenty five degrees on my thermostat,668,6,115.0,548.0,83
+2139,the key of Jingle Bells,564,6,549.0,682.0,23
+2140,youtube's music channels,1114,6,683.0,826.0,25
+2141,name a baby,969,6,827.0,900.0,11
+2142,add song Jingle Bells to Sad songs,956,7,1.0,193.0,34
+2143,the speechiness of Despacito,373,7,194.0,356.0,28
+2144,bring in the entrance shutters,0,7,357.0,529.0,30
+2145,my onedrive files created this week,353,7,530.0,727.0,35
+2146,what song is currently playing,865,7,728.0,900.0,30
+2147,articles on popular science,555,8,1.0,139.0,27
+2148,Huffington posts,773,8,140.0,223.0,16
+2149,the valence of Jingle Bells,699,8,224.0,362.0,27
+2150,my google drive files in alphabetical order,1023,8,363.0,581.0,43
+2151,youtube channels with category tech,560,8,582.0,760.0,35
+2152,make the entrance fan swing,765,8,761.0,899.0,27
+2153,cat fun facts,1129,9,1.0,98.0,13
+2154,the blog the plum line of the washington post,772,9,99.0,356.0,45
+2155,open my entrance blinds for me,332,9,357.0,539.0,30
+2156,tasks from Work list from the last three days from Wunderlist,1038,9,540.0,902.0,66

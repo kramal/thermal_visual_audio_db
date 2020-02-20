@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1607,play Despacito on Spotify,1014,1,1.0,133.0,25
+1608,latest slashdot news,1275,1,134.0,241.0,20
+1609,my google drive files in reverse alphabetical order,298,1,242.0,504.0,51
+1610,I want to switch off the entrance fan,689,1,505.0,697.0,37
+1611,what happened in the year twenty twelve,864,1,698.0,900.0,39
+1612,turn off my vacuum,1270,2,1.0,99.0,18
+1613,upload a picture to my facebook,266,2,100.0,263.0,31
+1614,post on slack,638,2,264.0,337.0,13
+1615,use Spotify to play some music,1104,2,338.0,496.0,30
+1616,posts on phd comics,227,2,497.0,600.0,19
+1617,play the song Rolling in the deep,322,2,601.0,774.0,33
+1618,close my entrance shades,79,2,775.0,903.0,24
+1619,halt my oscillating entrance fan,530,3,1.0,168.0,32
+1620,my google drive files of type JPG,149,3,169.0,341.0,33
+1621,stop the vacuum,121,3,342.0,424.0,15
+1622,some useless fact,1284,3,425.0,517.0,17
+1623,create a playlist,384,3,518.0,610.0,17
+1624,stop the bedroom fan from turning,561,3,611.0,783.0,33
+1625,my tasks on Wunderlist,439,3,784.0,901.0,22
+1626,youtube channels with category automotive,279,4,1.0,227.0,41
+1627,articles in the washington post in section world,158,4,228.0,489.0,48
+1628,play the album Abbey Road,1147,4,490.0,636.0,25
+1629,on the switch,1110,4,637.0,723.0,13
+1630,loop the color in my light bulb,847,4,724.0,900.0,31
+1631,add Jingle Bells to Sad songs,825,5,1.0,155.0,29
+1632,the fitbit step counter,700,5,156.0,280.0,23
+1633,color loop the lights,1222,5,281.0,395.0,21
+1634,business insider news,440,5,396.0,510.0,21
+1635,youtube's causes channels,742,5,511.0,650.0,26
+1636,ABC news,566,5,651.0,700.0,8
+1637,the time signature of the current song,607,5,701.0,900.0,38
+1638,the acousticness of Jingle Bells,701,6,1.0,169.0,32
+1639,set temperature on my thermostat to twenty degrees,590,6,170.0,428.0,50
+1640,fortnite stats,118,6,429.0,512.0,15
+1641,put the blinds down,1035,6,513.0,616.0,19
+1642,the power state of my lights,1183,6,617.0,765.0,28
+1643,order me an iced americano,570,6,766.0,899.0,25
+1644,turn off my entrance switch,496,7,1.0,138.0,27
+1645,close my awning,468,7,139.0,216.0,15
+1646,post something on facebook,899,7,217.0,349.0,26
+1647,make my vacuum stop cleaning,516,7,350.0,492.0,28
+1648,Is my tesla car plugged in?,1165,7,493.0,635.0,28
+1649,add song Rolling in the deep to my playlist Sad songs,81,7,636.0,903.0,53
+1650,set me as not away on slack,630,8,1.0,140.0,27
+1651,wall street journal articles in the opinions section,406,8,141.0,405.0,52
+1652,add Jingle Bells to Favourite songs on Spotify,1037,8,406.0,640.0,46
+1653,tasks from the last seven days from Wunderlist,350,8,641.0,900.0,51
+1654,a plot from wolfram alpha,320,9,1.0,154.0,25
+1655,latest NBA news,850,9,155.0,258.0,15
+1656,order me an iced white mocha,1109,9,259.0,422.0,27
+1657,set my HVAC to heat,311,9,423.0,546.0,19
+1658,articles on how to geek,467,9,547.0,690.0,23
+1659,I want to switch off the bedroom fan,220,9,691.0,899.0,36

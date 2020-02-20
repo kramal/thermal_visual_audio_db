@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+967,turn on my dining room switch for me,1052,1,1.0,187.0,36
+968,dog fun facts,718,1,188.0,259.0,13
+969,on the vacuum,1090,1,260.0,331.0,13
+970,help me open the shutters,1273,1,332.0,463.0,25
+971,play my playlist Dance mood,432,1,464.0,605.0,27
+972,order me a flat white,551,1,606.0,717.0,21
+973,the instrumentalness of Jingle Bells,46,1,718.0,904.0,36
+974,my twitter direct messages,1168,2,1.0,149.0,26
+975,turn off my fan,1198,2,150.0,243.0,15
+976,star wars news,988,2,244.0,332.0,14
+977,a random poem,425,2,333.0,416.0,13
+978,when a new paper is published in category Mathematics on arxiv,1287,2,417.0,745.0,62
+979,cooking channels in youtube,281,2,746.0,899.0,27
+980,user-submitted images in Imgur,568,3,1.0,158.0,30
+981,youtube's film and entertainment channels,489,3,159.0,376.0,42
+982,images from Imgur User Submitted rising,22,3,377.0,579.0,39
+983,set volume on my speaker to fifty percents,721,3,580.0,762.0,35
+984,flip my bedroom switch off,934,3,763.0,900.0,26
+985,keep my curtains,697,4,1.0,83.0,16
+986,a random factoid,455,4,84.0,166.0,16
+987,the arts section of the new york times,1295,4,167.0,359.0,38
+988,tasks from the last three days from Wunderlist,1184,4,360.0,617.0,51
+989,set temperature on my thermostat to twenty three degrees,562,4,618.0,900.0,56
+990,make a new post on facebook,359,5,1.0,140.0,27
+991,wall street journal articles in the markets section published in the last hour,987,5,141.0,535.0,78
+992,how positive is Rolling in the deep,309,5,536.0,715.0,35
+993,politics washington post's articles,704,5,716.0,900.0,36
+994,washington post's right turn blog,565,6,1.0,172.0,34
+995,a random animal fact,222,6,173.0,274.0,20
+996,send a message on slack,134,6,275.0,391.0,23
+997,on the kitchen fan for me,57,6,392.0,518.0,25
+998,youtube's tech channels,578,6,519.0,640.0,24
+999,completed tasks from the last ten days on Wunderlist,128,6,641.0,902.0,52
+1000,how energetic is Despacito,1226,7,1.0,139.0,26
+1001,articles in the new york times technology section,1126,7,140.0,393.0,49
+1002,an interesting factoid about horse,1084,7,394.0,572.0,34
+1003,washington post's compost blog,1288,7,573.0,736.0,31
+1004,the new york times arts section,1258,7,737.0,900.0,31
+1005,put the entrance blinds up,15,8,1.0,141.0,26
+1006,the danceability of Despacito,713,8,142.0,297.0,29
+1007,on Spotify play Rolling in the deep,508,8,298.0,483.0,35
+1008,how speechlike is the current song,414,8,484.0,664.0,34
+1009,articles in the new york times travel section,130,8,665.0,900.0,45
+1010,mark me as away on slack,787,9,1.0,162.0,24
+1011,my emails,1155,9,163.0,249.0,9
+1012,a joke,1293,9,250.0,321.0,6
+1013,tell my vacuum to start cleaning the house,206,9,322.0,573.0,42
+1014,add Despacito to Favourite songs,187,9,574.0,775.0,32
+1015,resume my Spotify,19,9,776.0,902.0,17

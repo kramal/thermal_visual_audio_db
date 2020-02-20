@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2366,make my LG tv quieter,230,1,1.0,107.0,21
+2367,put the curtains down,307,1,108.0,214.0,21
+2368,ten dog pictures,985,1,215.0,296.0,16
+2369,the danceability of the song Jingle Bells,236,1,297.0,503.0,41
+2370,film and entertainment youtube channels,1125,1,504.0,700.0,39
+2371,open my blinds for me,282,1,701.0,807.0,21
+2372,retract the awnings,979,1,808.0,904.0,19
+2373,shuffle my Spotify,659,2,1.0,129.0,18
+2374,add this to my playlist Sad songs,403,2,130.0,333.0,33
+2375,politics washington post's articles,704,2,334.0,552.0,36
+2376,the valence of Rolling in the deep,626,2,553.0,761.0,34
+2377,one Bitcoin in dollars,544,2,762.0,900.0,20
+2378,add this song to playlist Favourite songs,1249,3,1.0,221.0,41
+2379,stop moving the fan,62,3,222.0,332.0,19
+2380,the new york times business section,639,3,333.0,523.0,35
+2381,the Imgur front page,1123,3,524.0,639.0,20
+2382,a gif,913,3,640.0,680.0,5
+2383,order me an iced macchiato,996,3,681.0,821.0,25
+2384,a trump quote,76,3,822.0,902.0,13
+2385,stop turning the kitchen fan,113,4,1.0,142.0,28
+2386,mashable news,1232,4,143.0,209.0,13
+2387,add whatever's playing to my playlist,462,4,210.0,396.0,37
+2388,top stories on wired news,1136,4,397.0,523.0,25
+2389,order me an iced caramel mocha,1264,4,524.0,670.0,29
+2390,my dropbox files in reverse alphabetical order,476,4,671.0,902.0,46
+2391,tasks from Homework list from the last seven days from Wunderlist,888,5,1.0,392.0,70
+2392,tell the vacuum to return to base,665,5,393.0,599.0,33
+2393,completed tasks from the last ten days on Wunderlist,128,5,600.0,901.0,52
+2394,tell my vacuum to start cleaning the house,206,6,1.0,229.0,42
+2395,put a picture on facebook,195,6,230.0,373.0,25
+2396,the sentiment of a sentence,1085,6,374.0,527.0,27
+2397,Mac rumors,36,6,528.0,596.0,10
+2398,my BMI from fitbit,202,6,597.0,705.0,18
+2399,add this song to playlist Dance mood,691,6,706.0,904.0,36
+2400,play the next song on Spotify,313,7,1.0,180.0,29
+2401,add song Rolling in the deep to Favourite songs,1022,7,181.0,450.0,47
+2402,how speechlike is the current song,414,7,451.0,655.0,34
+2403,put the damper down,843,7,656.0,785.0,19
+2404,play my playlist,469,7,786.0,900.0,16
+2405,the blog compost of the washington post,898,8,1.0,263.0,39
+2406,honk the horn on my car,381,8,264.0,446.0,23
+2407,dog pictures,854,8,447.0,574.0,12
+2408,off the switch,804,8,575.0,712.0,14
+2409,close my entrance window,851,8,713.0,900.0,24
+2410,completed tasks from Homework list from the last seven days on Wunderlist,943,9,1.0,420.0,78
+2411,images from Imgur that are safe-for-work,1115,9,421.0,650.0,40
+2412,set on the lights,932,9,651.0,765.0,17
+2413,SFW images from Imgur,16,9,766.0,900.0,21

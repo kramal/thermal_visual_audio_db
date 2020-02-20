@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+244,set the temperature of my Tesla car to twenty degrees,970,1,1.0,292.0,53
+245,the positivity of this song,204,1,293.0,454.0,27
+246,shut the window,1159,1,455.0,556.0,15
+247,a random fox picture,636,1,557.0,683.0,20
+248,youtube channels with category cooking,1283,1,684.0,900.0,38
+249,add Jingle Bells to Sad songs,825,2,1.0,174.0,29
+250,CNN news top stories,1244,2,175.0,303.0,20
+251,open my entrance shades for me,459,2,304.0,482.0,30
+252,wall street journal articles in the markets section published in the last hour,987,2,483.0,901.0,78
+253,play the album Parachutes,127,3,1.0,150.0,25
+254,my doc files in google drive,180,3,151.0,315.0,28
+255,lower the volume of my bluetooth speaker,325,3,316.0,540.0,40
+256,when a new paper is published in category Computer Science on arxiv,557,3,541.0,900.0,67
+257,what happened in twenty twelve,826,4,1.0,169.0,30
+258,my newest google drive files,1064,4,170.0,328.0,28
+259,shut down my security camera,150,4,329.0,487.0,28
+260,youtube channels with category news and politics,1030,4,488.0,746.0,48
+261,the space I have on dropbox,1150,4,747.0,900.0,27
+262,WSJ technology articles,1253,5,1.0,134.0,23
+263,top stories on BBC news,1089,5,135.0,268.0,23
+264,a random XKCD,32,5,269.0,352.0,13
+265,set my thermostat to twenty three degrees,1108,5,353.0,576.0,41
+266,today's asteroid info,964,5,577.0,700.0,21
+267,the acousticness of the current song,188,5,701.0,899.0,36
+268,posts on matrix sixty seven,116,6,1.0,145.0,27
+269,NASA's APOD,385,6,146.0,215.0,12
+270,a gif,913,6,216.0,250.0,5
+271,set my thermostat to twenty five degrees,369,6,251.0,460.0,40
+272,turn on my fan,1093,6,461.0,540.0,14
+273,youtube's news and politics channels,56,6,541.0,735.0,37
+274,open my entrance shutters for me,789,6,736.0,905.0,32
+275,turn off the lights,1254,7,1.0,188.0,19
+276,play the last song on Spotify,672,7,189.0,426.0,29
+277,posts in the washington post world views blog,33,7,427.0,744.0,45
+278,mute my LG tv,680,7,745.0,902.0,13
+279,set the low temperature to twenty degrees on my thermostat and the high to twenty three degrees,835,8,1.0,489.0,95
+280,my oldest google drive files,1164,8,490.0,643.0,28
+281,skip to fifty seconds,1057,8,644.0,762.0,21
+282,call uber,693,8,763.0,821.0,9
+283,post on slack,638,8,822.0,900.0,13
+284,phdcomics posts,1180,9,1.0,86.0,15
+285,open my entrance window for me,757,9,87.0,247.0,30
+286,how energetic is Jingle Bells,1177,9,248.0,403.0,29
+287,set my speaker as default,963,9,404.0,539.0,25
+288,my google drive files larger than one gigabyte,708,9,540.0,780.0,46
+289,omlet messages from me,6,9,781.0,901.0,22

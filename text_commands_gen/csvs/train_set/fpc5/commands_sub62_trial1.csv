@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1560,channels in category lifestyle on youtube,89,1,1.0,232.0,41
+1561,how dancey is the song Despacito,829,1,233.0,419.0,32
+1562,go to ten seconds,278,1,420.0,531.0,17
+1563,channels in category cooking on youtube,438,1,532.0,753.0,39
+1564,turn off the kitchen fan,449,1,754.0,900.0,24
+1565,the humidity reported by thermostat,388,2,1.0,202.0,35
+1566,lower the entrance curtains,288,2,203.0,364.0,27
+1567,make the bedroom fan turn,475,2,365.0,516.0,25
+1568,stop turning the fan,673,2,517.0,643.0,20
+1569,add song Jingle Bells to my playlist Sad songs,407,2,644.0,900.0,46
+1570,the new york times arts section,1258,3,1.0,164.0,31
+1571,washington post's capital weather gang blog,304,3,165.0,393.0,44
+1572,articles in the new york times sports section,207,3,394.0,627.0,45
+1573,is this song acoustic,941,3,628.0,741.0,21
+1574,the count of steps from fitbit,722,3,742.0,900.0,30
+1575,add this to my playlist Favourite songs,239,4,1.0,201.0,39
+1576,tasks from Work list from the last three days from Wunderlist,1038,4,202.0,537.0,66
+1577,the instrumentalness of Jingle Bells,46,4,538.0,723.0,36
+1578,set volume on my speaker to zero percent,1119,4,724.0,899.0,34
+1579,open the shutters,1016,5,1.0,99.0,17
+1580,increase the volume on my bluetooth speaker,938,5,100.0,328.0,43
+1581,add the album Abbey Road to my playlist Sad songs,735,5,329.0,587.0,49
+1582,order me an iced mocha,300,5,588.0,706.0,21
+1583,set volume on my speaker to eighty percents,20,5,707.0,900.0,36
+1584,add Despacito to Favourite songs,187,6,1.0,167.0,32
+1585,my meeting schedule,939,6,168.0,269.0,19
+1586,order me a black cappuccino,497,6,270.0,411.0,27
+1587,random trump quote,875,6,412.0,508.0,18
+1588,post something on my tumblr blog,533,6,509.0,675.0,32
+1589,add the album to my playlist Favourite songs,254,6,676.0,902.0,44
+1590,skip to thirty seconds,452,7,1.0,113.0,22
+1591,make my security camera stop recording,327,7,114.0,306.0,38
+1592,the upbeatness of this track,1061,7,307.0,449.0,28
+1593,pause my vacuum,695,7,450.0,527.0,15
+1594,lower the entrance damper,1178,7,528.0,655.0,25
+1595,random number facts,627,7,656.0,753.0,19
+1596,youtube's lifestyle channels,184,7,754.0,901.0,29
+1597,top stories on BBC news,1089,8,1.0,128.0,23
+1598,youtube's best of youtube channels,778,8,129.0,316.0,35
+1599,new books published by stanford press,884,8,317.0,514.0,37
+1600,mark me as away on slack,787,8,515.0,647.0,24
+1601,turn on my LG tv,612,8,648.0,740.0,16
+1602,open my entrance blinds for me,332,8,741.0,903.0,30
+1603,get the climate state of my Tesla car,316,9,1.0,198.0,37
+1604,mathematical trivia about pi,576,9,199.0,351.0,28
+1605,wall street journal articles in the lifestyle section published in the last hour,433,9,352.0,764.0,80
+1606,the BPM of song Despacito,1202,9,765.0,902.0,25

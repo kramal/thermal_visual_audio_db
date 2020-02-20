@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+480,one Bitcoin in dollars,544,1,1.0,102.0,20
+481,on the fan for me,716,1,103.0,189.0,17
+482,how energetic is Jingle Bells,1177,1,190.0,336.0,29
+483,the state of the entrance motion sensor,1069,1,337.0,533.0,39
+484,a random poem,425,1,534.0,600.0,13
+485,images from Imgur that are safe-for-work,1115,1,601.0,802.0,40
+486,translate to English,87,1,803.0,904.0,20
+487,record my weight on fitbit,522,2,1.0,158.0,26
+488,time magazine top stories,1146,2,159.0,311.0,25
+489,the danceability of Jingle Bells,1045,2,312.0,499.0,32
+490,analyze a sentence,520,2,500.0,617.0,18
+491,my google drive files in reverse alphabetical order,298,2,618.0,900.0,51
+492,the travel section of the new york times,397,3,1.0,213.0,40
+493,set me as not away on slack,630,3,214.0,361.0,27
+494,latest papers in category Physics on arxiv,1088,3,362.0,584.0,42
+495,switch off the vacuum,379,3,585.0,702.0,21
+496,new books published by stanford press,884,3,703.0,900.0,37
+497,five pictures from curiosity rover,999,4,1.0,177.0,34
+498,TED videos,724,4,178.0,234.0,10
+499,close my awning,468,4,235.0,316.0,15
+500,order uber,345,4,317.0,373.0,10
+501,open the shutters,1016,4,374.0,465.0,17
+502,channels in category cooking on youtube,438,4,466.0,667.0,39
+503,articles on howtogeek,1189,4,668.0,779.0,21
+504,the front page of reddit,349,4,780.0,906.0,24
+505,mozilla blogs,800,5,1.0,85.0,13
+506,new newest onedrive files,488,5,86.0,230.0,25
+507,front page of huffpost,1251,5,231.0,360.0,22
+508,order me an iced caramel mocha,1264,5,361.0,525.0,29
+509,translate to Russian,1151,5,526.0,645.0,20
+510,articles in the new york times business section,1117,5,646.0,900.0,47
+511,stop the fan from swinging,336,6,1.0,145.0,26
+512,add the album to my playlist Dance mood,200,6,146.0,355.0,39
+513,play the songs Rolling in the deep on Spotify,323,6,356.0,595.0,45
+514,open my window for me,753,6,596.0,715.0,21
+515,my three latest instagram pictures,111,6,716.0,900.0,34
+516,make the bedroom fan turn,475,7,1.0,127.0,25
+517,the tempo of song Rolling in the deep,656,7,128.0,314.0,37
+518,make the awnings extend,1138,7,315.0,431.0,23
+519,the humidity reported by thermostat,388,7,432.0,608.0,35
+520,oscillate my entrance fan,711,7,609.0,735.0,25
+521,the best images from the Internet,885,7,736.0,902.0,33
+522,wall street journal articles in the technology section,201,8,1.0,275.0,54
+523,channels in category music on youtube,1053,8,276.0,465.0,37
+524,post on twitter,670,8,466.0,545.0,15
+525,add Rolling in the deep to Favourite songs,1026,8,546.0,760.0,42
+526,the valence of Jingle Bells,699,8,761.0,900.0,27
+527,turn shuffle on,401,9,1.0,127.0,15
+528,play Rolling in the deep,1166,9,128.0,299.0,24
+529,news on techcrunch,248,9,300.0,441.0,18
+530,post a picture on twitter,682,9,442.0,618.0,25
+531,my google drive files larger than one gigabyte,708,9,619.0,900.0,46

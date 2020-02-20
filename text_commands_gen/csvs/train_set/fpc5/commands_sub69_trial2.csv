@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2220,the lexical analysis of a sentence,240,1,1.0,185.0,34
+2221,wall street journal,528,1,186.0,295.0,19
+2222,shut down the lights,841,1,296.0,410.0,20
+2223,horse fun facts,739,1,411.0,500.0,15
+2224,order me an espresso,1281,1,501.0,610.0,19
+2225,animation channels in youtube,310,1,611.0,770.0,29
+2226,halt my oscillating fan,1105,1,771.0,900.0,23
+2227,stop my bedroom fan from oscillating,343,2,1.0,184.0,36
+2228,youtube's beauty and fashion channels,358,2,185.0,378.0,38
+2229,channels in category science on youtube,1187,2,379.0,577.0,39
+2230,wake up the Tesla car,807,2,578.0,686.0,21
+2231,skip this song,744,2,687.0,760.0,14
+2232,the positivity of this song,204,2,761.0,899.0,27
+2233,how energetic is Jingle Bells,1177,3,1.0,159.0,29
+2234,reduce the volume of my LG tv,723,3,160.0,318.0,29
+2235,tasks from Work list from the last ten days from Wunderlist,776,3,319.0,652.0,64
+2236,set the volume of my bluetooth speaker to fifty,971,3,653.0,901.0,47
+2237,Are my Tesla's doors locked?,382,4,1.0,197.0,29
+2238,turn off my vacuum cleaner,817,4,198.0,379.0,26
+2239,set the low temperature to twenty degrees on my thermostat and the high to twenty five degrees,1141,4,380.0,901.0,94
+2240,the best images from the Internet,885,5,1.0,188.0,33
+2241,news on huffington post,61,5,189.0,326.0,23
+2242,set the temperature between twenty degrees and twenty five degrees on my thermostat,668,5,327.0,764.0,83
+2243,value in usd of Bitcoin,1228,5,765.0,902.0,23
+2244,tasks from To do list from the last ten days from Wunderlist,1139,6,1.0,358.0,65
+2245,national washington post's articles,182,6,359.0,571.0,36
+2246,youtube's animation channels,1280,6,572.0,749.0,29
+2247,seek to fifty seconds in,933,6,750.0,902.0,24
+2248,my newest google drive files,1064,7,1.0,156.0,28
+2249,order me a drip coffee,1260,7,157.0,282.0,22
+2250,open my entrance curtains for me,1021,7,283.0,458.0,32
+2251,the state of my tesla car,356,7,459.0,604.0,26
+2252,the state of my battery,604,7,605.0,735.0,23
+2253,the tempo of song Jingle Bells,702,7,736.0,901.0,30
+2254,add Jingle Bells to Favourite songs,421,8,1.0,189.0,35
+2255,open my window,114,8,190.0,273.0,14
+2256,channels I am subscribed to on youtube,984,8,274.0,477.0,38
+2257,my files in dropbox,1000,8,478.0,586.0,19
+2258,songs in my playlist,48,8,587.0,700.0,20
+2259,the state of the bedroom motion sensor,894,8,701.0,904.0,38
+2260,new books by stanford press,159,9,1.0,140.0,27
+2261,a plot from wolframalpha,164,9,141.0,265.0,24
+2262,youtube's DIY channels,1231,9,266.0,385.0,23
+2263,flash the lights as alerts,256,9,386.0,520.0,26
+2264,articles in the new york times science section,669,9,521.0,755.0,46
+2265,switch on the vacuum cleaner,11,9,756.0,900.0,28

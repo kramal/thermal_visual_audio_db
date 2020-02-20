@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1810,a gif from giphy,801,1,1.0,86.0,16
+1811,pull the entrance curtains close,976,1,87.0,252.0,32
+1812,set on the lights,932,1,253.0,343.0,17
+1813,order me a black drip coffee,1160,1,344.0,489.0,28
+1814,posts in the washington post compost blog,1076,1,490.0,700.0,41
+1815,add Despacito to my playlist Sad songs,249,1,701.0,901.0,39
+1816,play the previous song,805,2,1.0,122.0,22
+1817,new howtogeek articles,558,2,123.0,244.0,22
+1818,washington post sports,317,2,245.0,366.0,22
+1819,turn the cooling system on,712,2,367.0,508.0,26
+1820,my security camera live feed,955,2,509.0,660.0,28
+1821,my files in dropbox,1000,2,661.0,767.0,19
+1822,turn on my switch for me,26,2,768.0,899.0,24
+1823,close my entrance damper,802,3,1.0,126.0,24
+1824,translate to Russian,1151,3,127.0,232.0,20
+1825,weather tomorrow,145,3,233.0,318.0,16
+1826,charge the vacuum,85,3,319.0,409.0,17
+1827,my newest google drive files,1064,3,410.0,555.0,28
+1828,mark me as away on slack,787,3,556.0,681.0,24
+1829,make a tweet,1079,3,682.0,747.0,12
+1830,user-submitted images in Imgur,568,3,748.0,903.0,30
+1831,images from Imgur marked mature,763,4,1.0,178.0,31
+1832,youtube channels with category beauty and fashion,136,4,179.0,446.0,49
+1833,shut the window,1159,4,447.0,544.0,15
+1834,on Spotify play Jingle Bells,264,4,545.0,707.0,28
+1835,set the volume of my LG tv to zero,103,4,708.0,900.0,34
+1836,breaking news on fortune,645,5,1.0,132.0,24
+1837,set volume on my speaker to eighty percents,20,5,133.0,324.0,36
+1838,a random fox,435,5,325.0,396.0,12
+1839,put the shades down,331,5,397.0,503.0,19
+1840,WSJ lifestyle articles,1215,5,504.0,625.0,22
+1841,channels in category tech on youtube,1059,5,626.0,817.0,36
+1842,turn shuffle on,401,5,818.0,904.0,15
+1843,what is the weather tomorrow,1142,6,1.0,168.0,28
+1844,put the damper up,887,6,169.0,281.0,17
+1845,return my vacuum to base,13,6,282.0,429.0,24
+1846,open my blinds for me,282,6,430.0,562.0,21
+1847,my starred google drive files,559,6,563.0,735.0,29
+1848,the space left on my dropbox,791,6,736.0,903.0,28
+1849,set the temperature between eighteen degrees and twenty five degrees on my thermostat,838,7,1.0,447.0,85
+1850,the blog post everything of the washington post,424,7,448.0,704.0,47
+1851,the humidity reported by thermostat,388,7,705.0,901.0,35
+1852,the time signature of song Rolling in the deep,160,8,1.0,248.0,46
+1853,turn on shuffle,1107,8,249.0,341.0,15
+1854,youtube's lifestyle channels,184,8,342.0,504.0,29
+1855,songs in my playlist,48,8,505.0,622.0,20
+1856,add song Jingle Bells to my playlist Favourite songs,429,8,623.0,900.0,52
+1857,the instrumentalness of the current song,1094,9,1.0,206.0,40
+1858,the description of a picture,357,9,207.0,352.0,28
+1859,my three recent instagram pictures,793,9,353.0,528.0,34
+1860,slack channel history,981,9,529.0,639.0,21
+1861,add an album to my playlist,416,9,640.0,780.0,27
+1862,top stories on CNN news,1272,9,781.0,901.0,23

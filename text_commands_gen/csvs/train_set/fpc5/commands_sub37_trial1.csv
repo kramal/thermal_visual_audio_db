@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+866,can you switch on my kitchen fan,728,1,1.0,208.0,32
+867,set the temperature of my Tesla car to twenty degrees,970,1,209.0,521.0,53
+868,wall street journal lifestyle,679,1,522.0,714.0,29
+869,my newest google drive files,1064,1,715.0,902.0,28
+870,tasks from the last three days from Wunderlist,1184,2,1.0,298.0,51
+871,best of youtube channels in youtube,295,2,299.0,516.0,35
+872,put a picture on facebook,195,2,517.0,684.0,25
+873,channels in category diy on youtube,453,2,685.0,902.0,35
+874,add Rolling in the deep to my playlist Favourite songs,477,3,1.0,282.0,55
+875,send an email to somebody,997,3,283.0,414.0,25
+876,go to ten seconds,278,3,415.0,506.0,17
+877,all IMGflip meme templates,30,3,507.0,643.0,26
+878,stop turning the fan,673,3,644.0,750.0,20
+879,a picture from NASA curiosity,597,3,751.0,902.0,29
+880,is this song acoustic,941,4,1.0,121.0,21
+881,enable my security camera,109,4,122.0,262.0,25
+882,set my bluetooth speaker to fifty percents,141,4,263.0,453.0,35
+883,set my thermostat to twenty five degrees,369,4,454.0,669.0,40
+884,the instrumentalness of Rolling in the deep,654,4,670.0,900.0,43
+885,latest papers in category Economics on arxiv,818,5,1.0,247.0,44
+886,my fitbit step count,51,5,248.0,374.0,20
+887,how loud is Rolling in the deep,339,5,375.0,556.0,31
+888,the loudness of the current song,153,5,557.0,743.0,32
+889,post a picture on facebook,101,5,744.0,900.0,26
+890,set the power on my LG tv to on,698,6,1.0,163.0,31
+891,add song Rolling in the deep to my playlist Sad songs,81,6,164.0,436.0,53
+892,causes channels in youtube,816,6,437.0,574.0,26
+893,is Despacito live,1033,6,575.0,667.0,17
+894,order me a cappuccino,374,6,668.0,780.0,21
+895,top stories on BBC news,1089,6,781.0,903.0,23
+896,add the album Abbey Road to my playlist Dance mood,868,7,1.0,257.0,50
+897,I want to switch off the kitchen fan,472,7,258.0,444.0,36
+898,set my bluetooth speaker to hundred percents,196,7,445.0,636.0,37
+899,off the switch,804,7,637.0,713.0,14
+900,NASA's astronomy picture of the day,846,7,714.0,900.0,36
+901,youtube channels with category sports,563,8,1.0,189.0,37
+902,help me turn off the dining room switch,296,8,190.0,388.0,39
+903,my schedule on iCalendar,1157,8,389.0,512.0,24
+904,math facts about seven,541,8,513.0,626.0,22
+905,price of Ethereum,208,8,627.0,715.0,17
+906,close my shutters,29,8,716.0,804.0,17
+907,posts on phd comics,227,8,805.0,903.0,19
+908,the speechiness of song Jingle Bells,675,9,1.0,202.0,36
+909,math facts about pi,420,9,203.0,319.0,19
+910,comedy youtube channels,922,9,320.0,456.0,23
+911,an interesting factoid about dog,501,9,457.0,638.0,32
+912,the number of steps i took,539,9,639.0,790.0,26
+913,my emails on gmail,649,9,791.0,902.0,18

@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1860,the speechiness of song Jingle Bells,675,1,1.0,245.0,36
+1861,generate a caption for a picture,1083,1,246.0,470.0,32
+1862,my instagram pictures with filter Normal,444,1,471.0,735.0,40
+1863,ABC news top stories,478,1,736.0,900.0,20
+1864,set the temperature to twenty three degrees on my thermostat,277,2,1.0,309.0,60
+1865,latest posts on a RSS feed,1276,2,310.0,453.0,27
+1866,the speechiness of Jingle Bells,782,2,454.0,617.0,31
+1867,open my entrance damper for me,688,2,618.0,776.0,30
+1868,top stories on BBC news,1089,2,777.0,900.0,23
+1869,latest posts in all my RSS subscriptions,463,3,1.0,204.0,40
+1870,turn off my LG tv,681,3,205.0,293.0,17
+1871,the energy of song Jingle Bells,274,3,294.0,452.0,31
+1872,set the temperature between twenty three degrees and twenty five degrees on my thermostat,542,3,453.0,901.0,89
+1873,omlet messages from me,6,4,1.0,119.0,22
+1874,play something on my speaker,849,4,120.0,268.0,28
+1875,post something on my linkedin,647,4,269.0,422.0,29
+1876,my fitbit step count,51,4,423.0,531.0,20
+1877,my files in dropbox,1000,4,532.0,635.0,19
+1878,my instagram pictures that have the Clarendon filter,534,4,636.0,904.0,52
+1879,is Jingle Bells live,499,5,1.0,124.0,20
+1880,wall street journal articles in the technology section published in the last hour,115,5,125.0,553.0,81
+1881,an RSS feed,1003,5,554.0,632.0,11
+1882,youtube's paid channels,105,5,633.0,776.0,24
+1883,order me an americano,143,5,777.0,900.0,20
+1884,order me an iced cappuccino,852,6,1.0,164.0,26
+1885,add song Despacito to my playlist Sad songs,798,6,165.0,413.0,43
+1886,close my entrance damper,802,6,414.0,567.0,24
+1887,turn off the bedroom fan,148,6,568.0,721.0,24
+1888,create a file in google drive,197,6,722.0,900.0,29
+1889,news and politics channels in youtube,556,7,1.0,193.0,37
+1890,dog pictures,854,7,194.0,261.0,12
+1891,close my shades,387,7,262.0,344.0,15
+1892,articles in the washington post in section world,158,7,345.0,592.0,48
+1893,play David Bowie,1262,7,593.0,680.0,16
+1894,a plot from wolframalpha,164,7,681.0,808.0,24
+1895,news on star wars,287,7,809.0,901.0,17
+1896,latest star wars news,65,8,1.0,126.0,21
+1897,switch on the vacuum,903,8,127.0,247.0,20
+1898,the direct messages i received on twitter,780,8,248.0,473.0,41
+1899,wake up the Tesla car,807,8,474.0,599.0,21
+1900,decrease volume on my speaker,653,8,600.0,765.0,29
+1901,comedy youtube channels,922,8,766.0,901.0,23
+1902,posts in the washington post wonkblog blog,965,9,1.0,256.0,42
+1903,turn on my LG tv,612,9,257.0,382.0,16
+1904,set the temperature to twenty five degrees on my thermostat,157,9,383.0,723.0,59
+1905,add Despacito to Sad songs,456,9,724.0,899.0,26

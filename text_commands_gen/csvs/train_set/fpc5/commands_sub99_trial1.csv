@@ -1,0 +1,52 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2435,how positive is Rolling in the deep,309,1,1.0,185.0,35
+2436,what's on right now,683,1,186.0,290.0,19
+2437,how energetic is Jingle Bells,1177,1,291.0,445.0,29
+2438,the BPM of Rolling in the deep,1216,1,446.0,605.0,30
+2439,order me a drip coffee,1260,1,606.0,725.0,22
+2440,news on slashdot,650,1,726.0,815.0,16
+2441,unmute my LG tv,117,1,816.0,900.0,15
+2442,update my linkedin,172,2,1.0,132.0,18
+2443,start disco lights for my kitchen lights,579,2,133.0,374.0,40
+2444,close my entrance window,851,2,375.0,536.0,24
+2445,open my shutters for me,908,2,537.0,693.0,23
+2446,upload a private picture to Imgur,244,2,694.0,900.0,33
+2447,the instrumentalness of Rolling in the deep,654,3,1.0,218.0,43
+2448,SFW images from Imgur,16,3,219.0,326.0,21
+2449,stop the entrance fan from turning,861,3,327.0,499.0,34
+2450,add the album Parachutes to my playlist Favourite songs,731,3,500.0,777.0,55
+2451,washington post politics,720,3,778.0,900.0,24
+2452,my twitter DMs,139,4,1.0,73.0,14
+2453,tasks from Homework list from the last seven days from Wunderlist,888,4,74.0,426.0,70
+2454,the latest XKCD what if,1207,4,427.0,544.0,23
+2455,price of Ethereum,208,4,545.0,632.0,17
+2456,photos in album Trips on facebook,9,4,633.0,800.0,33
+2457,my fitbit step count,51,4,801.0,903.0,20
+2458,make the vacuum start cleaning,360,5,1.0,170.0,30
+2459,share a picture to the public Imgur gallery,837,5,171.0,405.0,43
+2460,on Spotify play Rolling in the deep,808,5,406.0,500.0,15
+2461,articles on how-to geek,1213,5,501.0,635.0,23
+2462,make my LG tv louder,1242,5,636.0,755.0,20
+2463,lower the entrance damper,1178,5,756.0,900.0,25
+2464,is the current song an instrumental,1236,6,1.0,181.0,35
+2465,tasks from Work list on Wunderlist,68,6,182.0,357.0,34
+2466,close the awning,1048,6,358.0,443.0,16
+2467,the state of my heater,726,6,444.0,559.0,22
+2468,halt my oscillating bedroom fan,919,6,560.0,720.0,31
+2469,add Jingle Bells to Favourite songs,421,6,721.0,901.0,35
+2470,set the volume of my bluetooth speaker to zero,1024,7,1.0,241.0,46
+2471,tasks from the last ten days from Wunderlist,952,7,242.0,497.0,49
+2472,Stanford news,246,7,498.0,573.0,13
+2473,what happened in twenty twelve,826,7,574.0,734.0,30
+2474,switch on the vacuum,903,7,735.0,845.0,20
+2475,my emails,1155,7,846.0,901.0,9
+2476,post something on my tumblr blog,533,8,1.0,177.0,32
+2477,the instrumentalness of the current track,842,8,178.0,399.0,41
+2478,news on mashable,1233,8,400.0,496.0,16
+2479,film and entertainment youtube channels,1125,8,497.0,708.0,39
+2480,how dancey is the song Jingle Bells,517,8,709.0,900.0,35
+2481,the danceability of the song Jingle Bells,236,9,1.0,230.0,41
+2482,tasks from Work list from the last three days from Wunderlist,1038,9,231.0,585.0,66
+2483,lower the curtains,1152,9,586.0,700.0,18
+2484,turn off my switch,779,9,701.0,815.0,18
+2485,move the fan,1186,9,816.0,900.0,12

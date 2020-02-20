@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+823,the state of the router,454,1,1.0,123.0,23
+824,pull the entrance curtains close,976,1,124.0,291.0,32
+825,the three latest instagram pictures on my account,487,1,292.0,544.0,49
+826,the fitbit pedometer,213,1,545.0,652.0,20
+827,the liveness of the current track,644,1,653.0,825.0,33
+828,turn the AC on,897,1,826.0,903.0,14
+829,my unimportant emails,666,2,1.0,115.0,21
+830,what's on right now,683,2,116.0,220.0,19
+831,put a picture on facebook,195,2,221.0,355.0,25
+832,close the awning,1048,2,356.0,445.0,16
+833,make my security camera stop recording,327,2,446.0,645.0,38
+834,latest slashdot news,1275,2,646.0,755.0,20
+835,play my playlist Dance mood,432,2,756.0,900.0,27
+836,generate a caption for a picture,1083,3,1.0,177.0,32
+837,put the blinds down,1035,3,178.0,289.0,19
+838,play the playlist Sad songs,995,3,290.0,441.0,27
+839,today's asteroid,368,3,442.0,538.0,16
+840,ask my vacuum to wait,1252,3,539.0,660.0,21
+841,articles in the new york times health section,554,3,661.0,902.0,45
+842,the valence of Jingle Bells,699,4,1.0,160.0,27
+843,completed tasks from To do list from the last ten days on Wunderlist,925,4,161.0,550.0,73
+844,latest posts in all my RSS feeds,549,4,551.0,735.0,32
+845,my recent instagram pictures,1219,4,736.0,900.0,28
+846,add the album Abbey Road to my playlist,1169,5,1.0,205.0,39
+847,switch off the vacuum,379,5,206.0,320.0,21
+848,my instagrams that use filter Normal,715,5,321.0,510.0,36
+849,youtube channels with category tech,560,5,511.0,695.0,35
+850,my onedrive files in alphabetical order,1289,5,696.0,900.0,39
+851,the google drive files i starred,326,6,1.0,235.0,32
+852,lower the damper,602,6,236.0,390.0,16
+853,images from Imgur usersub with more than thousand points,1185,6,391.0,745.0,56
+854,my dropbox quota,589,6,746.0,900.0,16
+855,set the low temperature to eighteen degrees on my thermostat and the high to twenty degrees,259,7,1.0,472.0,91
+856,the new york times US section,836,7,473.0,634.0,29
+857,a NASA picture,268,7,635.0,721.0,14
+858,washington post local,521,7,722.0,843.0,21
+859,NY times,527,7,844.0,900.0,8
+860,random trump quote,875,8,1.0,102.0,18
+861,washington post's the fix blog,1001,8,103.0,269.0,31
+862,the acousticness of Rolling in the deep,1127,8,270.0,476.0,39
+863,move the bedroom fan,1181,8,477.0,588.0,20
+864,the loudness of Jingle Bells,261,8,589.0,740.0,28
+865,the count of steps from fitbit,722,8,741.0,902.0,30
+866,off the switch,804,9,1.0,88.0,14
+867,news on slashdot,650,9,89.0,186.0,16
+868,search on bing,1247,9,187.0,274.0,14
+869,close my shades,387,9,275.0,367.0,15
+870,my google drive files larger than five gigabytes,169,9,368.0,625.0,48
+871,add song Jingle Bells to my playlist Favourite songs,429,9,626.0,903.0,52

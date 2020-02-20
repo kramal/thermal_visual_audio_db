@@ -1,0 +1,56 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1812,slack messages i received in the last hour,1190,1,1.0,214.0,42
+1813,WSJ markets articles,404,1,215.0,318.0,20
+1814,turn the cooling system on,712,1,319.0,452.0,26
+1815,latest papers in category Mathematics on arxiv,402,1,453.0,686.0,46
+1816,how dancey is the song Rolling in the deep,872,1,687.0,900.0,42
+1817,the power state of the light bulb,531,2,1.0,166.0,33
+1818,stop the kitchen fan from swinging,980,2,167.0,337.0,34
+1819,send a message on slack,134,2,338.0,453.0,23
+1820,articles in the new york times arts section,464,2,454.0,669.0,43
+1821,an RSS feed,1003,2,670.0,725.0,11
+1822,a random fox picture,636,2,726.0,826.0,20
+1823,generate a meme,661,2,827.0,902.0,15
+1824,image search,1137,3,1.0,64.0,12
+1825,turn on the light,532,3,65.0,153.0,17
+1826,make my LG tv louder,1242,3,154.0,257.0,20
+1827,lower the damper,602,3,258.0,341.0,16
+1828,posts on matrix sixty seven,116,3,342.0,480.0,27
+1829,play the next song,498,3,481.0,574.0,18
+1830,important emails,108,3,575.0,658.0,16
+1831,the state of the kitchen motion sensor,766,3,659.0,852.0,38
+1832,TED videos,724,3,853.0,906.0,10
+1833,name a baby,969,4,1.0,69.0,11
+1834,raise volume on my bluetooth speaker,883,4,70.0,263.0,36
+1835,how loud is Jingle Bells,199,4,264.0,397.0,24
+1836,set the power on my security camera to on,717,4,398.0,616.0,41
+1837,add the album Meteora to my playlist,483,4,617.0,810.0,36
+1838,honk my car horn,511,4,811.0,904.0,16
+1839,channels in category sports on youtube,848,5,1.0,221.0,38
+1840,tasks from Homework list from the last ten days from Wunderlist,258,5,222.0,592.0,68
+1841,send a picture via email,873,5,593.0,743.0,24
+1842,help me on my bedroom fan,866,5,744.0,899.0,25
+1843,create a new text file in onedrive,1078,6,1.0,175.0,34
+1844,set the low temperature to eighteen degrees on my thermostat and the high to twenty degrees,259,6,176.0,635.0,91
+1845,bing search,775,6,636.0,695.0,11
+1846,the blog politics of the washington post,250,6,696.0,900.0,40
+1847,charge the vacuum,85,7,1.0,95.0,17
+1848,add the album Parachutes to my playlist,951,7,96.0,300.0,39
+1849,the description of a picture,357,7,301.0,450.0,28
+1850,youtube channels with category music,1225,7,451.0,640.0,36
+1851,animal fun facts,1111,7,641.0,730.0,16
+1852,the danceability of Jingle Bells,1045,7,731.0,900.0,32
+1853,new york times,768,8,1.0,81.0,14
+1854,order me an iced espresso,620,8,82.0,212.0,24
+1855,a random piece of wisdom,784,8,213.0,343.0,24
+1856,songs in my playlist Sad songs,133,8,344.0,504.0,30
+1857,is Despacito live,1033,8,505.0,600.0,17
+1858,youtube channels with category gaming,794,8,601.0,796.0,37
+1859,turn my kitchen fan,633,8,797.0,902.0,19
+1860,wall street journal opinions,1043,9,1.0,156.0,28
+1861,play the songs Rolling in the deep on Spotify,323,9,157.0,397.0,45
+1862,the liveness of this song,749,9,398.0,538.0,25
+1863,my emails,1155,9,539.0,599.0,9
+1864,my tweets,706,9,600.0,660.0,9
+1865,puppy pictures,907,9,661.0,746.0,14
+1866,channels I follow on youtube,610,9,747.0,902.0,28

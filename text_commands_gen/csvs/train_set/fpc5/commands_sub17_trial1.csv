@@ -1,0 +1,52 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1560,add song Jingle Bells to Favourite songs,655,1,1.0,240.0,40
+1561,alert me by flashing the kitchen lights,1173,1,241.0,475.0,39
+1562,how dancey is the song Rolling in the deep,872,1,476.0,725.0,42
+1563,add Despacito to Dance mood,8,1,726.0,900.0,27
+1564,lifestyle washington post's articles,154,2,1.0,187.0,37
+1565,create a new playlist,142,2,188.0,294.0,21
+1566,latest slashdot news,1275,2,295.0,396.0,20
+1567,new playlist,1256,2,397.0,458.0,12
+1568,my onedrive files modified this week,948,2,459.0,640.0,36
+1569,the list of all memes,90,2,641.0,747.0,21
+1570,washington post's the fix blog,1001,2,748.0,904.0,31
+1571,turn the heating on,1091,3,1.0,100.0,19
+1572,Are my Tesla's doors locked?,382,3,101.0,250.0,29
+1573,upload a picture to Imgur and mark it mature,543,3,251.0,475.0,44
+1574,the front page of reddit,349,3,476.0,600.0,24
+1575,close my entrance blinds,1028,3,601.0,725.0,24
+1576,set the volume of my LG tv to zero,103,3,726.0,900.0,34
+1577,is Jingle Bells live,499,4,1.0,124.0,20
+1578,add the album Abbey Road to my playlist Favourite songs,10,4,125.0,423.0,55
+1579,my instagram pictures with filter Clarendon,621,4,424.0,662.0,43
+1580,posts on phd comics,227,4,663.0,781.0,19
+1581,mute my LG webos tv,1201,4,782.0,900.0,19
+1582,a picture from curiosity rover,1080,5,1.0,166.0,30
+1583,pull the entrance curtains open,129,5,167.0,337.0,31
+1584,articles in the washington post in section politics,629,5,338.0,608.0,51
+1585,open my window,114,5,609.0,694.0,14
+1586,skip to ten seconds,1065,5,695.0,805.0,19
+1587,lower the damper,602,5,806.0,901.0,16
+1588,turn the kitchen switch on,785,6,1.0,133.0,26
+1589,TED videos,724,6,134.0,186.0,10
+1590,play the playlist Sad songs,995,6,187.0,324.0,27
+1591,the sentiment of a sentence,1085,6,325.0,462.0,27
+1592,tasks from Homework list on Wunderlist,750,6,463.0,655.0,38
+1593,articles in the washington post in section sports,1255,6,656.0,903.0,49
+1594,front page of huffpost,1251,7,1.0,128.0,22
+1595,shut the window,1159,7,129.0,221.0,15
+1596,latest articles by ars technica,989,7,222.0,394.0,31
+1597,articles in the washington post in section local,777,7,395.0,652.0,48
+1598,add song Jingle Bells to my playlist Sad songs,407,7,653.0,900.0,46
+1599,add Despacito to Favourite songs,187,8,1.0,167.0,32
+1600,an aphorism,1051,8,168.0,229.0,11
+1601,turn off the light,474,8,230.0,326.0,18
+1602,set my speaker as default,963,8,327.0,458.0,25
+1603,last slack messages,1297,8,459.0,560.0,19
+1604,my schedule on iCalendar,1157,8,561.0,687.0,24
+1605,puppy pictures,907,8,688.0,764.0,14
+1606,latest news by ars technica,550,8,765.0,906.0,27
+1607,play an album,334,9,1.0,79.0,13
+1608,add the album Parachutes to my playlist Favourite songs,731,9,80.0,368.0,55
+1609,set temperature on my thermostat to twenty degrees,590,9,369.0,632.0,50
+1610,wall street journal articles in the markets section,745,9,633.0,901.0,51

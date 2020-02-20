@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1796,techcrunch news,229,1,1.0,86.0,15
+1797,the instrumentalness of Rolling in the deep,654,1,87.0,312.0,43
+1798,the business section of the new york times,572,1,313.0,533.0,42
+1799,loop the color in my light bulb,847,1,534.0,699.0,31
+1800,my emails,1155,1,700.0,755.0,9
+1801,the valence of Jingle Bells,699,1,756.0,901.0,27
+1802,set my HVAC to heat cool,748,2,1.0,124.0,24
+1803,value in usd of Litecoin,422,2,125.0,248.0,24
+1804,news on slashdot,650,2,249.0,332.0,16
+1805,restore the volume on my LG tv,1167,2,333.0,486.0,30
+1806,stop the vacuum cleaner,465,2,487.0,605.0,23
+1807,can you switch on my entrance fan,446,2,606.0,774.0,33
+1808,the BPM of song Despacito,1202,2,775.0,903.0,25
+1809,file on github,28,3,1.0,78.0,14
+1810,add this to my playlist Sad songs,403,3,79.0,251.0,33
+1811,honk the horn on my car,381,3,252.0,374.0,23
+1812,set my HVAC to off,759,3,375.0,472.0,18
+1813,my contacts on google,641,3,473.0,585.0,21
+1814,can you switch on my bedroom fan,729,3,586.0,753.0,32
+1815,the speechiness of this song,238,3,754.0,901.0,28
+1816,how positive is Despacito,1131,4,1.0,126.0,25
+1817,imgur usersub,344,4,127.0,192.0,13
+1818,my primary category emails,575,4,193.0,323.0,26
+1819,youtube's cooking channels,380,4,324.0,459.0,27
+1820,add song Despacito to my playlist Sad songs,798,4,460.0,675.0,43
+1821,lower the entrance shades,814,4,676.0,801.0,25
+1822,translate to English,87,4,802.0,902.0,20
+1823,upload a private picture to Imgur,244,5,1.0,171.0,33
+1824,play the album Parachutes,127,5,172.0,302.0,25
+1825,post on slack,638,5,303.0,373.0,13
+1826,a random piece of wisdom,784,5,374.0,499.0,24
+1827,start disco lights for my kitchen lights,579,5,500.0,705.0,40
+1828,random trump quote,875,5,706.0,801.0,18
+1829,retract the awnings,979,5,802.0,902.0,19
+1830,the danceability of Despacito,713,6,1.0,148.0,29
+1831,alert me by flashing the lights,1005,6,149.0,306.0,31
+1832,pictures of cats,536,6,307.0,389.0,16
+1833,add Despacito to my playlist Favourite songs,761,6,390.0,617.0,45
+1834,images from Imgur usersub with more than thousand points,1185,6,618.0,900.0,56
+1835,the sports section of the new york times,1106,7,1.0,253.0,40
+1836,set the temperature between twenty degrees and twenty five degrees on my thermostat,668,7,254.0,721.0,83
+1837,a plot from wolfram alpha,320,7,722.0,899.0,25
+1838,latest papers in category Physics on arxiv,1088,8,1.0,235.0,42
+1839,posts in the washington post powerpost blog,889,8,236.0,475.0,43
+1840,from tv youtube channels,855,8,476.0,620.0,24
+1841,articles in the washington post in section national,1082,8,621.0,900.0,51
+1842,create a folder in dropbox,137,9,1.0,134.0,26
+1843,switch on the vacuum,903,9,135.0,238.0,20
+1844,CNN news top stories,1244,9,239.0,342.0,20
+1845,a joke,1293,9,343.0,376.0,6
+1846,decrease the volume of my LG tv,1174,9,377.0,535.0,31
+1847,time estimate for uber,273,9,536.0,649.0,22
+1848,make a tweet,1079,9,650.0,713.0,12
+1849,the new york times technology section,120,9,714.0,902.0,37

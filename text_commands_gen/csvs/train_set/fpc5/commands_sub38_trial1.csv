@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+963,stop the vacuum cleaner,465,1,1.0,129.0,23
+964,add Jingle Bells to my playlist Favourite songs,364,1,130.0,383.0,48
+965,set my HVAC to off,759,1,384.0,487.0,18
+966,play the artist Frank Sinatra,458,1,488.0,646.0,29
+967,my linkedin profile,676,1,647.0,755.0,19
+968,order me an iced white mocha,1109,1,756.0,904.0,27
+969,set off the lights,858,2,1.0,92.0,18
+970,wall street journal opinions,1043,2,93.0,234.0,28
+971,a random fox picture,636,2,235.0,336.0,20
+972,wall street journal articles,915,2,337.0,478.0,28
+973,popular science news,151,2,479.0,580.0,20
+974,snail fun facts,505,2,581.0,657.0,15
+975,turn off my LG webos tv,1217,2,658.0,774.0,23
+976,close my entrance shutters,112,2,775.0,906.0,26
+977,the instrumentalness of this song,391,3,1.0,172.0,33
+978,play the album Parachutes,127,3,173.0,304.0,25
+979,the BPM of Despacito,226,3,305.0,411.0,20
+980,on Spotify play Despacito,957,3,412.0,543.0,25
+981,articles on how to geek,467,3,544.0,665.0,23
+982,recent tweets,764,3,666.0,737.0,13
+983,turn on my bedroom switch for me,23,3,738.0,904.0,32
+984,turn off the lights,1254,4,1.0,110.0,19
+985,can you switch on my bedroom fan,729,4,111.0,285.0,32
+986,new howtogeek articles,558,4,286.0,410.0,22
+987,the tempo,663,4,411.0,470.0,9
+988,articles on lifehacker,1074,4,471.0,595.0,22
+989,write to a new onedrive file,1175,4,596.0,750.0,28
+990,order me a black flat white,270,4,751.0,900.0,27
+991,the energy of song Jingle Bells,274,5,1.0,174.0,31
+992,open my curtains for me,803,5,175.0,308.0,23
+993,close my entrance shades,79,5,309.0,447.0,24
+994,order me a black mocha,1070,5,448.0,576.0,22
+995,tell my vacuum to start cleaning the house,206,5,577.0,805.0,42
+996,close the awning,1048,5,806.0,904.0,16
+997,my dropbox files in reverse alphabetical order,476,6,1.0,239.0,46
+998,top stories on CNN news,1272,6,240.0,363.0,23
+999,youtube's film and entertainment channels,489,6,364.0,582.0,42
+1000,turn the kitchen switch on,785,6,583.0,721.0,26
+1001,order me an espresso,1281,6,722.0,825.0,19
+1002,news from ABC,372,6,826.0,899.0,13
+1003,a random useless fact,64,7,1.0,126.0,21
+1004,mathematical trivia about three,822,7,127.0,302.0,31
+1005,channels in category recommended on youtube,734,7,303.0,538.0,43
+1006,tasks from Homework list from the last ten days from Wunderlist,258,7,539.0,899.0,68
+1007,Wall street journal markets,725,8,1.0,137.0,27
+1008,order me an iced espresso,620,8,138.0,259.0,24
+1009,order me a black drip coffee,1160,8,260.0,401.0,28
+1010,raise volume on my bluetooth speaker,883,8,402.0,583.0,36
+1011,help me turn off my bedroom fan,917,8,584.0,740.0,31
+1012,halt my oscillating entrance fan,530,8,741.0,902.0,32
+1013,upload a picture to Imgur and mark it mature,543,9,1.0,264.0,44
+1014,close the window,867,9,265.0,388.0,16
+1015,set the temperature of my Tesla car to twenty five degrees,392,9,389.0,722.0,58
+1016,articles on popular science,555,9,723.0,901.0,27

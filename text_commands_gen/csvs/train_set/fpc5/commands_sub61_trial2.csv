@@ -1,0 +1,44 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1517,set the temperature to twenty three degrees on my thermostat,277,1,1.0,388.0,60
+1518,raise the shades,635,1,389.0,556.0,16
+1519,articles in the washington post in section opinions,623,1,557.0,899.0,51
+1520,wall street journal articles in the technology section published in the last hour,115,2,1.0,421.0,81
+1521,trump quotes,1039,2,422.0,497.0,12
+1522,articles in the new york times world section,156,2,498.0,733.0,44
+1523,make a new tumblr picture post,548,2,734.0,899.0,30
+1524,snail fun facts,505,3,1.0,94.0,15
+1525,washington post's morning mix blog,1206,3,95.0,288.0,35
+1526,turn on repeat,991,3,289.0,377.0,14
+1527,play my playlist Favourite songs,1290,3,378.0,556.0,32
+1528,youtube channels with category tech,560,3,557.0,750.0,35
+1529,latest news by ars technica,550,3,751.0,904.0,27
+1530,order me a black mocha,1070,4,1.0,123.0,22
+1531,halt my oscillating bedroom fan,919,4,124.0,291.0,31
+1532,a math plot,1018,4,292.0,359.0,11
+1533,set the power on my LG tv to on,698,4,360.0,527.0,31
+1534,posts in the washington post right turn blog,893,4,528.0,760.0,44
+1535,play my playlist Sad songs,954,4,761.0,903.0,26
+1536,the energy of this song,280,5,1.0,146.0,23
+1537,request an uber,1075,5,147.0,257.0,16
+1538,the acousticness of the current song,188,5,258.0,468.0,36
+1539,order me a black espresso,168,5,469.0,624.0,25
+1540,the new york times front page,959,5,625.0,800.0,29
+1541,tell me a joke,1188,5,801.0,901.0,14
+1542,set the temperature between eighteen degrees and twenty degrees on my thermostat,783,6,1.0,414.0,80
+1543,switch off the kitchen vacuum,335,6,415.0,573.0,29
+1544,a fact about snail,375,6,574.0,677.0,18
+1545,news on NBA basketball,355,6,678.0,801.0,22
+1546,the latest tweets,166,6,802.0,900.0,17
+1547,turn on my dining room switch for me,1052,7,1.0,224.0,36
+1548,my unimportant emails,666,7,225.0,373.0,21
+1549,the speechiness of song Despacito,209,7,374.0,582.0,33
+1550,add the album Abbey Road to my playlist Favourite songs,10,7,583.0,901.0,55
+1551,add  the currently playing song to my playlist Sad songs,916,8,1.0,282.0,56
+1552,the front page of reddit,349,8,283.0,404.0,24
+1553,the danceability of Rolling in the deep,442,8,405.0,601.0,39
+1554,make the entrance fan oscillate,80,8,602.0,758.0,31
+1555,play Jingle Bells on Spotify,390,8,759.0,900.0,28
+1556,the blog post everything of the washington post,424,9,1.0,280.0,47
+1557,a random picture from giphy,2,9,281.0,460.0,27
+1558,WSJ opinions articles,1210,9,461.0,610.0,21
+1559,posts in the washington post post everything blog,242,9,611.0,900.0,49

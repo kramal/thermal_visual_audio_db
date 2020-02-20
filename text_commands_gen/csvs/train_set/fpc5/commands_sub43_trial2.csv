@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1506,help me turn off the switch,1246,1,1.0,152.0,27
+1507,add the album to my playlist Sad songs,371,1,153.0,359.0,38
+1508,articles on how to geek,467,1,360.0,491.0,23
+1509,alert me by flashing the kitchen lights,1173,1,492.0,703.0,39
+1510,set my HVAC to cool,290,1,704.0,815.0,19
+1511,blog on medium,346,1,816.0,902.0,14
+1512,tweets in my timeline,811,2,1.0,117.0,21
+1513,turn on my light bulb,660,2,118.0,234.0,21
+1514,my instagrams that use filter Clarendon,321,2,235.0,441.0,39
+1515,the danceability of Jingle Bells,1045,2,442.0,613.0,32
+1516,mashable news,1232,2,614.0,690.0,13
+1517,switch on the fan,1212,2,691.0,787.0,17
+1518,switch off the switch,719,2,788.0,904.0,21
+1519,order me an iced flat white,567,3,1.0,163.0,26
+1520,articles in the washington post in section national,1082,3,164.0,451.0,51
+1521,play some music on Spotify,1145,3,452.0,614.0,26
+1522,tasks from the last seven days from Wunderlist,350,3,615.0,902.0,51
+1523,add song Despacito to Favourite songs,190,4,1.0,231.0,37
+1524,the danceability of the song Rolling in the deep,890,4,232.0,517.0,48
+1525,lower the volume of my LG tv,573,4,518.0,703.0,28
+1526,wall street journal technology,84,4,704.0,899.0,30
+1527,when a new paper is published in category Computer Science on arxiv,557,5,1.0,348.0,67
+1528,dog fun facts,718,5,349.0,426.0,13
+1529,a fact about horse,609,5,427.0,529.0,18
+1530,is Rolling in the deep live,176,5,530.0,677.0,27
+1531,shut the window,1159,5,678.0,765.0,15
+1532,add to playlist Sad songs,1245,5,766.0,903.0,25
+1533,set the temperature of my Tesla car to twenty three degrees,405,6,1.0,309.0,59
+1534,order me a macchiato,434,6,310.0,423.0,20
+1535,news on NBA basketball,355,6,424.0,547.0,22
+1536,washington post opinions,376,6,548.0,681.0,24
+1537,my weight from fitbit,1193,6,682.0,800.0,21
+1538,photos on facebook,155,6,801.0,904.0,18
+1539,the BPM of the current track,257,7,1.0,166.0,28
+1540,youtube channels with category film and entertainment,977,7,167.0,457.0,53
+1541,articles in the washington post in section lifestyle,482,7,458.0,743.0,52
+1542,youtube's sports channels,514,7,744.0,899.0,26
+1543,set my thermostat to twenty degrees,806,8,1.0,224.0,35
+1544,the blog post everything of the washington post,424,8,225.0,508.0,47
+1545,the list of all memes,90,8,509.0,662.0,21
+1546,play something on my bluetooth speaker,950,8,663.0,901.0,38
+1547,articles in the washington post in section sports,1255,9,1.0,257.0,49
+1548,loop the color of the light bulb,192,9,258.0,429.0,32
+1549,turn off the light,474,9,430.0,531.0,18
+1550,the tempo,663,9,532.0,588.0,9
+1551,play the playlist Dance mood,891,9,589.0,740.0,28
+1552,please turn on the kitchen fan,231,9,741.0,902.0,30

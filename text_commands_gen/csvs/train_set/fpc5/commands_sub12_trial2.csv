@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1106,turn off my vacuum cleaner,817,1,1.0,156.0,26
+1107,add song Rolling in the deep to Dance mood,235,1,157.0,392.0,42
+1108,my lists from Wunderlist,968,1,393.0,543.0,25
+1109,honk the horn on my car,381,1,544.0,684.0,23
+1110,the state of the bedroom motion sensor,894,1,685.0,900.0,38
+1111,the speechiness of Rolling in the deep,443,2,1.0,217.0,38
+1112,I want to switch off the entrance fan,689,2,218.0,429.0,37
+1113,the weather,755,2,430.0,511.0,11
+1114,tasks from the last three days from Wunderlist,1184,2,512.0,793.0,51
+1115,request an uber,1075,2,794.0,900.0,16
+1116,songs in my playlist Favourite songs,692,3,1.0,222.0,36
+1117,set the temperature between eighteen degrees and twenty five degrees on my thermostat,838,3,223.0,689.0,85
+1118,five pictures from curiosity rover,999,3,690.0,901.0,34
+1119,set the power on my LG tv to off,315,4,1.0,191.0,32
+1120,paid youtube channels,1036,4,192.0,327.0,21
+1121,add Despacito to Sad songs on Spotify,14,4,328.0,543.0,37
+1122,is this song dancey,492,4,544.0,669.0,19
+1123,my google drive files modified this week,491,4,670.0,900.0,40
+1124,national washington post's articles,182,5,1.0,192.0,36
+1125,the latest posts in the reddit front page,502,5,193.0,409.0,41
+1126,switch on the switch,1062,5,410.0,521.0,20
+1127,close my entrance blinds,1028,5,522.0,653.0,24
+1128,articles in the new york times business section,1117,5,654.0,900.0,47
+1129,turn my bedroom fan,657,6,1.0,97.0,19
+1130,upload a mature picture to Imgure,927,6,98.0,264.0,33
+1131,a trump quote,76,6,265.0,331.0,13
+1132,my emails,1155,6,332.0,378.0,9
+1133,articles in the new york times sports section,207,6,379.0,605.0,45
+1134,shuffle my Spotify,659,6,606.0,697.0,18
+1135,some gif from giphy,1128,6,698.0,794.0,19
+1136,my contacts on google,641,6,795.0,901.0,21
+1137,honk the Tesla car,1044,7,1.0,95.0,18
+1138,new newest onedrive files,488,7,96.0,225.0,25
+1139,my instagram pictures that have the Gingham filter applied,12,7,226.0,520.0,58
+1140,add song Despacito to my playlist Favourite songs,631,7,521.0,770.0,49
+1141,make the bedroom fan turn,475,7,771.0,900.0,25
+1142,set my speaker softer,171,8,1.0,117.0,21
+1143,music youtube channels,189,8,118.0,239.0,22
+1144,a fact about cat,600,8,240.0,331.0,16
+1145,photos in album Family on facebook,962,8,332.0,513.0,34
+1146,flash the lights,366,8,514.0,605.0,16
+1147,washington post's right turn blog,565,8,606.0,787.0,34
+1148,my instagram pictures,986,8,788.0,904.0,21
+1149,add song Despacito to Favourite songs,190,9,1.0,189.0,37
+1150,web search,1025,9,190.0,243.0,10
+1151,post a picture on tumblr,658,9,244.0,367.0,24
+1152,tasks from Homework list from the last seven days from Wunderlist,888,9,368.0,721.0,70
+1153,best of youtube channels in youtube,295,9,722.0,900.0,35

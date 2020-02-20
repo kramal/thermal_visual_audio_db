@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2180,add this song to playlist Dance mood,691,1,1.0,211.0,36
+2181,the count of steps from fitbit,722,1,212.0,392.0,30
+2182,how energetic is Jingle Bells,1177,1,393.0,568.0,29
+2183,tell my vacuum cleaner to stop,740,1,569.0,749.0,30
+2184,order me an iced espresso,620,1,750.0,900.0,24
+2185,the lexical analysis of a sentence,240,2,1.0,176.0,34
+2186,completed tasks from Work list from the last ten days on Wunderlist,451,2,177.0,542.0,72
+2187,a cat picture,592,2,543.0,613.0,13
+2188,latest TED talks,354,2,614.0,699.0,16
+2189,change the temperature on my thermostat,271,2,700.0,900.0,39
+2190,ask my vacuum to wait,1252,3,1.0,109.0,21
+2191,turn off my light bulb,178,3,110.0,223.0,22
+2192,news on fortune,1046,3,224.0,302.0,15
+2193,increase the volume on my bluetooth speaker,938,3,303.0,521.0,43
+2194,play the song Despacito on Spotify,484,3,522.0,695.0,34
+2195,the instrumentalness of the current track,842,3,696.0,904.0,41
+2196,wall street journal articles,915,4,1.0,143.0,28
+2197,NASA's APOD,385,4,144.0,206.0,12
+2198,make a new playlist,1012,4,207.0,304.0,19
+2199,set the power on my security camera to on,717,4,305.0,512.0,41
+2200,add a picture to facebook,936,4,513.0,640.0,25
+2201,dog fun facts,718,4,641.0,708.0,13
+2202,put the curtains up,210,4,709.0,806.0,19
+2203,a fact about snail,375,4,807.0,899.0,18
+2204,open my window for me,753,5,1.0,128.0,21
+2205,play my playlist Dance mood,432,5,129.0,286.0,27
+2206,the instrumentalness of song Rolling in the deep,66,5,287.0,549.0,48
+2207,my instagram pictures with filter Normal,444,5,550.0,772.0,40
+2208,washington post world,1196,5,773.0,900.0,21
+2209,the danceability of the song Rolling in the deep,890,6,1.0,248.0,48
+2210,new howtogeek articles,558,6,249.0,366.0,22
+2211,is this song dancey,492,6,367.0,469.0,19
+2212,the BPM of the current track,257,6,470.0,617.0,28
+2213,is my Tesla remotely accessible?,904,6,618.0,790.0,33
+2214,my weight from fitbit,1193,6,791.0,903.0,21
+2215,tell the vacuum to return to base,665,7,1.0,188.0,33
+2216,WSJ opinions articles,1210,7,189.0,316.0,21
+2217,order me an iced cappuccino,852,7,317.0,469.0,26
+2218,put the entrance damper down,797,7,470.0,632.0,28
+2219,my instagram pictures that have the Normal filter,95,7,633.0,900.0,49
+2220,flash the lights as alerts,256,8,1.0,142.0,26
+2221,color loop the kitchen lights,162,8,143.0,299.0,29
+2222,my meeting schedule,939,8,300.0,406.0,19
+2223,youtube's news and politics channels,56,8,407.0,603.0,37
+2224,switch off my entrance switch,1266,8,604.0,760.0,29
+2225,make the kitchen fan swing,50,8,761.0,902.0,26
+2226,order me a black drip coffee,1160,9,1.0,148.0,28
+2227,what happened in the year twenty twenty,1268,9,149.0,351.0,39
+2228,turn off the kitchen fan,449,9,352.0,479.0,24
+2229,write to a new onedrive file,1175,9,480.0,627.0,28
+2230,skip this song,744,9,628.0,705.0,14
+2231,the instrumentalness of song Despacito,428,9,706.0,903.0,38

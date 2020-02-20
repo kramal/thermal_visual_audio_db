@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+45,wall street journal articles in the markets section published in the last hour,987,1,1.0,422.0,78
+46,set the temperature between twenty three degrees and twenty five degrees on my thermostat,542,1,423.0,899.0,89
+47,a random trump quote,634,2,1.0,116.0,20
+48,three pictures from curiosity rover,874,2,117.0,307.0,35
+49,washington post sports,317,2,308.0,433.0,22
+50,beauty and fashion channels in youtube,144,2,434.0,639.0,38
+51,the sentiment of a sentence,1085,2,640.0,790.0,27
+52,put the blinds down,1035,2,791.0,901.0,19
+53,posts on matrix sixty seven,116,3,1.0,171.0,27
+54,images from Imgur User Submitted rising,22,3,172.0,402.0,39
+55,order me an iced latte,218,3,403.0,543.0,21
+56,color loop the lights,1222,3,544.0,684.0,21
+57,my dropbox quota,589,3,685.0,800.0,16
+58,on the switch,1110,3,801.0,901.0,13
+59,channels in category best of youtube on youtube,581,4,1.0,237.0,47
+60,turn on my entrance switch for me,857,4,238.0,404.0,33
+61,mathematical trivia about pi,576,4,405.0,546.0,28
+62,news on slashdot,650,4,547.0,628.0,16
+63,add Jingle Bells to my playlist,1203,4,629.0,785.0,31
+64,send a message on slack,134,4,786.0,902.0,23
+65,music channels in youtube,241,5,1.0,144.0,25
+66,return my vacuum to base,13,5,145.0,283.0,24
+67,add Rolling in the deep to Favourite songs on Spotify,1257,5,284.0,567.0,53
+68,news on fortune,1046,5,568.0,661.0,15
+69,dock my vacuum,232,5,662.0,750.0,14
+70,turn off my security camera,203,5,751.0,904.0,27
+71,please turn on the kitchen fan,231,6,1.0,158.0,30
+72,update my linkedin,172,6,159.0,256.0,18
+73,honk the Tesla car,1044,6,257.0,354.0,18
+74,a random horse fact,78,6,355.0,457.0,19
+75,animal fun facts,1111,6,458.0,545.0,16
+76,my instagrams that use filter Gingham,1170,6,546.0,738.0,37
+77,the number of steps from fitbit,100,6,739.0,901.0,31
+78,facts about seven,1029,7,1.0,95.0,17
+79,lower the curtains,1152,7,96.0,195.0,18
+80,news from american broadcasting company,752,7,196.0,400.0,39
+81,raise the entrance blinds,771,7,401.0,535.0,25
+82,the BPM of the current track,257,7,536.0,685.0,28
+83,animal trivia,667,7,686.0,760.0,13
+84,turn off my entrance switch,496,7,761.0,905.0,27
+85,post something on my tumblr blog,533,8,1.0,171.0,32
+86,seek to fifty seconds in,933,8,172.0,302.0,24
+87,latest papers in category Computer Science on arxiv,1250,8,303.0,568.0,51
+88,NSFW images from Imgur,1103,8,569.0,689.0,22
+89,play some music on Spotify,1145,8,690.0,830.0,26
+90,a random gif,47,8,831.0,901.0,12
+91,add a song to my playlist Dance mood,790,9,1.0,190.0,36
+92,my twitter direct messages,1168,9,191.0,330.0,26
+93,make the fan turn,815,9,331.0,425.0,17
+94,recommended channels in youtube,480,9,426.0,590.0,31
+95,trump quote,1135,9,591.0,655.0,11
+96,my google drive files smaller than one gigabyte,362,9,656.0,900.0,47

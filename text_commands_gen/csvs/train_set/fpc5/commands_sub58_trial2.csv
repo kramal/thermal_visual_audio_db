@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1227,posts in the washington post wonkblog blog,965,1,1.0,219.0,42
+1228,play something on my bluetooth speaker,950,1,220.0,418.0,38
+1229,tasks from Work list from the last seven days from Wunderlist,946,1,419.0,757.0,66
+1230,youtube's cooking channels,380,1,758.0,901.0,27
+1231,stop turning the fan,673,2,1.0,151.0,20
+1232,images from Imgur usersub with more than thousand points,1185,2,152.0,482.0,56
+1233,switch off my bedroom switch,998,2,483.0,673.0,28
+1234,stop the entrance fan from swinging,1237,2,674.0,899.0,35
+1235,articles in the washington post in section lifestyle,482,3,1.0,284.0,52
+1236,add whatever's playing to my playlist,462,3,285.0,493.0,37
+1237,latest posts on a RSS feed,1276,3,494.0,652.0,27
+1238,washington post opinions,376,3,653.0,796.0,24
+1239,lower the damper,602,3,797.0,900.0,16
+1240,is Rolling in the deep instrumental,44,4,1.0,191.0,35
+1241,raise the entrance blinds,771,4,192.0,332.0,25
+1242,photos in album Friends on facebook,1263,4,333.0,523.0,35
+1243,my onedrive files that were created most recently,1192,4,524.0,784.0,49
+1244,order me a macchiato,434,4,785.0,900.0,20
+1245,the acousticness of Jingle Bells,701,5,1.0,170.0,32
+1246,what happened in twenty twelve,826,5,171.0,330.0,30
+1247,a fake name,1096,5,331.0,395.0,11
+1248,play Despacito on Spotify,1014,5,396.0,530.0,25
+1249,open my window for me,753,5,531.0,645.0,21
+1250,add the album Abbey Road to my playlist Sad songs,735,5,646.0,900.0,49
+1251,tell me a joke,1188,6,1.0,95.0,14
+1252,add song Jingle Bells to Dance mood,267,6,96.0,295.0,35
+1253,add  the currently playing song to my playlist Sad songs,916,6,296.0,600.0,56
+1254,fox pictures,834,6,601.0,685.0,12
+1255,youtube channels with category cooking,1283,6,686.0,900.0,38
+1256,five pictures from curiosity rover,999,7,1.0,179.0,34
+1257,the blog politics of the washington post,250,7,180.0,388.0,40
+1258,the front page of reddit,349,7,389.0,517.0,24
+1259,add the album Abbey Road to my playlist Dance mood,868,7,518.0,776.0,50
+1260,articles on life hacker,1002,7,777.0,900.0,23
+1261,channels I follow on youtube,610,8,1.0,151.0,28
+1262,price of game on Steam,529,8,152.0,272.0,22
+1263,shut up my LG tv,910,8,273.0,363.0,16
+1264,turn off my vacuum,1270,8,364.0,464.0,18
+1265,make a blog post on tumblr,1214,8,465.0,605.0,26
+1266,talks on TED,215,8,606.0,676.0,12
+1267,my BMI from fitbit,202,8,677.0,777.0,18
+1268,help me turn off my fan,328,8,778.0,903.0,23
+1269,set the temperature to twenty five degrees on my thermostat,157,9,1.0,322.0,59
+1270,put the entrance blinds up,15,9,323.0,479.0,26
+1271,my contact's info,52,9,480.0,591.0,17
+1272,turn my bedroom fan,657,9,592.0,713.0,19
+1273,posts on phd comics,227,9,714.0,835.0,19
+1274,ABC news,566,9,836.0,902.0,8

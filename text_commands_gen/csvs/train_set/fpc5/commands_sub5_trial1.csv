@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+391,set my thermostat to eighteen degrees,275,1,1.0,205.0,37
+392,new lifehacker articles,363,1,206.0,340.0,23
+393,turn off shuffle,586,1,341.0,440.0,16
+394,raise the damper,1132,1,441.0,540.0,16
+395,tweet a picture,613,1,541.0,635.0,15
+396,business news on fortune,163,1,636.0,775.0,24
+397,please turn on the fan,216,1,776.0,905.0,22
+398,my onedrive files in reverse alphabetical order,1286,2,1.0,263.0,47
+399,tech channels in youtube,674,2,264.0,411.0,24
+400,help me on my kitchen fan,926,2,412.0,564.0,25
+401,add song Jingle Bells to Favourite songs,655,2,565.0,792.0,40
+402,news on huffpost,677,2,793.0,900.0,16
+403,set volume on my speaker to zero percent,1119,3,1.0,174.0,34
+404,channels I am subscribed to on youtube,984,3,175.0,368.0,38
+405,the loudness of the current song,153,3,369.0,532.0,32
+406,gaming channels in youtube,762,3,533.0,666.0,26
+407,order me a white mocha,1098,3,667.0,780.0,22
+408,stop the vacuum cleaner,465,3,781.0,899.0,23
+409,switch off my vacuum for me,1134,4,1.0,203.0,27
+410,the new york times business section,639,4,204.0,446.0,35
+411,WSJ US business articles,1282,4,447.0,634.0,24
+412,the instrumentalness of the current song,1094,4,635.0,902.0,40
+413,set the temperature between eighteen degrees and twenty degrees on my thermostat,783,5,1.0,412.0,80
+414,the new york times arts section,1258,5,413.0,579.0,31
+415,turn on shuffle,1107,5,580.0,666.0,15
+416,add to playlist Dance mood,624,5,667.0,808.0,26
+417,my recent tweets,832,5,809.0,900.0,16
+418,a fact about horse,609,6,1.0,119.0,18
+419,my weight from fitbit,1193,6,120.0,253.0,21
+420,imgur usersub,344,6,254.0,347.0,13
+421,skip to thirty seconds,452,6,348.0,486.0,22
+422,set my bluetooth speaker to zero percent,27,6,487.0,685.0,34
+423,youtube channels with category causes,351,6,686.0,899.0,37
+424,the blog capital weather gang of the washington post,1204,7,1.0,275.0,52
+425,snail fun facts,505,7,276.0,365.0,15
+426,songs in my playlist Dance mood,461,7,366.0,535.0,31
+427,create a new text file in onedrive,1078,7,536.0,720.0,34
+428,how energetic is the current song,1179,7,721.0,900.0,33
+429,the energy of song Despacito,1087,8,1.0,156.0,28
+430,tasks from Homework list from the last ten days from Wunderlist,258,8,157.0,512.0,68
+431,play the playlist Favourite songs,1,8,513.0,693.0,33
+432,my contact's info,52,8,694.0,794.0,17
+433,add a new playlist,260,8,795.0,900.0,18
+434,get the temperature of my Tesla car,319,9,1.0,193.0,35
+435,best of youtube youtube channels,594,9,194.0,371.0,32
+436,is Rolling in the deep instrumental,44,9,372.0,564.0,35
+437,turn off my bedroom switch,895,9,565.0,712.0,26
+438,CS two nine four S class materials,687,9,713.0,900.0,34

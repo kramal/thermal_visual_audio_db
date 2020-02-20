@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1322,move the bedroom fan,1181,1,1.0,101.0,20
+1323,I want to switch off the fan,1277,1,102.0,242.0,28
+1324,how energetic is Rolling in the deep,43,1,243.0,423.0,36
+1325,switch on the fan,1212,1,424.0,509.0,17
+1326,the state of the router,454,1,510.0,625.0,23
+1327,value in dollars of Bitcoin,1278,1,626.0,761.0,27
+1328,the speechiness of Despacito,373,1,762.0,902.0,28
+1329,what happened in the year twenty twenty,1268,2,1.0,200.0,39
+1330,tasks from To do list from the last seven days from Wunderlist,792,2,201.0,540.0,67
+1331,my ten recent instagram pictures,1144,2,541.0,705.0,32
+1332,lower the damper,602,2,706.0,790.0,16
+1333,is this song acoustic,941,2,791.0,900.0,21
+1334,open the shutters,1016,3,1.0,119.0,17
+1335,the sports section of the new york times,1106,3,120.0,353.0,40
+1336,my onedrive files in alphabetical order,1289,3,354.0,582.0,39
+1337,add  the currently playing song to my playlist Dance mood,1292,3,583.0,901.0,57
+1338,lower the volume of my LG tv,573,4,1.0,143.0,28
+1339,my oldest onedrive files,756,4,144.0,266.0,24
+1340,youtube channels with category automotive,279,4,267.0,474.0,41
+1341,flash the lights as alerts,256,4,475.0,607.0,26
+1342,lower the blinds,1007,4,608.0,690.0,16
+1343,news from the best university in the world,437,4,691.0,903.0,42
+1344,add this song to my playlist,876,5,1.0,170.0,28
+1345,add Jingle Bells to my playlist Sad songs,53,5,171.0,410.0,42
+1346,the google drive files i starred,326,5,411.0,600.0,32
+1347,turn off the light,474,5,601.0,720.0,18
+1348,what happened in twenty twenty,526,5,721.0,900.0,30
+1349,open my entrance damper for me,688,6,1.0,157.0,30
+1350,articles in the new york times world section,156,6,158.0,384.0,44
+1351,posts on matrix sixty seven,116,6,385.0,526.0,27
+1352,a random picture of a dog,410,6,527.0,658.0,25
+1353,my instagram pictures that use filter Clarendon,992,6,659.0,900.0,47
+1354,close my damper,396,7,1.0,92.0,15
+1355,posts in the washington post powerpost blog,889,7,93.0,324.0,43
+1356,flash the kitchen lights,1298,7,325.0,461.0,24
+1357,my meeting schedule,939,7,462.0,573.0,19
+1358,make my LG tv quieter,230,7,574.0,695.0,21
+1359,turn my bedroom fan,657,7,696.0,807.0,19
+1360,generate a meme,661,7,808.0,899.0,15
+1361,CS two nine four W class slides,110,8,1.0,186.0,31
+1362,tasks from To do list from the last ten days from Wunderlist,1139,8,187.0,542.0,65
+1363,a giphy picture,545,8,543.0,648.0,15
+1364,posts in the washington post right turn blog,893,8,649.0,899.0,44
+1365,play my playlist Dance mood,432,9,1.0,154.0,27
+1366,search images on bing,58,9,155.0,278.0,21
+1367,my google drive files created this week,678,9,279.0,492.0,39
+1368,youtube's film and entertainment channels,489,9,493.0,721.0,42
+1369,can you switch on my kitchen fan,728,9,722.0,900.0,32

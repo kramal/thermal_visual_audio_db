@@ -1,0 +1,45 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2063,articles in the new york times business section,1117,1,1.0,257.0,47
+2064,posts in the washington post the fix blog,760,1,258.0,484.0,41
+2065,honk my car horn,511,1,485.0,586.0,16
+2066,facts about three,418,1,587.0,693.0,17
+2067,turn off my Tesla car air-conditioner,870,1,694.0,900.0,37
+2068,halt my oscillating kitchen fan,3,2,1.0,179.0,31
+2069,is Rolling in the deep live,176,2,180.0,338.0,27
+2070,the valence of Jingle Bells,699,2,339.0,497.0,27
+2071,upload a public picture to Imgur,754,2,498.0,681.0,32
+2072,the time signature of the current track,31,2,682.0,900.0,39
+2073,upload a picture to Imgur,967,3,1.0,142.0,25
+2074,news on huffington post,61,3,143.0,274.0,23
+2075,the time signature,1261,3,275.0,381.0,18
+2076,my iCalendar events,1130,3,382.0,493.0,19
+2077,completed tasks from Homework list from the last three days on Wunderlist,619,3,494.0,900.0,78
+2078,latest papers in category Economics on arxiv,818,4,1.0,233.0,44
+2079,the state of my battery,604,4,234.0,361.0,23
+2080,latest popular science news,886,4,362.0,509.0,27
+2081,a word from the dictionary,1073,4,510.0,652.0,26
+2082,posts in the washington post post partisan blog,1009,4,653.0,900.0,47
+2083,set the low temperature to eighteen degrees on my thermostat and the high to twenty three degrees,503,5,1.0,495.0,97
+2084,youtube channels with category DIY,830,5,496.0,675.0,34
+2085,add song Despacito to my playlist Sad songs,798,5,676.0,900.0,43
+2086,my google drive files in reverse alphabetical order,298,6,1.0,284.0,51
+2087,get the temperature of my Tesla car,319,6,285.0,488.0,35
+2088,latest gamespot news,881,6,489.0,617.0,20
+2089,off the fan,98,6,618.0,701.0,11
+2090,add this to my playlist Dance mood,125,6,702.0,900.0,34
+2091,please turn on the kitchen fan,231,7,1.0,174.0,30
+2092,wall street journal articles in the markets section published in the last hour,987,7,175.0,588.0,78
+2093,post on slack,638,7,589.0,677.0,13
+2094,interesting facts about the number seven,217,7,678.0,901.0,40
+2095,the BPM of song Rolling in the deep,186,8,1.0,183.0,35
+2096,set my bluetooth speaker to eighty percents,35,8,184.0,371.0,36
+2097,file on github,28,8,372.0,449.0,14
+2098,latest articles by ars technica,989,8,450.0,612.0,31
+2099,a random fox picture,636,8,613.0,720.0,20
+2100,set volume on my speaker to fifty percents,721,8,721.0,903.0,35
+2101,a plot from wolframalpha,164,9,1.0,144.0,24
+2102,youtube's beauty and fashion channels,358,9,145.0,358.0,38
+2103,put the entrance damper down,797,9,359.0,522.0,28
+2104,order me an iced cappuccino,852,9,523.0,676.0,26
+2105,switch off the switch,719,9,677.0,805.0,21
+2106,a random giphy,170,9,806.0,899.0,14

@@ -1,0 +1,44 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+780,an interesting factoid about cat,758,1,1.0,176.0,32
+781,emails arrived yesterday,732,1,177.0,312.0,24
+782,the lexical analysis of a sentence,240,1,313.0,498.0,34
+783,lower the volume of my LG tv,573,1,499.0,654.0,28
+784,my dropbox files in reverse alphabetical order,476,1,655.0,900.0,46
+785,youtube's film and entertainment channels,489,2,1.0,222.0,42
+786,order me a black espresso,168,2,223.0,359.0,25
+787,posts in the washington post wonkblog blog,965,2,360.0,581.0,42
+788,add song Jingle Bells to Dance mood,267,2,582.0,768.0,35
+789,turn on my switch for me,26,2,769.0,900.0,24
+790,wall street journal articles in the world news section published in the last hour,205,3,1.0,560.0,81
+791,news and politics channels in youtube,556,3,561.0,900.0,37
+792,tasks from To do list from the last three days from Wunderlist,34,4,1.0,346.0,67
+793,tasks from To do list from the last seven days from Wunderlist,792,4,347.0,692.0,67
+794,Stanford news,246,4,693.0,768.0,13
+795,set my HVAC to heat cool,748,4,769.0,899.0,24
+796,world washington post's articles,1058,5,1.0,189.0,33
+797,make the entrance fan turn,1122,5,190.0,343.0,26
+798,share a picture to the public Imgur gallery,837,5,344.0,582.0,43
+799,make the entrance fan oscillate,80,5,583.0,761.0,31
+800,how upbeat is this song,684,5,762.0,900.0,23
+801,close my entrance shades,79,6,1.0,142.0,24
+802,make a twitter post,685,6,143.0,259.0,19
+803,channels in category music on youtube,1053,6,260.0,466.0,37
+804,a random horse fact,78,6,467.0,583.0,19
+805,articles on medium,591,6,584.0,695.0,18
+806,articles on nature,540,6,696.0,807.0,18
+807,omlet messages,77,6,808.0,899.0,14
+808,write to a new file in onedrive,845,7,1.0,198.0,31
+809,the liveness of the current song,953,7,199.0,401.0,32
+810,add Rolling in the deep to my playlist Favourite songs,477,7,402.0,719.0,55
+811,recommended youtube channels,796,7,720.0,902.0,28
+812,add the album Meteora to my playlist Sad songs,1050,8,1.0,235.0,46
+813,switch on the fan,1212,8,236.0,325.0,17
+814,add this to my playlist Sad songs,403,8,326.0,495.0,33
+815,what happened in the year twenty twenty,1268,8,496.0,695.0,39
+816,add Jingle Bells to Sad songs on Spotify,786,8,696.0,900.0,40
+817,ask my vacuum cleaner to pause,571,9,1.0,151.0,30
+818,news on nature,293,9,152.0,222.0,14
+819,set the temperature of my Tesla car to twenty three degrees,405,9,223.0,518.0,59
+820,washington post's compost blog,1288,9,519.0,674.0,31
+821,news on mashable,1233,9,675.0,755.0,16
+822,decrease volume on my speaker,653,9,756.0,901.0,29

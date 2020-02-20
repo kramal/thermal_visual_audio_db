@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+145,put the entrance shades up,49,1,1.0,132.0,26
+146,my contacts,445,1,133.0,189.0,11
+147,make my security camera stop recording,327,1,190.0,381.0,38
+148,unmute my LG tv,117,1,382.0,458.0,15
+149,washington post politics,720,1,459.0,580.0,24
+150,articles on nature,540,1,581.0,672.0,18
+151,articles in the new york times travel section,130,1,673.0,899.0,45
+152,the blog post everything of the washington post,424,2,1.0,259.0,47
+153,how loud is Jingle Bells,199,2,260.0,403.0,24
+154,turn off the vacuum cleaner,990,2,404.0,562.0,27
+155,add the album Meteora to my playlist Sad songs,1050,2,563.0,816.0,46
+156,a random fox,435,2,817.0,900.0,12
+157,how upbeat is Rolling in the deep,377,3,1.0,168.0,33
+158,songs in my playlist,48,3,169.0,271.0,20
+159,turn on my switch for me,26,3,272.0,394.0,24
+160,latest popular science news,886,3,395.0,532.0,27
+161,flip my kitchen switch off,40,3,533.0,665.0,26
+162,posts in the washington post the plum line blog,1162,3,666.0,903.0,47
+163,call uber,693,4,1.0,48.0,9
+164,my unimportant emails,666,4,49.0,156.0,21
+165,latest star wars news,65,4,157.0,264.0,21
+166,order me a caramel macchiato,74,4,265.0,407.0,28
+167,channels in category gaming on youtube,99,4,408.0,600.0,38
+168,how speechlike is Rolling in the deep,1176,4,601.0,788.0,37
+169,the state of my heater,726,4,789.0,901.0,22
+170,my google contacts,616,5,1.0,95.0,18
+171,ask my vacuum to return to base,972,5,96.0,255.0,31
+172,my oldest onedrive files,756,5,256.0,380.0,24
+173,articles in the washington post in section opinions,623,5,381.0,640.0,51
+174,wall street journal articles in the markets section,745,5,641.0,900.0,51
+175,put the entrance damper down,797,6,1.0,155.0,28
+176,set my HVAC to heat,311,6,156.0,265.0,19
+177,add song Jingle Bells to Dance mood,267,6,266.0,455.0,35
+178,my contact's info,52,6,456.0,555.0,17
+179,turn on my vacuum cleaner for me,17,6,556.0,730.0,32
+180,upload a picture to my facebook,266,6,731.0,900.0,31
+181,wall street journal world news,975,7,1.0,174.0,30
+182,play Jingle Bells,958,7,175.0,283.0,17
+183,take a note,289,7,284.0,362.0,11
+184,shut the window,1159,7,363.0,461.0,15
+185,set the volume of my LG tv to eighty,69,7,462.0,665.0,36
+186,share a picture to the public Imgur gallery,837,7,666.0,904.0,43
+187,images from Imgur marked mature,763,8,1.0,163.0,31
+188,imgur usersub viral,473,8,164.0,266.0,19
+189,how energetic is Despacito,1226,8,267.0,404.0,26
+190,halt my oscillating fan,1105,8,405.0,527.0,23
+191,open Spotify and play some music,770,8,528.0,695.0,32
+192,the state of the router,454,8,696.0,818.0,23
+193,stop the vacuum,121,8,819.0,901.0,15
+194,open my shutters for me,908,9,1.0,160.0,23
+195,completed tasks from Homework list from the last three days on Wunderlist,619,9,161.0,595.0,78
+196,completed tasks from the last ten days on Wunderlist,128,9,596.0,900.0,52

@@ -1,0 +1,46 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+0,turn the bedroom switch on,1086,1,1.0,148.0,26
+1,the blog compost of the washington post,898,1,149.0,361.0,39
+2,my instagram pictures that have the Gingham filter,1296,1,362.0,629.0,50
+3,articles in the washington post in section national,1082,1,630.0,902.0,51
+4,the new york times world section,918,2,1.0,172.0,32
+5,slack messages i received in the last hour,1190,2,173.0,394.0,42
+6,tech channels in youtube,674,2,395.0,526.0,24
+7,change the temperature on my thermostat,271,2,527.0,733.0,39
+8,halt my oscillating kitchen fan,3,2,734.0,900.0,31
+9,add this to my playlist Dance mood,125,3,1.0,189.0,34
+10,close my entrance window,851,3,190.0,328.0,24
+11,flip my switch off,515,3,329.0,437.0,18
+12,change the volume of my LG tv to zero,243,3,438.0,641.0,37
+13,stop moving the fan,62,3,642.0,755.0,19
+14,add Despacito to Sad songs,456,3,756.0,904.0,26
+15,my instagram pictures that use filter Clarendon,992,4,1.0,270.0,47
+16,add Jingle Bells to Sad songs on Spotify,786,4,271.0,505.0,40
+17,my tweets,706,4,506.0,585.0,9
+18,I want to switch off the fan,1277,4,586.0,760.0,28
+19,a random animated gif,1066,4,761.0,900.0,21
+20,set temperature on my thermostat to eighteen degrees,409,5,1.0,266.0,52
+21,washington post opinions,376,5,267.0,392.0,24
+22,my pdf files in google drive,272,5,393.0,538.0,28
+23,new lifehacker articles,363,5,539.0,659.0,23
+24,power off the fan,219,5,660.0,750.0,17
+25,youtube's animation channels,1280,5,751.0,901.0,29
+26,the upbeatness of this track,1061,6,1.0,174.0,28
+27,youtube channels i follow,738,6,175.0,333.0,25
+28,play the songs Despacito on Spotify,1171,6,334.0,542.0,35
+29,interesting facts about the number pi,812,6,543.0,761.0,37
+30,turn on my light bulb,660,6,762.0,900.0,21
+31,the danceability of Rolling in the deep,442,7,1.0,234.0,39
+32,post something on facebook,899,7,235.0,403.0,26
+33,make a new playlist,1012,7,404.0,537.0,19
+34,new nature articles,942,7,538.0,671.0,19
+35,put the blinds up,743,7,672.0,795.0,17
+36,turn on repeat,991,7,796.0,904.0,14
+37,completed tasks from Homework list from the last ten days on Wunderlist,352,8,1.0,385.0,76
+38,turn on my switch,736,8,386.0,475.0,17
+39,posts in the washington post morning mix blog,1291,8,476.0,705.0,45
+40,tasks from Homework list on Wunderlist,750,8,706.0,900.0,38
+41,tweets in my timeline,811,9,1.0,198.0,21
+42,is Despacito instrumental,574,9,199.0,416.0,25
+43,play something on my speaker,849,9,417.0,649.0,28
+44,the tempo of Rolling in the deep,107,9,650.0,902.0,32

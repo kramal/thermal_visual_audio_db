@@ -1,0 +1,51 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+192,lifestyle washington post's articles,154,1,1.0,201.0,37
+193,get info on people I know,1234,1,202.0,342.0,25
+194,play my playlist Sad songs,954,1,343.0,488.0,26
+195,put the damper down,843,1,489.0,599.0,19
+196,a random animated gif,1066,1,600.0,720.0,21
+197,tell the vacuum to pause cleaning,583,1,721.0,901.0,33
+198,seek to fifty seconds in,933,2,1.0,148.0,24
+199,the acousticness of Despacito,1265,2,149.0,321.0,29
+200,power off the kitchen fan,419,2,322.0,474.0,25
+201,update my facebook status,827,2,475.0,627.0,25
+202,open my shades for me,707,2,628.0,760.0,21
+203,the state of the router,454,2,761.0,903.0,23
+204,youtube channels with category science,599,3,1.0,192.0,38
+205,add Rolling in the deep to Sad songs,411,3,193.0,374.0,36
+206,latest papers in category Mathematics on arxiv,402,3,375.0,606.0,46
+207,my files in google drive,652,3,607.0,728.0,24
+208,CS two nine four S class materials,687,3,729.0,900.0,34
+209,the blog world views of the Washington post,892,4,1.0,219.0,43
+210,on the bedroom switch,1133,4,220.0,328.0,21
+211,add Jingle Bells to my playlist Dance mood,538,4,329.0,547.0,43
+212,WSJ lifestyle articles,1215,4,548.0,661.0,22
+213,the new york times arts section,1258,4,662.0,820.0,31
+214,medium articles,810,4,821.0,899.0,15
+215,turn on my vacuum cleaner for me,17,5,1.0,199.0,32
+216,tasks from To do list from the last ten days from Wunderlist,1139,5,200.0,563.0,65
+217,Huffington posts,773,5,564.0,682.0,16
+218,an aphorism,1051,5,683.0,776.0,11
+219,wired top stories,648,5,777.0,900.0,17
+220,completed tasks from the last three days on Wunderlist,519,6,1.0,274.0,54
+221,play the song Jingle Bells,880,6,275.0,408.0,26
+222,order me an iced cappuccino,852,6,409.0,542.0,26
+223,latest fortune news,823,6,543.0,641.0,19
+224,music channels in youtube,241,6,642.0,770.0,25
+225,record my weight on fitbit,522,6,771.0,904.0,26
+226,create a new text file in onedrive,1078,7,1.0,180.0,34
+227,tech youtube channels,378,7,181.0,295.0,21
+228,add to playlist Sad songs,1245,7,296.0,430.0,25
+229,new playlist,1256,7,431.0,500.0,12
+230,a random picture from giphy,2,7,501.0,645.0,27
+231,stop the kitchen fan from turning,603,7,646.0,820.0,33
+232,pause my vacuum,695,7,821.0,905.0,15
+233,the BPM of song Despacito,1202,8,1.0,152.0,25
+234,make my vacuum stop cleaning,516,8,153.0,319.0,28
+235,my emails,1155,8,320.0,391.0,9
+236,youtube's automotive channels,1194,8,392.0,568.0,30
+237,please turn on the entrance fan,400,8,569.0,750.0,31
+238,play the album Abbey Road,1147,8,751.0,902.0,25
+239,completed tasks from Homework list from the last ten days on Wunderlist,352,9,1.0,382.0,76
+240,wall street journal articles in the world news section published in the last hour,205,9,383.0,789.0,81
+241,the steps i have taken,856,9,790.0,901.0,22

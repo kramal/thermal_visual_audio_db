@@ -1,0 +1,57 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1699,order me an iced espresso,620,1,1.0,132.0,24
+1700,the acousticness of Despacito,1265,1,133.0,289.0,29
+1701,movie details,294,1,290.0,366.0,13
+1702,play my playlist Dance mood,432,1,367.0,513.0,27
+1703,help me turn off my entrance fan,490,1,514.0,685.0,32
+1704,the time signature of Rolling in the deep,1034,1,686.0,902.0,41
+1705,the loudness of the current track,911,2,1.0,181.0,33
+1706,my files in google drive,652,2,182.0,317.0,24
+1707,retract the awnings,979,2,318.0,428.0,19
+1708,add the album Abbey Road to my playlist Sad songs,735,2,429.0,689.0,49
+1709,the time signature of song Jingle Bells,821,2,690.0,900.0,39
+1710,make a new post on facebook,359,3,1.0,146.0,27
+1711,create google drive file,643,3,147.0,277.0,24
+1712,an interesting factoid about horse,1084,3,278.0,458.0,34
+1713,close my window,878,3,459.0,544.0,15
+1714,move the bedroom fan,1181,3,545.0,655.0,20
+1715,go back,662,3,656.0,701.0,7
+1716,channels in category sports on youtube,848,3,702.0,902.0,38
+1717,set my speaker as sink,569,4,1.0,125.0,22
+1718,wall street journal articles in the world news section published in the last hour,205,4,126.0,545.0,81
+1719,news on huffington post,61,4,546.0,675.0,23
+1720,close my awning,468,4,676.0,765.0,15
+1721,a translation to Russian,960,4,766.0,900.0,24
+1722,I want to switch off the entrance fan,689,5,1.0,190.0,37
+1723,youtube's recommended channels,291,5,191.0,350.0,31
+1724,the key of the current track,245,5,351.0,495.0,28
+1725,reduce the volume of my LG tv,723,5,496.0,645.0,29
+1726,my recent instagram pictures,1219,5,646.0,790.0,28
+1727,how loud is this song,930,5,791.0,900.0,21
+1728,my pdf files in google drive,272,6,1.0,162.0,28
+1729,shuffle my Spotify,659,6,163.0,274.0,18
+1730,flip my switch off,515,6,275.0,386.0,18
+1731,shut up my LG tv,910,6,387.0,488.0,16
+1732,washington post politics,720,6,489.0,630.0,24
+1733,on the fan for me,716,6,631.0,737.0,17
+1734,put the entrance curtains up,703,6,738.0,899.0,28
+1735,beauty and fashion channels in youtube,144,7,1.0,205.0,38
+1736,close my entrance curtains,285,7,206.0,350.0,26
+1737,help me open the window,1004,7,351.0,480.0,23
+1738,what's on right now,683,7,481.0,590.0,19
+1739,turn on my kitchen switch for me,1200,7,591.0,765.0,32
+1740,make a new facebook post,923,7,766.0,900.0,24
+1741,write to a new onedrive file,1175,8,1.0,155.0,28
+1742,gaming youtube channels,920,8,156.0,285.0,23
+1743,turn my fan,417,8,286.0,355.0,11
+1744,raise the damper,1132,8,356.0,450.0,16
+1745,the upbeatness of this track,1061,8,451.0,605.0,28
+1746,the speechiness of this song,238,8,606.0,760.0,28
+1747,the step count from fitbit,937,8,761.0,905.0,26
+1748,skip to thirty seconds,452,9,1.0,113.0,22
+1749,turn off shuffle,586,9,114.0,196.0,16
+1750,youtube channels with category cooking,1283,9,197.0,389.0,38
+1751,cooking channels in youtube,281,9,390.0,527.0,27
+1752,time estimate for uber,273,9,528.0,640.0,22
+1753,my onedrive files,383,9,641.0,728.0,17
+1754,order me a black caramel macchiato,124,9,729.0,901.0,34

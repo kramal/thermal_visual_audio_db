@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1122,a picture from mars,608,1,1.0,111.0,19
+1123,stop the bedroom fan from turning,561,1,112.0,292.0,33
+1124,last slack messages,1297,1,293.0,403.0,19
+1125,stories on macrumors,161,1,404.0,519.0,20
+1126,fox pictures,834,1,520.0,595.0,12
+1127,my instagram pictures that have the Gingham filter applied,12,1,596.0,901.0,58
+1128,the description of a picture,357,2,1.0,162.0,28
+1129,I want to switch off the kitchen fan,472,2,163.0,364.0,36
+1130,dock my vacuum,232,2,365.0,456.0,14
+1131,close my entrance shades,79,2,457.0,598.0,24
+1132,make a twitter post,685,2,599.0,715.0,19
+1133,add this to my playlist,1081,2,716.0,852.0,23
+1134,a gif,913,2,853.0,899.0,5
+1135,youtube channels with category DIY,830,3,1.0,196.0,34
+1136,youtube's best of youtube channels,778,3,197.0,397.0,35
+1137,the danceability of Rolling in the deep,442,3,398.0,618.0,39
+1138,phdcomics posts,1180,3,619.0,719.0,15
+1139,mathematical trivia about seven,1027,3,720.0,900.0,31
+1140,copy a picture to my onedrive,824,4,1.0,154.0,29
+1141,add Rolling in the deep to Dance mood on Spotify,1240,4,155.0,403.0,48
+1142,songs in my playlist Favourite songs,692,4,404.0,592.0,36
+1143,one Ethereum in dollars,224,4,593.0,706.0,21
+1144,my instagrams that use filter Gingham,1170,4,707.0,900.0,37
+1145,seek to fifty seconds in,933,5,1.0,128.0,24
+1146,loop the color of the light bulb,192,5,129.0,296.0,32
+1147,set my bluetooth speaker to zero percent,27,5,297.0,474.0,34
+1148,what is the weather tomorrow,1142,5,475.0,622.0,28
+1149,channels in category film and entertainment on youtube,221,5,623.0,900.0,54
+1150,music channels in youtube,241,6,1.0,127.0,25
+1151,world washington post's articles,1058,6,128.0,294.0,33
+1152,post a picture on twitter,682,6,295.0,421.0,25
+1153,how energetic is the current song,1179,6,422.0,588.0,33
+1154,my files in dropbox,1000,6,589.0,685.0,19
+1155,how positive is Despacito,1131,6,686.0,812.0,25
+1156,a picture of a fox,283,6,813.0,904.0,18
+1157,articles in the new york times sports section,207,7,1.0,256.0,45
+1158,animal fun facts,1111,7,257.0,367.0,16
+1159,set my thermostat to eighteen degrees,275,7,368.0,583.0,37
+1160,youtube channels i follow,738,7,584.0,739.0,25
+1161,close my entrance shutters,112,7,740.0,900.0,26
+1162,add Despacito to my playlist Favourite songs,761,8,1.0,242.0,45
+1163,set the temperature between twenty degrees and twenty five degrees on my thermostat,668,8,243.0,674.0,83
+1164,channels in category automotive on youtube,871,8,675.0,901.0,42
+1165,add a song to my playlist Favourite songs,493,9,1.0,218.0,41
+1166,the energy of level the current track,119,9,219.0,416.0,37
+1167,add song Despacito to my playlist Favourite songs,631,9,417.0,674.0,49
+1168,add Despacito to Favourite songs on Spotify,1031,9,675.0,902.0,43

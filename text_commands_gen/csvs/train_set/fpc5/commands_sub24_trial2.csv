@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2278,turn off my security camera,203,1,1.0,151.0,27
+2279,set my speaker louder,1156,1,152.0,272.0,21
+2280,youtube channels with category sports,563,1,273.0,473.0,37
+2281,order me a cappuccino,374,1,474.0,594.0,21
+2282,open the shutters,1016,1,595.0,695.0,17
+2283,add Despacito to Dance mood on Spotify,978,1,696.0,901.0,38
+2284,DIY youtube channels,466,2,1.0,105.0,20
+2285,loop the color of the light bulb,192,2,106.0,270.0,32
+2286,channels in category animation on youtube,1124,2,271.0,480.0,41
+2287,top stories on time magazine,183,2,481.0,625.0,28
+2288,a picture from NASA curiosity,597,2,626.0,775.0,29
+2289,close my entrance damper,802,2,776.0,900.0,24
+2290,channels in category music on youtube,1053,3,1.0,202.0,37
+2291,articles in the new york times travel section,130,3,203.0,444.0,45
+2292,the key of Jingle Bells,564,3,445.0,576.0,23
+2293,make the entrance fan turn,1122,3,577.0,723.0,26
+2294,a snapshot of my security camera,1118,3,724.0,900.0,32
+2295,recommended youtube channels,796,4,1.0,234.0,28
+2296,turn on my light bulb,660,4,235.0,433.0,21
+2297,I want to switch off the entrance fan,689,4,434.0,712.0,37
+2298,math facts about pi,420,4,713.0,901.0,19
+2299,set the low temperature to twenty degrees on my thermostat and the high to twenty three degrees,835,5,1.0,530.0,95
+2300,close the window,867,5,531.0,665.0,16
+2301,the speechiness of the current track,297,5,666.0,900.0,36
+2302,images from Imgur that are safe-for-work,1115,6,1.0,229.0,40
+2303,turn off my Tesla car air-conditioner,870,6,230.0,443.0,37
+2304,ABC news,566,6,444.0,512.0,8
+2305,stop turning the fan,673,6,513.0,641.0,20
+2306,tweet a picture,613,6,642.0,745.0,15
+2307,post something on facebook,899,6,746.0,904.0,26
+2308,latest posts on matrix sixty seven,412,7,1.0,189.0,34
+2309,latest gamespot news,881,7,190.0,308.0,20
+2310,generate a meme,661,7,309.0,402.0,15
+2311,youtube channels with category science,599,7,403.0,611.0,38
+2312,oscillate my entrance fan,711,7,612.0,755.0,25
+2313,sports channels in youtube,1248,7,756.0,904.0,26
+2314,close my entrance shutters,112,8,1.0,168.0,26
+2315,articles in the washington post in section lifestyle,482,8,169.0,466.0,52
+2316,latest papers in category Economics on arxiv,818,8,467.0,724.0,44
+2317,play something on my speaker,849,8,725.0,902.0,28
+2318,my dropbox files in reverse alphabetical order,476,9,1.0,233.0,46
+2319,my files in google drive,652,9,234.0,356.0,24
+2320,a gif from giphy,801,9,357.0,439.0,16
+2321,the key of song Despacito,1154,9,440.0,567.0,25
+2322,the blog right turn of the washington post,18,9,568.0,780.0,42
+2323,make a new linkedin post,122,9,781.0,903.0,24

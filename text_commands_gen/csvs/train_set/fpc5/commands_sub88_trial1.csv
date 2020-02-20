@@ -1,0 +1,58 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1470,upload a picture to facebook,1113,1,1.0,149.0,28
+1471,is Despacito live,1033,1,150.0,243.0,17
+1472,flip my kitchen switch off,40,1,244.0,382.0,26
+1473,my unimportant emails,666,1,383.0,496.0,21
+1474,reddit front page posts published in the last hour,193,1,497.0,755.0,50
+1475,order me a black cappuccino,497,1,756.0,899.0,27
+1476,my tasks on Wunderlist,439,2,1.0,117.0,22
+1477,close my entrance shutters,112,2,118.0,254.0,26
+1478,add this to my playlist,1081,2,255.0,376.0,23
+1479,completed tasks from Homework list from the last seven days on Wunderlist,943,2,377.0,773.0,78
+1480,create google drive file,643,2,774.0,900.0,24
+1481,my tweets,706,3,1.0,51.0,9
+1482,make a twitter post,685,3,52.0,152.0,19
+1483,make a new tumblr picture post,548,3,153.0,308.0,30
+1484,the BPM of the current track,257,3,309.0,454.0,28
+1485,shut down the kitchen lights,1017,3,455.0,600.0,28
+1486,open my shades for me,707,3,601.0,711.0,21
+1487,washington post's post partisan blog,553,3,712.0,902.0,37
+1488,a random gif,47,4,1.0,67.0,12
+1489,from tv channels in youtube,931,4,68.0,209.0,27
+1490,articles on life hacker,1002,4,210.0,331.0,23
+1491,play my playlist Sad songs,954,4,332.0,468.0,26
+1492,help me on my kitchen fan,926,4,469.0,600.0,25
+1493,help me open the shutters,1273,4,601.0,732.0,25
+1494,the new york times world section,918,4,733.0,899.0,32
+1495,latest posts on an atom feed,253,5,1.0,144.0,28
+1496,Is my car at home?,512,5,145.0,243.0,19
+1497,the danceability of Despacito,713,5,244.0,392.0,29
+1498,WSJ technology articles,1253,5,393.0,511.0,23
+1499,search on bing,1247,5,512.0,585.0,14
+1500,a gif,913,5,586.0,614.0,5
+1501,today's asteroid info,964,5,615.0,723.0,21
+1502,the Imgur front page,1123,5,724.0,827.0,20
+1503,phdcomics posts,1180,5,828.0,906.0,15
+1504,paid youtube channels,1036,6,1.0,130.0,21
+1505,turn on my light bulb,660,6,131.0,260.0,21
+1506,set the low temperature to twenty degrees on my thermostat and the high to twenty five degrees,1141,6,261.0,755.0,94
+1507,can you switch on my fan,1140,6,756.0,900.0,24
+1508,completed tasks from Wunderlist,308,7,1.0,180.0,31
+1509,the first five instagram pictures on my account,1227,7,181.0,440.0,47
+1510,the space I have on dropbox,1150,7,441.0,600.0,27
+1511,tech channels in youtube,674,7,601.0,745.0,24
+1512,all IMGflip meme templates,30,7,746.0,900.0,26
+1513,today's articles in the new york times,1195,8,1.0,209.0,39
+1514,DIY youtube channels,466,8,210.0,323.0,20
+1515,my weight from fitbit,1193,8,324.0,442.0,21
+1516,channels in category gaming on youtube,99,8,443.0,646.0,38
+1517,blow the horn in my car,223,8,647.0,775.0,23
+1518,post a message on slack,1032,8,776.0,904.0,23
+1519,oscillate my fan,733,9,1.0,83.0,16
+1520,my BMI from fitbit,202,9,84.0,176.0,18
+1521,help me turn off the switch,1246,9,177.0,314.0,27
+1522,posts on phd comics,227,9,315.0,412.0,19
+1523,my schedule on iCalendar,1157,9,413.0,535.0,24
+1524,the number of steps i took,539,9,536.0,668.0,26
+1525,a picture of a fox,283,9,669.0,761.0,18
+1526,the upbeatness of this track,1061,9,762.0,904.0,28

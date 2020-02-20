@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+343,change the minimum and maximum temperatures on my thermostat,225,1,1.0,334.0,60
+344,set my HVAC to heat,311,1,335.0,463.0,19
+345,images from Imgur User Submitted rising,22,1,464.0,692.0,39
+346,set volume on my speaker to fifty percents,721,1,693.0,901.0,35
+347,wall street journal articles in the technology section,201,2,1.0,328.0,54
+348,washington post's capital weather gang blog,304,2,329.0,606.0,44
+349,the blog post everything of the washington post,424,2,607.0,899.0,47
+350,set the temperature of my Tesla car to twenty five degrees,392,3,1.0,292.0,58
+351,the instrumentalness of song Jingle Bells,1211,3,293.0,499.0,41
+352,cooking youtube channels,1259,3,500.0,621.0,24
+353,play Adele,237,3,622.0,673.0,10
+354,make my LG tv louder,1242,3,674.0,775.0,20
+355,front page of hacker news,1158,3,776.0,902.0,25
+356,play the song Despacito,55,4,1.0,129.0,23
+357,time magazine top stories,1146,4,130.0,268.0,25
+358,tell me a joke,1188,4,269.0,352.0,14
+359,is the current song an instrumental,1236,4,353.0,541.0,35
+360,my three recent instagram pictures,793,4,542.0,725.0,34
+361,upload a private picture to Imgur,244,4,726.0,904.0,33
+362,the fitbit step counter,700,5,1.0,124.0,23
+363,time estimate for uber,273,5,125.0,243.0,22
+364,turn the bedroom switch on,1086,5,244.0,382.0,26
+365,my fitbit step count,51,5,383.0,491.0,20
+366,add whatever's playing to my playlist,462,5,492.0,685.0,37
+367,my instagram pictures with filter Gingham,767,5,686.0,899.0,41
+368,blog on medium,346,6,1.0,72.0,14
+369,the time signature of Jingle Bells,879,6,73.0,244.0,34
+370,turn on repeat,991,6,245.0,316.0,14
+371,turn off my Tesla car air-conditioner,870,6,317.0,503.0,37
+372,an aphorism,1051,6,504.0,560.0,11
+373,price of Bitcoin,523,6,561.0,642.0,16
+374,get info on people I know,1234,6,643.0,769.0,25
+375,make a new post on facebook,359,6,770.0,906.0,27
+376,the description of a picture,357,7,1.0,176.0,28
+377,a picture from mars,608,7,177.0,307.0,19
+378,is my Tesla remotely accessible?,904,7,308.0,508.0,33
+379,upload a picture to my facebook,266,7,509.0,699.0,31
+380,the power state of the light bulb,531,7,700.0,900.0,33
+381,completed tasks from Homework list from the last seven days on Wunderlist,943,8,1.0,399.0,78
+382,the danceability of the current song,552,8,400.0,588.0,36
+383,stop the vacuum,121,8,589.0,672.0,15
+384,posts in the washington post right turn blog,893,8,673.0,901.0,44
+385,how speechlike is Rolling in the deep,1176,9,1.0,197.0,37
+386,make the fan oscillate,448,9,198.0,319.0,22
+387,add this to my playlist,1081,9,320.0,446.0,23
+388,my iCalendar events,1130,9,447.0,553.0,19
+389,the speechiness of the current song,788,9,554.0,740.0,35
+390,tell my vacuum cleaner to stop,740,9,741.0,902.0,30

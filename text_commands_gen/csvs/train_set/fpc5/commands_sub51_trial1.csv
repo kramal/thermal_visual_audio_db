@@ -1,0 +1,43 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2245,the weather outside,45,1,1.0,119.0,19
+2246,play the song Jingle Bells on Spotify,185,1,120.0,328.0,37
+2247,today's asteroid,368,1,329.0,432.0,16
+2248,the latest tweets,166,1,433.0,541.0,17
+2249,tasks from To do list from the last three days from Wunderlist,34,1,542.0,900.0,67
+2250,tasks from Work list on Wunderlist,68,2,1.0,188.0,34
+2251,play the song Despacito on Spotify,484,2,189.0,376.0,34
+2252,a random piece of wisdom,784,2,377.0,514.0,24
+2253,open my shades for me,707,2,515.0,637.0,21
+2254,bring in the shutters,75,2,638.0,760.0,21
+2255,is Despacito instrumental,574,2,761.0,903.0,25
+2256,images from Imgur that are safe-for-work,1115,3,1.0,214.0,40
+2257,set the volume of my LG tv to zero,103,3,215.0,398.0,34
+2258,washington post's powerpost blog,1015,3,399.0,577.0,33
+2259,recent tweets,764,3,578.0,656.0,13
+2260,add song Jingle Bells to my playlist Sad songs,407,3,657.0,900.0,46
+2261,completed tasks from Work list from the last ten days on Wunderlist,451,4,1.0,381.0,72
+2262,the danceability of the song Despacito,637,4,382.0,592.0,38
+2263,how dancey is the song Despacito,829,4,593.0,773.0,32
+2264,order me a flat white,551,4,774.0,899.0,21
+2265,new tips on lifehacker,1229,5,1.0,146.0,22
+2266,how loud is Jingle Bells,199,5,147.0,302.0,24
+2267,interesting facts about the number pi,812,5,303.0,523.0,37
+2268,youtube's causes channels,742,5,524.0,689.0,26
+2269,is the current song an instrumental,1236,5,690.0,900.0,35
+2270,set the temperature of my Tesla car to twenty five degrees,392,6,1.0,363.0,58
+2271,the speechiness of the current track,297,6,364.0,616.0,36
+2272,latest papers in category Physics on arxiv,1088,6,617.0,899.0,42
+2273,add Rolling in the deep to my playlist Favourite songs,477,7,1.0,305.0,55
+2274,close my entrance window,851,7,306.0,455.0,24
+2275,what happened in twenty twelve,826,7,456.0,635.0,30
+2276,tech channels in youtube,674,7,636.0,785.0,24
+2277,open the shutters,1016,7,786.0,900.0,17
+2278,add Despacito to Dance mood on Spotify,978,8,1.0,206.0,38
+2279,oscillate my kitchen fan,251,8,207.0,342.0,24
+2280,my schedule,342,8,343.0,413.0,11
+2281,set the low temperature to twenty degrees on my thermostat and the high to twenty five degrees,1141,8,414.0,899.0,94
+2282,channels in category diy on youtube,453,9,1.0,180.0,35
+2283,add Jingle Bells to my playlist,1203,9,181.0,340.0,31
+2284,make the entrance fan oscillate,80,9,341.0,500.0,31
+2285,a picture of a random dog,507,9,501.0,630.0,25
+2286,my google drive files that were created most recently,585,9,631.0,900.0,53

@@ -1,0 +1,50 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+197,play the playlist Sad songs,995,1,1.0,145.0,27
+198,washington post's politics blog,1041,1,146.0,315.0,32
+199,start disco lights,318,1,316.0,415.0,18
+200,how energetic is the current song,1179,1,416.0,590.0,33
+201,a plot from wolfram alpha,320,1,591.0,725.0,25
+202,stop the bedroom fan from turning,561,1,726.0,900.0,33
+203,raise the entrance damper,1102,2,1.0,145.0,25
+204,describe a picture,370,2,146.0,255.0,18
+205,add song Rolling in the deep to Favourite songs,1022,2,256.0,510.0,47
+206,the time signature of song Rolling in the deep,160,2,511.0,760.0,46
+207,youtube's tech channels,578,2,761.0,900.0,24
+208,my weight from fitbit,1193,3,1.0,106.0,21
+209,close my shades,387,3,107.0,182.0,15
+210,raise the curtains,781,3,183.0,273.0,18
+211,the loudness of Jingle Bells,261,3,274.0,414.0,28
+212,order me an iced cappuccino,852,3,415.0,545.0,26
+213,the steps i have taken,856,3,546.0,656.0,22
+214,upload a picture to Imgur,967,3,657.0,782.0,25
+215,post a picture on tumblr,658,3,783.0,903.0,24
+216,youtube channels with category gaming,794,4,1.0,225.0,37
+217,latest posts on matrix sixty seven,412,4,226.0,435.0,34
+218,techcrunch news,229,4,436.0,550.0,15
+219,latest articles by ars technica,989,4,551.0,745.0,31
+220,the latest XKCD what if,1207,4,746.0,900.0,23
+221,tasks from To do list from the last three days from Wunderlist,34,5,1.0,374.0,67
+222,Is my car at home?,512,5,375.0,508.0,19
+223,add Despacito to my playlist Sad songs,249,5,509.0,742.0,39
+224,breaking news on fortune,645,5,743.0,901.0,24
+225,halt my oscillating bedroom fan,919,6,1.0,160.0,31
+226,the BPM of song Jingle Bells,513,6,161.0,305.0,28
+227,set my HVAC to heat cool,748,6,306.0,430.0,24
+228,pull the entrance curtains open,129,6,431.0,590.0,31
+229,my instagram pictures with filter Normal,444,6,591.0,795.0,40
+230,ABC news top stories,478,6,796.0,900.0,20
+231,the temperature on my thermostat,179,7,1.0,169.0,32
+232,add the album Abbey Road to my playlist Sad songs,735,7,170.0,423.0,49
+233,the acousticness of Jingle Bells,701,7,424.0,592.0,32
+234,from tv channels in youtube,931,7,593.0,736.0,27
+235,please turn on the entrance fan,400,7,737.0,900.0,31
+236,bing image search,1149,8,1.0,106.0,17
+237,completed tasks from Wunderlist,308,8,107.0,282.0,31
+238,the tempo of song Jingle Bells,702,8,283.0,453.0,30
+239,set the temperature between eighteen degrees and twenty five degrees on my thermostat,838,8,454.0,899.0,85
+240,raise the entrance curtains,198,9,1.0,144.0,27
+241,national washington post's articles,182,9,145.0,333.0,36
+242,the speechiness of Despacito,373,9,334.0,482.0,28
+243,switch off my switch,1208,9,483.0,591.0,20
+244,restore the volume on my LG tv,1167,9,592.0,750.0,30
+245,create a file in google drive,197,9,751.0,904.0,29

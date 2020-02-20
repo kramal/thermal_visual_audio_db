@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1258,set my bluetooth speaker to hundred percents,196,1,1.0,191.0,37
+1259,I want to switch off the kitchen fan,472,1,192.0,377.0,36
+1260,open my entrance damper for me,688,1,378.0,533.0,30
+1261,the tempo of song Rolling in the deep,656,1,534.0,724.0,37
+1262,the valence of Rolling in the deep,626,1,725.0,900.0,34
+1263,add song Jingle Bells to Sad songs,956,2,1.0,183.0,34
+1264,add Despacito to my playlist Dance mood,302,2,184.0,396.0,40
+1265,add the album Parachutes to my playlist Favourite songs,731,2,397.0,684.0,55
+1266,the space left on my dropbox,791,2,685.0,837.0,28
+1267,a dad joke,399,2,838.0,900.0,10
+1268,turn off my LG webos tv,1217,3,1.0,145.0,23
+1269,washington post's morning mix blog,1206,3,146.0,350.0,35
+1270,what happened in twenty nineteen,694,3,351.0,540.0,32
+1271,the tempo of Jingle Bells,737,3,541.0,695.0,25
+1272,open my window,114,3,696.0,795.0,14
+1273,post on twitter,670,3,796.0,900.0,15
+1274,completed tasks from the last ten days on Wunderlist,128,4,1.0,273.0,52
+1275,completed tasks from Wunderlist,308,4,274.0,441.0,31
+1276,washington post business,398,4,442.0,574.0,24
+1277,my onedrive files that changed most recently,165,4,575.0,807.0,44
+1278,turn on my LG tv,612,4,808.0,900.0,16
+1279,latest techcrunch news,1112,5,1.0,114.0,22
+1280,turn off my fan,1198,5,115.0,193.0,15
+1281,switch on the vacuum,903,5,194.0,297.0,20
+1282,turn shuffle on,401,5,298.0,376.0,15
+1283,close my awning,468,5,377.0,455.0,15
+1284,the acousticness of Despacito,1265,5,456.0,604.0,29
+1285,beauty and fashion channels in youtube,144,5,605.0,798.0,38
+1286,DIY youtube channels,466,5,799.0,902.0,20
+1287,write to a new onedrive file,1175,6,1.0,189.0,28
+1288,my dropbox files that changed most recently,25,6,190.0,453.0,43
+1289,the loudness of Despacito,1163,6,454.0,627.0,25
+1290,my instagram pictures that use filter Gingham,389,6,628.0,901.0,45
+1291,articles in the new york times arts section,464,7,1.0,236.0,43
+1292,dog pictures,854,7,237.0,317.0,12
+1293,imgur usersub viral,473,7,318.0,433.0,19
+1294,my google drive files,42,7,434.0,559.0,21
+1295,fox pictures,834,7,560.0,640.0,12
+1296,a snapshot of my security camera,1118,7,641.0,821.0,32
+1297,talks on TED,215,7,822.0,902.0,12
+1298,the best images from the Internet,885,8,1.0,168.0,33
+1299,some useless fact,1284,8,169.0,256.0,17
+1300,open my shades for me,707,8,257.0,364.0,21
+1301,turn the bedroom switch on,1086,8,365.0,497.0,26
+1302,set the temperature between eighteen degrees and twenty degrees on my thermostat,783,8,498.0,900.0,80
+1303,my files in dropbox,1000,9,1.0,100.0,19
+1304,the speechiness of song Despacito,209,9,101.0,270.0,33
+1305,unmute my LG tv,117,9,271.0,350.0,15
+1306,my lists from Wunderlist,968,9,351.0,480.0,25
+1307,turn on my vacuum cleaner for me,17,9,481.0,645.0,32
+1308,stop the entrance fan from swinging,1237,9,646.0,825.0,35
+1309,stop the vacuum,121,9,826.0,905.0,15

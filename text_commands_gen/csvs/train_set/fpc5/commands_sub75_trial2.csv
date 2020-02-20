@@ -1,0 +1,49 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+242,play a song,1020,1,1.0,68.0,11
+243,on Spotify play Jingle Bells,264,1,69.0,221.0,28
+244,my oldest google drive files,1164,1,222.0,374.0,28
+245,how speechlike is Despacito,640,1,375.0,522.0,27
+246,the power state of my lights,1183,1,523.0,675.0,28
+247,on Spotify play Despacito,957,1,676.0,813.0,25
+248,news on fortune,1046,1,814.0,901.0,15
+249,add this song to playlist Dance mood,691,2,1.0,198.0,36
+250,raise the shades,635,2,199.0,296.0,16
+251,add Rolling in the deep to Dance mood on Spotify,1240,2,297.0,554.0,48
+252,stop moving the kitchen fan,72,2,555.0,707.0,27
+253,close my shades,387,2,708.0,800.0,15
+254,price of Ethereum,208,2,801.0,903.0,17
+255,raise the entrance curtains,198,3,1.0,149.0,27
+256,add Jingle Bells to my playlist,1203,3,150.0,318.0,31
+257,help me turn off the entrance switch,7,3,319.0,512.0,36
+258,make the entrance fan turn,1122,3,513.0,656.0,26
+259,order me an iced macchiato,996,3,657.0,795.0,25
+260,math facts about pi,420,3,796.0,904.0,19
+261,set me as away on slack,5,4,1.0,129.0,23
+262,trivia about three,1197,4,130.0,233.0,18
+263,instagram pictures i uploaded,914,4,234.0,392.0,29
+264,keep my entrance curtains,628,4,393.0,531.0,25
+265,post on twitter,670,4,532.0,620.0,15
+266,how loud is Jingle Bells,199,4,621.0,754.0,24
+267,play the playlist Sad songs,995,4,755.0,903.0,27
+268,open my entrance shutters for me,789,5,1.0,176.0,32
+269,switch off my kitchen switch,900,5,177.0,332.0,28
+270,close my awning,468,5,333.0,423.0,15
+271,youtube's news and politics channels,56,5,424.0,624.0,37
+272,add song Jingle Bells to my playlist Favourite songs,429,5,625.0,900.0,52
+273,mathematical trivia about three,822,6,1.0,240.0,31
+274,an interesting factoid about cat,758,6,241.0,485.0,32
+275,create a folder in dropbox,137,6,486.0,700.0,26
+276,WSJ technology articles,1253,6,701.0,900.0,23
+277,set the low temperature to eighteen degrees on my thermostat and the high to twenty five degrees,896,7,1.0,492.0,96
+278,articles in the washington post in section opinions,623,7,493.0,759.0,51
+279,turn on my security camera,510,7,760.0,901.0,26
+280,bing search,775,8,1.0,69.0,11
+281,completed tasks from To do list from the last three days on Wunderlist,993,8,70.0,458.0,75
+282,an interesting factoid about horse,1084,8,459.0,642.0,34
+283,add song Despacito to my playlist Favourite songs,631,8,643.0,901.0,49
+284,ask the vacuum to start cleaning,38,9,1.0,177.0,32
+285,generate a meme,661,9,178.0,269.0,15
+286,a random trump quote,634,9,270.0,386.0,20
+287,interesting facts about the number seven,217,9,387.0,603.0,40
+288,upload a NSFW picture to Imgur,598,9,604.0,770.0,30
+289,articles on how-to geek,1213,9,771.0,902.0,23

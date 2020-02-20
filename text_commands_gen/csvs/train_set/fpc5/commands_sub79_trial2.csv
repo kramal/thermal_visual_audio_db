@@ -1,0 +1,54 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+641,when a new paper is published in category Physics on arxiv,71,1,1.0,354.0,58
+642,pause my Spotify,877,1,355.0,498.0,16
+643,add song Jingle Bells to Sad songs,956,1,499.0,732.0,34
+644,my instagram pictures,986,1,733.0,901.0,21
+645,images from Imgur with more than five hundred points,1239,2,1.0,263.0,52
+646,set my HVAC to heat,311,2,264.0,361.0,19
+647,close my curtains,1006,2,362.0,449.0,17
+648,Is my car at home?,512,2,450.0,547.0,19
+649,latest articles by ars technica,989,2,548.0,705.0,31
+650,turn on repeat,991,2,706.0,778.0,14
+651,send a picture via email,873,2,779.0,901.0,24
+652,add Rolling in the deep to my playlist Dance mood,906,3,1.0,261.0,50
+653,washington post's post partisan blog,553,3,262.0,457.0,37
+654,set volume on my speaker to zero percent,1119,3,458.0,638.0,34
+655,upload a picture to my facebook,266,3,639.0,804.0,31
+656,help me on my fan,547,3,805.0,900.0,17
+657,search images on bing,58,4,1.0,108.0,21
+658,help me open the entrance shutters,901,4,109.0,281.0,34
+659,set temperature on my thermostat to twenty degrees,590,4,282.0,534.0,50
+660,washington post local,521,4,535.0,642.0,21
+661,on the dining room switch,809,4,643.0,770.0,25
+662,a word from the dictionary,1073,4,771.0,903.0,26
+663,my google drive files created this week,678,5,1.0,197.0,39
+664,turn my kitchen fan,633,5,198.0,294.0,19
+665,help me switch on my vacuum,1120,5,295.0,431.0,27
+666,flash the lights,366,5,432.0,513.0,16
+667,news on techcrunch,248,5,514.0,605.0,18
+668,a dad joke,399,5,606.0,657.0,10
+669,a plot from wolframalpha,164,5,658.0,779.0,24
+670,paid channels in youtube,1101,5,780.0,901.0,24
+671,politics washington post's articles,704,6,1.0,200.0,36
+672,wall street journal US business,844,6,201.0,375.0,31
+673,a random cat picture,265,6,376.0,495.0,20
+674,make a new linkedin post,122,6,496.0,635.0,24
+675,youtube channels with category beauty and fashion,136,6,636.0,900.0,49
+676,the speechiness of the current track,297,7,1.0,194.0,36
+677,play my playlist,469,7,195.0,288.0,16
+678,articles in the new york times travel section,130,7,289.0,527.0,45
+679,flash the Tesla car,140,7,528.0,636.0,19
+680,the state of my battery,604,7,637.0,765.0,23
+681,value in usd of Ethereum,1191,7,766.0,899.0,24
+682,posts on phdcomics,123,8,1.0,102.0,18
+683,turn shuffle off,730,8,103.0,194.0,16
+684,generate a caption for a picture,1083,8,195.0,366.0,32
+685,the description of a picture,357,8,367.0,518.0,28
+686,images from Imgur that are safe-for-work,1115,8,519.0,730.0,40
+687,open Spotify and play some music,770,8,731.0,902.0,32
+688,switch on the vacuum,903,9,1.0,113.0,20
+689,get the climate state of my Tesla car,316,9,114.0,311.0,37
+690,the energy of Jingle Bells,813,9,312.0,454.0,26
+691,put the entrance blinds down,582,9,455.0,607.0,28
+692,the upbeatness of this track,1061,9,608.0,760.0,28
+693,put the entrance shades up,49,9,761.0,903.0,26

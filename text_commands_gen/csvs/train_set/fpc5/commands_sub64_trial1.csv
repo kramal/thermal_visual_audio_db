@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+1760,Is my car at home?,512,1,1.0,97.0,19
+1761,front page of huffington post,441,1,98.0,244.0,29
+1762,set the power on my security camera to off,799,1,245.0,456.0,42
+1763,the key of the current track,245,1,457.0,598.0,28
+1764,my three recent instagram pictures,793,1,599.0,770.0,34
+1765,causes channels in youtube,816,1,771.0,902.0,26
+1766,wall street journal articles in the world news section published in the last hour,205,2,1.0,408.0,81
+1767,off the vacuum,622,2,409.0,481.0,14
+1768,how upbeat is this song,684,2,482.0,599.0,23
+1769,add Rolling in the deep to Dance mood on Spotify,1240,2,600.0,842.0,48
+1770,my contacts,445,2,843.0,900.0,11
+1771,what song is currently playing,865,3,1.0,170.0,30
+1772,add a new playlist,260,3,171.0,280.0,18
+1773,completed tasks from To do list from the last three days on Wunderlist,993,3,281.0,675.0,75
+1774,add song Rolling in the deep to Sad songs,312,3,676.0,900.0,41
+1775,put the damper up,887,4,1.0,105.0,17
+1776,add song Jingle Bells to my playlist Favourite songs,429,4,106.0,385.0,52
+1777,add Jingle Bells to Sad songs on Spotify,786,4,386.0,605.0,40
+1778,alert me by flashing the lights,1005,4,606.0,780.0,31
+1779,CNN news top stories,1244,4,781.0,900.0,20
+1780,ABC news top stories,478,5,1.0,102.0,20
+1781,close my window,878,5,103.0,179.0,15
+1782,articles in the washington post in section lifestyle,482,5,180.0,441.0,52
+1783,the step count from fitbit,937,5,442.0,573.0,26
+1784,my recent tweets,832,5,574.0,655.0,16
+1785,articles in the washington post in section sports,1255,5,656.0,902.0,49
+1786,play a playlist,59,6,1.0,95.0,15
+1787,a joke,1293,6,96.0,145.0,6
+1788,world washington post's articles,1058,6,146.0,330.0,33
+1789,upload a private picture to Imgur,244,6,331.0,515.0,33
+1790,CS two nine four W slides,1221,6,516.0,660.0,25
+1791,fox pictures,834,6,661.0,740.0,12
+1792,order me a caramel macchiato,74,6,741.0,900.0,28
+1793,best of youtube youtube channels,594,7,1.0,162.0,32
+1794,articles on lifehacker,1074,7,163.0,274.0,22
+1795,the health section of the new york times,126,7,275.0,476.0,40
+1796,shut the window,1159,7,477.0,553.0,15
+1797,enable my security camera,109,7,554.0,680.0,25
+1798,a random snail fact,705,7,681.0,777.0,19
+1799,articles on nature issue,228,7,778.0,899.0,24
+1800,a random cat picture,265,8,1.0,120.0,20
+1801,search on bing,1247,8,121.0,210.0,14
+1802,oscillate my kitchen fan,251,8,211.0,350.0,24
+1803,new york times articles published this week,395,8,351.0,585.0,43
+1804,facts about seven,1029,8,586.0,690.0,17
+1805,images from Imgur User Submitted viral,450,8,691.0,900.0,38
+1806,add the album Abbey Road to my playlist,1169,9,1.0,198.0,39
+1807,order me an iced latte,218,9,199.0,306.0,21
+1808,add this song to playlist Sad songs,580,9,307.0,484.0,35
+1809,channels in category paid on youtube,1067,9,485.0,667.0,36
+1810,value in usd of Litecoin,422,9,668.0,790.0,24
+1811,turn off my light bulb,178,9,791.0,903.0,22

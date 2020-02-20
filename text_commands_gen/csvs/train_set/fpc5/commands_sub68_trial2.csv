@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2120,turn off the fan,595,1,1.0,94.0,16
+2121,make the fan oscillate,448,1,95.0,218.0,22
+2122,instagram pictures on my account,606,1,219.0,392.0,32
+2123,the new york times science section,535,1,393.0,576.0,34
+2124,copy a picture to my onedrive,824,1,577.0,735.0,29
+2125,what happened in twenty twelve,826,1,736.0,899.0,30
+2126,the ten latest instagram pictures on my account,710,2,1.0,261.0,47
+2127,business news on fortune,163,2,262.0,407.0,24
+2128,turn off the bedroom fan,148,2,408.0,553.0,24
+2129,three dog pictures,1010,2,554.0,669.0,18
+2130,posts in the washington post the fix blog,760,2,670.0,900.0,41
+2131,the danceability of Despacito,713,3,1.0,148.0,29
+2132,add Rolling in the deep to Sad songs,411,3,149.0,331.0,36
+2133,can you switch on my bedroom fan,729,3,332.0,494.0,32
+2134,turn on my fan,1093,3,495.0,567.0,14
+2135,interesting facts about the number seven,217,3,568.0,770.0,40
+2136,sports channels in youtube,1248,3,771.0,903.0,26
+2137,dock my vacuum,232,4,1.0,85.0,14
+2138,add song Rolling in the deep to Dance mood,235,4,86.0,310.0,42
+2139,the currently playing song,1011,4,311.0,455.0,26
+2140,how loud is this song,930,4,456.0,575.0,21
+2141,five cat pictures,935,4,576.0,675.0,17
+2142,make the fan turn,815,4,676.0,775.0,17
+2143,the key of Jingle Bells,564,4,776.0,905.0,23
+2144,channels in category film and entertainment on youtube,221,5,1.0,274.0,54
+2145,order me a flat white,551,5,275.0,383.0,21
+2146,the speechiness of Despacito,373,5,384.0,527.0,28
+2147,completed tasks from Work list from the last seven days on Wunderlist,338,5,528.0,901.0,74
+2148,I want to switch off the kitchen fan,472,6,1.0,183.0,36
+2149,create a folder in dropbox,137,6,184.0,316.0,26
+2150,the energy of level the current track,119,6,317.0,504.0,37
+2151,medium articles,810,6,505.0,582.0,15
+2152,washington post's right turn blog,565,6,583.0,755.0,34
+2153,the messages i got on twitter,262,6,756.0,903.0,29
+2154,make the vacuum start cleaning,360,7,1.0,162.0,30
+2155,set my speaker softer,171,7,163.0,279.0,21
+2156,add Jingle Bells to my playlist Favourite songs,364,7,280.0,531.0,48
+2157,close my blinds,436,7,532.0,618.0,15
+2158,play something on my speaker,849,7,619.0,770.0,28
+2159,value in usd of Ethereum,1191,7,771.0,902.0,24
+2160,open my shades for me,707,8,1.0,112.0,21
+2161,posts in the washington post compost blog,1076,8,113.0,324.0,41
+2162,add a song to my playlist Dance mood,790,8,325.0,511.0,36
+2163,trivia about three,1197,8,512.0,608.0,18
+2164,latest mashable news,348,8,609.0,715.0,20
+2165,set the volume of my LG tv to eighty,69,8,716.0,902.0,36
+2166,one Litecoin in dollars,470,9,1.0,114.0,21
+2167,close my entrance curtains,285,9,115.0,253.0,26
+2168,set my bluetooth speaker to hundred percents,196,9,254.0,447.0,37
+2169,log my weight on fitbit,596,9,448.0,571.0,23
+2170,create a new playlist,142,9,572.0,685.0,21
+2171,channels in category animation on youtube,1124,9,686.0,899.0,41

@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+426,post on slack,638,1,1.0,94.0,13
+427,turn on my dining room switch for me,1052,1,95.0,303.0,36
+428,set the power on my security camera to on,717,1,304.0,537.0,41
+429,news from the best university in the world,437,1,538.0,776.0,42
+430,my posts on twitter,632,1,777.0,900.0,19
+431,set the temperature to twenty three degrees on my thermostat,277,2,1.0,320.0,60
+432,washington post's powerpost blog,1015,2,321.0,505.0,33
+433,omlet messages,77,2,506.0,595.0,14
+434,news on nature,293,2,596.0,685.0,14
+435,change the volume of my LG tv to eighty,408,2,686.0,900.0,39
+436,the blog right turn of the washington post,18,3,1.0,213.0,42
+437,posts in the washington post right turn blog,893,3,214.0,436.0,44
+438,latest business insider news,1279,3,437.0,579.0,28
+439,news on business insider,361,3,580.0,702.0,24
+440,my instagrams that use filter Clarendon,321,3,703.0,900.0,39
+441,latest news by ars technica,550,4,1.0,145.0,27
+442,post a message on slack,1032,4,146.0,270.0,23
+443,the state of the bedroom motion sensor,894,4,271.0,470.0,38
+444,washington post business,398,4,471.0,600.0,24
+445,the blog wonkblog of the washington post,1056,4,601.0,810.0,40
+446,a fact about cat,600,4,811.0,900.0,16
+447,go to fifty seconds,63,5,1.0,117.0,19
+448,increase the volume of my LG tv,577,5,118.0,294.0,31
+449,order me a flat white,551,5,295.0,421.0,21
+450,a picture of a random dog,507,5,422.0,568.0,25
+451,turn off shuffle,586,5,569.0,670.0,16
+452,posts on facebook,485,5,671.0,777.0,17
+453,open my damper for me,1040,5,778.0,904.0,21
+454,the energy of song Rolling in the deep,191,6,1.0,198.0,38
+455,on my vacuum,1019,6,199.0,266.0,12
+456,dog pictures,854,6,267.0,334.0,12
+457,new tips on lifehacker,1229,6,335.0,452.0,22
+458,log my weight on fitbit,596,6,453.0,575.0,23
+459,lower the blinds,1007,6,576.0,663.0,16
+460,what happened in twenty nineteen,694,6,664.0,831.0,32
+461,a random name,751,6,832.0,904.0,13
+462,stop my fan from oscillating,1243,7,1.0,160.0,28
+463,my favorite songs,509,7,161.0,265.0,17
+464,add this to my playlist Sad songs,403,7,266.0,450.0,33
+465,open my entrance window for me,757,7,451.0,620.0,30
+466,images from Imgur with more than five hundred points,1239,7,621.0,900.0,52
+467,an XKCD comic at random,831,8,1.0,116.0,23
+468,channels in category lifestyle on youtube,89,8,117.0,322.0,41
+469,my dropbox files,601,8,323.0,403.0,16
+470,youtube channels with category film and entertainment,977,8,404.0,669.0,53
+471,make a new post on facebook,359,8,670.0,805.0,27
+472,flash the Tesla car,140,8,806.0,901.0,19
+473,a gif,913,9,1.0,34.0,5
+474,the new york times arts section,1258,9,35.0,198.0,31
+475,the three latest instagram pictures on my account,487,9,199.0,452.0,49
+476,the list of all memes,90,9,453.0,566.0,21
+477,skip this song,744,9,567.0,645.0,14
+478,the valence of this song,940,9,646.0,774.0,24
+479,close my entrance blinds,1028,9,775.0,903.0,24

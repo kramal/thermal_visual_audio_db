@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+972,stop the entrance fan from turning,861,1,1.0,178.0,34
+973,news on techcrunch,248,1,179.0,276.0,18
+974,decrease the volume of my LG tv,1174,1,277.0,439.0,31
+975,turn the cooling system on,712,1,440.0,577.0,26
+976,create a new playlist,142,1,578.0,690.0,21
+977,channels in category lifestyle on youtube,89,1,691.0,903.0,41
+978,channels in category cooking on youtube,438,2,1.0,198.0,39
+979,articles on popular science,555,2,199.0,336.0,27
+980,save whatever's playing to my library,1047,2,337.0,524.0,37
+981,add this song to my playlist,876,2,525.0,667.0,28
+982,move the fan,1186,2,668.0,730.0,12
+983,an interesting factoid about horse,1084,2,731.0,903.0,34
+984,posts in the washington post post partisan blog,1009,3,1.0,241.0,47
+985,add Rolling in the deep to Dance mood on Spotify,1240,3,242.0,487.0,48
+986,new playlist,1256,3,488.0,553.0,12
+987,youtube's cooking channels,380,3,554.0,694.0,27
+988,make a new playlist,1012,3,695.0,795.0,19
+989,ABC news top stories,478,3,796.0,901.0,20
+990,turn on my vacuum,869,4,1.0,119.0,17
+991,help me open the window,1004,4,120.0,268.0,23
+992,turn my kitchen fan,633,4,269.0,397.0,19
+993,put the damper down,843,4,398.0,526.0,19
+994,add Jingle Bells to Favourite songs,421,4,527.0,735.0,35
+995,latest posts on a RSS feed,1276,4,736.0,904.0,27
+996,reddit front page posts published in the last hour,193,5,1.0,258.0,50
+997,open my shades,67,5,259.0,336.0,14
+998,set the temperature to twenty three degrees on my thermostat,277,5,337.0,644.0,60
+999,go to thirty seconds,587,5,645.0,752.0,20
+1000,stop my fan from oscillating,1243,5,753.0,900.0,28
+1001,set the power on my LG tv to on,698,6,1.0,205.0,31
+1002,the temperature in the room,741,6,206.0,390.0,27
+1003,when a new paper is published in category Physics on arxiv,71,6,391.0,730.0,58
+1004,change my slack presence,447,6,731.0,900.0,24
+1005,articles in the washington post in section politics,629,7,1.0,305.0,51
+1006,set the temperature of my Tesla car to eighteen degrees,314,7,306.0,630.0,55
+1007,latest papers in category Economics on arxiv,818,7,631.0,900.0,44
+1008,help me turn off my kitchen fan,664,8,1.0,183.0,31
+1009,turn the heating on,1091,8,184.0,306.0,19
+1010,my starred google drive files,559,8,307.0,479.0,29
+1011,channels in category gaming on youtube,99,8,480.0,697.0,38
+1012,youtube's best of youtube channels,778,8,698.0,900.0,35
+1013,completed tasks from To do list from the last three days on Wunderlist,993,9,1.0,386.0,75
+1014,close my entrance shutters,112,9,387.0,527.0,26
+1015,a random name,751,9,528.0,603.0,13
+1016,new nature articles,942,9,604.0,709.0,19
+1017,raise volume on my bluetooth speaker,883,9,710.0,900.0,36

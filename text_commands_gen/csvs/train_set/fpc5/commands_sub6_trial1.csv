@@ -1,0 +1,48 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+486,local washington post's articles,1100,1,1.0,205.0,33
+487,mathematical trivia about pi,576,1,206.0,385.0,28
+488,open my window for me,753,1,386.0,530.0,21
+489,add song Rolling in the deep to Sad songs,312,1,531.0,775.0,41
+490,charge the vacuum,85,1,776.0,900.0,17
+491,add  the currently playing song to my playlist Favourite songs,1068,2,1.0,337.0,62
+492,put the blinds up,743,2,338.0,449.0,17
+493,bring in the entrance shutters,0,2,450.0,626.0,30
+494,create google drive file,643,2,627.0,773.0,24
+495,shut down the lights,841,2,774.0,900.0,20
+496,channels I follow on youtube,610,3,1.0,175.0,28
+497,sports channels in youtube,1248,3,176.0,340.0,26
+498,set volume on my speaker to eighty percents,20,3,341.0,555.0,36
+499,the danceability of Jingle Bells,1045,3,556.0,750.0,32
+500,blow the horn in my car,223,3,751.0,900.0,23
+501,articles in the new york times science section,669,4,1.0,231.0,46
+502,my google drive files of type JPG,149,4,232.0,397.0,33
+503,create a folder in dropbox,137,4,398.0,528.0,26
+504,is Jingle Bells instrumental,1285,4,529.0,669.0,28
+505,move the kitchen fan,646,4,670.0,770.0,20
+506,post something on facebook,899,4,771.0,901.0,26
+507,animation channels in youtube,310,5,1.0,164.0,29
+508,turn on my LG webos tv,696,5,165.0,293.0,22
+509,set the temperature between twenty three degrees and twenty five degrees on my thermostat,542,5,294.0,757.0,89
+510,top stories on wired news,1136,5,758.0,901.0,25
+511,flash the Tesla car,140,6,1.0,104.0,19
+512,power off the kitchen fan,419,6,105.0,238.0,25
+513,mozilla blogs,800,6,239.0,312.0,13
+514,turn off my kitchen switch,175,6,313.0,451.0,26
+515,my instagram pictures that have the Clarendon filter,534,6,452.0,720.0,52
+516,set my bluetooth speaker to fifty percents,141,6,721.0,904.0,35
+517,wall street journal articles in the US business section published in the last hour,427,7,1.0,427.0,82
+518,help me turn off my entrance fan,490,7,428.0,604.0,32
+519,facts about three,418,7,605.0,706.0,17
+520,honk my car horn,511,7,707.0,803.0,16
+521,Huffington posts,773,7,804.0,900.0,16
+522,turn the dining room switch on,614,8,1.0,160.0,30
+523,songs in my playlist,48,8,161.0,270.0,20
+524,set off the lights,858,8,271.0,370.0,18
+525,stop moving the bedroom fan,457,8,371.0,515.0,27
+526,a random factoid,455,8,516.0,605.0,16
+527,play the artist Frank Sinatra,458,8,606.0,760.0,29
+528,order me an iced white mocha,1109,8,761.0,905.0,27
+529,an interesting factoid about dog,501,9,1.0,181.0,32
+530,order me a black white mocha,642,9,182.0,342.0,28
+531,add song Rolling in the deep to my playlist Sad songs,81,9,343.0,628.0,53
+532,add Rolling in the deep to my playlist Dance mood,906,9,629.0,899.0,50

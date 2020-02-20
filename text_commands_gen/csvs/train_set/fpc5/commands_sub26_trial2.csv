@@ -1,0 +1,55 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2467,stop the fan from swinging,336,1,1.0,136.0,26
+2468,on Spotify play Despacito,957,1,137.0,267.0,25
+2469,the time signature of song Rolling in the deep,160,1,268.0,503.0,46
+2470,an interesting factoid about cat,758,1,504.0,669.0,32
+2471,lower the volume of my LG tv,573,1,670.0,815.0,28
+2472,today's asteroid,368,1,816.0,901.0,16
+2473,is Despacito live,1033,2,1.0,90.0,17
+2474,open the awning,1049,2,91.0,170.0,15
+2475,wall street journal opinions,1043,2,171.0,315.0,28
+2476,stop the entrance fan from turning,861,2,316.0,490.0,34
+2477,a random picture from giphy,2,2,491.0,630.0,27
+2478,the tempo of Jingle Bells,737,2,631.0,760.0,25
+2479,order me a caramel macchiato,74,2,761.0,905.0,28
+2480,articles on how-to geek,1213,3,1.0,120.0,23
+2481,make the awnings extend,1138,3,121.0,240.0,23
+2482,on the bedroom switch,1133,3,241.0,350.0,21
+2483,news and politics channels in youtube,556,3,351.0,540.0,37
+2484,trivia about three,1197,3,541.0,635.0,18
+2485,set my bluetooth speaker to hundred percents,196,3,636.0,825.0,37
+2486,play an artist,795,3,826.0,900.0,14
+2487,a fact about cat,600,4,1.0,88.0,16
+2488,is the current song an instrumental,1236,4,89.0,271.0,35
+2489,the description of a picture,357,4,272.0,419.0,28
+2490,help me open the shutters,1273,4,420.0,552.0,25
+2491,youtube channels with category gaming,794,4,553.0,745.0,37
+2492,ask my vacuum to stop cleaning,324,4,746.0,903.0,30
+2493,flip my kitchen switch off,40,5,1.0,198.0,26
+2494,set volume on my speaker to fifty percents,721,5,199.0,441.0,35
+2495,from tv channels in youtube,931,5,442.0,644.0,27
+2496,make my security camera stop recording,327,5,645.0,902.0,38
+2497,change the minimum and maximum temperatures on my thermostat,225,6,1.0,329.0,60
+2498,help me switch on my vacuum,1120,6,330.0,493.0,27
+2499,images from Imgur with more than hundred points,1269,6,494.0,757.0,47
+2500,blow the horn in my car,223,6,758.0,901.0,23
+2501,music channels in youtube,241,7,1.0,126.0,25
+2502,latest business insider news,1279,7,127.0,267.0,28
+2503,lower the entrance damper,1178,7,268.0,393.0,25
+2504,turn off the vacuum cleaner,990,7,394.0,529.0,27
+2505,wall street journal articles in the world news section,982,7,530.0,800.0,54
+2506,songs in my playlist,48,7,801.0,901.0,20
+2507,play Despacito on Spotify,1014,8,1.0,139.0,25
+2508,upload a picture to my facebook,266,8,140.0,308.0,31
+2509,turn on my LG webos tv,696,8,309.0,432.0,22
+2510,keep my curtains,697,8,433.0,526.0,16
+2511,shut down the kitchen lights,1017,8,527.0,680.0,28
+2512,medium articles,810,8,681.0,769.0,15
+2513,play Rolling in the deep,1166,8,770.0,903.0,24
+2514,Is my car at home?,512,9,1.0,97.0,19
+2515,channels in category automotive on youtube,871,9,98.0,309.0,42
+2516,some animated gif,833,9,310.0,396.0,17
+2517,open my curtains for me,803,9,397.0,513.0,23
+2518,youtube's animation channels,1280,9,514.0,660.0,29
+2519,order me a black espresso,168,9,661.0,787.0,25
+2520,help me open the window,1004,9,788.0,904.0,23

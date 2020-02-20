@@ -1,0 +1,53 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+92,the speechiness of Despacito,373,1,1.0,150.0,28
+93,increase the volume of my LG tv,577,1,151.0,315.0,31
+94,a random quote,305,1,316.0,395.0,14
+95,the travel section of the new york times,397,1,396.0,605.0,40
+96,ask the vacuum to start cleaning,38,1,606.0,775.0,32
+97,halt my oscillating fan,1105,1,776.0,900.0,23
+98,images from Imgur,839,2,1.0,113.0,17
+99,order me an iced flat white,567,2,114.0,271.0,26
+100,help me turn off the kitchen switch,340,2,272.0,474.0,35
+101,turn on my light bulb,660,2,475.0,607.0,21
+102,images from Imgur that are safe to a general audience,415,2,608.0,900.0,53
+103,play something on my speaker,849,3,1.0,164.0,28
+104,star wars news,988,3,165.0,258.0,14
+105,turn off the vacuum cleaner,990,3,259.0,417.0,27
+106,add song Despacito to Sad songs,859,3,418.0,596.0,31
+107,how loud is Rolling in the deep,339,3,597.0,775.0,31
+108,a random animal fact,222,3,776.0,899.0,20
+109,images from Imgur usersub with more than five hundred points,1205,4,1.0,337.0,60
+110,techcrunch news,229,4,338.0,449.0,15
+111,set the temperature between twenty degrees and twenty five degrees on my thermostat,668,4,450.0,901.0,83
+112,youtube's science channels,1161,5,1.0,140.0,27
+113,order me a cappuccino,374,5,141.0,250.0,21
+114,extend the awnings,138,5,251.0,345.0,18
+115,my favorite songs,509,5,346.0,435.0,17
+116,trivia about seven,500,5,436.0,530.0,18
+117,my schedule on iCalendar,1157,5,531.0,655.0,24
+118,instagram pictures on my account,606,5,656.0,820.0,32
+119,oscillate my fan,733,5,821.0,905.0,16
+120,the weather outside,45,6,1.0,101.0,19
+121,can you switch on my entrance fan,446,6,102.0,272.0,33
+122,the time signature of song Rolling in the deep,160,6,273.0,508.0,46
+123,youtube channels with category film and entertainment,977,6,509.0,779.0,53
+124,top stories on ABC news,945,6,780.0,900.0,23
+125,please turn on the entrance fan,400,7,1.0,159.0,31
+126,make the awnings extend,1138,7,160.0,278.0,23
+127,the blog the plum line of the washington post,772,7,279.0,507.0,45
+128,the time signature of song Jingle Bells,821,7,508.0,706.0,39
+129,new howtogeek articles,558,7,707.0,820.0,22
+130,open the awning,1049,7,821.0,899.0,15
+131,TED videos,724,8,1.0,60.0,10
+132,is Jingle Bells live,499,8,61.0,170.0,20
+133,the energy of Jingle Bells,813,8,171.0,310.0,26
+134,one Ethereum in dollars,224,8,311.0,425.0,21
+135,add song Rolling in the deep to Favourite songs,1022,8,426.0,670.0,47
+136,the number of steps i took,539,8,671.0,810.0,26
+137,a random dog fact,882,8,811.0,905.0,17
+138,bring in the shutters,75,9,1.0,113.0,21
+139,the BPM of song Rolling in the deep,186,9,114.0,296.0,35
+140,open the shutters,1016,9,297.0,389.0,17
+141,enable my security camera,109,9,390.0,522.0,25
+142,the energy of Despacito,430,9,523.0,645.0,23
+143,add the album Parachutes to my playlist Dance mood,524,9,646.0,903.0,50

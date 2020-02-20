@@ -1,0 +1,47 @@
+,command_name,command_id,pos_id,start_fr_id,end_fr_id,num_chars
+2324,the health section of the new york times,126,1,1.0,205.0,40
+2325,a random cat fact,54,1,206.0,295.0,17
+2326,channels in category paid on youtube,1067,1,296.0,480.0,36
+2327,wall street journal lifestyle,679,1,481.0,630.0,29
+2328,Steam price,1143,1,631.0,690.0,11
+2329,latest posts on a RSS feed,1276,1,691.0,830.0,27
+2330,mute my LG tv,680,1,831.0,900.0,13
+2331,tell me a joke,1188,2,1.0,80.0,14
+2332,my playlist,252,2,81.0,145.0,11
+2333,set my speaker softer,171,2,146.0,260.0,21
+2334,the key of the current song,94,2,261.0,405.0,27
+2335,order me an iced flat white,567,2,406.0,545.0,26
+2336,is Rolling in the deep instrumental,44,2,546.0,730.0,35
+2337,stop the bedroom fan from turning,561,2,731.0,905.0,33
+2338,the loudness of the current song,153,3,1.0,268.0,32
+2339,add this song to playlist Favourite songs,1249,3,269.0,581.0,41
+2340,youtube's film and entertainment channels,489,3,582.0,899.0,42
+2341,wall street journal articles in the markets section published in the last hour,987,4,1.0,420.0,78
+2342,new nature articles,942,4,421.0,545.0,19
+2343,articles on popular science,555,4,546.0,710.0,27
+2344,can you switch on my kitchen fan,728,4,711.0,900.0,32
+2345,turn the dining room switch on,614,5,1.0,184.0,30
+2346,change the volume of my LG tv to eighty,408,5,185.0,413.0,39
+2347,emails arrived in the last hour,93,5,414.0,602.0,31
+2348,a random picture of a dog,410,5,603.0,761.0,25
+2349,tweets in my timeline,811,5,762.0,900.0,21
+2350,set the temperature to twenty five degrees on my thermostat,157,6,1.0,322.0,59
+2351,my ten recent instagram pictures,1144,6,323.0,509.0,32
+2352,translate to Spanish,546,6,510.0,636.0,20
+2353,play a playlist,59,6,637.0,738.0,15
+2354,switch off my vacuum for me,1134,6,739.0,900.0,27
+2355,new york times articles published this week,395,7,1.0,283.0,43
+2356,play the next song on Spotify,313,7,284.0,496.0,29
+2357,an interesting factoid about horse,1084,7,497.0,734.0,34
+2358,move the bedroom fan,1181,7,735.0,902.0,20
+2359,tasks from Homework list from the last three days from Wunderlist,1220,8,1.0,351.0,70
+2360,create a playlist,384,8,352.0,437.0,17
+2361,the valence of this song,940,8,438.0,558.0,24
+2362,add Jingle Bells to Favourite songs on Spotify,1037,8,559.0,789.0,46
+2363,order me a black mocha,1070,8,790.0,900.0,22
+2364,photos in album Trips on facebook,9,9,1.0,176.0,33
+2365,is Rolling in the deep live,176,9,177.0,322.0,27
+2366,washington post politics,720,9,323.0,453.0,24
+2367,set the volume of my bluetooth speaker to fifty,971,9,454.0,699.0,47
+2368,the fitbit pedometer,213,9,700.0,810.0,20
+2369,honk my car horn,511,9,811.0,901.0,16
