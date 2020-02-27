@@ -1,0 +1,251 @@
+command_id,command_name,num_chars
+1,set the temperature to nineteen degrees on my thermostat,56
+2,play the song rolling in the deep on spotify,44
+3,how positive is yesterday,25
+4,value in dollars of ethereum,28
+5,information on wikicfp,22
+6,three cat pictures,18
+7,a translation to french,23
+8,how dancey is the song counting stars,37
+9,where is my tesla car,21
+10,share a picture on imgur,24
+11,the liveness of counting stars,30
+12,set night mode,14
+13,the valence of despacito,24
+14,set an alarm for eight am,25
+15,tasks from the last two days days from wunderlist,49
+16,add song rolling in the deep to my playlist dance mood,54
+17,weather in singapore tomorrow,29
+18,is uptown funnk live,20
+19,a random xkcd comic,19
+20,set the temperature to eighteen degrees on my thermostat,56
+21,moon phase for location singapore,33
+22,my google drive files larger than fifty megabytes,49
+23,answer the call,15
+24,the speechiness of yesterday,28
+25,lower the shades,16
+26,interesting facts about the number nine,39
+27,completed tasks from the last two days on wunderlist,52
+28,my google drive files of type mp3,33
+29,how dancey is the song uptown funnk,35
+30,my google drive files modified today,36
+31,call my father,14
+32,upload a picture to onedrive,28
+33,the instrumentalness of despacito,33
+34,the weather in boston,21
+35,show me the nearest gas stations,32
+36,five dog pictures,17
+37,play the artist david bowie,27
+38,a random gif from giphy,23
+39,set the low temperature to nineteen degrees on my thermostat and the high to twenty one degrees,95
+40,my google drive files smaller than fifty megabytes,50
+41,save the current track,22
+42,set my bluetooth speaker to thirty percent,42
+43,add the album meteora to my playlist dance mood,47
+44,show my current location,24
+45,what is the weather in chicago tomorrow,39
+46,the key of this song,20
+47,the new york times sports section,33
+48,move the entrance fan,21
+49,on spotify play uptown funnk,28
+50,put the entrance curtains down,30
+51,shut the entrance window,24
+52,mature images from imgur,24
+53,the time signature of counting stars,36
+54,show my tasks,13
+55,show the movies playing near me,31
+56,the liveness of uptown funnk,28
+57,set the temperature of my tesla car to nineteen degrees,55
+58,opinions washington post's articles,35
+59,interesting facts about the number three,40
+60,two pictures from curiosity rover,33
+61,trivia about pi,15
+62,add the album meteora to my playlist favourite songs,52
+63,my google drive files larger than hundred megabytes,51
+64,order me a black macchiato,26
+65,the valence of uptown funnk,27
+66,the instrumentalness of yesterday,33
+67,the weather in singapore,24
+68,the five latest instagram pictures on my account,48
+69,nine dog pictures,17
+70,create a new empty file in onedrive,35
+71,images from imgur usersub with more than six hundred points,59
+72,donald trump's quote,20
+73,the speechiness of uptown funnk,31
+74,the tempo of yesterday,22
+75,read my new email,17
+76,the state of the motion sensor,30
+77,the liveness of jingle bells,28
+78,the time signature of yesterday,31
+79,my google drive files that changed most recently,48
+80,create a new empty folder in dropbox,36
+81,close the damper,16
+82,wiki call for paper,19
+83,set the low temperature to nineteen degrees on my thermostat and the high to twenty four degrees,96
+84,trivia about nine,17
+85,my google drive files of type pdf,33
+86,call mom on speaker,19
+87,images from imgur usersub with more than two thousand points,60
+88,what movies are coming out this weekend,39
+89,the blog morning mix of the washington post,43
+90,my nine latest instagram pictures,33
+91,what is the weather in singapore tomorrow,41
+92,sunrise and sunset times at chicago,35
+93,lifestyle youtube channels,26
+94,my nine recent instagram pictures,33
+95,the blog powerpost of the washington post,41
+96,order me an iced caramel macchiato,34
+97,the current weather at singapore,32
+98,sunrise and sunset times at singapore,37
+99,play the artist adele,21
+100,the energy of counting stars,28
+101,how dancey is counting stars,28
+102,add despacito to my playlist,28
+103,youtube channels with category paid,35
+104,the energy of yesterday,23
+105,my top tracks,13
+106,how loud is counting stars,26
+107,the key of yesterday,20
+108,sunset at chicago,17
+109,the key of song yesterday,25
+110,make the fan swing,18
+111,washington post national,24
+112,how speechlike is jingle bells,30
+113,on the fan,10
+114,my appointments,15
+115,decrease brightness,19
+116,washington post's post everything blog,38
+117,sunrise at singapore,20
+118,a quote,7
+119,a fact about dog,16
+120,latest papers in category chemistry on arxiv,44
+121,when is my next appointment,27
+122,the speechiness of song yesterday,33
+123,set the volume of my lg tv to hundred,37
+124,where is my next meeting,24
+125,open facebook,13
+126,the front page of the new york times,36
+127,youtube's comedy channels,25
+128,the instrumentalness of song yesterday,38
+129,paper in category computer science on arxiv,43
+130,ars's latest news,17
+131,when a new paper is published in category chemistry on arxiv,60
+132,set volume on my speaker to thirty percent,42
+133,skip this song on spotify,25
+134,a random fact,13
+135,set my bluetooth speaker to seventy percent,43
+136,how loud is yesterday,21
+137,how loud is uptown funnk,24
+138,order me a latte,16
+139,what is the weather in paris tomorrow,37
+140,the key of song uptown funnk,28
+141,play uptown funnk,17
+142,help me open the entrance window,32
+143,sunrise and sunset for location singapore,41
+144,sunrise and sunset for location chicago,39
+145,causes youtube channels,23
+146,check my voicemail,18
+147,stop my entrance fan from oscillating,37
+148,how positive is uptown funnk,28
+149,the key of counting stars,25
+150,the tempo of song yesterday,27
+151,the last event detected by my security camera,45
+152,turn the switch on,18
+153,the time signature of uptown funnk,34
+154,play uptown funnk on spotify,28
+155,my five latest instagram pictures,33
+156,paper in category mathematics on arxiv,38
+157,turn down the volume,20
+158,paper in category geography on arxiv,36
+159,when a new paper is published in category geography on arxiv,60
+160,the speechiness of song uptown funnk,36
+161,my two recent instagram pictures,32
+162,facts about the year twenty eighteen,36
+163,set the volume of my lg tv to fifty,35
+164,the energy of the current song,30
+165,the acousticness of uptown funnk,32
+166,play yesterday,14
+167,plot a math function,20
+168,how speechlike is uptown funnk,30
+169,how energetic is yesterday,26
+170,my seven latest instagram pictures,34
+171,how windy is it out there,25
+172,what does trump think,21
+173,set my bluetooth speaker to ninety percent,42
+174,change the volume of my lg tv,29
+175,price of litecoin,17
+176,a picture from curiosity,24
+177,get the battery level of my tesla car,37
+178,open instagram,14
+179,the time signature of song yesterday,36
+180,set the temperature between nineteen degrees and twenty four degrees on my thermostat,85
+181,put the shades up,17
+182,play the artist michael jackson,31
+183,play despacito,14
+184,add the album parachutes to my playlist sad songs,49
+185,how upbeat is despacito,23
+186,the time signature of song uptown funnk,39
+187,value in dollars of litecoin,28
+188,the tempo of uptown funnk,25
+189,add a song to my playlist,25
+190,the bpm of uptown funnk,23
+191,mathematical trivia about five,30
+192,a picture from giphy,20
+193,seven dog pictures,18
+194,what is the weather in london tomorrow,38
+195,make a playlist,15
+196,what is the weather in boston tomorrow,38
+197,my gmail,8
+198,set my thermostat to twenty one degrees,39
+199,the loudness of uptown funnk,28
+200,play counting stars,19
+201,start the timer,15
+202,a translation to english,24
+203,play the song yesterday,23
+204,turn on airplane mode,21
+205,seven cat pictures,18
+206,play the songs uptown funnk on spotify,38
+207,the instrumentalness of counting stars,38
+208,youtube channels with category comedy,37
+209,on spotify play yesterday,25
+210,how upbeat is counting stars,28
+211,set the temperature to twenty four degrees on my thermostat,59
+212,my latest email,15
+213,show me the nearest restaurants,31
+214,facts about the year twenty twelve,34
+215,turn off wi-fi,14
+216,turn on my computer,19
+217,trump's quote,13
+218,how upbeat is uptown funnk,26
+219,show me the bus route to home,29
+220,curiosity rover,15
+221,make note of my weight on fitbit,32
+222,the valence of counting stars,29
+223,get status of my current ride,29
+224,call home,9
+225,my calendar events,18
+226,the danceability of the song counting stars,43
+227,play adele on spotify,21
+228,movie information,17
+229,set the volume of my bluetooth speaker to seventy,49
+230,is uptown funnk instrumental,28
+231,the weather in chicago,22
+232,the valence of yesterday,24
+233,the energy of song counting stars,33
+234,add counting stars to my playlist,33
+235,turn off repeat,15
+236,the tempo of the current song,29
+237,wsj world news articles,23
+238,open netflix,12
+239,order me a black latte,22
+240,two dog pictures,16
+241,facts about one,15
+242,my seven recent instagram pictures,34
+243,my mp3 files in google drive,28
+244,sticky notes,12
+245,math facts about one,20
+246,math facts about nine,21
+247,the danceability of yesterday,29
+248,steam id,8
+249,set volume on my speaker to ninety percent,42
+250,when a new paper is published in category biology on arxiv,58
